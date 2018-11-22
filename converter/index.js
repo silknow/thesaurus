@@ -72,7 +72,7 @@ function toConcept(s, k, lang) {
   add(concept, RDF('type'), SKOS('Concept'));
   add(concept, SKOS('prefLabel'), s[k.TERM], lang);
   if (s[k.SYN]) {
-    s[k.RELATED].split(',')
+    s[k.SYN].split(',')
       .forEach(syn => add(concept, SKOS('altLabel'), syn, lang));
   }
 
@@ -144,6 +144,7 @@ Promise.all(promises)
     $rdf.serialize(undefined, store, 'http://example.org', 'text/turtle', (err, str) => {
       if (err) throw (err);
       fs.writeFile(options.dst, str.replace(/^silknow:/gm, '\nsilknow:'), 'utf8');
+      console.log(`File written: ${options.dst}`);
     });
   })
   .catch((err) => {
