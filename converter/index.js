@@ -1,4 +1,4 @@
-/* eslint no-param-reassign: "warn" */
+/* eslint-disable no-console */
 
 
 /* remove when Array#flat is implemented in Node (see https://goo.gl/pK34PD) */
@@ -15,6 +15,7 @@ const commandLineArgs = require('command-line-args');
 const $rdf = require('rdflib');
 const validUrl = require('valid-url');
 
+
 const optionDefinitions = [
   { name: 'verbose', alias: 'v', type: Boolean },
   {
@@ -30,12 +31,15 @@ const options = commandLineArgs(optionDefinitions);
 const SILKNOW_URI = 'http://data.silknow.org/vocabulary/';
 const SILKNOW = $rdf.Namespace(SILKNOW_URI);
 const RDF = $rdf.Namespace('http://www.w3.org/1999/02/22-rdf-syntax-ns#');
+const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
 const SKOS_URI = 'http://www.w3.org/2004/02/skos/core#';
 const SKOS = $rdf.Namespace(SKOS_URI);
 const DC_URI = 'http://purl.org/dc/terms/';
 const DC = $rdf.Namespace(DC_URI);
 const XSD_URI = 'http://www.w3.org/2001/XMLSchema#';
 const XSD = $rdf.Namespace(XSD_URI);
+
+const today = new Date().toISOString().slice(0, 10);
 
 const COLUMN = {
   en: {
@@ -59,13 +63,22 @@ const COLUMN = {
 };
 
 const store = $rdf.graph();
+
 function add(s, p, o, lang) {
   if (!s || !p || !o) return;
+  /* eslint-disable no-param-reassign  */
   if (typeof o === 'string') o = o.trim();
   if (lang) store.add(s, p, $rdf.literal(o, lang));
   else if (typeof o === 'string' && validUrl.isUri(o)) store.add(s, p, $rdf.sym(o));
   else store.add(s, p, o);
 }
+
+// setup scheme
+const scheme = $rdf.sym(SILKNOW('silk-thesaurus'));
+add(scheme, RDF('type'), SKOS('ConceptScheme'));
+add(scheme, RDFS('label'), 'Thesaurus describing silk related techniques and material', 'en');
+add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
+add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 
 function toConcept(s, k, lang) {
   const concept = SILKNOW(s[k.ID]);
@@ -85,6 +98,7 @@ function toConcept(s, k, lang) {
       .forEach(r => add(concept, SKOS('related'), SILKNOW(r)));
   }
   if (s[k.BROADER]) {
+    add(concept, SKOS('inScheme'), scheme);
     s[k.BROADER].split(',')
       .map(x => x.trim())
       .map((x) => {
@@ -94,7 +108,8 @@ function toConcept(s, k, lang) {
       })
       .filter(x => x)
       .forEach(x => add(concept, SKOS('broader'), x));
-  }
+  } else add(concept, SKOS('topConceptOf'), scheme);
+
 
   if (s[k.BIB]) {
     s[k.BIB].split(';').forEach(b => add(concept, DC('bibliographicCitation'), b));
@@ -125,25 +140,21 @@ const promises = klawSync(options.src, { nodir: true })
 
 Promise.all(promises)
   .then(() => {
-    const today = new Date().toISOString().slice(0, 10);
-
-    const scheme = $rdf.sym(SILKNOW_URI);
-    add(scheme, RDF('type'), SKOS('ConceptScheme'));
-    add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
-    add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
-
     store.namespaces = {
       silknow: SILKNOW_URI,
       skos: SKOS_URI,
       dc: DC_URI,
       xsd: XSD_URI,
       getty: 'http://vocab.getty.edu/aat/',
-      'getty-page': 'http://vocab.getty.edu/page/aat/',
     };
 
     $rdf.serialize(undefined, store, 'http://example.org', 'text/turtle', (err, str) => {
       if (err) throw (err);
-      fs.writeFile(options.dst, str.replace(/^silknow:/gm, '\nsilknow:'), 'utf8');
+      const data = str
+            .replace('@prefix : <#>.\n', '')
+            .replace(/^silknow:/gm, '\nsilknow:');
+
+      fs.writeFile(options.dst, data, 'utf8');
       console.log(`File written: ${options.dst}`);
     });
   })
