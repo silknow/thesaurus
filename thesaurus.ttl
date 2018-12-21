@@ -3,7 +3,7 @@
 @prefix dc: <http://purl.org/dc/terms/>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix getty: <http://vocab.getty.edu/aat/>.
-@prefix rd: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 
 
 silknow:1
@@ -4875,4 +4875,4 @@ silknow:silk-thesaurus
     a skos:ConceptScheme;
     dc:created "2018-11-09"^^xsd:date;
     dc:modified "2018-12-21"^^xsd:date;
-    rd:label "Thesaurus describing silk related techniques and material"@en.
+    rdfs:label "Thesaurus describing silk related techniques and material"@en.
