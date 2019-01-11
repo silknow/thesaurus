@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "convert": "node converter/index.js",
+    "post": "skosify thesaurus.ttl -o thesaurus.ttl",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/silknow/thesaurus",
