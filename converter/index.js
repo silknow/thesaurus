@@ -93,18 +93,23 @@ function toConcept(s, k, lang) {
       .map(r => r.trim())
       .forEach(r => add(concept, SKOS('related'), SILKNOW(r)));
   }
+  let hasInternalBroader;
   if (s[k.BROADER]) {
-    add(concept, SKOS('inScheme'), scheme);
-    s[k.BROADER].split(',')
+    let b = s[k.BROADER].split(',')
       .map(x => x.trim())
       .map((x) => {
         if (validUrl.isUri(x)) return x;
         if (!Number.isNaN(Number.parseInt(x, 10))) return SILKNOW(x);
         return null;
       })
-      .filter(x => x)
-      .forEach(x => add(concept, SKOS('broader'), x));
-  } else add(concept, SKOS('topConceptOf'), scheme);
+      .filter(x => x);
+
+      hasInternalBroader = b.some(x=>x instanceof $rdf.NamedNode)
+      b.forEach(x => add(concept, SKOS('broader'), x));
+  }
+
+  add(concept, SKOS('inScheme'), scheme);
+  if(!hasInternalBroader) add(concept, SKOS('topConceptOf'), scheme);
 
 
   if (s[k.BIB]) {
