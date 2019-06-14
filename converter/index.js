@@ -45,7 +45,7 @@ const COLUMN = {
     BIB: 'BiBLIOGRAPHY',
     SYN: 'SYNONYMS',
     RELATED: 'ASSOCIATED TERMS',
-    BROADER: 'HIERARCHIES',
+    BROADER: 'hierarchy',
   },
   es: {
     ID: 'ID-ES',
@@ -127,6 +127,8 @@ function convertToSkos(source, lang) {
   if (!fileColumns.includes('ID')) {
     K.ID = 'ID-ES';
     K.TERM = 'TERM-ES';
+  } else if (!fileColumns.includes('ID-ES')) {
+    K.ID = 'ID';
   }
 
   source.filter(s => s[K.ID])

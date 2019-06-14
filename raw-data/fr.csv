@@ -1,610 +1,610 @@
-ID-ES,TERM-ES,,ID,TÉRMINO,DEFINICIÓN INICIAL,DEFINICIÓN FINAL,FUENTES ,SINÓNIMOS,OBSERVACIONES,,,,,,,,,,,,,,
-1,Acanalado,,1,Cannelé,,,,,,,,,,,,,,,,,,,1--Cannelé--
-2,Acanalado,,2,"Cannelé
+ID,TÉRMINO,DEFINICIÓN INICIAL,DEFINICIÓN FINAL,FUENTES ,SINÓNIMOS,OBSERVACIONES,,,,,,,,,,,,,,
+1,Cannelé,,,,,,,,,,,,,,,,,,,1--Cannelé--
+2,"Cannelé
 ",,,,,,,,,,,,,,,,,,,"2--Cannelé
 --"
-4,Acanalado alterno,,4,Cannelé alternatif,,,,,,,,,,,,,,,,,,,4--Cannelé alternatif--
-5,Acanalado con dos urdimbres,,5,Cannelé simpleté,,,,,,,,,,,,,,,,,,,5--Cannelé simpleté--
-6,Acanalado contramostrado,,6,cannetillé,,,,,,,,,,,,,,,,,,,6--cannetillé--
-7,Acanalado de las Indias,,7,Cannelé des Indes,,,,,,,,,,,,,,,,,,,7--Cannelé des Indes--
-400,Acanalado longitudinal,,8,Matelassé,,,,,,,,,,,,,,,,,,,8--Matelassé--
-399,Acanalado oblícuo,,9,Olive,,,,,,,,,,,,,,,,,,,9--Olive--
-401,Acanalado transversal,,10,Damassé,,,,,,,,,,,,,,,,,,,10--Damassé--
-,,,12,filés de soie,,,,,,,,,,,,,,,,,,,12--filés de soie--
-9,Aceituní ,,13,Surah,,,,,,,,,,,,,,,,,,,13--Surah--
-8,Acolchado,,,,,,,,,,,,,,,,,,,,,,----
-10,Adamascado ,,15,Peluché,,,,,,,,,,,,,,,,,,,15--Peluché--
-,,,,,,,,,,,,,,,,,,,,,,,----
-12,Adúcar ,,,,,,,,,,,,,,,,,,,,,,----
-14,Adúcar  ,,,,,,,,,,,,,,,,,,,,,,----
-15,Afelpado ,,20,Alberoni,,,,,,,,,,,,,,,,,,,20--Alberoni--
-17,Afelpar,,,,,,,,,,,,,,,,,,,,,,----
-18,Agremán ,,,,,,,,,,,,,,,,,,,,,,----
-19,Alama ,,24,Fibroïne,,,,,,,,,,,,,,,,,,,
-20,Alberoni,,25,Alépine,,,,,,,,,,,,,,,,,,,25--Alépine--
-21,Alcarchofado ,,27,Endroit,,,,,,,,,,,,,,,,,,,27--Endroit--
-,,,28,Tapis,,,,,,,,,,,,,,,,,,,28--Tapis--
-23,Alcatifa ,,29,Âme,,,,,,,,,,,,,,,,,,,29--Âme--
-25,Alepín ,,30,Face trame,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,----
-28,Alfombra ,,,,,,,,,,,,,,,,,,,,,,----
-29,Alma ,,33,Face chaîne,,,,,,,,,,,,,,,,,,,
-31,Altibajo ,,35,Fibre synthétique,,,,,,,,,,,,,,,,,,,35--Fibre synthétique--
-32,Anafaya ,,36,Anacoste ,,,,,,,,,,,,,,,,,,,36--Anacoste --
-36,Anascote ,,37,Velours ottoman,,,,,,,,,,,,,,,,,,,
-99,Ancho casulla,,38,Application,,,,,,,,,,,,,,,,,,,38--Application--
-66,Ancho de tela,,39,Application,,,,,,,,,,,,,,,,,,,39--Application--
-38,Aplicación ,,41,corps de lisses,,,,,,,,,,,,,,,,,,,41--corps de lisses--
-39,Aplicación ,,,,,,,,,,,,,,,,,,,,,,----
-403,Arcada,,,,,,,,,,,,,,,,,,,,,,----
-41,Arnés,,,,,,,,,,,,,,,,,,,,,,----
-42,Arrasado ,,47,Velouté,,,,,,,,,,,,,,,,,,,47--Velouté--
-43,Asargado ,,,,,,,,,,,,,,,,,,,,,,----
-44,Atafetanado ,,,,,,,,,,,,,,,,,,,,,,----
-47,Aterciopelado ,,,,,,,,,,,,,,,,,,,,,,----
-48,Atirelado,,52,Aurore,,,,,,,,,,,,,,,,,,,52--Aurore--
-49,Atisuado ,,53,Aurore,,,,,,,,,,,,,,,,,,,53--Aurore--
-51,Atractiva ,,54,Austria ,Tissu satin (généralement de 5) utilisé comme doublure et constitué d'une chaîne en soie grège et d'une trame en coton. (généralement de 5) ,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 72.",,,,,,,,,,,,,,,,54--Austria --
-52,Aurora ,,55,Schappe,,,,,,,,,,,,,,,,,,,55--Schappe--
-53,Aurora ,,56,Balastri,,,,,,,,,,,,,,,,,,,56--Balastri--
-54,Austria ,,60,Flotté,,,,,,,,,,,,,,,,,,,60--Flotté--
-55,Azache ,,62,Batavia ,,,,,,,,,,,,,,,,,,,62--Batavia --
-56,Balastri,,63,Apprêt (moulinage),,,,torsion,,,,,,,,,,,,,,,63--Apprêt (moulinage)--
-,,,65,Batik ,,,,,,,,,,,,,,,,,,,65--Batik --
-,,,66,Ancho de tela,,,,,,,,,,,,,,,,,,,66--Ancho de tela--
-60,Basta ,,67,Batiste de soie,,,,,,,,,,,,,,,,,,,67--Batiste de soie--
-72,Batán,,68,Bayadère,,,,,,,,,,,,,,,,,,,68--Bayadère--
-,,,69,Belelac,,,,,,,,,,,,,,,,,,,69--Belelac--
-62,Batavia ,,70,Bengaline,,,,,,,,,,,,,,,,,,,70--Bengaline--
-63,Batido de la seda,,,,,,,,,,,,,,,,,,,,,,----
-,,,72,Battant,,,,,,,,,,,,,,,,,,,72--Battant--
-65,Batik ,,73,Blonde ,,,,,,,,,,,,,,,,,,,73--Blonde --
-67,Batista de seda ,,,,,,,,,,,,,,,,,,,,,,----
-68,Bayadera ,,75,Blonde de Bruxelles,,,,,,,,,,,,,,,,,,,75--Blonde de Bruxelles--
-69,Belelachs ,,,,,,,,,,,,,,,,,,,,,,----
-71,Bengala ,,77,Blonde espagnole,,,,,,,,,,,,,,,,,,,77--Blonde espagnole--
-70,Bengalina ,,,,,,,,,,,,,,,,,,,,,,----
-404,Berclé,,,,,,,,,,,,,,,,,,,,,,----
-73,Blonda ,,,,,,,,,,,,,,,,,,,,,,----
-74,Blonda brillante ,,,,,,,,,,,,,,,,,,,,,,----
-75,Blonda bruselas ,,,,,,,,,,,,,,,,,,,,,,----
-76,Blonda castañuela ,,,,,,,,,,,,,,,,,,,,,,----
-77,Blonda española ,,88,Broder,,,,,,,,,,,,,,,,,,,88--Broder--
-78,Blonda granadina ,,,,,,,,,,,,,,,,,,,,,,----
-,,,90,bourrette,,,,,,,,,,,,,,,,,,,90--bourrette--
-80,Blondina ,,,,,,,,,,,,,,,,,,,,,,----
-82,Bobillo  ,,,,,,,,,,,,,,,,,,,,,,----
-263,Bobina,,97,Brocart,,,,,,,,,,,,,,,,,,,97--Brocart--
-84,Bolla ,,,,,,,,,,,,,,,,,,,,,,----
-86,Bordadillo ,,,,,,,,,,,,,,,,,,,,,,----
-87,Bordado ,,,,,,,,,,,,,,,,,,,,,,----
-88,Bordar ,,,,,,,,,,,,,,,,,,,,,,----
-405,Bordón,,105,Brocher,,,,,,,,,,,,,,,,,,,105--Brocher--
-89,Borla ,,,,,,,,,,,,,,,,,,,,,,----
-90,Borra de seda ,,,,,,,,,,,,,,,,,,,,,,----
-92,Brillantina ,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-95,Brocadillo ,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-97,Brocado ,,,,,,,,,,,,,,,,,,,,,,----
-,,,119,"Changeant
+4,Cannelé alternatif,,,,,,,,,,,,,,,,,,,4--Cannelé alternatif--
+5,Cannelé simpleté,,,,,,,,,,,,,,,,,,,5--Cannelé simpleté--
+6,cannetillé,,,,,,,,,,,,,,,,,,,6--cannetillé--
+7,Cannelé des Indes,,,,,,,,,,,,,,,,,,,7--Cannelé des Indes--
+8,Matelassé,,,,,,,,,,,,,,,,,,,8--Matelassé--
+9,Olive,,,,,,,,,,,,,,,,,,,9--Olive--
+10,Damassé,,,,,,,,,,,,,,,,,,,10--Damassé--
+12,filés de soie,,,,,,,,,,,,,,,,,,,12--filés de soie--
+13,Surah,,,,,,,,,,,,,,,,,,,13--Surah--
+,,,,,,,,,,,,,,,,,,,,----
+15,Peluché,,,,,,,,,,,,,,,,,,,15--Peluché--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+20,Alberoni,,,,,,,,,,,,,,,,,,,20--Alberoni--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+24,Fibroïne,,,,,,,,,,,,,,,,,,,
+25,Alépine,,,,,,,,,,,,,,,,,,,25--Alépine--
+27,Endroit,,,,,,,,,,,,,,,,,,,27--Endroit--
+28,Tapis,,,,,,,,,,,,,,,,,,,28--Tapis--
+29,Âme,,,,,,,,,,,,,,,,,,,29--Âme--
+30,Face trame,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+33,Face chaîne,,,,,,,,,,,,,,,,,,,
+35,Fibre synthétique,,,,,,,,,,,,,,,,,,,35--Fibre synthétique--
+36,Anacoste ,,,,,,,,,,,,,,,,,,,36--Anacoste --
+37,Velours ottoman,,,,,,,,,,,,,,,,,,,
+38,Application,,,,,,,,,,,,,,,,,,,38--Application--
+39,Application,,,,,,,,,,,,,,,,,,,39--Application--
+41,corps de lisses,,,,,,,,,,,,,,,,,,,41--corps de lisses--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+47,Velouté,,,,,,,,,,,,,,,,,,,47--Velouté--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+52,Aurore,,,,,,,,,,,,,,,,,,,52--Aurore--
+53,Aurore,,,,,,,,,,,,,,,,,,,53--Aurore--
+54,Austria ,Tissu satin (généralement de 5) utilisé comme doublure et constitué d'une chaîne en soie grège et d'une trame en coton. (généralement de 5) ,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 72.",,,,,,,,,,,,,,,,54--Austria --
+55,Schappe,,,,,,,,,,,,,,,,,,,55--Schappe--
+56,Balastri,,,,,,,,,,,,,,,,,,,56--Balastri--
+60,Flotté,,,,,,,,,,,,,,,,,,,60--Flotté--
+62,Batavia ,,,,,,,,,,,,,,,,,,,62--Batavia --
+63,Apprêt (moulinage),,,,torsion,,,,,,,,,,,,,,,63--Apprêt (moulinage)--
+65,Batik ,,,,,,,,,,,,,,,,,,,65--Batik --
+66,Ancho de tela,,,,,,,,,,,,,,,,,,,66--Ancho de tela--
+67,Batiste de soie,,,,,,,,,,,,,,,,,,,67--Batiste de soie--
+68,Bayadère,,,,,,,,,,,,,,,,,,,68--Bayadère--
+69,Belelac,,,,,,,,,,,,,,,,,,,69--Belelac--
+70,Bengaline,,,,,,,,,,,,,,,,,,,70--Bengaline--
+,,,,,,,,,,,,,,,,,,,,----
+72,Battant,,,,,,,,,,,,,,,,,,,72--Battant--
+73,Blonde ,,,,,,,,,,,,,,,,,,,73--Blonde --
+,,,,,,,,,,,,,,,,,,,,----
+75,Blonde de Bruxelles,,,,,,,,,,,,,,,,,,,75--Blonde de Bruxelles--
+,,,,,,,,,,,,,,,,,,,,----
+77,Blonde espagnole,,,,,,,,,,,,,,,,,,,77--Blonde espagnole--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+88,Broder,,,,,,,,,,,,,,,,,,,88--Broder--
+,,,,,,,,,,,,,,,,,,,,----
+90,bourrette,,,,,,,,,,,,,,,,,,,90--bourrette--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+97,Brocart,,,,,,,,,,,,,,,,,,,97--Brocart--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+105,Brocher,,,,,,,,,,,,,,,,,,,105--Brocher--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+119,"Changeant
 ",,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 134",,,,,,,,,,,,,,,,"119--Changeant
 --"
-101,Brocado de terciopelo ,,,,,,,,,,,,,,,,,,,,,,----
-102,Brocado de tres altos ,,,,,,,,,,,,,,,,,,,,,,----
-103,Brocatel ,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-105,Brochar ,,,,,,,,,,,,,,,,,,,,,,----
-,,,127,Canette,,,,,,,,,,,,,,,,,,,127--Canette--
-108,Buratina ,,128,Côtelé,,,,,,,,,,,,,,,,,,,128--Côtelé--
-111,Burato ,,129,Côtelé,,,,,,,,,,,,,,,,,,,129--Côtelé--
-112,Cachemira de seda ,,130,Côtelé,,,,,,,,,,,,,,,,,,,130--Côtelé--
-113,Cadarzo ,,,,,,,,,,,,,,,,,,,,,,----
-115,Cairel ,,132,Cocon,,,,,,,,,,,,,,,,,,,132--Cocon--
-396, Calada,,,,,,,,,,,,,,,,,,,,,,----
-117,Calicut ,,134,Cramoisi,,,,,,,,,,,,,,,,,,,134--Cramoisi--
-118,Calquier ,,135,Cramoisi,,,,,,,,,,,,,,,,,,,135--Cramoisi--
-119,Cambiante ,,,,,,,,,,,,,,,,,,,,,,----
-406,Camelote,,,,,,,,,,,,,,,,,,,,,,----
-120,Camelote de aguas ,,,,,,,,,,,,,,,,,,,,,,----
-121,Camelote de flores ,,,,,,,,,,,,,,,,,,,,,,----
-122,Camelote de seda ,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-212,Camino a retorno,,143,Chiné ,,,,,,,,,,,,,,,,,,,143--Chiné --
-145,Camino seguido,,144,Chiné à la branche,,,,,,,,,,,,,,,,,,,144--Chiné à la branche--
-124,Camocán ,,145,"Chemin suivi
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+127,Canette,,,,,,,,,,,,,,,,,,,127--Canette--
+128,Côtelé,,,,,,,,,,,,,,,,,,,128--Côtelé--
+129,Côtelé,,,,,,,,,,,,,,,,,,,129--Côtelé--
+130,Côtelé,,,,,,,,,,,,,,,,,,,130--Côtelé--
+,,,,,,,,,,,,,,,,,,,,----
+132,Cocon,,,,,,,,,,,,,,,,,,,132--Cocon--
+,,,,,,,,,,,,,,,,,,,,----
+134,Cramoisi,,,,,,,,,,,,,,,,,,,134--Cramoisi--
+135,Cramoisi,,,,,,,,,,,,,,,,,,,135--Cramoisi--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+143,Chiné ,,,,,,,,,,,,,,,,,,,143--Chiné --
+144,Chiné à la branche,,,,,,,,,,,,,,,,,,,144--Chiné à la branche--
+145,"Chemin suivi
 ",,,,,,,,,,,,,,,,,,,"145--Chemin suivi
 --"
-125,Cancania ,,,,,,,,,,,,,,,,,,,,,,----
-127,Canilla ,,147,Ruban,,,,,,,,,,,,,,,,,,,147--Ruban--
-,,,,,,,,,,,,,,,,,,,,,,,----
-281,Cántara,,,,,,,,,,,,,,,,,,,,,,----
-128,Canutillo ,,,,,,,,,,,,,,,,,,,,,,----
-129,Canutillo ,,,,,,,,,,,,,,,,,,,,,,----
-130,Canutillo ,,,,,,,,,,,,,,,,,,,,,,----
-131,Capichola ,,,,,,,,,,,,,,,,,,,,,,----
-132,Capullo ,,157,Crêpe,,,,,,,,,,,,,,,,,,,157--Crêpe--
-133,Capullo ,,158,Crêpe de Chine,,,,,,,,,,,,,,,,,,,158--Crêpe de Chine--
-396,Cárcola,,159,Crespón de Lyon ,,,,,,,,,,,,,,,,,,,159--Crespón de Lyon --
-134,Carmesí ,,160,"Crêpe Georgette
+,,,,,,,,,,,,,,,,,,,,----
+147,Ruban,,,,,,,,,,,,,,,,,,,147--Ruban--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+157,Crêpe,,,,,,,,,,,,,,,,,,,157--Crêpe--
+158,Crêpe de Chine,,,,,,,,,,,,,,,,,,,158--Crêpe de Chine--
+159,Crespón de Lyon ,,,,,,,,,,,,,,,,,,,159--Crespón de Lyon --
+160,"Crêpe Georgette
 ",,,,,,,,,,,,,,,,,,,"160--Crêpe Georgette
 --"
-135,Carmesí ,,161,Crêpe anglais,,,,,,,,,,,,,,,,,,,161--Crêpe anglais--
-136,Casulla ,,162,"Crêpe marocain
+161,Crêpe anglais,,,,,,,,,,,,,,,,,,,161--Crêpe anglais--
+162,"Crêpe marocain
 ",,,,,,,,,,,,,,,,,,,"162--Crêpe marocain
 --"
-137,Catalufa ,,163,Cristaline,,,,,,,,,,,,,,,,,,,163--Cristaline--
-138,Cendal ,,164,"Écru
+163,Cristaline,,,,,,,,,,,,,,,,,,,163--Cristaline--
+164,"Écru
 ",,,,,,,,,,,,,,,,,,,"164--Écru
 --"
-139,Ceñidor ,,166,Compte,,,,,,,,,,,,,,,,,,,166--Compte--
-140,Chaúl ,,167,Damaras,,,,,,,,,,,,,,,,,,,167--Damaras--
-417,Chenilla,,168,Damas,Type de tissu dont le nom provient de la capitale syrienne. Son dessin est marqué par un contraste entre des zones brillantes et des zones mates résultant de l'alternance d'un effet de chaîne avec un effet de trame sur une armure généralement satin ou sergé. L'endroit et l'envers présentent le même dessin mais avec des effets inversés. Sa forme la plus simple est constituée d'une seule chaîne et d'une seule trame.,,,,,,,,,,,,,,,,,,168--Damas--
-,,,,,,,,,,,,,,,,,,,,,,,----
-142,Chiffon ,,,,,,,,,,,,,,,,,,,,,,----
-143,Chiné ,,,,,,,,,,,,,,,,,,,,,,----
-144,Chiné a la rama,,,,,,,,,,,,,,,,,,,,,,----
-146,Ciclatón ,,174,Droguet de soie,,,,,,,,,,,,,,,,,,,174--Droguet de soie--
-147,Cinta ,,175,Effet,,,,,,,,,,,,,,,,,,,175--Effet--
-148,Cinta bordada ,,176,Liseré,,,,,,,,,,,,,,,,,,,176--Liseré--
-248,Claro,,,,,,,,,,,,,,,,,,,,,,----
-409,Coletaje,,,,,,,,,,,,,,,,,,,,,,----
-149,Colonia ,,,,,,,,,,,,,,,,,,,,,,----
-410,Contextura,,180,Dentelle,,,,,,,,,,,,,,,,,,,180--Dentelle--
-411,Contramostrado,,,,,,,,,,,,,,,,,,,,,,----
-150,Cordelado ,,,,,,,,,,,,,,,,,,,,,,----
-264,Cordelina,,184,Filé,,,,,,,,,,,,,,,,,,,184--Filé--
-151,Cordoncillo ,,,,,,,,,,,,,,,,,,,,,,----
-152,Cotí ,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-155,Crepé ,,,,,,,,,,,,,,,,,,,,,,----
-157,Crespón ,,190,Espolin ,,,,,,,,,,,,,,,,,,,190--Espolin --
-158,Crespón de China ,,191,Espolin ,,,,,,,,,,,,,,,,,,,191--Espolin --
-159,Crespón de Lyon ,,192,Espoliné,,,,,,,,,,,,,,,,,,,192--Espoliné--
-,,,,,,,,,,,,,,,,,,,,,,,----
-161,Crespón inglés ,,,,,,,,,,,,,,,,,,,,,,----
-162,Crespón marroquí ,,,,,,,,,,,,,,,,,,,,,,----
-163,Cristalina ,,196,Imprimé,,,,,,,,,,,,,,,,,,,196--Imprimé--
-413,Cruce,,197,Imprimé,,,,,,,,,,,,,,,,,,,197--Imprimé--
-164,Crudo,,198,Impression,,,,,,,,,,,,,,,,,,,198--Impression--
-166,Cuenta,,,,,,,,,,,,,,,,,,,,,,----
-414,Cuerpo,,200,Faille crêpe,,,,,,,,,,,,,,,,,,,200--Faille crêpe--
-415,Curso de ligamento,,201,Faille,,,,,,,,,,,,,,,,,,,201--Faille--
-167,Damarás ,,202,Peluche,,,,,,,,,,,,,,,,,,,202--Peluche--
-168,Damasco ,,,,,,,,,,,,,,,,,,,,,,----
-169,Damasina ,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-171,Damasquillo ,,,,,,,,,,,,,,,,,,,,,,----
-,,,209,Fibre,,,,,,,,,,,,,,,,,,,209--Fibre--
-418,Delfinado,,210,Fibre animale ou protéique,,,,,,,,,,,,,,,,,,,210--Fibre animale ou protéique--
-173,Diaspro ,,212,Chemin à retour,,,,,,,,,,,,,,,,,,,212--Chemin à retour--
-297,Diaspro ,,213,Fibre naturel,,,,,,,,,,,,,,,,,,,213--Fibre naturel--
-419,Diente,,214,Fibre végétale,,,,,,,,,,,,,,,,,,,214--Fibre végétale--
-420,Doblaje,,215,Jacquard,,,,,,,,,,,,,,,,,,,215--Jacquard--
-421,Doble tela,,216,Schappe,,,,,,,,,,,,,,,,,,,216--Schappe--
-174,Droguete de seda ,,217,"Frange
+166,Compte,,,,,,,,,,,,,,,,,,,166--Compte--
+167,Damaras,,,,,,,,,,,,,,,,,,,167--Damaras--
+168,Damas,Type de tissu dont le nom provient de la capitale syrienne. Son dessin est marqué par un contraste entre des zones brillantes et des zones mates résultant de l'alternance d'un effet de chaîne avec un effet de trame sur une armure généralement satin ou sergé. L'endroit et l'envers présentent le même dessin mais avec des effets inversés. Sa forme la plus simple est constituée d'une seule chaîne et d'une seule trame.,,,,,,,,,,,,,,,,,,168--Damas--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+174,Droguet de soie,,,,,,,,,,,,,,,,,,,174--Droguet de soie--
+175,Effet,,,,,,,,,,,,,,,,,,,175--Effet--
+176,Liseré,,,,,,,,,,,,,,,,,,,176--Liseré--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+180,Dentelle,,,,,,,,,,,,,,,,,,,180--Dentelle--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+184,Filé,,,,,,,,,,,,,,,,,,,184--Filé--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+190,Espolin ,,,,,,,,,,,,,,,,,,,190--Espolin --
+191,Espolin ,,,,,,,,,,,,,,,,,,,191--Espolin --
+192,Espoliné,,,,,,,,,,,,,,,,,,,192--Espoliné--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+196,Imprimé,,,,,,,,,,,,,,,,,,,196--Imprimé--
+197,Imprimé,,,,,,,,,,,,,,,,,,,197--Imprimé--
+198,Impression,,,,,,,,,,,,,,,,,,,198--Impression--
+,,,,,,,,,,,,,,,,,,,,----
+200,Faille crêpe,,,,,,,,,,,,,,,,,,,200--Faille crêpe--
+201,Faille,,,,,,,,,,,,,,,,,,,201--Faille--
+202,Peluche,,,,,,,,,,,,,,,,,,,202--Peluche--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+209,Fibre,,,,,,,,,,,,,,,,,,,209--Fibre--
+210,Fibre animale ou protéique,,,,,,,,,,,,,,,,,,,210--Fibre animale ou protéique--
+212,Chemin à retour,,,,,,,,,,,,,,,,,,,212--Chemin à retour--
+213,Fibre naturel,,,,,,,,,,,,,,,,,,,213--Fibre naturel--
+214,Fibre végétale,,,,,,,,,,,,,,,,,,,214--Fibre végétale--
+215,Jacquard,,,,,,,,,,,,,,,,,,,215--Jacquard--
+216,Schappe,,,,,,,,,,,,,,,,,,,216--Schappe--
+217,"Frange
 ",,,,,,,,,,,,,,,,,,,"217--Frange
 --"
-175,Efecto,,,,,,,,,,,,,,,,,,,,,,----
-176,Efecto de bastas por trama,,220,Florentine,,,,,cf Hardouin-Fugier p. 196,,,,,,,,,,,,,,220--Florentine--
-177,Efecto de perdido de urdimbre,,,,,,,,,,,,,,,,,,,,,,----
-178,Efecto de perdido por trama ,,222,Gaze,,,,,,,,,,,,,,,,,,,222--Gaze--
-179,Embrochado ,,223,Fond,,,,,,,,,,,,,,,,,,,223--Fond--
-180,Encaje ,,,,,,,,,,,,,,,,,,,,,,----
-181,Encaje de aguja ,,225,Grenadine,,,,,,,,,,,,,,,,,,,225--Grenadine--
-,,,226,,,,,,,,,,,,,,,,,,,,226----
-,,,227,,,,,,,,,,,,,,,,,,,,227----
-,,,228,Gabardine de soie,,,,,,,,,,,,,,,,,,,228--Gabardine de soie--
-423,Envés,,230,Galon,,,,,,,,,,,,,,,,,,,230--Galon--
-424,Escalonado,,,,,,,,,,,,,,,,,,,,,,----
-185,Escarzo ,,232,Gaze,,,,,,,,,,,,,,,,,,,232--Gaze--
-186,Escocés ,,,,,,,,,,,,,,,,,,,,,,----
-,,,234,Gaze anglaise,,,"Guicherd46, p. 303",,,,,,,,,,,,,,,,234--Gaze anglaise--
-188,Esparragón ,,235,Fil fantaisie,,,,,,,,,,,,,,,,,,,235--Fil fantaisie--
-189,Espiguilla,,236,Taffetas,,,,,,,,,,,,,,,,,,,236--Taffetas--
-190,EspolÍn ,,237,Satin,,,,,,,,,,,,,,,,,,,237--Satin--
-191,Espolín ,,238,Sergé,,,,,,,,,,,,,,,,,,,238--Sergé--
-192,Espolinado ,,,,,,,,,,,,,,,,,,,,,,----
-193,Espolinar ,,241,Gaufrer,,,,,,,,,,,,,,,,,,,241--Gaufrer--
-194,Espumilla ,,242,Glacé,,,,,,,,,,,,,,,,,,,242--Glacé--
-195,Espumillón ,,244,Gaufré frappé,,,,,,,,,,,,,,,,,,,244--Gaufré frappé--
-196,Estampado ,,,,,,,,,,,,,,,,,,,,,,----
-197,Estampado ,,,,,,,,,,,,,,,,,,,,,,----
-198,Estampar ,,249,Grenadine,,,,,,,,,,,,,,,,,,,249--Grenadine--
-199,Estofar ,,,,,,,,,,,,,,,,,,,,,,----
-200,Faille crespón,,252,Grisaille,,,,,,,,,,,,,,,,,,,252--Grisaille--
-201,Faya ,,253,Grisette,,,,,,,,,,,,,,,,,,,253--Grisette--
-202,Felpa,,254,Gros,,,,,,,,,,,,,,,,,,,254--Gros--
-,,,255,Fil chiné,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-205,Felpudo,,257,Gros de Londres,,,,,,,,,,,,,,,,,,,257--Gros de Londres--
-206,Festón,,258,Gros de Naples,,,,,,,,,,,,,,,,,,,258--Gros de Naples--
-207,Festón,,259,Gros de Tours,,,,,,,,,,,,,,,,,,,259--Gros de Tours--
-209,Fibra ,,260,Gros d'été,,,,,,,,,,,,,,,,,,,260--Gros d'été--
-210,Fibra animal ,,262,Filature,,,,,,,,,,,,,,,,,,,262--Filature--
-213,Fibra natural,,263,Bobine,,,,,,,,,,,,,,,,,,,263--Bobine--
-35,Fibra artificial,,264,Cordeline,,,,,,,,,,,,,,,,,,,264--Cordeline--
-214,Fibra vegetal ,,,,,,,,,,,,,,,,,,,,,,----
-24,Fibroína,,267,Filature,,,,,,,,,,,,,,,,,,,267--Filature--
-216,Filadiz,,268,Fil,,,,,,,,,,,,,,,,,,,268--Fil--
-217,Fleco,,,,,,,,,,,,,,,,,,,,,,----
-218,Flocadura,,,,,,,,,,,,,,,,,,,,,,----
-220,Florentina,,,,,,,,,,,,,,,,,,,,,,----
-221,Fondo,,,,,,,,,,,,,,,,,,,,,,----
-223,Fondo,,,,,,,,,,,,,,,,,,,,,,----
-224,Frisado,,275,Fil grège,,,,,,,,,,,,,,,,,,,275--Fil grège--
-226,Frisar,,276,Organsin,,,,,,,,,,,,,,,,,,,276--Organsin--
-228,Gabardina de seda,,277,Fil de soie,,,,,,,,,,,,,,,,,,,277--Fil de soie--
-230,Galón,,278,Fil de trame,,,,,,,,,,,,,,,,,,,278--Fil de trame--
-222,Gasa,,279,Fil de chaîne,,,,,,,,,,,,,,,,,,,279--Fil de chaîne--
-232,Gasa,,280,fil de tour,,,,,,,,,,,,,,,,,,,280--fil de tour--
-234,Gasa de vuelta,,281,Cassin,,,,,,,,,,,,,,,,,,,281--Cassin--
-240,Gayadura,,282,Lisage,,,,,,,,,,,,,,,,,,,
-242,Glasé,,283,"Ondé
+,,,,,,,,,,,,,,,,,,,,----
+220,Florentine,,,,,cf Hardouin-Fugier p. 196,,,,,,,,,,,,,,220--Florentine--
+,,,,,,,,,,,,,,,,,,,,----
+222,Gaze,,,,,,,,,,,,,,,,,,,222--Gaze--
+223,Fond,,,,,,,,,,,,,,,,,,,223--Fond--
+,,,,,,,,,,,,,,,,,,,,----
+225,Grenadine,,,,,,,,,,,,,,,,,,,225--Grenadine--
+226,,,,,,,,,,,,,,,,,,,,226----
+227,,,,,,,,,,,,,,,,,,,,227----
+228,Gabardine de soie,,,,,,,,,,,,,,,,,,,228--Gabardine de soie--
+230,Galon,,,,,,,,,,,,,,,,,,,230--Galon--
+,,,,,,,,,,,,,,,,,,,,----
+232,Gaze,,,,,,,,,,,,,,,,,,,232--Gaze--
+,,,,,,,,,,,,,,,,,,,,----
+234,Gaze anglaise,,,"Guicherd46, p. 303",,,,,,,,,,,,,,,,234--Gaze anglaise--
+235,Fil fantaisie,,,,,,,,,,,,,,,,,,,235--Fil fantaisie--
+236,Taffetas,,,,,,,,,,,,,,,,,,,236--Taffetas--
+237,Satin,,,,,,,,,,,,,,,,,,,237--Satin--
+238,Sergé,,,,,,,,,,,,,,,,,,,238--Sergé--
+,,,,,,,,,,,,,,,,,,,,----
+241,Gaufrer,,,,,,,,,,,,,,,,,,,241--Gaufrer--
+242,Glacé,,,,,,,,,,,,,,,,,,,242--Glacé--
+244,Gaufré frappé,,,,,,,,,,,,,,,,,,,244--Gaufré frappé--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+249,Grenadine,,,,,,,,,,,,,,,,,,,249--Grenadine--
+,,,,,,,,,,,,,,,,,,,,----
+252,Grisaille,,,,,,,,,,,,,,,,,,,252--Grisaille--
+253,Grisette,,,,,,,,,,,,,,,,,,,253--Grisette--
+254,Gros,,,,,,,,,,,,,,,,,,,254--Gros--
+255,Fil chiné,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+257,Gros de Londres,,,,,,,,,,,,,,,,,,,257--Gros de Londres--
+258,Gros de Naples,,,,,,,,,,,,,,,,,,,258--Gros de Naples--
+259,Gros de Tours,,,,,,,,,,,,,,,,,,,259--Gros de Tours--
+260,Gros d'été,,,,,,,,,,,,,,,,,,,260--Gros d'été--
+262,Filature,,,,,,,,,,,,,,,,,,,262--Filature--
+263,Bobine,,,,,,,,,,,,,,,,,,,263--Bobine--
+264,Cordeline,,,,,,,,,,,,,,,,,,,264--Cordeline--
+,,,,,,,,,,,,,,,,,,,,----
+267,Filature,,,,,,,,,,,,,,,,,,,267--Filature--
+268,Fil,,,,,,,,,,,,,,,,,,,268--Fil--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+275,Fil grège,,,,,,,,,,,,,,,,,,,275--Fil grège--
+276,Organsin,,,,,,,,,,,,,,,,,,,276--Organsin--
+277,Fil de soie,,,,,,,,,,,,,,,,,,,277--Fil de soie--
+278,Fil de trame,,,,,,,,,,,,,,,,,,,278--Fil de trame--
+279,Fil de chaîne,,,,,,,,,,,,,,,,,,,279--Fil de chaîne--
+280,fil de tour,,,,,,,,,,,,,,,,,,,280--fil de tour--
+281,Cassin,,,,,,,,,,,,,,,,,,,281--Cassin--
+282,Lisage,,,,,,,,,,,,,,,,,,,
+283,"Ondé
 ",,,,,,,,,,,,,,,,,,,"283--Ondé
 --"
-,,,,,,,,,,,,,,,,,,,,,,,----
-244,Gofrado,,,,,,,,,,,,,,,,,,,,,,----
-241,Gofrar,,287,Ikat,,,,,,,,,,,,,,,,,,,287--Ikat--
-231,Gorgorán,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-225,Granadina,,,,,,,,,,,,,,,,,,,,,,----
-249,Hilo granadina,,294,Jaspé,,,,,,,,,,,,,,,,,,,
-251,Granza,,,,,,,,,,,,,,,,,,,,,,----
-252,Grisalla,,,,,,,,,,,,,,,,,,,,,,----
-253,Griseta,,,,,,,,,,,,,,,,,,,,,,----
-254,Gro,,301,Façonné,,,,figuré,figuré : voir règlement Lyon 1744 titre XVII,,,,,,,,,,,,,,301--Façonné--
-257,Gro de Londres,,302,Lamé,,,,lamé,,,,,,,,,,,,,,,302--Lamé--
-258,Gro de Nápoles,,304,Lamelle de baudruche,,,,lamelle de pellicule,,,,,,,,,,,,,,,304--Lamelle de baudruche--
-259,Gro de Tours,,305,Lampas,,,,,,,,,,,,,,,,,,,305--Lampas--
-260,Gro de verano,,306,Lampas broché,,,,,,,,,,,,,,,,,,,306--Lampas broché--
-27,Haz,,307,Lampas taille-douce,,,,,,,,,,,,,,,,,,,307--Lampas taille-douce--
-30,Haz trama ,,309,Lampasette,,,,,,,,,,,,,,,,,,,309--Lampasette--
-33,Haz urdimbre,,310,Lancé,,,,,,,,,,,,,,,,,,,
-227,Hiladillo,,311,"Navette
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+287,Ikat,,,,,,,,,,,,,,,,,,,287--Ikat--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+294,Jaspé,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+301,Façonné,,,,figuré,figuré : voir règlement Lyon 1744 titre XVII,,,,,,,,,,,,,,301--Façonné--
+302,Lamé,,,,lamé,,,,,,,,,,,,,,,302--Lamé--
+304,Lamelle de baudruche,,,,lamelle de pellicule,,,,,,,,,,,,,,,304--Lamelle de baudruche--
+305,Lampas,,,,,,,,,,,,,,,,,,,305--Lampas--
+306,Lampas broché,,,,,,,,,,,,,,,,,,,306--Lampas broché--
+307,Lampas taille-douce,,,,,,,,,,,,,,,,,,,307--Lampas taille-douce--
+309,Lampasette,,,,,,,,,,,,,,,,,,,309--Lampasette--
+310,Lancé,,,,,,,,,,,,,,,,,,,
+311,"Navette
 ",,,,,,,,,,,,,,,,,,,"311--Navette
 --"
-266,Hiladillo,,312,"Lancé
+312,"Lancé
 ",,,,,,,,,,,,,,,,,,,"312--Lancé
 --"
-262,Hilatura ,,313,Lacs,,,,,,,,,,,,,,,,,,,313--Lacs--
-267,Hilatura ,,314,Armure tramée,,,,,,,,,,,,,,,,,,,314--Armure tramée--
-268,Hilo,,315,Armure chaîne,,,,,,,,,,,,,,,,,,,315--Armure chaîne--
-270,Hilo briscado,,317,Liage,,,,,,,,,,,,,,,,,,,317--Liage--
-271,Hilo canutillo,,318,Armure,,,,croisure,,,,,,,,,,,,,,,318--Armure--
-272,Hilo céfiro,,,,,,,,,,,,,,,,,,,,,,----
-255,Hilo chiné,,321,Uni,,,,,,,,,,,,,,,,,,,321--Uni--
-273,Hilo continuo,,322,Rayé,,,,rayado,,,,,,,,,,,,,,,322--Rayé--
-274,Hilo crespón,,323,Lisse de levée,,,,,,,,,,,,,,,,,,,323--Lisse de levée--
-275,Hilo crudo,,324,Lisse,,,,,,,,,,,,,,,,,,,324--Lisse--
-276,Hilo de organzí,,325,Lisse de rabat,,,,,,,,,,,,,,,,,,,325--Lisse de rabat--
-277,Hilo de seda,,326,Luquoise,,,,,,,,,,,,,,,,,,,326--Luquoise--
-278,Hilo de trama,,,,,,,,,,,,,,,,,,,,,,----
-279,Hilo de urdimbre,,,,,,,,,,,,,,,,,,,,,,----
-280,Hilo de vuelta,,,,,,,,,,,,,,,,,,,,,,----
-184,Hilo entorchado ,,335,Marabout,,,,,,,,,,,,,,,,,,,335--Marabout--
-235,Hilo fantasia ,,337,Marquisette,,,,,,,,,,,,,,,,,,,337--Marquisette--
-233,Hilo granito,,,,,,,,,,,,,,,,,,,,,,----
-283,Hilo ondeado,,,,,,,,,,,,,,,,,,,,,,----
-284,Hilo torzal,,341,Marli,,,,,,,,,,,,,,,,,,,341--Marli--
-285,Hojuela,,,,,,,,,,,,,,,,,,,,,,----
-287,Ikat,,,,,,,,,,,,,,,,,,,,,,----
-289,Imperial,,,,,,,,,,,,,,,,,,,,,,----
-290,Isabela,,346,moirage,,,,,,,,,,,,,,,,,,,346--moirage--
-215,Jacquard,,347,Moire,,,,,,,,,,,,,,,,,,,347--Moire--
-293,Jamete,,348,mouliner,,,,ouvrer,,,,,,,,,,,,,,,348--mouliner--
-294,Jaspeado,,,,,,,,,,,,,,,,,,,,,,----
-296,Joyante,,355,Mousseline,,,,,,,,,,,,,,,,,,,355--Mousseline--
-298,Jusi,,357,Lisière,,,,,,,,,,,,,,,,,,,357--Lisière--
-301,Labrado,,,,,,,,,,,,,,,,,,,,,,----
-302,Lama ,,359,Peigne,,,,Peigne de serrage,,,,,,,,,,,,,,,359--Peigne--
-304,Laminilla de piel,,360,Poil,,,,,,,,,,,,,,,,,,,360--Poil--
-305,Lampás,,361,Pekin,,,,,,,,,,,,,,,,,,,361--Pekin--
-306,Lampás brochado,,,,,,,,,,,,,,,,,,,,,,----
-307,Lampás talla dulce,,363,Rouleau,,,,,,,,,,,,,,,,,,,363--Rouleau--
-309,Lampasete,,364,Pointe,,,,,,,,,,,,,,,,,,,364--Pointe--
-311,Lanzadera,,,,,,,,,,,,,,,,,,,,,,----
-310,Lanzado,,366,Satin,,,,,,,,,,,,,,,,,,,366--Satin--
-,,,367,Sergé,,,,,,,,,,,,,,,,,,,367--Sergé--
-313,Lazo,,368,Soie,,,,,,,,,,,,,,,,,,,368--Soie--
-317,Ligadura,,,,,,,,,,,,,,,,,,,,,,----
-314,Ligamento por trama,,370,Soie grège,,,,Grège,,,,,,,,,,,,,,,370--Soie grège--
-315,Ligamento por urdimbre,,,,,,,,,,,,,,,,,,,,,,----
-318,Ligamento,,,,,,,,,,,,,,,,,,,,,,----
-319,Lineta,,,,,,,,,,,,,,,,,,,,,,----
-282,Lisaje,,,,,,,,,,,,,,,,,,,,,,----
-321,Liso,,375,Sériciculture,,Industrie de l'élevage et de la production de cocons de soie.,,sericicultura,,,,,,,,,,,,,,,375--Sériciculture--Industrie de l'élevage et de la production de cocons de soie.
-322,Listado,,376,Séricine,,,,,,,,,,,,,,,,,,,376--Séricine--
-324,Lizo,,377,Taffetas,,,,,,,,,,,,,,,,,,,377--Taffetas--
-323,Lizo de alza,,,,,,,,,,,,,,,,,,,,,,----
-325,Lizo de rebaten ,,379,"Velours
+313,Lacs,,,,,,,,,,,,,,,,,,,313--Lacs--
+314,Armure tramée,,,,,,,,,,,,,,,,,,,314--Armure tramée--
+315,Armure chaîne,,,,,,,,,,,,,,,,,,,315--Armure chaîne--
+317,Liage,,,,,,,,,,,,,,,,,,,317--Liage--
+318,Armure,,,,croisure,,,,,,,,,,,,,,,318--Armure--
+,,,,,,,,,,,,,,,,,,,,----
+321,Uni,,,,,,,,,,,,,,,,,,,321--Uni--
+322,Rayé,,,,rayado,,,,,,,,,,,,,,,322--Rayé--
+323,Lisse de levée,,,,,,,,,,,,,,,,,,,323--Lisse de levée--
+324,Lisse,,,,,,,,,,,,,,,,,,,324--Lisse--
+325,Lisse de rabat,,,,,,,,,,,,,,,,,,,325--Lisse de rabat--
+326,Luquoise,,,,,,,,,,,,,,,,,,,326--Luquoise--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+335,Marabout,,,,,,,,,,,,,,,,,,,335--Marabout--
+337,Marquisette,,,,,,,,,,,,,,,,,,,337--Marquisette--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+341,Marli,,,,,,,,,,,,,,,,,,,341--Marli--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+346,moirage,,,,,,,,,,,,,,,,,,,346--moirage--
+347,Moire,,,,,,,,,,,,,,,,,,,347--Moire--
+348,mouliner,,,,ouvrer,,,,,,,,,,,,,,,348--mouliner--
+,,,,,,,,,,,,,,,,,,,,----
+355,Mousseline,,,,,,,,,,,,,,,,,,,355--Mousseline--
+357,Lisière,,,,,,,,,,,,,,,,,,,357--Lisière--
+,,,,,,,,,,,,,,,,,,,,----
+359,Peigne,,,,Peigne de serrage,,,,,,,,,,,,,,,359--Peigne--
+360,Poil,,,,,,,,,,,,,,,,,,,360--Poil--
+361,Pekin,,,,,,,,,,,,,,,,,,,361--Pekin--
+,,,,,,,,,,,,,,,,,,,,----
+363,Rouleau,,,,,,,,,,,,,,,,,,,363--Rouleau--
+364,Pointe,,,,,,,,,,,,,,,,,,,364--Pointe--
+,,,,,,,,,,,,,,,,,,,,----
+366,Satin,,,,,,,,,,,,,,,,,,,366--Satin--
+367,Sergé,,,,,,,,,,,,,,,,,,,367--Sergé--
+368,Soie,,,,,,,,,,,,,,,,,,,368--Soie--
+,,,,,,,,,,,,,,,,,,,,----
+370,Soie grège,,,,Grège,,,,,,,,,,,,,,,370--Soie grège--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+375,Sériciculture,,Industrie de l'élevage et de la production de cocons de soie.,,sericicultura,,,,,,,,,,,,,,,375--Sériciculture--Industrie de l'élevage et de la production de cocons de soie.
+376,Séricine,,,,,,,,,,,,,,,,,,,376--Séricine--
+377,Taffetas,,,,,,,,,,,,,,,,,,,377--Taffetas--
+,,,,,,,,,,,,,,,,,,,,----
+379,"Velours
 ",,,,,,,,,,,,,,,,,,,"379--Velours
 --"
-425,Luisina,,380,Tiraz,,,,,,,,,,,,,,,,,,,380--Tiraz--
-326,Luquesa,,,,,,,,,,,,,,,,,,,,,,----
-,,,382,"Torsion
+380,Tiraz,,,,,,,,,,,,,,,,,,,380--Tiraz--
+,,,,,,,,,,,,,,,,,,,,----
+382,"Torsion
 ",,,,,,,,,,,,,,,,,,,"382--Torsion
 --"
-,,,,,,,,,,,,,,,,,,,,,,,----
-330,Lustrina brochada,,384,"Trame
+,,,,,,,,,,,,,,,,,,,,----
+384,"Trame
 ",,,,lat,,,,,,,,,,,,,,,"384--Trame
 --"
-329,Lustrina de seda,,385,Tulle,,,,,,,,,,,,,,,,,,,385--Tulle--
-,,,,,,,,,,,,,,,,,,,,,,,----
-426,Madeja de seda,,387,Chaîne,,,,,,,,,,,,,,,,,,,387--Chaîne--
-427,Malla,,388,Chaîne pièce,,,,,,,,,,,,,,,,,,,388--Chaîne pièce--
-428,Mallón,,389,chaîne poil,,,,,,,,,,,,,,,,,,,389--chaîne poil--
-335,Marabú,,390,Chaîne toile,,,,,,,,,,,,,,,,,,,390--Chaîne toile--
-342,Marca,,391,"Chaîne de liage
+385,Tulle,,,,,,,,,,,,,,,,,,,385--Tulle--
+,,,,,,,,,,,,,,,,,,,,----
+387,Chaîne,,,,,,,,,,,,,,,,,,,387--Chaîne--
+388,Chaîne pièce,,,,,,,,,,,,,,,,,,,388--Chaîne pièce--
+389,chaîne poil,,,,,,,,,,,,,,,,,,,389--chaîne poil--
+390,Chaîne toile,,,,,,,,,,,,,,,,,,,390--Chaîne toile--
+391,"Chaîne de liage
 ",,,,,,,,,,,,,,,,,,,"391--Chaîne de liage
 --"
-,,,392,Ourdir,,,,,,,,,,,,,,,,,,,392--Ourdir--
-429,Marco ,,393,Veloutier,,,,,,,,,,,,,,,,,,,393--Veloutier--
-341,Marlí,,394,Vert céladon,,,,,,,,,,,,,,,,,,,394--Vert céladon--
-337,Marquiseta,,395,Zarzahan,,,,,,,,,,,,,,,,,,,395--Zarzahan--
-338,Matizado,,116,Foule,,,,,,,,,,,,,,,,,,,116--Foule--
-476,Matizado,,396,Marche,,,,pas,,,,,,,,,,,,,,,396--Marche--
-340,Media seda,,399,Cannelé oblique,,,,,,,,,,,,,,,,,,,399--Cannelé oblique--
-430,Mejicana,,400,"Côte par la trame
+392,Ourdir,,,,,,,,,,,,,,,,,,,392--Ourdir--
+393,Veloutier,,,,,,,,,,,,,,,,,,,393--Veloutier--
+394,Vert céladon,,,,,,,,,,,,,,,,,,,394--Vert céladon--
+395,Zarzahan,,,,,,,,,,,,,,,,,,,395--Zarzahan--
+116,Foule,,,,,,,,,,,,,,,,,,,116--Foule--
+396,Marche,,,,pas,,,,,,,,,,,,,,,396--Marche--
+399,Cannelé oblique,,,,,,,,,,,,,,,,,,,399--Cannelé oblique--
+400,"Côte par la trame
 ",,,,,,,,,,,,,,,,,,,"400--Côte par la trame
 --"
-344,Menador,,401,Côte par la chaîne,,,,,,,,,,,,,,,,,,,401--Côte par la chaîne--
-345,Menar,,403,Arcade,,,,,,,,,,,,,,,,,,,403--Arcade--
-348,Molinar,,404,Berclé,,,,,,,,,,,,,,,,,,,404--Berclé--
-431,Montura,,405,Côte,,,,,,,,,,,,,,,,,,,405--Côte--
-433,Montura a la Jacquard,,406,Camelot,,,,,,,,,,,,,,,,,,,406--Camelot--
-432,Montura a lizos,,409,Colletage,,,,,,,,,,,,,,,,,,,409--Colletage--
-434,Montura mixta,,410,contexture,,,,,,,,,,,,,,,,,,,410--contexture--
-346,Muaré,,411,contresemplé,,,,,,,,,,,,,,,,,,,411--contresemplé--
-347,Muaré,,,,,,,,,,,,,,,,,,,,,,----
-354,Musco ,,414,Corps,,,,,,,,,,,,,,,,,,,414--Corps--
-355,Muselina,,415,"Rapport d'armure
+401,Côte par la chaîne,,,,,,,,,,,,,,,,,,,401--Côte par la chaîne--
+403,Arcade,,,,,,,,,,,,,,,,,,,403--Arcade--
+404,Berclé,,,,,,,,,,,,,,,,,,,404--Berclé--
+405,Côte,,,,,,,,,,,,,,,,,,,405--Côte--
+406,Camelot,,,,,,,,,,,,,,,,,,,406--Camelot--
+409,Colletage,,,,,,,,,,,,,,,,,,,409--Colletage--
+410,contexture,,,,,,,,,,,,,,,,,,,410--contexture--
+411,contresemplé,,,,,,,,,,,,,,,,,,,411--contresemplé--
+,,,,,,,,,,,,,,,,,,,,----
+414,Corps,,,,,,,,,,,,,,,,,,,414--Corps--
+415,"Rapport d'armure
 ",,,,,,,,,,,,,,,,,,,"415--Rapport d'armure
 --"
-,,,417,chenille,,,,,,,,,,,,,,,,,,,417--chenille--
-357,Orillo,,418,Dauphine,,,,,,,,,,,,,,,,,,,418--Dauphine--
-358,Ormesí,,419,Dent,,,,,,,,,,,,,,,,,,,419--Dent--
-435,Otomán,,420,Doublage,,,,,,,,,,,,,,,,,,,420--Doublage--
-436,Pasada,,421,Double étoffe,,,,,,,,,,,,,,,,,,,421--Double étoffe--
-359,Peine,,423,Envers,,,,,,,,,,,,,,,,,,,423--Envers--
-437,Pelillo,,424,Décochement,,,,,,,,,,,,,,,,,,,424--Décochement--
-360,Pelo,,425,Louisine ,,,,,,,,,,,,,,,,,,,425--Louisine --
-438,Pelo,,426,Flotte de soie,,,,,,,,,,,,,,,,,,,426--Flotte de soie--
-439,Peluche,,427,Maille,,,,,,,,,,,,,,,,,,,427--Maille--
-361,Pequín,,428,Maillon,,,,,,,,,,,,,,,,,,,428--Maillon--
-440,Ligamento pesado,,429,Cadre,,,,,,,,,,,,,,,,,,,429--Cadre--
-362,Piñuela,,430,Mexicaine,,,,,,,,,,,,,,,,,,,430--Mexicaine--
-363,Plegador,,431,Montage,,,,,,,,,,,,,,,,,,,431--Montage--
-441,Puesta en carta,,432,Montage à lisses,,,,,,,,,,,,,,,,,,,432--Montage à lisses--
-364,Puntas,,433,Montage à la Jacquard,,,,,,,,,,,,,,,,,,,433--Montage à la Jacquard--
-,,,434,Montage mixte,,,,,,,,,,,,,,,,,,,434--Montage mixte--
-442,Punto de ligadura,,435,Ottoman,,,,,,,,,,,,,,,,,,,435--Ottoman--
-365,Punzó,,436,"Coup
+417,chenille,,,,,,,,,,,,,,,,,,,417--chenille--
+418,Dauphine,,,,,,,,,,,,,,,,,,,418--Dauphine--
+419,Dent,,,,,,,,,,,,,,,,,,,419--Dent--
+420,Doublage,,,,,,,,,,,,,,,,,,,420--Doublage--
+421,Double étoffe,,,,,,,,,,,,,,,,,,,421--Double étoffe--
+423,Envers,,,,,,,,,,,,,,,,,,,423--Envers--
+424,Décochement,,,,,,,,,,,,,,,,,,,424--Décochement--
+425,Louisine ,,,,,,,,,,,,,,,,,,,425--Louisine --
+426,Flotte de soie,,,,,,,,,,,,,,,,,,,426--Flotte de soie--
+427,Maille,,,,,,,,,,,,,,,,,,,427--Maille--
+428,Maillon,,,,,,,,,,,,,,,,,,,428--Maillon--
+429,Cadre,,,,,,,,,,,,,,,,,,,429--Cadre--
+430,Mexicaine,,,,,,,,,,,,,,,,,,,430--Mexicaine--
+431,Montage,,,,,,,,,,,,,,,,,,,431--Montage--
+432,Montage à lisses,,,,,,,,,,,,,,,,,,,432--Montage à lisses--
+433,Montage à la Jacquard,,,,,,,,,,,,,,,,,,,433--Montage à la Jacquard--
+434,Montage mixte,,,,,,,,,,,,,,,,,,,434--Montage mixte--
+435,Ottoman,,,,,,,,,,,,,,,,,,,435--Ottoman--
+436,"Coup
 ",,,,,,,,,,,,,,,,,,,"436--Coup
 --"
-237,Raso,,437,"Chaîne de liage
+437,"Chaîne de liage
 ",,,,,,,,,,,,,,,,,,,"437--Chaîne de liage
 --"
-366,Raso,,438,Poil,,,,,S'agit-il de la surface d'un velours ou de tous types de tissus ?,,,,,,,,,,,,,,438--Poil--
-444,Raport,,439,Peluche,,,,,,,,,,,,,,,,,,,439--Peluche--
-238,Sarga,,440,Lourd,,,,,,,,,,,,,,,,,,,440--Lourd--
-367,Sarga,,441,Mise en carte,,,,,,,,,,,,,,,,,,,441--Mise en carte--
-368,Seda,,442,"Point de liage
+438,Poil,,,,,S'agit-il de la surface d'un velours ou de tous types de tissus ?,,,,,,,,,,,,,,438--Poil--
+439,Peluche,,,,,,,,,,,,,,,,,,,439--Peluche--
+440,Lourd,,,,,,,,,,,,,,,,,,,440--Lourd--
+441,Mise en carte,,,,,,,,,,,,,,,,,,,441--Mise en carte--
+442,"Point de liage
 ",,,,,,,,,,,,,,,,,,,"442--Point de liage
 --"
-369,Seda ahogada,,,,,,,,,,,,,,,,,,,,,,----
-370,Seda cruda,,444,Rapport de dessin,,,,,,,,,,,,,,,,,,,444--Rapport de dessin--
-371,Seda floja ,,445,Soie ouvrée,,,,soie moulinée,,,,,,,,,,,,,,,445--Soie ouvrée--
-372,Seda salvaje,,446,Métier à plaquettes,,,,métier aux cartons,,,,,,,,,,,,,,,446--Métier à plaquettes--
-445,Seda torcida,,447,Métier Jacquard,,,,,,,,,,,,,,,,,,,447--Métier Jacquard--
-373,Seda verde,,448,Métier à baguettes,,,,,,,,,,,,,,,,,,,448--Métier à baguettes--
-374,Segrí,,449,Métier à  la tire,,,,,,,,,,,,,,,,,,,449--Métier à  la tire--
-375,Sericicultura,,450,Métier,,,,,,,,,,,,,,,,,,,450--Métier--
-376,Sericina,,451,Métier aux boutons,,,,,,,,,,,,,,,,,,,451--Métier aux boutons--
-13,Surá,,452,Cuit,,,,soie cuite,autre terme : soit cuite,,,,,,,,,,,,,,452--Cuit--
-236,Tafetán,,453,Teint en fils,,,,,,,,,,,,,,,,,,,453--Teint en fils--
-377,Tafetán,,454,Teint en pièce,,,,,,,,,,,,,,,,,,,454--Teint en pièce--
-450,Telar,,455,Velours au sabre,,,,,,,,,,,,,,,,,,,455--Velours au sabre--
-448,Telar  de varillas,,456,Velours ciselé,,,,,,,,,,,,,,,,,,,456--Velours ciselé--
-451,Telar de botones ,,457,Velours coupé,,,,,,,,,,,,,,,,,,,457--Velours coupé--
-446,Telar de cartones,,458,Velours relevé,,,,,,,,,,,,,,,,,,,458--Velours relevé--
-449,Telar de tiro,,459,Velours façonné,,,,,,,,,,,,,,,,,,,459--Velours façonné--
-447,Telar Jacquard,,460,Velours gaufré,,,,,,,,,,,,,,,,,,,460--Velours gaufré--
-,,,461,Velour par trame,,,,,,,,,,,,,,,,,,,461--Velour par trame--
-452,Teñido,,,,,,,,,,,,,,,,,,,,,,----
-453,Teñido en madeja,,463,Velours frisé,,,,,,,,,,,,,,,,,,,463--Velours frisé--
-454,Teñido en pieza,,464,Tireurs de lacs,,,,,,,,,,,,,,,,,,,464--Tireurs de lacs--
-379,Terciopelo,,,,,,,,,,,,,,,,,,,,,,----
-455,Terciopelo al sable,,466,Trame,,,,,,,,,,,,,,,,,,,466--Trame--
-456,Terciopelo cincelado,,467,Trame,,,,,,,,,,,,,,,,,,,467--Trame--
-457,Terciopelo cortado,,468,Trama de rone,,,,,,,,,,,,,,,,,,,468--Trama de rone--
-458,Terciopelo de dos o más altos,,469,Trame de bourré,,,,"bourre, bourré",,,,,,,,,,,,,,,469--Trame de bourré--
-460,Terciopelo gofrado,,470,Trame de lancé,,,,,,,,,,,,,,,,,,,470--Trame de lancé--
-459,Terciopelo labrado,,471,Trame brochée,,,,,,,,,,,,,,,,,,,471--Trame brochée--
-,,,472,Trame supplémentaire,,,,,,,,,,,,,,,,,,,472--Trame supplémentaire--
-461,Terciopelo por trama,,473,Serrée,,,,,,,,,,,,,,,,,,,473--Serrée--
-462,Terciopelo recamado,,474,Chaîne poil,,,,,,,,,,,,,,,,,,,474--Chaîne poil--
-463,Terciopelo rizado,,475,Chaîne de bourré,,,,,,,,,,,,,,,,,,,475--Chaîne de bourré--
-464,Tirador de lazos ,,,,,,,,,,,,,,,,,,,,,,
-380,Tiraz,,477,Chemin,,,,,,,,,,,,,,,,,,,477--Chemin--
-381,Tiritaña,,478,Bave,,,,,,,,,,,,,,,,,,,478--Bave--
-465,Tornasolado,,480,Sergé interrompu,,,,,,,,,,,,,,,,,,,480--Sergé interrompu--
-382,Torsión,,481,Ourdissoir,,,,,,,,,,,,,,,,,,,481--Ourdissoir--
-383,Hilo torzal,,482,Sergé composé,,,,,,,,,,,,,,,,,,,482--Sergé composé--
-384,Trama,,483,Titre,,,,,,,,,,,,,,,,,,,483--Titre--
-,,,484,Denier,,,,,,,,,,,,,,,,,,,484--Denier--
-467,Trama,,485,Bout,,,,,,,,,,,,,,,,,,,485--Bout--
-469,Trama de alma,,487,Filament,,,,,,,,,,,,,,,,,,,487--Filament--
-468,Trama de base,,488,Lin,,,,,,,,,,,,,,,,,,,488--Lin--
-471,Trama espolinada,,489,Lustré,,,,,,,,,,,,,,,,,,,489--Lustré--
-470,Trama lanzada,,490,Gobelins,,,,,,,,,,,,,,,,,,,490--Gobelins--
-472,Trama suplementaria,,492,Métier à bras,,,,,,,,,,,,,,,,,,,492--Métier à bras--
-385,Tul,,493,Interruption,,,,,,,,,,,,,,,,,,,493--Interruption--
-473,Tupido,,494,Léger,,,,,,,,,,,,,,,,,,,494--Léger--
-386,Turquí,,495,Plomb,,,,,,,,,,,,,,,,,,,495--Plomb--
-387,Urdimbre,,496,Losange,,,,,,,,,,,,,,,,,,,496--Losange--
-388,Urdimbre base,,497,Fil métallique,,,,,,,,,,,,,,,,,,,497--Fil métallique--
-389,Urdimbre de efecto,,498,Fil manquant,,,,,,,,,,,,,,,,,,,498--Fil manquant--
-390,Urdimbre de fondo,,499,Trame manquante,,,,,,,,,,,,,,,,,,,499--Trame manquante--
-391,Urdimbre de ligadura,,500,Lardure,,,,,,,,,,,,,,,,,,,500--Lardure--
-475,Urdimbre de mecha,,501,Retors,,,,,,,,,,,,,,,,,,,501--Retors--
-474,Urdimbre de pelo,,502,Dessin à pointe,,,,,,,,,,,,,,,,,,,502--Dessin à pointe--
-392,Urdir,,503,Portée,,,,,,,,,,,,,,,,,,,503--Portée--
-393,Vellutero,,504,Métier mécanique,,,,,,,,,,,,,,,,,,,504--Métier mécanique--
-394,Verdeceledón,,506,Sans envers,,,,,,,,,,,,,,,,,,,506--Sans envers--
-395,Zarzahán,,507,Double-face,,,,,,,,,,,,,,,,,,,507--Double-face--
-477,Camino,,,,,,,,,,,,,,,,,,,,,,----
-478,Baba,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-481,Urdidor,,,,,,,,,,,,,,,,,,,,,,----
-482,Sarga compuesta,,,,,,,,,,,,,,,,,,,,,,----
-483,Título,,483,Titre,,,,,,,,,,,,,,,,,,,483--Titre--
-484,Denier,,,,,,,,,,,,,,,,,,,,,,----
-485,Cabo,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-487,Filamento,,,,,,,,,,,,,,,,,,,,,,----
-488,Lino,,,,,,,,,,,,,,,,,,,,,,----
-489,Lustrado,,,,,,,,,,,,,,,,,,,,,,----
-490,Gobelino,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-492,Telar manual,,,,,,,,,,,,,,,,,,,,,,----
-493,Intervalo,,,,,,,,,,,,,,,,,,,,,,----
-494,Ligamento ligero,,,,,,,,,,,,,,,,,,,,,,----
-495,Plomo,,,,,,,,,,,,,,,,,,,,,,----
-496,Losange,,,,,,,,,,,,,,,,,,,,,,----
-497,Hilo metálico,,,,,,,,,,,,,,,,,,,,,,----
-498,Falla de urdimbre,,,,,,,,,,,,,,,,,,,,,,----
-499,Falla de trama,,,,,,,,,,,,,,,,,,,,,,----
-500,Falla de calada,,,,,,,,,,,,,,,,,,,,,,----
-501,Hilo torcido,,,,,,,,,,,,,,,,,,,,,,----
-502,Dibujo simétrico,,,,,,,,,,,,,,,,,,,,,,----
-503,Portada,,,,,,,,,,,,,,,,,,,,,,----
-504,Telar mecánico,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-506,Reversible,,,,,,,,,,,,,,,,,,,,,,----
-507,Tela a dos caras,,,,,,,,,,,,,,,,,,,,,,----
-508,Tisú,,,,,,,,,,,,,,,,,,,,,,----
-509,Armura,,,,,,,,,,,,,,,,,,,,,,----
-510,Ferronerie,,,,,,,,,,,,,,,,,,,,,,----
-511,Alluciolato,,,,,,,,,,,,,,,,,,,,,,----
-512,Atributos según técnica de tejido,,,,,,,,,,,,,,,,,,,,,,----
-513,Tejidos determinados por su origen geográfico ,,,,,,,,,,,,,,,,,,,,,,----
-514,Raso irregular,,,,,,,,,,,,,,,,,,,,,,----
-515,Raso reina,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-517,Teletón,,,,,,,,,,,,,,,,,,,,,,----
-518,Aceituní,,,,,,,,,,,,,,,,,,,,,,----
-519,Camino,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-521,Cartonaje,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-523,Telar de alto lizo,,,,,,,,,,,,,,,,,,,,,,----
-524,Telar de bajo lizo,,,,,,,,,,,,,,,,,,,,,,----
-525,Telar de lizos,,,,,,,,,,,,,,,,,,,,,,----
-526,Tisaje,,,,,,,,,,,,,,,,,,,,,,----
-527,Devanar,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-529,Rayón,,,,,,,,,,,,,,,,,,,,,,----
-530,Torcer,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-532,Muselina tornasol,,,,,,,,,,,,,,,,,,,,,,----
-533,Nobleza,,,,,,,,,,,,,,,,,,,,,,----
-534,Pana,,,,,,,,,,,,,,,,,,,,,,----
-535,Pana de seda,,,,,,,,,,,,,,,,,,,,,,----
-536,Paño de seda,,,,,,,,,,,,,,,,,,,,,,----
-537,Pasamanería ,,11,Damassé,,,,,,,,,,,,,,,,,,,11--Damassé--
-538,Piel de seda,,,,,,,,,,,,,,,,,,,,,,----
-539,Raso de Lyon,,,,,,,,,,,,,,,,,,,,,,----
-540,Polonesa,,57,"Baldaquin
+,,,,,,,,,,,,,,,,,,,,----
+444,Rapport de dessin,,,,,,,,,,,,,,,,,,,444--Rapport de dessin--
+445,Soie ouvrée,,,,soie moulinée,,,,,,,,,,,,,,,445--Soie ouvrée--
+446,Métier à plaquettes,,,,métier aux cartons,,,,,,,,,,,,,,,446--Métier à plaquettes--
+447,Métier Jacquard,,,,,,,,,,,,,,,,,,,447--Métier Jacquard--
+448,Métier à baguettes,,,,,,,,,,,,,,,,,,,448--Métier à baguettes--
+449,Métier à  la tire,,,,,,,,,,,,,,,,,,,449--Métier à  la tire--
+450,Métier,,,,,,,,,,,,,,,,,,,450--Métier--
+451,Métier aux boutons,,,,,,,,,,,,,,,,,,,451--Métier aux boutons--
+452,Cuit,,,,soie cuite,autre terme : soit cuite,,,,,,,,,,,,,,452--Cuit--
+453,Teint en fils,,,,,,,,,,,,,,,,,,,453--Teint en fils--
+454,Teint en pièce,,,,,,,,,,,,,,,,,,,454--Teint en pièce--
+455,Velours au sabre,,,,,,,,,,,,,,,,,,,455--Velours au sabre--
+456,Velours ciselé,,,,,,,,,,,,,,,,,,,456--Velours ciselé--
+457,Velours coupé,,,,,,,,,,,,,,,,,,,457--Velours coupé--
+458,Velours relevé,,,,,,,,,,,,,,,,,,,458--Velours relevé--
+459,Velours façonné,,,,,,,,,,,,,,,,,,,459--Velours façonné--
+460,Velours gaufré,,,,,,,,,,,,,,,,,,,460--Velours gaufré--
+461,Velour par trame,,,,,,,,,,,,,,,,,,,461--Velour par trame--
+,,,,,,,,,,,,,,,,,,,,----
+463,Velours frisé,,,,,,,,,,,,,,,,,,,463--Velours frisé--
+464,Tireurs de lacs,,,,,,,,,,,,,,,,,,,464--Tireurs de lacs--
+,,,,,,,,,,,,,,,,,,,,----
+466,Trame,,,,,,,,,,,,,,,,,,,466--Trame--
+467,Trame,,,,,,,,,,,,,,,,,,,467--Trame--
+468,Trama de rone,,,,,,,,,,,,,,,,,,,468--Trama de rone--
+469,Trame de bourré,,,,"bourre, bourré",,,,,,,,,,,,,,,469--Trame de bourré--
+470,Trame de lancé,,,,,,,,,,,,,,,,,,,470--Trame de lancé--
+471,Trame brochée,,,,,,,,,,,,,,,,,,,471--Trame brochée--
+472,Trame supplémentaire,,,,,,,,,,,,,,,,,,,472--Trame supplémentaire--
+473,Serrée,,,,,,,,,,,,,,,,,,,473--Serrée--
+474,Chaîne poil,,,,,,,,,,,,,,,,,,,474--Chaîne poil--
+475,Chaîne de bourré,,,,,,,,,,,,,,,,,,,475--Chaîne de bourré--
+,,,,,,,,,,,,,,,,,,,,
+477,Chemin,,,,,,,,,,,,,,,,,,,477--Chemin--
+478,Bave,,,,,,,,,,,,,,,,,,,478--Bave--
+480,Sergé interrompu,,,,,,,,,,,,,,,,,,,480--Sergé interrompu--
+481,Ourdissoir,,,,,,,,,,,,,,,,,,,481--Ourdissoir--
+482,Sergé composé,,,,,,,,,,,,,,,,,,,482--Sergé composé--
+483,Titre,,,,,,,,,,,,,,,,,,,483--Titre--
+484,Denier,,,,,,,,,,,,,,,,,,,484--Denier--
+485,Bout,,,,,,,,,,,,,,,,,,,485--Bout--
+487,Filament,,,,,,,,,,,,,,,,,,,487--Filament--
+488,Lin,,,,,,,,,,,,,,,,,,,488--Lin--
+489,Lustré,,,,,,,,,,,,,,,,,,,489--Lustré--
+490,Gobelins,,,,,,,,,,,,,,,,,,,490--Gobelins--
+492,Métier à bras,,,,,,,,,,,,,,,,,,,492--Métier à bras--
+493,Interruption,,,,,,,,,,,,,,,,,,,493--Interruption--
+494,Léger,,,,,,,,,,,,,,,,,,,494--Léger--
+495,Plomb,,,,,,,,,,,,,,,,,,,495--Plomb--
+496,Losange,,,,,,,,,,,,,,,,,,,496--Losange--
+497,Fil métallique,,,,,,,,,,,,,,,,,,,497--Fil métallique--
+498,Fil manquant,,,,,,,,,,,,,,,,,,,498--Fil manquant--
+499,Trame manquante,,,,,,,,,,,,,,,,,,,499--Trame manquante--
+500,Lardure,,,,,,,,,,,,,,,,,,,500--Lardure--
+501,Retors,,,,,,,,,,,,,,,,,,,501--Retors--
+502,Dessin à pointe,,,,,,,,,,,,,,,,,,,502--Dessin à pointe--
+503,Portée,,,,,,,,,,,,,,,,,,,503--Portée--
+504,Métier mécanique,,,,,,,,,,,,,,,,,,,504--Métier mécanique--
+506,Sans envers,,,,,,,,,,,,,,,,,,,506--Sans envers--
+507,Double-face,,,,,,,,,,,,,,,,,,,507--Double-face--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+483,Titre,,,,,,,,,,,,,,,,,,,483--Titre--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+11,Damassé,,,,,,,,,,,,,,,,,,,11--Damassé--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+57,"Baldaquin
 ",,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 76.",,,,,,,,,,,,,,,,"57--Baldaquin
 --"
-541,Pongis,,59,Barège de soie,,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 79 ; CNRTL",,,,,,,,,,,,,,,,59--Barège de soie--
-542,Pongis Lionés,,,,,,,,,,,,,,,,,,,,,,----
-543,Popelín,,,,,,,,,,,,,,,,,,,,,,----
-544,Popelín de seda,,,,,,,,,,,,,,,,,,,,,,----
-545,Popelín de Irlanda,,,,,,,,,,,,,,,,,,,,,,----
-546,Puntilla,,,,,,,,,,,,,,,,,,,,,,----
-547,Ramadés,,,,,,,,,,,,,,,,,,,,,,----
-548,Radiados,,104,Broché,,,,,,,,,,,,,,,,,,,104--Broché--
-549,Rádium,,83,Bougran,,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 98-101.",,,,,,,,,,,,,,,,83--Bougran--
-550,Rasete,,35,Chemin,,,,,,,,,,,,,,,,,,,35--Chemin--
-551,Raso compuesto,,,,,,,,,,,,,,,,,,,,,,----
-552,Raso de cuatro,,,,,,,,,,,,,,,,,,,,,,----
-553,Recamado,,,,,,,,,,,,,,,,,,,,,,----
-554,Raso duquesa,,,,,,,,,,,,,,,,,,,,,,----
-555,Raso Liberty,,,,,,,,,,,,,,,,,,,,,,----
-556,Reps,,,,,,,,,,,,,,,,,,,,,,----
-557,Reps de seda,,,,,,,,,,,,,,,,,,,,,,----
-558,Restaño,,,,,,,,,,,,,,,,,,,,,,----
-559,Sarga romana,,243,Gloria,,,,,,,,,,,,,,,,,,,243--Gloria--
-600,Sarga interrumpida,,,,,,,,,,,,,,,,,,,,,,----
-601,Sarga satina,,336,Marceline,,,,,,,,,,,,,,,,,,,336--Marceline--
-602,Sombreados,,356,Musulmane,,,,,,,,,,,,,,,,,,,356--Musulmane--
-603,Tafetán a cuadros,,,,,,,,,,,,,,,,,,,,,,----
-604,Tafetán doble,,486,"Bout
+59,Barège de soie,,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 79 ; CNRTL",,,,,,,,,,,,,,,,59--Barège de soie--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+104,Broché,,,,,,,,,,,,,,,,,,,104--Broché--
+83,Bougran,,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 98-101.",,,,,,,,,,,,,,,,83--Bougran--
+35,Chemin,,,,,,,,,,,,,,,,,,,35--Chemin--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+243,Gloria,,,,,,,,,,,,,,,,,,,243--Gloria--
+,,,,,,,,,,,,,,,,,,,,----
+336,Marceline,,,,,,,,,,,,,,,,,,,336--Marceline--
+356,Musulmane,,,,,,,,,,,,,,,,,,,356--Musulmane--
+,,,,,,,,,,,,,,,,,,,,----
+486,"Bout
 ",,,,,,,,,,,,,,,,,,,"486--Bout
 --"
-605,Tafetán inglés,,,,,,,,,,,,,,,,,,,,,,----
-606,Tafetán listado,,,,,,,,,,,,,,,,,,,,,,----
-607,Tapinete,,,,,,,,,,,,,,,,,,,,,,----
-608,Tapiz,,,,,,,,,,,,,,,,,,,,,,----
-609,Tapiz de bajo lizo,,,,,,,,,,,,,,,,,,,,,,----
-610,Tercianela,,,,,,,,,,,,,,,,,,,,,,----
-611,Terciopelo liso,,,,,,,,,,,,,,,,,,,,,,----
-612,Terciopleo  Gregoire,,612,Velours Grégoire,,,,,,,,,,,,,,,,,,,612--Velours Grégoire--
-613,Terciopleo de Génova,,613,Velours de Gênes,,,,,,,,,,,,,,,,,,,613--Velours de Gênes--
-614,Terciopelo de Lyon,,614,Velours de Lyon,,,,,,,,,,,,,,,,,,,614--Velours de Lyon--
-615,Terciopelo del Norte,,615,Velours du Nord,,,,,,,,,,,,,,,,,,,615--Velours du Nord--
-616,Aguja,,,,,,,,,,,,,,,,,,,,,,----
-617,Algodón,,617,Coton,,,,,,,,,,,,,,,,,,,617--Coton--
-618,Seda,,618,Soie,,,,,,,,,,,,,,,,,,,618--Soie--
-619,Azul de Prusia,,619,Bleu de Prusse,,,,,,,,,,,,,,,,,,,619--Bleu de Prusse--
-620,Azul de Sajonia,,,,,,,,,,,,,,,,,,,,,,----
-621,Puesta en carta,,621,Mise en carte,,,,,,,,,,,,,,,,,,,621--Mise en carte--
-622,Cartón ,,,,,,,,,,,,,,,,,,,,,,----
-623,Cordón,,,,,,,,,,,,,,,,,,,,,,----
-624,Dejado,,,,,,,,,,,,,,,,,,,,,,----
-625,Tomado,,,,,,,,,,,,,,,,,,,,,,----
-626,Brin,,,,,,,,,,,,,,,,,,,,,,----
-627,Hilo de oro ,,627,Fil d'or,,,,,,,,,,,,,,,,,,,627--Fil d'or--
-628,Hilo de plata,,628,Fil d'argent,,,,,,,,,,,,,,,,,,,628--Fil d'argent--
-629,Tapicería,,,,,,,,,,,,,,,,,,,,,,----
-630,Tapicería fina,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-631,Tramar,,,,,,,,,,,,,,,,,,,,,,----
-632,Seda ocal,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-634,Cadarzo,,,,,,,,,,,,,,,,,,,,,,----
-635,Mezclilla,,,,,,,,,,,,,,,,,,,,,,----
-636,Tusor,,,,,,,,,,,,,,,,,,,,,,----
-637,Ligamento simple,,,,,,,,,,,,,,,,,,,,,,----
-638,Ligamento compuesto,,,,,,,,,,,,,,,,,,,,,,----
-639,Ligamento fundamental,,,,,,,,,,,,,,,,,,,,,,----
-640,Ligamento derivado,,,,,,,,,,,,,,,,,,,,,,----
-641,Sarga batavia,,,,,,,,,,,,,,,,,,,,,,----
-642,Área de tejido,,,,,,,,,,,,,,,,,,,,,,----
-643,Atributos según modificaciones del tejido,,,,,,,,,,,,,,,,,,,,,,----
-644,Lana,,,,,,,,,,,,,,,,,,,,,,----
-645,Elementos interfuncionales ,,,,,,,,,,,,,,,,,,,,,,----
-646,Urdidor,,,,,,,,,,,,,,,,,,,,,,----
-647,Devanador,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+612,Velours Grégoire,,,,,,,,,,,,,,,,,,,612--Velours Grégoire--
+613,Velours de Gênes,,,,,,,,,,,,,,,,,,,613--Velours de Gênes--
+614,Velours de Lyon,,,,,,,,,,,,,,,,,,,614--Velours de Lyon--
+615,Velours du Nord,,,,,,,,,,,,,,,,,,,615--Velours du Nord--
+,,,,,,,,,,,,,,,,,,,,----
+617,Coton,,,,,,,,,,,,,,,,,,,617--Coton--
+618,Soie,,,,,,,,,,,,,,,,,,,618--Soie--
+619,Bleu de Prusse,,,,,,,,,,,,,,,,,,,619--Bleu de Prusse--
+,,,,,,,,,,,,,,,,,,,,----
+621,Mise en carte,,,,,,,,,,,,,,,,,,,621--Mise en carte--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+627,Fil d'or,,,,,,,,,,,,,,,,,,,627--Fil d'or--
+628,Fil d'argent,,,,,,,,,,,,,,,,,,,628--Fil d'argent--
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
+,,,,,,,,,,,,,,,,,,,,----
