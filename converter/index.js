@@ -33,13 +33,13 @@ const RDF = $rdf.Namespace('http://www.w3.org/1999/02/22-rdf-syntax-ns#');
 const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
 const SKOS = $rdf.Namespace('http://www.w3.org/2004/02/skos/core#');
 const DC = $rdf.Namespace('http://purl.org/dc/terms/');
-const XSD = $rdf.Namespace( 'http://www.w3.org/2001/XMLSchema#');
+const XSD = $rdf.Namespace('http://www.w3.org/2001/XMLSchema#');
 
 const today = new Date().toISOString().slice(0, 10);
 
 const COLUMN = {
   en: {
-    ID: 'ID',
+    ID: 'ID-ES',
     TERM: 'TERM',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BiBLIOGRAPHY',
@@ -48,7 +48,7 @@ const COLUMN = {
     BROADER: 'HIERARCHIES',
   },
   es: {
-    ID: 'ID',
+    ID: 'ID-ES',
     TERM: 'TÉRMINO',
     DEFINITION: 'DEFINICIÓN FINAL',
     BIB: 'FUENTES',
@@ -95,7 +95,7 @@ function toConcept(s, k, lang) {
   }
   let hasInternalBroader;
   if (s[k.BROADER]) {
-    let b = s[k.BROADER].split(',')
+    const b = s[k.BROADER].split(',')
       .map(x => x.trim())
       .map((x) => {
         if (validUrl.isUri(x)) return x;
@@ -104,12 +104,12 @@ function toConcept(s, k, lang) {
       })
       .filter(x => x);
 
-      hasInternalBroader = b.some(x=>x instanceof $rdf.NamedNode)
+      hasInternalBroader = b.some(x => x instanceof $rdf.NamedNode);
       b.forEach(x => add(concept, SKOS('broader'), x));
   }
 
   add(concept, SKOS('inScheme'), scheme);
-  if(!hasInternalBroader) add(concept, SKOS('topConceptOf'), scheme);
+  if (!hasInternalBroader) add(concept, SKOS('topConceptOf'), scheme);
 
 
   if (s[k.BIB]) {
@@ -118,12 +118,18 @@ function toConcept(s, k, lang) {
 }
 
 function convertToSkos(source, lang) {
-  let K = COLUMN.en;
-  if (Object.keys(source[0]).includes('TÉRMINO')) {
-    K = COLUMN.es;
+  let K = Object.assign({}, COLUMN.en);
+  const fileColumns = Object.keys(source[0]);
+  if (fileColumns.includes('TÉRMINO')) {
+     K = Object.assign({}, COLUMN.es);
   }
 
-  source.filter(s => s.ID)
+  if (!fileColumns.includes('ID')) {
+    K.ID = 'ID-ES';
+    K.TERM = 'TERM-ES';
+  }
+
+  source.filter(s => s[K.ID])
     .forEach(s => toConcept(s, K, lang));
 }
 
