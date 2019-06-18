@@ -43,6 +43,7 @@ const COLUMN = {
     TERM: 'TERM',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BiBLIOGRAPHY',
+    QUAL: 'Qualifier',
     SYN: 'SYNONYMS',
     RELATED: 'ASSOCIATED TERMS',
     BROADER: 'hierarchy',
@@ -52,6 +53,7 @@ const COLUMN = {
     TERM: 'TÉRMINO',
     DEFINITION: 'DEFINICIÓN FINAL',
     BIB: 'FUENTES',
+    QUAL: 'QUALIFIER',
     SYN: 'SINÓNIMOS',
     RELATED: 'TÉRMINO ASOCIADO',
     BROADER: 'JERARQUÍA',
@@ -84,7 +86,7 @@ function toConcept(s, k, lang) {
     s[k.SYN].split(',')
       .forEach(syn => add(concept, SKOS('altLabel'), syn, lang));
   }
-
+  add(concept, DC('type'), s[k.QUAL], lang);
   add(concept, SKOS('definition'), s[k.DEFINITION], lang);
 
   if (s[k.RELATED]) {
@@ -113,7 +115,7 @@ function toConcept(s, k, lang) {
 
 
   if (s[k.BIB]) {
-    s[k.BIB].split(';').forEach(b => add(concept, DC('bibliographicCitation'), b));
+    s[k.BIB].split(';').forEach(b => add(concept, DC('bibliographicCitation'), b, lang));
   }
 }
 
