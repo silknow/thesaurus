@@ -199,7 +199,7 @@
         "Tessuto la cui caratteristica è la formazione di una corda o di un canale nella direzione dell'ordito, solitamente costituito da una trama singola e un singolo ordito."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Ribbed"@en,
-        "Canutillo"@es,
+        "Canutillo (tejido)"@es,
         "Côtelé"@fr,
         "Canutillo"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -221,7 +221,7 @@
 Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o cochinilla"""@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Crimson"@en,
-        "Carmesí"@es,
+        "Carmesí (color)"@es,
         "Cramoisi"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -233,7 +233,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
     skos:definition "Del ár. hisp. qarmazí 'del color del quermes'. Tejido de seda de este color"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Carmesí"@es,
+    skos:prefLabel "Carmesí (tejido)"@es,
         "Cramoisi"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -343,7 +343,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
     skos:definition "Del b. lat. diasprum, y este der. del lat. iaspis, -ĭdis 'ágata', 'jaspe'. Tela de seda recamada de oro, producida en Almería en los siglos XI-XIII. La trama de seda brillante no retorcida, formaba el dibujo sobre el fondo mate. Las figuras eran pequeñas y repetidas horizontalmente, siendo en origen de un solo color, después bicolores, y más tarde se añadió hilo de oro para el dibujo"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Diaspro"@es ;
+    skos:prefLabel "Diaspro (tejido)"@es ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/176> a skos:Concept ;
@@ -433,7 +433,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "Del it. festone.. Adorno compuesto de flores, frutas y hojas. Los festones se obtienen por recorte o siluetado de la trama, en el borde del tejido, cuyo fondo se va deshilando progresivamente"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Festoon"@en,
-        "Festón"@es ;
+        "Festón (decoración)"@es ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/21> a skos:Concept ;
@@ -485,7 +485,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "Del lat. fundus. En las telas, el campo sobre el que están tejidas, bordadas o pintadas las labores que la decoran y embellecen"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Ground"@en,
-        "Fondo"@es,
+        "Fondo (objeto)"@es,
         "Fond"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -572,7 +572,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "De hilar. Establecimiento o industria donde se hilan las fibras o materias textiles"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Filature"@en,
-        "Hilatura"@es,
+        "Hilatura (edificio)"@es,
         "Filature"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -795,7 +795,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "Del lat. rasus, part. pas. de radĕre 'raer'. Tela cuyos hilos de urdimbre pasan por encima de varios de trama, de tal forma que estos últimos siempre quedan ocultos en el derecho del tejido y los primeros forman una superficie muy lisa y brillante. Hoy en día, el término es sinónimo de \"satén\" o \"satín\", sin embargo resulta mucho más adecuado el uso de raso que es la verdadera palabra española mientras que \"satén\" y satín\" son galicismos mucho más modernos"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Satin"@en,
-        "Raso"@es,
+        "Raso (tejido)"@es,
         "Satin"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -843,7 +843,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
         "Dal latino Applicatio e significa \"azione ed effetto dell'applicazione\". Tecnica decorativa utilizzata nel ricamo che consiste nell'aggiungere e fissare su un tessuto principale, o una base, frammenti di altri tessuti diversi per comporre un certo ornamento. Ricamo dell'applicazione"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Apliqué"@en,
-        "Aplicación"@es,
+        "Aplicación (técnica)"@es,
         "Application"@fr,
         "Applicazione"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -894,7 +894,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
         "Ornamenti eseguiti in un materiale diverso da un altro a cui è sovrapposto"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Apliqué"@en,
-        "Aplicación"@es,
+        "Aplicación (decoración)"@es,
         "Application"@fr,
         "Aplicación"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -1153,7 +1153,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "Del fr. léger. Es todo ligamento cuyo número de dejos es superior al número de tomos, es decir, está ejecutado accionando el mínimo número de hilos o de lizos permitidos por aquel ligamento"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Light lift"@en,
-        "Ligamento ligero"@es,
+        "Ligamento ligero (Todo ligamento cuyo número de dejos es superior al número de tomos)"@es,
         "Léger"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -1221,7 +1221,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:broader <http://vocab.getty.edu/aat/300311080> ;
     skos:definition "Del ár. azzaytūnī, gentilicio de zaytūn, adaptación del nombre de la ciudad china de Tsö-Thung. Color verde aceituna"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Aceituní"@es ;
+    skos:prefLabel "Aceituní (color)"@es ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/52> a skos:Concept ;
@@ -1233,7 +1233,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
         "Color rosa dorato pallido e delicado"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Aurora"@en,
-        "Aurora"@es,
+        "Aurora (color)"@es,
         "Aurore"@fr,
         "Aurora"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -1275,7 +1275,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
         "Tessuto in seta di questo colore"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Aurora"@en,
-        "Aurora"@es,
+        "Aurora (tejido)"@es,
         "Aurore"@fr,
         "Aurora"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -1400,7 +1400,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
 <http://data.silknow.org/vocabulary/646> a skos:Concept ;
     skos:broader <http://vocab.getty.edu/aat/300025349> ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Urdidor"@es ;
+    skos:prefLabel "Urdidor (profesión)"@es ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/647> a skos:Concept ;
@@ -1433,7 +1433,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
         "Der. dallo spagnolo:Tessuto molto ricco, di seta lavorata usata nel Medioevo portata dall'Oriente. Prese il nome dal termine \"az-zeituní\" derivato dal nome della città cinese di Tsen-Thung da dove fu portato il tessuto"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Aceytuni"@en,
-        "Aceituní"@es,
+        "Aceituní (tejido)"@es,
         "Olive"@fr,
         "Aceituní"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -1527,7 +1527,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
         "s.m. Involucro protettivo della crisalide delle farfalle. Quello del baco da seta è formato da un filo lungo e continuo detto bava. E' a sua volta costituituito da due bavelle: ognuna di queste bavelle è composta da fibroina rivestita da una sostanza gommosa, la sericina. La parte esterna del bozzolo, chiamata spelaia o ragna, e la parte interna chiamata teletta, costituiscono i cascami di seta. La seta vera e propria è fornita dalla parte mediana del bozzolo chiamata carta o involucro."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Cocoon"@en,
-        "Capullo"@es,
+        "Capullo (material)"@es,
         "Cocon"@fr,
         "Bozzolo"@it ;
     skos:related <http://data.silknow.org/vocabulary/368> ;
@@ -1736,7 +1736,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:definition "Del part. de estampar. Tejido decorado con la técnica del estampado"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Printed fabric"@en,
-        "Estampado"@es,
+        "Estampado (tejido)"@es,
         "Imprimé"@fr ;
     skos:related <http://data.silknow.org/vocabulary/196> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -1777,7 +1777,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:definition "Cualquier bordado, dibujo o recorte en forma de ondas o puntas, que adorna la orilla o borde de algo"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Festoon"@en,
-        "Festón"@es ;
+        "Festón (tejido)"@es ;
     skos:related <http://data.silknow.org/vocabulary/230> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -1813,7 +1813,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:definition "Ligamento que sirve de base a bastas de urdimbre o de trama"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Ground weave"@en,
-        "Fondo"@es ;
+        "Fondo (ligamento)"@es ;
     skos:related <http://data.silknow.org/vocabulary/390> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -1838,7 +1838,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:broader <http://vocab.getty.edu/aat/300231560> ;
     skos:definition "De hilado. El hilo que se obtiene de la maraña de la seda hilada en rueca"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Hiladillo"@es ;
+    skos:prefLabel "Hiladillo (hilo)"@es ;
     skos:related <http://data.silknow.org/vocabulary/268> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -2049,7 +2049,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:broader <http://data.silknow.org/vocabulary/512> ;
     skos:definition "Del b. lat. diasprum, y este der. del lat. iaspis, -ĭdis 'ágata', 'jaspe'. Tejido caracterizado por los jaspeados verduzcos, hecho en seda y estambre"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Diaspro"@es ;
+    skos:prefLabel "Diaspro (atributo)"@es ;
     skos:related <http://data.silknow.org/vocabulary/294> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -2120,7 +2120,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
     skos:definition "Del lat. mediev. matizare, y este del gr. bizant. λαμματίζειν lammatízein, der. de λάμμα, -ατος lámma, -atos 'matiz', 'cinta, franja'. Tela  con labor de matiz hecha con sedas de diversos colores"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Matizado"@es ;
+    skos:prefLabel "Matizado (tejido)"@es ;
     skos:related <http://data.silknow.org/vocabulary/476> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -2165,7 +2165,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:definition "Del lat. pilus. Hilo de seda torcido sobre sí mismo"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Poil"@en,
-        "Pelo"@es,
+        "Pelo (hilo)"@es,
         "Poil"@fr ;
     skos:related <http://data.silknow.org/vocabulary/445> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -2186,7 +2186,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "1-Tessuto i cui fili di trama si incrociano con quelli di ordito in modo sfalsato, formando linee diagonali. 2- in tessitura è un'armatura fondaamentale, detta anche sargia, spiga, spina, dalla quale derivano moltissime armature genericamente dette diagonali (spigati, batavie, levantine), perchè mostrano rigature oblique dovute al fatto che i punti di legatura dell'intreccio procedono lungo una diagonale più o meno obliqua a seconda del numero dei fili al cm. dell'ordito e della trama. Nel Medioevo indicava un tessuto spinato di lana per vesti femminili. lat. mediev. saia, sagla, in documenti di Firenze, Udine, venezia del XIII e XIV sec. Der. dal fr. a. saie (XIII sec.) a sua volta dal lat. saga, der. di sagum 'panno di lana usato come mantello militare', di origine gallica."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Twill"@en,
-        "Sarga"@es,
+        "Sarga (tejido)"@es,
         "Sergé"@fr,
         "Saia"@it ;
     skos:related <http://data.silknow.org/vocabulary/43> ;
@@ -3054,8 +3054,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/82> a skos:Concept ;
-    dct:bibliographicCitation ""@es,
-        "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
+    dct:bibliographicCitation "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
         "TERREROS Y PANDO, Esteban, Diccionario Castellano con las voces de Ciencias y artes, y sus correspondientes en las tres lenguas Francesa, Latina e Italiana Vol.I, Madrid, 1786"@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es ;
     skos:altLabel "bocillo"@es ;
@@ -3185,7 +3184,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "s.m. ant. Seta floscia, grossolana, non lavorata, usata per nappe, tappezzerie e imbottiture di vesti. È anche la fibra della parte esterna del bozzolo, la prima che produce il baco. Anche Seta shappe"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Course silk"@en,
-        "Cadarzo"@es,
+        "Cadarzo (hilo)"@es,
         "Catarzo"@it ;
     skos:related <http://data.silknow.org/vocabulary/133>,
         <http://data.silknow.org/vocabulary/368> ;
@@ -3270,7 +3269,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "Filo sottile di oro o argento, arricciato formando piccole cannette o spirali che vengono usate per ricamare cucendole al tessuto di base di un ricamo, inserendo un filo all'interno fissato al tessuto."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Cord"@en,
-        "Canutillo"@es,
+        "Canutillo (hilo)"@es,
         "Côtelé"@fr,
         "Cannetta"@it ;
     skos:related <http://data.silknow.org/vocabulary/497>,
@@ -3285,7 +3284,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:definition "De canuto e -illo. Tubo pequeño y hueco, en vidrio o metal usado para bordar y que se usa de idéntica forma a la descrita."@es,
         "Tubo piccolo e cavo, in vetro o metallo utilizzato per il ricamo e utilizzato nello stesso modo descritto. v. cannetta"@it ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Canutillo"@es,
+    skos:prefLabel "Canutillo (objeto)"@es,
         "Côtelé"@fr,
         "Cannetta"@it ;
     skos:related <http://data.silknow.org/vocabulary/497>,
@@ -3452,7 +3451,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es ;
     skos:definition "Del occit. espoulin 'canilla de tejedor', y este del gót. *spôla; cf. a. al. ant. spuolo, islandés spôla. Por extensión, tejido espolinado es aquel que se fabrica utilizando una lanzaderas pequeñas dando un efecto de flores sobretejidas, como las del brocado de oro o de seda. Estos tejidos se obtienen mediante el tisaje en el telar Jacquard"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Brocade"@en,
-        "Espolín"@es,
+        "Espolín (tejido)"@es,
         "Espolin"@fr ;
     skos:related <http://data.silknow.org/vocabulary/471>,
         <http://data.silknow.org/vocabulary/97> ;
@@ -3556,7 +3555,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es ;
     skos:definition "Del ár. clás. ẖazz o qazz, y este del persa gaz o kaž 'seda cruda'. Tela  caracterizada por la relativa separación o poca densidad de los hilos de urdimbre y trama, lo que le proporciona un aspecto de minúscula red o cuadrícula normalmente muy fina. Su nombre procede de la ciudad Siria de Gaza donde se producía este tejido"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Gauze"@en,
-        "Gasa"@es,
+        "Gasa (tejido)"@es,
         "Gaze"@fr ;
     skos:related <http://data.silknow.org/vocabulary/222>,
         <http://data.silknow.org/vocabulary/236> ;
@@ -3858,7 +3857,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:definition "Del fr. moiré, este del it. mocaiarro, y este del ár. muẖayyar 'escogido'.  La técnica del muaré se obtiene sometiendo al tejido de grano grueso a presión por medio de cilindros grabados con el dibujo a obtener. El resultado es un tejido que da la impresión de hacer aguas"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Watered"@en,
-        "Muaré"@es,
+        "Muaré (técnica)"@es,
         "moirage"@fr ;
     skos:related <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/347> ;
@@ -4160,7 +4159,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:broader <http://vocab.getty.edu/aat/300232065> ;
     skos:definition "Del lat. mediev. matizare, y este del gr. bizant. λαμματίζειν lammatízein, der. de λάμμα, -ατος lámma, -atos 'matiz', 'cinta, franja'. Graduación del baño colorante para obtener el matiz deseado"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Matizado"@es ;
+    skos:prefLabel "Matizado (proceso)"@es ;
     skos:related <http://data.silknow.org/vocabulary/338>,
         <http://data.silknow.org/vocabulary/452> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -4174,7 +4173,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:definition "Del lat. vulg. cammīnus, voz de or. celta, y este de or. hisp.; cf. celtíbero camanon. Ancho de la tela que corresponde al espacio por el que pasan todas las arcadas necesarias para formar un dibujo completo"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Comber unit"@en,
-        "Camino"@es,
+        "Camino (dimensión)"@es,
         "Chemin"@fr ;
     skos:related <http://data.silknow.org/vocabulary/444>,
         <http://data.silknow.org/vocabulary/519> ;
@@ -4680,7 +4679,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:definition "Del occit. espoulin 'canilla de tejedor', y este del gót. *spôla; cf. a. al. ant. spuolo, islandés spôla. Pequeña lanzadera usada para pasar tramas de decoración entre los hilos de urdimbre."@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Brocading shuttle"@en,
-        "EspolÍn"@es,
+        "EspolÍn (objeto)"@es,
         "Espolin"@fr ;
     skos:related <http://data.silknow.org/vocabulary/311>,
         <http://data.silknow.org/vocabulary/471>,
@@ -4740,7 +4739,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:broader <http://vocab.getty.edu/aat/300183798> ;
     skos:definition "De hilado.  Cinta de seda muy estrecha con ligamento tafetán y con urdimbre y trama de filadiz"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Hiladillo"@es ;
+    skos:prefLabel "Hiladillo (decoración)"@es ;
     skos:related <http://data.silknow.org/vocabulary/147>,
         <http://data.silknow.org/vocabulary/216>,
         <http://data.silknow.org/vocabulary/236> ;
@@ -5051,7 +5050,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:narrower <http://data.silknow.org/vocabulary/145>,
         <http://data.silknow.org/vocabulary/212> ;
-    skos:prefLabel "Camino"@es ;
+    skos:prefLabel "Camino (objeto)"@es ;
     skos:related <http://data.silknow.org/vocabulary/477> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -5287,7 +5286,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "Quizá del ár. hisp. *ḥaddúqa. Esta quiza procede del termino árabe “haddúqa”. Fibra que rodea exteriormente el capullo del gusano de seda y que suele ser más basta que la fibra interior."@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Spun silk"@en,
-        "Adúcar"@es,
+        "Adúcar (fibra)"@es,
         "filés de soie"@fr,
         "Bavella"@it ;
     skos:related <http://data.silknow.org/vocabulary/133>,
@@ -5383,7 +5382,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:broader <http://data.silknow.org/vocabulary/512> ;
     skos:definition "Del ár. clás. ẖazz o qazz, y este del persa gaz o kaž 'seda cruda'.C ualquier tela fina y transparente que tiene aspeccto de gasa o se asemeja"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Gasa"@es,
+    skos:prefLabel "Gasa (atributo)"@es,
         "Gaze"@fr ;
     skos:related <http://data.silknow.org/vocabulary/142>,
         <http://data.silknow.org/vocabulary/232>,
@@ -5530,7 +5529,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:narrower <http://data.silknow.org/vocabulary/186> ;
     skos:prefLabel "Taffeta"@en,
-        "Tafetán"@es,
+        "Tafetán (tejido)"@es,
         "Taffetas"@fr ;
     skos:related <http://data.silknow.org/vocabulary/44>,
         <http://data.silknow.org/vocabulary/488>,
@@ -5659,7 +5658,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "Del lat. pilus. La superficie elevada producida por urdimbre o trama suplementaria que sobresale de la base de un textil tejido"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Pile"@en,
-        "Pelo"@es,
+        "Pelo (atributo)"@es,
         "Poil"@fr ;
     skos:related <http://data.silknow.org/vocabulary/379>,
         <http://data.silknow.org/vocabulary/384>,
@@ -5711,7 +5710,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "Armazón de cañas o de listones de madera cruzados, que gira alrededor de uneje vertical y fijo en un pie, para que, colocadas en aquel las madejas del hilado, puedan devanarse con facilidad"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Warping mill"@en,
-        "Urdidor"@es,
+        "Urdidor (objeto)"@es,
         "Ourdissoir"@fr ;
     skos:related <http://data.silknow.org/vocabulary/387>,
         <http://data.silknow.org/vocabulary/392>,
@@ -5885,7 +5884,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
         "Tessuto di seta con fili di taffettà e seta con bavella o seta fioretto estratti dalle gemme doppie, cioè quelli che sono stati ricoperti da due o più bachi insieme e per i quali viene seguito il processo di filatura del filamento. Viene utilizzata anche la lanugine di seta che circonda il bozzolo."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Spun silk fabric"@en,
-        "Adúcar"@es,
+        "Adúcar (tejido)"@es,
         "Seta shappe"@it ;
     skos:related <http://data.silknow.org/vocabulary/12>,
         <http://data.silknow.org/vocabulary/133>,
@@ -5962,7 +5961,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "De hilar. Proceso en el que, a base de operaciones más o menos complejas, a las fibras textiles naturales, artificiales o sintéticas se les otorga un nuevo cuerpo fino, largo, resistente y flexible llamado hilo. Arte de hilar"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Spinning"@en,
-        "Hilatura"@es,
+        "Hilatura (proceso)"@es,
         "Filature"@fr ;
     skos:related <http://data.silknow.org/vocabulary/209>,
         <http://data.silknow.org/vocabulary/210>,
@@ -6001,7 +6000,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
         "s.m. Leggera stoffa di seta dai riflessi cangianti e ondulati, ottenuti sottoponendo il tessuto alla pressione di una calandra; tessuto di lana di caratteristica brillantezza, marezzata; lana mohair. Adattamento dal fr. moiré"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Moiré"@en,
-        "Muaré"@es,
+        "Muaré (tejido)"@es,
         "Moire"@fr,
         "Moerro"@it ;
     skos:related <http://data.silknow.org/vocabulary/1>,
@@ -6258,7 +6257,6 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
 
 <http://data.silknow.org/vocabulary/10> a skos:Concept ;
     dct:bibliographicCitation "Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2014."@en,
-        ""@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
         """Dávila Corona, R., Duran i Pujol, 
 Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"""@es,
@@ -6292,7 +6290,7 @@ Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tej
     skos:definition "Quizá de capillo, infl. en su t. por la del lat. cucullus 'capucho'. Tela basta, con urdimbre y trama de filadiz o borra de capullo parecida al tusor"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Tussah"@en,
-        "Capullo"@es ;
+        "Capullo (tejido)"@es ;
     skos:related <http://data.silknow.org/vocabulary/113>,
         <http://data.silknow.org/vocabulary/12>,
         <http://data.silknow.org/vocabulary/14>,
@@ -6886,7 +6884,7 @@ de Catalunya: Servei de llengües i terminologia de la UPC, s. f."""@es ;
         <http://data.silknow.org/vocabulary/471>,
         <http://data.silknow.org/vocabulary/472> ;
     skos:prefLabel "Lat"@en,
-        "Trama"@es,
+        "Trama (hilo)"@es,
         "Trame"@fr ;
     skos:related <http://data.silknow.org/vocabulary/382>,
         <http://data.silknow.org/vocabulary/384>,
@@ -6968,7 +6966,7 @@ de Catalunya: Servei de llengües i terminologia de la UPC, s. f."""@es ;
 In generale, per un tessuto che deve essere definito nervato, devono essere indicati tre fattori: densità, tessitura (taffetà o twill) e spessore dei fili"""@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Cannele"@en,
-        "Acanalado"@es,
+        "Acanalado (atributo)"@es,
         "Cannelé"@fr,
         "Cannellato"@it ;
     skos:related <http://data.silknow.org/vocabulary/2>,
@@ -7151,7 +7149,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
     skos:definition "Del part. de estampar. Adj. que se atribuye a la decoración de una tela por medio de la impresión del motivo decorativo deseado desde una o diversas planchas o matrices"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Printing cloth"@en,
-        "Estampado"@es,
+        "Estampado (atributo)"@es,
         "Imprimé"@fr ;
     skos:related <http://data.silknow.org/vocabulary/143>,
         <http://data.silknow.org/vocabulary/144>,
@@ -7323,7 +7321,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         <http://data.silknow.org/vocabulary/6>,
         <http://data.silknow.org/vocabulary/7> ;
     skos:prefLabel "Extended tabby"@en,
-        "Acanalado"@es,
+        "Acanalado (ligamento)"@es,
         "Cannelé"@fr,
         "Cannellato"@it ;
     skos:related <http://data.silknow.org/vocabulary/1>,
@@ -7428,7 +7426,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
     skos:definition "Del lat. trama. Conjunto de hilos horizontales que cruzados con la urdimbre, forman una tela"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Weft"@en,
-        "Trama"@es,
+        "Trama (componente textil)"@es,
         "Trame"@fr ;
     skos:related <http://data.silknow.org/vocabulary/276>,
         <http://data.silknow.org/vocabulary/359>,
@@ -7639,7 +7637,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         <http://data.silknow.org/vocabulary/601>,
         <http://data.silknow.org/vocabulary/641> ;
     skos:prefLabel "Twill"@en,
-        "Sarga"@es,
+        "Sarga (ligamento)"@es,
         "Sergé"@fr,
         "Twill"@it ;
     skos:related <http://data.silknow.org/vocabulary/111>,
@@ -7715,7 +7713,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         <http://data.silknow.org/vocabulary/459>,
         <http://data.silknow.org/vocabulary/463> ;
     skos:prefLabel "Velvet"@en,
-        "Terciopelo"@es,
+        "Terciopelo (tejido)"@es,
         "Velours"@fr ;
     skos:related <http://data.silknow.org/vocabulary/101>,
         <http://data.silknow.org/vocabulary/15>,
@@ -7860,7 +7858,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         <http://data.silknow.org/vocabulary/555>,
         <http://data.silknow.org/vocabulary/607> ;
     skos:prefLabel "Satin"@en,
-        "Raso"@es,
+        "Raso (ligamento)"@es,
         "Satin"@fr ;
     skos:related <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/10>,
@@ -7918,7 +7916,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         <http://data.silknow.org/vocabulary/606>,
         <http://data.silknow.org/vocabulary/86> ;
     skos:prefLabel "Tabby"@en,
-        "Tafetán"@es,
+        "Tafetán (ligamento)"@es,
         "Taffetas"@fr ;
     skos:related <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/10>,

@@ -43,7 +43,7 @@ const COLUMN = {
     TERM: 'TERM',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BiBLIOGRAPHY',
-    QUAL: 'Qualifier',
+    QUAL: 'QUALIFIER',
     SYN: 'SYNONYMS',
     RELATED: 'ASSOCIATED TERMS',
     BROADER: 'hierarchy',
@@ -53,8 +53,8 @@ const COLUMN = {
     TERM: 'TÉRMINO',
     DEFINITION: 'DEFINICIÓN FINAL',
     BIB: 'FUENTES',
-    QUAL: 'QUALIFIER',
     SYN: 'SINÓNIMOS',
+    QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
     BROADER: 'JERARQUÍA',
   },
@@ -66,6 +66,7 @@ function add(s, p, o, lang) {
   if (!s || !p || !o) return;
   /* eslint-disable no-param-reassign  */
   if (typeof o === 'string') o = o.trim();
+  if (!o) return;
   if (lang) store.add(s, p, $rdf.literal(o, lang));
   else if (typeof o === 'string' && validUrl.isUri(o)) store.add(s, p, $rdf.sym(o));
   else store.add(s, p, o);
@@ -81,12 +82,15 @@ add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 function toConcept(s, k, lang) {
   const concept = SILKNOW(s[k.ID]);
   add(concept, RDF('type'), SKOS('Concept'));
-  add(concept, SKOS('prefLabel'), s[k.TERM], lang);
+
+  let label = s[k.TERM];
+  if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
+
+  add(concept, SKOS('prefLabel'), label, lang);
   if (s[k.SYN]) {
     s[k.SYN].split(',')
       .forEach(syn => add(concept, SKOS('altLabel'), syn, lang));
   }
-  add(concept, DC('type'), s[k.QUAL], lang);
   add(concept, SKOS('definition'), s[k.DEFINITION], lang);
 
   if (s[k.RELATED]) {
@@ -115,7 +119,8 @@ function toConcept(s, k, lang) {
 
 
   if (s[k.BIB]) {
-    s[k.BIB].split(';').forEach(b => add(concept, DC('bibliographicCitation'), b, lang));
+    s[k.BIB].split(';')
+    .forEach(b => add(concept, DC('bibliographicCitation'), b, lang));
   }
 }
 
