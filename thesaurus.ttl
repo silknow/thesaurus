@@ -13,41 +13,6 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.silknow.org/vocabulary/11> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Damassé"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/243> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Gloria"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/312> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Lancé"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/336> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Marceline"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/356> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Musulmane"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/37> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Velours ottoman"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/486> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Bout"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
 <http://data.silknow.org/vocabulary/502> a skos:Concept ;
     dct:bibliographicCitation "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980."@en,
         "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980."@es ;
@@ -57,27 +22,8 @@
         "Dessin à pointe"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-<http://data.silknow.org/vocabulary/57> a skos:Concept ;
-    dct:bibliographicCitation "Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 76."@fr ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Baldaquin"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/59> a skos:Concept ;
-    dct:bibliographicCitation "CNRTL"@fr,
-        "Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 79"@fr ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Barège de soie"@fr ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
 <http://data.silknow.org/vocabulary/649> a skos:Concept ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/83> a skos:Concept ;
-    dct:bibliographicCitation "Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 98-101."@fr ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Bougran"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://vocab.getty.edu/aat/300004894> skos:narrower <http://data.silknow.org/vocabulary/262> .
@@ -164,12 +110,6 @@
 
 <http://vocab.getty.edu/aat/300311832> skos:narrower <http://data.silknow.org/vocabulary/166> .
 
-<http://data.silknow.org/vocabulary/104> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Broché"@fr ;
-    skos:related <http://data.silknow.org/vocabulary/192> ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
 <http://data.silknow.org/vocabulary/115> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es,
@@ -181,12 +121,6 @@
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Cairel"@es,
         "Frangia"@it ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/116> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Foule"@fr ;
-    skos:related <http://data.silknow.org/vocabulary/648> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/130> a skos:Concept ;
@@ -471,8 +405,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "De flueco, y este del lat. floccus. Adorno compuesto de una serie de hilos o cordoncillos colgantes de una tira de tela o de pasamanería"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Purl"@en,
-        "Fleco"@es,
-        "Frange"@fr ;
+        "Fleco"@es ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/223> a skos:Concept ;
@@ -586,7 +519,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Doup warp"@en,
         "Hilo de vuelta"@es,
-        "fil de tour"@fr ;
+        "Fil de tour"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/281> a skos:Concept ;
@@ -742,7 +675,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "To throw"@en,
         "Molinar"@es,
-        "mouliner"@fr ;
+        "Mouliner"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/354> a skos:Concept ;
@@ -882,7 +815,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Pattern warp"@en,
         "Urdimbre de efecto"@es,
-        "chaîne poil"@fr ;
+        "Chaîne poil"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/39> a skos:Concept ;
@@ -966,7 +899,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Construction"@en,
         "Contextura"@es,
-        "contexture"@fr ;
+        "Contexture"@fr ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/414> a skos:Concept ;
@@ -1491,7 +1424,6 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "to Brocade"@en,
         "Brochar"@es,
-        "Brocher"@fr,
         "Brochar"@it ;
     skos:related <http://data.silknow.org/vocabulary/193> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -1600,15 +1532,8 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
     skos:definition "Variante del crespón con una cara brillante y la otra más matizada, fabricado con ligamento de sarga tres"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Crespón de Lyon"@es,
-        "Crespón de Lyon"@fr ;
+        "Crêpe de Lyon"@fr ;
     skos:related <http://data.silknow.org/vocabulary/238> ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/160> a skos:Concept ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Crêpe Georgette"@fr ;
-    skos:related <http://data.silknow.org/vocabulary/157>,
-        <http://data.silknow.org/vocabulary/236> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/169> a skos:Concept ;
@@ -1627,7 +1552,7 @@ Color rojo o grana obtenido con el tinte de los Insectos hemípteros, quermes o 
 <http://data.silknow.org/vocabulary/17> a skos:Concept ;
     dct:bibliographicCitation "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández,   Máximo. Diccionario histórico de telas y tejidos castellano-catalán.  Salamanca: Junta de Castilla y León, 2004"@es,
         "Moliner, M. Diccionario del Uso del Español. Gredos, 2016."@es,
-        """«Real Academia Española». 
+        """«Real Academia Española».
 Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "ANIELLO GENTILE, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
     skos:broader <http://vocab.getty.edu/aat/300053772> ;
@@ -1750,7 +1675,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Print"@en,
         "Estampar"@es,
-        "Impression"@fr ;
+        "Imprimer"@fr ;
     skos:related <http://data.silknow.org/vocabulary/65> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -1875,7 +1800,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004."@es,
         "Giner Bressó, Ramón. Escuela Textil del Colegio del Arte Mayor de la Seda de Valencia. Apuntes de tecnología textil. València: Generalitat Valenciana, 1998"@es,
-        "Guicherd46, p. 303"@fr ;
+        "Guicherd 1946, p. 303"@fr ;
     skos:broader <http://data.silknow.org/vocabulary/236> ;
     skos:definition "Ligamento derivado del tafetán, cuyos hilos de urdimbre llamados \"de vuelta\" pasan alrededor de otros hilos llamados \"fijos\" y son ligados por la trama en los dos lados, es decir de izquierda a derecha.  Generalmente el hilo fijo pasa por debajo de todas las pasadas, y el de vuelta por encima"@es ;
     skos:inScheme silknow:silk-thesaurus ;
@@ -1954,7 +1879,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Undyed thread"@en,
         "Hilo crudo"@es,
-        "Fil grège"@fr ;
+        "Fil grêge"@fr ;
     skos:related <http://data.silknow.org/vocabulary/268> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -2365,7 +2290,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Chenille"@en,
         "Chenilla"@es,
-        "chenille"@fr,
+        "Chenille"@fr,
         "Ciniglia"@it ;
     skos:related <http://data.silknow.org/vocabulary/379> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -2529,8 +2454,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:definition "Trama que constituye el ligamento base en los tejidos de varias tramas"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Main weft"@en,
-        "Trama de base"@es,
-        "Trama de rone"@fr ;
+        "Trama de base"@es ;
     skos:related <http://data.silknow.org/vocabulary/384> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
@@ -3231,7 +3155,8 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "-"@es,
         "Boy, Jaime. Diccionario teórico, práctico, histórico y geográfico de comercio Vol. I-II-III-IV de la Junta de Comercio de Barcelona. Barcelona: Imprenta Valentín Torrás, 1840"@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
-        "Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2014"@es ;
+        "Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2014"@es,
+        "Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 134"@fr ;
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
     skos:definition "De cambiar y -nte. Tafetán que tiene la seda de la urdimbre de un color y la trama de otro, de modo que sus colores varían según los reflejos de la luz"@es,
         "Taffetà che ha la seta dell'ordito di un colore e la trama di un altro, in modo che i loro colori variano in base ai riflessi della luce"@it ;
@@ -3397,7 +3322,7 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Cristaline"@en,
         "Cristalina"@es,
-        "Cristaline"@fr ;
+        "Cristaliine"@fr ;
     skos:related <http://data.silknow.org/vocabulary/236>,
         <http://data.silknow.org/vocabulary/67> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -3670,7 +3595,8 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es ;
     skos:broader <http://vocab.getty.edu/aat/300231560> ;
     skos:definition "Hilo constituido por uno o más filamentos con o sin torsión. Nombre genérico adoptado en la nomenclatura técnica y comercial para todo tipo de hilo de fibra artificial y sintética que se presenta y es manipulada tal como se obtuvo en forma continua durante su hilatura"@es ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Hilo continuo"@es ;
+    skos:prefLabel "Hilo continuo"@es,
+        "Fil continu"@fr ;
     skos:related <http://data.silknow.org/vocabulary/268>,
         <http://data.silknow.org/vocabulary/529> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -3731,8 +3657,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
         "Dávila Corona, Rosa., Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/."@es ;
-    skos:altLabel "lamé"@es,
-        "lamé"@fr ;
+    skos:altLabel "lamé"@es ;
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
     skos:definition "Del fr. lame. Tela adornada por el derecho con tramas de laminillas metálicas, lo que le otorga gran brillantez. Generalmente si la trama era de oro la urdimbre era color amarillo, mientras que si era de plata la urdimbre era blanca"@es ;
     skos:inScheme silknow:silk-thesaurus ;
@@ -3784,7 +3709,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Lash"@en,
         "Lazo"@es,
-        "Lacs"@fr ;
+        "Lat"@fr ;
     skos:related <http://data.silknow.org/vocabulary/449>,
         <http://data.silknow.org/vocabulary/464> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -3858,7 +3783,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Watered"@en,
         "Muaré (técnica)"@es,
-        "moirage"@fr ;
+        "Moirage"@fr ;
     skos:related <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/347> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -3941,7 +3866,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Drop repeat"@en,
         "Contramostrado"@es,
-        "contresemplé"@fr ;
+        "Contresemplé"@fr ;
     skos:related <http://data.silknow.org/vocabulary/318>,
         <http://data.silknow.org/vocabulary/543> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -4074,7 +3999,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Pattern unit"@en,
         "Raport"@es,
-        "Rapport de dessin"@fr ;
+        "Rapport"@fr ;
     skos:related <http://data.silknow.org/vocabulary/431>,
         <http://data.silknow.org/vocabulary/477> ;
     skos:topConceptOf silknow:silk-thesaurus .
@@ -4693,7 +4618,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:definition "La que se obtiene de diversos tipos de animales y por lo tanto de alto contenido en proteínas. Son muchos y muy dispares los animales de los que se ha servido el ser humano para la obtención de fibras y con ellas la elaboración de hilos para la creación de textiles. La hilatura del pelo o las crines de muy diferentes especies como ovejas, cabras, caballos, camélidos, conejos, etc. da como resultado hilos con los que producir tejidos resistentes, cálidos y con un carácter altamenete aislante. Sin embargo la fibra textil de origen animal de mayor importancia a lo largo de toda la historia de la humanidad, es la seda que siempre se ha considerado como la fibra de mejor calidad y más lujosa."@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Fibra animal"@es,
-        "Fibre animale ou protéique"@fr ;
+        "Fibre animale"@fr ;
     skos:related <http://data.silknow.org/vocabulary/209>,
         <http://data.silknow.org/vocabulary/267>,
         <http://data.silknow.org/vocabulary/618> ;
@@ -4703,7 +4628,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     dct:bibliographicCitation "Boy, Jaime. Diccionario teórico, práctico, histórico y geográfico de comercio Vol. I-II-III-IV de la Junta de Comercio de Barcelona. Barcelona: Imprenta Valentín Torrás, 1840"@es,
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949."@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
-        """Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: 
+        """Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes:
 dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:altLabel "marcelina"@es ;
     skos:broader <http://data.silknow.org/vocabulary/513> ;
@@ -4769,7 +4694,8 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "Se obtiene reuniendo dos o tres hilos de seda cruda con una fuerte torsión"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Crepe"@en,
-        "Hilo crespón"@es ;
+        "Hilo crespón"@es,
+        "Fil crêpe"@fr ;
     skos:related <http://data.silknow.org/vocabulary/268>,
         <http://data.silknow.org/vocabulary/370>,
         <http://data.silknow.org/vocabulary/382> ;
@@ -4834,7 +4760,8 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "Tela vistosa tejida en seda y parecida al droguete, algunas veces con trama de diversos colores o de metal. Se utiliza especialmente para adornos en la confección de sombreros"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Silk lustrine"@en,
-        "Lustrina de seda"@es ;
+        "Lustrina de seda"@es,
+        "Lustrine de soie"@fr ;
     skos:related <http://data.silknow.org/vocabulary/174>,
         <http://data.silknow.org/vocabulary/330>,
         <http://data.silknow.org/vocabulary/497> ;
@@ -4844,7 +4771,8 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     dct:bibliographicCitation "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es ;
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Lustrina brochada"@es ;
+    skos:prefLabel "Lustrina brochada"@es,
+        "Lustrine brochée"@fr ;
     skos:related <http://data.silknow.org/vocabulary/196>,
         <http://data.silknow.org/vocabulary/329>,
         <http://data.silknow.org/vocabulary/88> ;
@@ -4854,12 +4782,11 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     dct:bibliographicCitation "Casa Aruta, Francisco. Diccionario de la industria textil. Barcelona: Labor, 1969"@es,
         "Castany Saládrigas, Francisco. Análisis de tejidos. Reconocimiento y análisis de fibras textiles, hilos y tejidos. Barcelona: Gustavo Gil S.A., 1944."@es,
         "Galcerán Escobet, Vicente. Tecnología del tejido, Tomo segundo: análisis de tejidos y técnica de su fabricación. Tarrasa: Editograf Pina, 1961"@es ;
-    skos:altLabel "Fibre synthétique"@fr ;
     skos:broader <http://vocab.getty.edu/aat/300014024> ;
     skos:definition "Grupo de fibras cuyo origen puede fijarse a finales del XIX, con la producción con los primeros hilos de fibra artificial cuya materia base es la nitrocelulosa"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Fibra artificial"@es,
-        "Chemin"@fr ;
+        "Fibre synthétique"@fr ;
     skos:related <http://data.silknow.org/vocabulary/209>,
         <http://data.silknow.org/vocabulary/267>,
         <http://data.silknow.org/vocabulary/529> ;
@@ -4870,7 +4797,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
         "«Art & Architecture Thesaurus (Getty Research Institute)». Accedido 20 de noviembre de 2018. http://www.getty.edu/research/tools/vocabularies/aat/"@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es ;
-    skos:altLabel "Peigne de serrage"@fr ;
+    skos:altLabel "peigne de serrage"@fr ;
     skos:broader <http://vocab.getty.edu/aat/300163224> ;
     skos:definition "Del lat. pecten, -ĭnis. En el telar, pieza formada por una barra, que como en los peines, tiene una serie de púas entre las cuales pasan en el telar los hilos de la urdimbre y tiene la anchura de la tela que se prevé tejer. Sirve para ajustar y comprimir las tramas de la tela a medida que se va tejiendo"@es ;
     skos:inScheme silknow:silk-thesaurus ;
@@ -4923,7 +4850,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:definition "Tipo de tela de seda del siglo XVIII, de constitución análoga a los droguetes y caracterizado por los fondos pequín de acanalados varios"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Delfinado"@es,
-        "Dauphine"@fr ;
+        "Dauphiné"@fr ;
     skos:related <http://data.silknow.org/vocabulary/174>,
         <http://data.silknow.org/vocabulary/2>,
         <http://data.silknow.org/vocabulary/361> ;
@@ -5369,7 +5296,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Silk plush"@en,
         "Felpa"@es,
-        "Peluche"@fr ;
+        "Felpa"@fr ;
     skos:related <http://data.silknow.org/vocabulary/15>,
         <http://data.silknow.org/vocabulary/17>,
         <http://data.silknow.org/vocabulary/439>,
@@ -5513,7 +5440,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
     skos:narrower <http://data.silknow.org/vocabulary/430> ;
     skos:prefLabel "Pekin"@en,
         "Pequín"@es,
-        "Pekin"@fr ;
+        "Pékin"@fr ;
     skos:related <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/322>,
         <http://data.silknow.org/vocabulary/418> ;
@@ -5901,8 +5828,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004."@es,
         "ANIELLO GENTILE, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
     skos:broader <http://vocab.getty.edu/aat/300231684> ;
-    skos:definition "A self-pattemed weave with one warp and one weft in which the pattern is formed by a contrast of binding systems. In its classic form it is reversible, and the contrast is produced by the use of the warp and weft faces of the same weave, usually satin. By extension this terrn is also used for weaves in which two distinct binding systems are employed. In its classic form damask patterning is produced by contrasting the two faces of a satin weave. This suggests a shiny warp-faced satín pattem against an equally shiny weft-faced satin ground, with the exact reverse on the other face. Most silk damasks are of unbalanced weave with a fine, closely set warp producing a shiny warp face and a heavier, more widely spaced weft giving quite a dull appearance in the a reas where the weft predominates. This is obvious in the diagram and also in the two silk damasks shown below. Linen damasks for table use are usually of balanced weave and completely reversible."@en,
-        "De Damasco, de donde se importaron estos artículos. Tela de seda compuesta de un efecto de fondo y otro de dibujo constituídos por la haz de urdimbre y la haz de trama de un mismo ligamento. Con una sola urdimbre y una sola trama, formadas por hilos del mismo grosor, color y calidad. El efecto es plano, y el dibujo es reversible. Los damascos antiguos se ejecutan con un cuerpo de mallones y dos lizos (el de alza y el de rebatén). Inicialmente tejido que procedía de la ciudad siria de Damasco"@es,
+    skos:definition "De Damasco, de donde se importaron estos artículos. Tela de seda compuesta de un efecto de fondo y otro de dibujo constituídos por la haz de urdimbre y la haz de trama de un mismo ligamento. Con una sola urdimbre y una sola trama, formadas por hilos del mismo grosor, color y calidad. El efecto es plano, y el dibujo es reversible. Los damascos antiguos se ejecutan con un cuerpo de mallones y dos lizos (el de alza y el de rebatén). Inicialmente tejido que procedía de la ciudad siria de Damasco"@es,
         "Tessuto di seta composto da un effetto di fondo e uno di disegno costituito dal filo di ordito e dalla trama di una singola armatura. Con un singolo ordito e una trama singola, formato da fili dello stesso spessore, colore e qualità. L'effetto è piatto e il disegno è reversibile. I vecchi damaschi sono eseguiti con un corpo di maglioni e due licci (quello con la tomaia e quello con il rebatén). s.m. Tessuto in seta caratterizzato dal contrasto di lucentezza tra fondo e disegno, generalmente a motivi floreali molto ricchi. E' di largo uso per i paramenti sacri e tappezzeria. Prodotto originariamente in Cina, attraverso l' India, la Persia e la Grecia bizantina giunse alla città di Damasco, dalla quale prese il nome con cui venne importato in Europa. Altrettanto celebri furono nell'antichità i damaschi prodotti in Italia, a Venezia, Genova, Lucca, Vicenza, Parma e Catanzaro. Oggi se ne producono tipi diversi per pesantezza e per dimensioni di disegni per vari usi, dagli abiti da donna, alle sciarpe, alla tappezzeria, ai paramenti di chiesa. Più propriamente si chiama damasco d'estate il tipo leggero adatto per vestiti, cravatte e fodere."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Damask"@en,
@@ -6259,7 +6185,7 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr ;
 <http://data.silknow.org/vocabulary/10> a skos:Concept ;
     dct:bibliographicCitation "Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2014."@en,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
-        """Dávila Corona, R., Duran i Pujol, 
+        """Dávila Corona, R., Duran i Pujol,
 Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"""@es,
         "Sanz, J., y R. Gallego. Diccionario del color. Madrid: Akal S.A., 2001."@es,
         "«Diccionario de Autoridades(1726-1739)». Accedido 20 de noviembre de 2018. http://web.frl.es/DA.html."@es,
@@ -6602,15 +6528,15 @@ Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tej
 <http://data.silknow.org/vocabulary/213> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949."@es,
-        """Cervera i Caminal, Anna, Mumbrú i Laporta,Josep, Pont i Puntigam, M. 
-Rosa,  Taló i Rovira, Joan. Diccionari de la indústria tèxtil. Català, 
-Castellà, Francés, Anglés i Alemany. Barcelona: Universitat Politècnica 
+        """Cervera i Caminal, Anna, Mumbrú i Laporta,Josep, Pont i Puntigam, M.
+Rosa,  Taló i Rovira, Joan. Diccionari de la indústria tèxtil. Català,
+Castellà, Francés, Anglés i Alemany. Barcelona: Universitat Politècnica
 de Catalunya: Servei de llengües i terminologia de la UPC, s. f."""@es ;
     skos:broader <http://vocab.getty.edu/aat/300014024> ;
     skos:definition "Toda aquella que, presente en la naturaleza, para su utilización únicamente debe ser sometidas a procesos más o menos complejos de hilado. Dependiendo de su origen y composición, las fibras naturales pueden ser: animales o proteicas; vegetales o celulósicas y minerales."@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Fibra natural"@es,
-        "Fibre naturel"@fr ;
+        "Fibre naturelle"@fr ;
     skos:related <http://data.silknow.org/vocabulary/209>,
         <http://data.silknow.org/vocabulary/267>,
         <http://data.silknow.org/vocabulary/488>,
@@ -7150,8 +7076,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
     skos:definition "Del part. de estampar. Adj. que se atribuye a la decoración de una tela por medio de la impresión del motivo decorativo deseado desde una o diversas planchas o matrices"@es ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:prefLabel "Printing cloth"@en,
-        "Estampado (atributo)"@es,
-        "Imprimé"@fr ;
+        "Estampado (atributo)"@es ;
     skos:related <http://data.silknow.org/vocabulary/143>,
         <http://data.silknow.org/vocabulary/144>,
         <http://data.silknow.org/vocabulary/197>,
@@ -7421,8 +7346,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/."@es ;
-    skos:altLabel "Woof"@en,
-        "lat"@fr ;
+    skos:altLabel "Woof"@en ;
     skos:broader <http://data.silknow.org/vocabulary/645> ;
     skos:definition "Del lat. trama. Conjunto de hilos horizontales que cruzados con la urdimbre, forman una tela"@es ;
     skos:inScheme silknow:silk-thesaurus ;
@@ -7561,8 +7485,7 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es ;
     skos:altLabel "raw silk; grége; nett silk; reeled silk"@en,
         "seda grega"@es,
-        "seda grege"@es,
-        "Grège"@fr ;
+        "seda grege"@es ;
     skos:broader <http://data.silknow.org/vocabulary/368> ;
     skos:definition "La que conserva la goma natural (sericina), sin teñir, a lo más hilada o torcida"@es ;
     skos:inScheme silknow:silk-thesaurus ;
@@ -8053,21 +7976,18 @@ In generale, per un tessuto che deve essere definito nervato, devono essere indi
 silknow:silk-thesaurus a skos:ConceptScheme ;
     rdfs:label "Thesaurus describing silk related techniques and material"@en ;
     dct:created "2018-11-09"^^xsd:date ;
-    dct:modified "2019-06-18"^^xsd:date ;
+    dct:modified "2019-06-19"^^xsd:date ;
     skos:hasTopConcept <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/10>,
         <http://data.silknow.org/vocabulary/101>,
         <http://data.silknow.org/vocabulary/102>,
         <http://data.silknow.org/vocabulary/103>,
-        <http://data.silknow.org/vocabulary/104>,
         <http://data.silknow.org/vocabulary/105>,
         <http://data.silknow.org/vocabulary/108>,
-        <http://data.silknow.org/vocabulary/11>,
         <http://data.silknow.org/vocabulary/111>,
         <http://data.silknow.org/vocabulary/112>,
         <http://data.silknow.org/vocabulary/113>,
         <http://data.silknow.org/vocabulary/115>,
-        <http://data.silknow.org/vocabulary/116>,
         <http://data.silknow.org/vocabulary/117>,
         <http://data.silknow.org/vocabulary/118>,
         <http://data.silknow.org/vocabulary/119>,
@@ -8109,7 +8029,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/157>,
         <http://data.silknow.org/vocabulary/158>,
         <http://data.silknow.org/vocabulary/159>,
-        <http://data.silknow.org/vocabulary/160>,
         <http://data.silknow.org/vocabulary/161>,
         <http://data.silknow.org/vocabulary/162>,
         <http://data.silknow.org/vocabulary/163>,
@@ -8187,7 +8106,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/240>,
         <http://data.silknow.org/vocabulary/241>,
         <http://data.silknow.org/vocabulary/242>,
-        <http://data.silknow.org/vocabulary/243>,
         <http://data.silknow.org/vocabulary/244>,
         <http://data.silknow.org/vocabulary/248>,
         <http://data.silknow.org/vocabulary/249>,
@@ -8245,7 +8163,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/31>,
         <http://data.silknow.org/vocabulary/310>,
         <http://data.silknow.org/vocabulary/311>,
-        <http://data.silknow.org/vocabulary/312>,
         <http://data.silknow.org/vocabulary/313>,
         <http://data.silknow.org/vocabulary/314>,
         <http://data.silknow.org/vocabulary/315>,
@@ -8263,7 +8180,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/33>,
         <http://data.silknow.org/vocabulary/330>,
         <http://data.silknow.org/vocabulary/335>,
-        <http://data.silknow.org/vocabulary/336>,
         <http://data.silknow.org/vocabulary/337>,
         <http://data.silknow.org/vocabulary/338>,
         <http://data.silknow.org/vocabulary/340>,
@@ -8277,7 +8193,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/35>,
         <http://data.silknow.org/vocabulary/354>,
         <http://data.silknow.org/vocabulary/355>,
-        <http://data.silknow.org/vocabulary/356>,
         <http://data.silknow.org/vocabulary/357>,
         <http://data.silknow.org/vocabulary/358>,
         <http://data.silknow.org/vocabulary/359>,
@@ -8292,7 +8207,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/367>,
         <http://data.silknow.org/vocabulary/368>,
         <http://data.silknow.org/vocabulary/369>,
-        <http://data.silknow.org/vocabulary/37>,
         <http://data.silknow.org/vocabulary/370>,
         <http://data.silknow.org/vocabulary/371>,
         <http://data.silknow.org/vocabulary/372>,
@@ -8405,7 +8319,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/483>,
         <http://data.silknow.org/vocabulary/484>,
         <http://data.silknow.org/vocabulary/485>,
-        <http://data.silknow.org/vocabulary/486>,
         <http://data.silknow.org/vocabulary/487>,
         <http://data.silknow.org/vocabulary/488>,
         <http://data.silknow.org/vocabulary/489>,
@@ -8480,8 +8393,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/558>,
         <http://data.silknow.org/vocabulary/559>,
         <http://data.silknow.org/vocabulary/56>,
-        <http://data.silknow.org/vocabulary/57>,
-        <http://data.silknow.org/vocabulary/59>,
         <http://data.silknow.org/vocabulary/6>,
         <http://data.silknow.org/vocabulary/60>,
         <http://data.silknow.org/vocabulary/600>,
@@ -8553,7 +8464,6 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/8>,
         <http://data.silknow.org/vocabulary/80>,
         <http://data.silknow.org/vocabulary/82>,
-        <http://data.silknow.org/vocabulary/83>,
         <http://data.silknow.org/vocabulary/84>,
         <http://data.silknow.org/vocabulary/86>,
         <http://data.silknow.org/vocabulary/87>,
@@ -8565,4 +8475,3 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/95>,
         <http://data.silknow.org/vocabulary/97>,
         <http://data.silknow.org/vocabulary/99> .
-
