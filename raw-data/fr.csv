@@ -1,207 +1,206 @@
-ID-ES,TERM-ES,,ID,TÉRMINO,Qualifier,DEFINICIÓN INICIAL,DEFINICIÓN FINAL,FUENTES ,SINÓNIMOS,OBSERVACIONES,,,,,,,,,,,,,,
-1,Acanalado,,1,Cannelé,,,,,,,,,,,,,,,,,,,,1--Cannelé--
-2,Acanalado,,2,"Cannelé
-",,,,,,,,,,,,,,,,,,,,"2--Cannelé
---"
-4,Acanalado alterno,,4,Cannelé alternatif,,,,,,,,,,,,,,,,,,,,4--Cannelé alternatif--
-5,Acanalado con dos urdimbres,,5,Cannelé simpleté,,,,,,,,,,,,,,,,,,,,5--Cannelé simpleté--
-6,Acanalado contramostrado,,6,cannetillé,,,,,,,,,,,,,,,,,,,,6--cannetillé--
-7,Acanalado de las Indias,,7,Cannelé des Indes,,,,,,,,,,,,,,,,,,,,7--Cannelé des Indes--
+ID-ES,TERM-ES,,ID,TERME,Qualifier,DEFINITION INITIALE,DEFINITION FINALE,BIBLIOGRAPHIE,SYNONYMES,OBSERVATION,,,,,,,,,,,,,,
+1,Acanalado,,1,Cannelé,,Tissu de soie plus spécialement à Reims,Subst. masc.,Leloir. Dictionnaire du costume.,,,,,,,,,,,,,,,,1--Cannelé--Subst. masc.
+2,Acanalado,,2,Cannelé,armure,"Armure à côtes parallèles à la trame, formées par des flottés de chaîne. Lorsque le mot cannelé n'est suivi d'aucun qualificatif, il désigne une armure à rapport de 2 fils dont les côtes sont uniquement dues à l'insertion de plusieurs coups de trame consécutifs dans le même pas.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,2--Cannelé--Subst. masc.
+4,Acanalado alterno,,4,Cannelé alternatif,armure,"Armure dont les côtes, constitués par des flottés de chaîne à l'endroit et par uen armure (généralement taffetas) à l'envers, sont alternativement formées par les fils impairs et des fils pairs.",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",Cannelé doubleté,,,,,,,,,,,,,,,4--Cannelé alternatif--
+5,Acanalado con dos urdimbres,,5,Cannelé simpleté,armure,Armure caractérisée par un jeu uniforme des fils d'une chaîne poil. Ces derniers flottent ensemble au-dessus d'une croisure des fils pièce puis lient en passant ensemble à l'envers pendant un ou deux coups.,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,5--Cannelé simpleté--
+6,Acanalado contramostrado,,6,cannetillé,armure,"Armure dont les fils poil forment des flottés contresemplés par groupes, au-dessus d'une croisure des fils pièce, selon le principe du cannelé seimpleté. L'aspect classique du cannelé est en partie détruit et les côtes sont remplacées par de petits carreaux ou rectangles imbriqués.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,6--cannetillé--Subst. masc.
+7,Acanalado de las Indias,,7,Cannelé des Indes,armure,"Armure dont les côtes, très faiblement marquées, sont formées par des flottés contresemplés des fils d'une chaîne poil, au-dessus d'une croisure d'envers produite par une chaîne pièce.",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,7--Cannelé des Indes--
 400,Acanalado longitudinal,,400,"Côte par la trame
 ",,,,,,,,,,,,,,,,,,,,"400--Côte par la trame
 --"
 399,Acanalado oblícuo,,399,Cannelé oblique,,,,,,,,,,,,,,,,,,,,9--Olive--
 401,Acanalado transversal,,401,Côte par la chaîne,,,,,,,,,,,,,,,,,,,,10--Damassé--
-,,,,,,,,,,,,,,,,,,,,,,,,12--filés de soie--
+,,,,,,,,,,,,,,,,,,,,,,,,12--Filés de soie--
 9,Aceituní ,,9,Olive,,,,,,,,,,,,,,,,,,,,----
-8,Acolchado,,8,Matelassé,,,,,,,,,,,,,,,,,,,,8--Matelassé--
-10,Adamascado ,,10,Damassé,,,,,,,,,,,,,,,,,,,,15--Peluché--
+8,Acolchado,,8,Matelassé,tissu,"Tissu façonné essentiellement caractérisé par des parties en fort relief réalisées d'après la technique du double-étoffe et l'appoint d'une trame, dite trame de bourré, insérée entre les croisure d'endroit et d'envers",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,8--Matelassé--Subst. masc.
+10,Adamascado ,,10,Damassé,tissu,Terme général utilisé pour désigner des tissus dont le décor procède du contraste d'armures des damas et dont l'aspect s'apparente à ceux-ci,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,15--Peluché--Subst. masc.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-12,Adúcar ,,12,filés de soie,,,,,,,,,,,,,,,,,,,,#REF!
+12,Adúcar ,,12,Filés de soie,,,,,,,,,,,,,,,,,,,,#REF!
 14,Adúcar  ,,,,,,,,,,,,,,,,,,,,,,,----
 15,Afelpado ,,15,Peluché,,,,,,,,,,,,,,,,,,,,20--Alberoni--
-17,Afelpar,,,,,,,,,,,,,,,,,,,,,,,----
+17,Afelpar,,17,Pelucher,,,,,,,,,,,,,,,,,,,,17--Pelucher--
 18,Agremán ,,,,,,,,,,,,,,,,,,,,,,,----
 19,Alama ,,,,,,,,,,,,,,,,,,,,,,,
 20,Alberoni,,20,Alberoni,,,,,,,,,,,,,,,,,,,,25--Alépine--
 21,Alcarchofado ,,,,,,,,,,,,,,,,,,,,,,,27--Endroit--
 ,,,,,,,,,,,,,,,,,,,,,,,,28--Tapis--
 23,Alcatifa ,,,,,,,,,,,,,,,,,,,,,,,29--Âme--
-25,Alepín ,,25,Alépine,,,,,,,,,,,,,,,,,,,,
+25,Alepín ,,25,Alépine,tissu,Etoffe formée de soie et de laine peignée,Subst. fém.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,30--Face trame--
-28,Alfombra ,,28,Tapis,,,,,,,,,,,,,,,,,,,,#REF!
-29,Alma ,,29,Âme,,,,,,,,,,,,,,,,,,,,
+28,Alfombra ,,28,Tapis,,"Panneau d'étoffe ouvragé que l'on pose sur un meuble, un mur ou un sol",Subst. masc.,CNRTL. https://cnrtl.fr/definition/tapis. Consulté en septembre 2019,,,,,,,,,,,,,,,,#REF!
+29,Alma ,,29,Âme,fil,Fil autour duquel est enroulé un autre fil,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,
 31,Altibajo ,,,,,,,,,,,,,,,,,,,,,,,----
 32,Anafaya ,,,,,,,,,,,,,,,,,,,,,,,36--Anacoste --
-36,Anascote ,,36,Anacoste ,,,,,,,,,,,,,,,,,,,,
-99,Ancho casulla,,,,,,,,,,,,,,,,,,,,,,,38--Application--
-66,Ancho de tela,,,,,,,,,,,,,,,,,,,,,,,39--Application--
-38,Aplicación ,,38,Application,,,,,,,,,,,,,,,,,,,,41--corps de lisses--
+36,Anascote ,,36,Anacoste ,tissu,Etoffe dont la chaîne et la trame sont en laine et à double croisure ou sorte de serge dont la chaîne et la trame sont à double croisure,Subst. fém.,Larousse universel en 2 volumes ; Leloir. Dictionnaire du costume,,,,,,,,,,,,,,,,
+99,Ancho casulla,,,,,,,,,,,,,,,,,,,,,,,--Application--
+66,Ancho de tela,,66,Laize ou laise,,"Largeur du tissu, comportant ses deux lisières",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",lé,,,,,,,,,,,,,,,39--Application--Subst. fém.
+38,Aplicación ,,,Application,,,,,,,,,,,,,,,,,,,,41--corps de lisses--
 39,Aplicación ,,39,Application,,,,,,,,,,,,,,,,,,,,#REF!
-403,Arcada,,403,Arcade,,,,,,,,,,,,,,,,,,,,403--Arcade--
-41,Arnés,,41,corps de lisses,,,,,,,,,,,,,,,,,,,,#REF!
-42,Arrasado ,,,,,,,,,,,,,,,,,,,,,,,47--Velouté--
+403,Arcada,,403,Arcade,,"Fil de chanvre ou de lin, retors de quatre à six brins. Assemblage de deux de ces fils réunis à leur sommet par un noeud formant boucle",,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,403--Arcade--
+41,Arnés,,41,corps de lisses,,1. Corps de lisses auquel est ordinairement assigné un rôle particulier dans la formation du tissu. 2. Ensemble des lisses d'un métier (ordinairement lorsqu'il n'existe qu'un seul corps),,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+42,Arrasado ,,42,Satiné,,Qui a l'aspect lustré du satin,Adj. ,,,,,,,,,,,,,,,,,47--Velouté--Adj. 
 43,Asargado ,,,,,,,,,,,,,,,,,,,,,,,----
 44,Atafetanado ,,,,,,,,,,,,,,,,,,,,,,,----
 47,Aterciopelado ,,47,Velouté,,,,,,,,,,,,,,,,,,,,#REF!
-48,Atirelado,,,,,,,,,,,,,,,,,,,,,,,52--Aurore--
+48,Atirelado,,,,,,,,,,,,,,,,,,,,,,,52--Aurore--Adj.
 49,Atisuado ,,,,,,,,,,,,,,,,,,,,,,,53--Aurore--
 51,Atractiva ,,,,,,,,,,,,,,,,,,,,,,,54--Austria --
-52,Aurora ,,52,Aurore,,,,,,,,,,,,,,,,,,,,#REF!
-53,Aurora ,,53,Aurore,,,,,,,,,,,,,,,,,,,,56--Balastri--
-54,Austria ,,54,Austria ,,Tissu satin (généralement de 5) utilisé comme doublure et constitué d'une chaîne en soie grège et d'une trame en coton. (généralement de 5) ,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 72.",,,,,,,,,,,,,,,,#REF!
-55,Azache ,,55,Schappe,,,,,,,,,,,,,,,,,,,,62--Batavia --
+52,Aurora ,,52,Aurore,couleur,D'un jaune doré,Adj.,Larousse universel en 2 volumes ,,,,,,,,,,,,,,,,#REF!
+53,Aurora ,,53,Aurore,tissu,Tissu de soie de cette couleur,,,,,,,,,,,,,,,,,,56--Balastri--
+54,Austria ,,54,Austria ,tissu,Tissu satin (généralement de 5) utilisé comme doublure et constitué d'une chaîne en soie grège et d'une trame en coton. (généralement de 5) ,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 72.",,,,,,,,,,,,,,,,#REF!
+55,Azache ,,55,Schappe,fil,Fil contenu par le peignage et la filature des déchets de soie après destruction d'une partie de leur grès,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,62--Batavia --
 56,Balastri,,56,Balastri,,,,,,,,,,,,,,,,,,,,63--Apprêt (moulinage)--
-,,,,,,,,,,,,,,,,,,,,,,,,65--Batik --
+,,,,,,,,,,,,,,,,,,,,,,,,65--Batik --Subst. masc.
 ,,,,,,,,,,,,,,,,,,,,,,,,#REF!
-60,Basta ,,60,Flotté,,,,,,,,,,,,,,,,,,,,#REF!
-72,Batán,,72,Battant,,,,,,,,,,,,,,,,,,,,68--Bayadère--
+60,Basta ,,60,Flotté,,"Enjambement d'un fil de chaîne au-dessus, ou au-dessous, de plusieurs coups de trame contigus, ou d'une trame au-dessus ou au-dessous de plusieurs fils de chaîne contigus",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+72,Batán,,72,Battant,,"Organe du métier à tisser, dans lequel se trouve fixé le peigne servant à serrer les trames du tissu",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,68--Bayadère--Subst. masc.
 ,,,,,,,,,,,,,,,,,,,,,,,,69--Belelac--
 62,Batavia ,,62,Batavia ,,,,,,,,,,,,,,,,,,,,70--Bengaline--
-63,Batido de la seda,,63,Apprêt (moulinage),,,,,torsion,,,,,,,,,,,,,,,#REF!
+63,Batido de la seda,,63,Apprêt (moulinage),,Action de tordre un fil ou un groupe de fil,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",torsion,,,,,,,,,,,,,,,#REF!
 ,,,,,,,,,,,,,,,,,,,,,,,,72--Battant--
-65,Batik ,,65,Batik ,,,,,,,,,,,,,,,,,,,,73--Blonde --
-67,Batista de seda ,,67,Batiste de soie,,,,,,,,,,,,,,,,,,,,#REF!
-68,Bayadera ,,68,Bayadère,,,,,,,,,,,,,,,,,,,,75--Blonde de Bruxelles--
+65,Batik ,,65,Batik ,,"1. Terme indonésien désignant un procédé de décoration sur tissu, par réserve. 2. Tissu en résultant ; Nom donné à une étoffe décorée, originiare de Java. Avec un tube de bambou à pointe métallique formant un canal, on laque de cire le tissu suivant un dessin déjà tracé ; certaines parties sont réservées tour à tour pour des laquages successifs. L'étoffe est alors plongée dans un bain de teinture jaune, puis indigo, puis brune. En Europe, on fait souvent des batiks en chiffonnant l'étoffe et en la pressant ; on la trempe dans une teinture, on la fait sécher et les plis ont formé des dessins irréguliers.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,73--Blonde --Subst. masc.
+67,Batista de seda ,,67,Batiste de soie,,"Toile très fine et serrée. Ce tissu fut inventé au XIIIème siècle à Cambrai par Batiste Chambrai et a conservé le nom de l'inventeur, avec contraction de l'orthographe.
+Tissu de soie qui imite la batiste de lin, une toile fine et serrée,
+ qui sert à la fabrication de dessous féminins comme les soutiens-gorge,
+ les corsets, etc",Subst. fém.,Leloir. Dictionnaire du tissu ; CNRTL,,,,,,,,,,,,,,,,#REF!
+68,Bayadera ,,68,Bayadère,tissu,Tissu à bandes parallèles à la trame produites par des armures différentes se succédant périodiquement,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,75--Blonde de Bruxelles--Subst. fém.
 69,Belelachs ,,69,Belelac,,,,,,,,,,,,,,,,,,,,#REF!
 71,Bengala ,,,,,,,,,,,,,,,,,,,,,,,77--Blonde espagnole--
-70,Bengalina ,,70,Bengaline,,,,,,,,,,,,,,,,,,,,#REF!
-404,Berclé,,404,Berclé,,,,,,,,,,,,,,,,,,,,404--Berclé--
-73,Blonda ,,73,Blonde ,,,,,,,,,,,,,,,,,,,,#REF!
+70,Bengalina ,,70,Bengaline,tissu,Etoffe de soie à trame de coton ou de laine,Subst. fém.,Larousse universel en 2 volumes,,,,,,,,,,,,,,,,#REF!
+404,Berclé,,404,Berclé,,Effet de dessin produit conjointement par deux trames de couleurs ou de tons différents et dans lesquels elles alternent leurs flottés. Se rencontre généralement à la limite de deux effets auxquels il sert de transition,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,404--Berclé--Subst. masc.
+73,Blonda ,,73,Blonde ,tissu,Dentelle de soie exécutée aux fuseaux. La blonde tire son nom de la soie écrue avec laquelle elle fut faite primitivement. On l'utilisait beaucoup au XVIIème et surtout au XIXème pour les robes et la lingerie,Subst. fém.,Larousse universel en 2 volumes ; Leloir. Dictionnaire du costume,,,,,,,,,,,,,,,,#REF!
 74,Blonda brillante ,,,,,,,,,,,,,,,,,,,,,,,----
 75,Blonda bruselas ,,75,Blonde de Bruxelles,,,,,,,,,,,,,,,,,,,,#REF!
 76,Blonda castañuela ,,,,,,,,,,,,,,,,,,,,,,,----
 77,Blonda española ,,77,Blonde espagnole,,,,,,,,,,,,,,,,,,,,88--Broder--
-78,Blonda granadina ,,,,,,,,,,,,,,,,,,,,,,,----
+78,Blonda granadina ,,78,Blonde de Grenade,,,,,,,,,,,,,,,,,,,,78--Blonde de Grenade--
 ,,,,,,,,,,,,,,,,,,,,,,,,90--bourrette--
 80,Blondina ,,,,,,,,,,,,,,,,,,,,,,,----
 82,Bobillo  ,,,,,,,,,,,,,,,,,,,,,,,----
-263,Bobina,,263,Bobine,,,,,,,,,,,,,,,,,,,,97--Brocart--
+263,Bobina,,263,Bobine,,"Petit cylindre à rebords en bois, carton ou autre matière, sur lequel sont enroulés les fils en vue de faciliter leur manipulation ultérieure ",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,97--Brocart--Subst. fém.
 84,Bolla ,,,,,,,,,,,,,,,,,,,,,,,----
 86,Bordadillo ,,,,,,,,,,,,,,,,,,,,,,,----
 87,Bordado ,,,,,,,,,,,,,,,,,,,,,,,----
-88,Bordar ,,88,Broder,,,,,,,,,,,,,,,,,,,,#REF!
-405,Bordón,,405,Côte,,,,,,,,,,,,,,,,,,,,----
+88,Bordar ,,88,Broder,,"Faire des dessins à l'aiguille ou au métier, en relief sur une étoffe",Vb.,Larousse universel en 2 volumes,,,,,,,,,,,,,,,,#REF!
+405,Bordón,,405,Côte,,"Ligne verticale, horizontale ou oblique, plus ou moins saillante constituée à la surface du tissu par le croisement des fils de chaîne et de trame",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,105--Brocher--Subst. fém.
 89,Borla ,,,,,,,,,,,,,,,,,,,,,,,----
-90,Borra de seda ,,90,bourrette,,,,,,,,,,,,,,,,,,,,#REF!
+90,Borra de seda ,,90,bourrette,fil,"Fil de soie grossier, produit à partir des déchets de filature de la schappe",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 92,Brillantina ,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 95,Brocadillo ,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-97,Brocado ,,97,Brocart,,,,,,,,,,,,,,,,,,,,#REF!
-,,,,,,,,,,,,,,,,,,,,,,,,"119--Changeant
---"
+97,Brocado ,,97,Brocart,,"Etoffe richement décorée, par tissage, de fils d'or ou d'argent",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+,,,,,,,,,,,,,,,,,,,,,,,,119--Changeant--
 101,Brocado de terciopelo ,,,,,,,,,,,,,,,,,,,,,,,----
 102,Brocado de tres altos ,,,,,,,,,,,,,,,,,,,,,,,----
-103,Brocatel ,,,,,,,,,,,,,,,,,,,,,,,----
+103,Brocatel ,,103,brocatelle,tissu,"Tissu de la famille des lampas, caractérisé dans sa forme classique par des effets de satin en relief se détachant sur un fond par effet de trame lancée liée régulièrement par une chaîne de liage",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,103--brocatelle--Subst. masc.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-105,Brochar ,,,,,,,,,,,,,,,,,,,,,,,#REF!
+105,Brochar ,,105,Brocher,,"Tisser partiellement au moyen de très petites navettes dites espolins, espoliner",Vb.,,,,,,,,,,,,,,,,,#REF!
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 108,Buratina ,,,,,,,,,,,,,,,,,,,,,,,----
 111,Burato ,,,,,,,,,,,,,,,,,,,,,,,----
 112,Cachemira de seda ,,,,,,,,,,,,,,,,,,,,,,,----
 113,Cadarzo ,,,,,,,,,,,,,,,,,,,,,,,----
 115,Cairel ,,,,,,,,,,,,,,,,,,,,,,,----
-396, Calada,,396,Marche,,,,,pas,,,,,,,,,,,,,,,#REF!
-117,Calicut ,,,,,,,,,,,,,,,,,,,,,,,----
+396, Calada,,396,Marche,,Pédale au moyen de laquelle le tisseur actionne une ou plusieurs lisses aux métiers à bras,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",pas,,,,,,,,,,,,,,,#REF!
+117,Calicut ,,117,Calicot,,Toile de coton inférieure à celle dite percale,Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,117--Calicot--Subst. masc.
 118,Calquier ,,,,,,,,,,,,,,,,,,,,,,,----
-119,Cambiante ,,119,"Changeant
-",,,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 134",,,,,,,,,,,,,,,,#REF!
-406,Camelote,,406,Camelot,,,,,,,,,,,,,,,,,,,,406--Camelot--
+119,Cambiante ,,119,Changeant,,Tissu de soie en taffetas dont la chaîne et la trame sont de couleur différente,Subst. masc.,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: dictionnaire historique, Paris, Editions de l’amateur, 1994, p. 134 ; FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852",caméléon,,,,,,,,,,,,,,,#REF!
+406,Camelote,,406,Camelot,,"Grosse étoffe formée de poil de chèvre ou de laine, et dont le poil forme des ondulations",Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,406--Camelot--Subst. masc.
 120,Camelote de aguas ,,,,,,,,,,,,,,,,,,,,,,,----
 121,Camelote de flores ,,,,,,,,,,,,,,,,,,,,,,,----
-122,Camelote de seda ,,,,,,,,,,,,,,,,,,,,,,,----
+122,Camelote de seda ,,112,Camelot de soie,,,,,,,,,,,,,,,,,,,,112--Camelot de soie--
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-212,Camino a retorno,,212,Chemin à retour,,,,,,,,,,,,,,,,,,,,212--Chemin à retour--
+212,Camino a retorno,,212,Chemin à retour,,Chemin dont les arcades sont reliées aux cordes du rame dans l'ordre inverse de leur numérotation,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,212--Chemin à retour--
 145,Camino seguido,,145,"Chemin suivi
-",,,,,,,,,,,,,,,,,,,,#REF!
+",,Chemin sont les arcades sont reliées dans l'ordre naturel aux cordes du rame ,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 124,Camocán ,,,,,,,,,,,,,,,,,,,,,,,"145--Chemin suivi
 --"
 125,Cancania ,,,,,,,,,,,,,,,,,,,,,,,----
-127,Canilla ,,127,Canette,,,,,,,,,,,,,,,,,,,,127--Canette--
+127,Canilla ,,127,Canette,,Bobine de fil placée dans la navette,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,127--Canette--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-281,Cántara,,281,Cassin,,,,,,,,,,,,,,,,,,,,281--Cassin--
-128,Canutillo ,,128,Côtelé,,,,,,,,,,,,,,,,,,,,128--Côtelé--
-129,Canutillo ,,129,Côtelé,,,,,,,,,,,,,,,,,,,,129--Côtelé--
-130,Canutillo ,,130,Côtelé,,,,,,,,,,,,,,,,,,,,130--Côtelé--
+281,Cántara,,281,Cassin,,"Accessoire des métiers à la tire, composé d'un ensemble de petites poulies permettant d'étendre le rame sur le côté du métier afin qu'il puisse recevoir, soit directement les lacs, soit les semples qui porteront ces lacs",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,281--Cassin--Subst. masc.
+128,Canutillo ,,128,Côtelé,,Terme général appliqué aux tissu à côtes très saillantes,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,128--Côtelé--
+129,Canutillo ,,129,Côtelé,,Terme général appliqué aux tissu à côtes très saillantes,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,129--Côtelé--
+130,Canutillo ,,130,Côtelé,,Terme général appliqué aux tissu à côtes très saillantes,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,130--Côtelé--
 131,Capichola ,,,,,,,,,,,,,,,,,,,,,,,----
-132,Capullo ,,132,Cocon,,,,,,,,,,,,,,,,,,,,132--Cocon--
+132,Capullo ,,132,Cocon,,Enveloppe dont s'entoure le ver à soie et dans laquelle il se transforme en chrysalide puis en papillon,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,132--Cocon--Subst. masc.
 133,Capullo ,,,,,,,,,,,,,,,,,,,,,,,----
 648,Cárcola,,,,,,,,,,,,,,,,,,,,,,,----
-134,Carmesí ,,134,Cramoisi,,,,,,,,,,,,,,,,,,,,134--Cramoisi--
+134,Carmesí ,,134,Cramoisi,couleur,D'un rouge foncé,Adj.,Larousse universel en 2 volumes,,,,,,,,,,,,,,,,134--Cramoisi--Adj.
 135,Carmesí ,,135,Cramoisi,,,,,,,,,,,,,,,,,,,,135--Cramoisi--
-136,Casulla ,,,,,,,,,,,,,,,,,,,,,,,----
+136,Casulla ,,136,Chasuble,vêtement,"A l'origine, la chasuble est un vêtement civil conçu pour les femmes et les hommes. Il s'agissait d'un manteau de voyage ou de pluie, avec ou sans capuchon, que l'on enfilait par la tête et qui tombait jusqu'aux pieds. La personne était alors enveloppée par le vêtement, protégée par cette ""maisonnette"" de tissu - d'où son nom dérivant du latin casa, casula, casabula, et enfin chasuble. C'est vers le milieu du VIème siècle que la chasuble devint un vêtement liturgique recouvrant l'étole pour dire la messe.",Subst. fém.,,,,,,,,,,,,,,,,,136--Chasuble--Subst. fém.
 137,Catalufa ,,,,,,,,,,,,,,,,,,,,,,,----
 138,Cendal ,,,,,,,,,,,,,,,,,,,,,,,----
 139,Ceñidor ,,,,,,,,,,,,,,,,,,,,,,,----
 140,Chaúl ,,,,,,,,,,,,,,,,,,,,,,,----
-417,Chenilla,,417,Chenille,,,,,,,,,,,,,,,,,,,,168--Damas--
+417,Chenilla,,417,Chenille,fil,"Fil comportant des franges courtes et rapprochées, utilisé ordinairement comme trame de broché. Confère aux effets de dessin formés par ce fil l'aspect du velours coupé",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,168--Damas--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-142,Chiffon ,,,,,,,,,,,,,,,,,,,,,,,----
-143,Chiné ,,143,Chiné,,,,,,,,,,,,,,,,,,,,143--Chiné--
-144,Chiné a la rama,,144,Chiné à la branche,,,,,,,,,,,,,,,,,,,,144--Chiné à la branche--
+142,Chiffon ,,142,Chiffon,,,,,,,,,,,,,,,,,,,,142--Chiffon--
+143,Chiné ,,143,Chiné,fil,"1. Fil comportant différentes colorations obtenues par teinture ou par impression. 2. Tissu exécuté avec des fils chinés, utilisés en chaîne ou en trame",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,143--Chiné--Subst. masc.
+144,Chiné a la rama,,144,Chiné à la branche,tissu,"Tissu de soie du XVIIIème siècle, décoré de dessins polychromes préparés sur des groupes de fils (branches) par des teintures successives avec réserves.",,,,,,,,,,,,,,,,,,144--Chiné à la branche--
 146,Ciclatón ,,,,,,,,,,,,,,,,,,,,,,,----
 147,Cinta ,,147,"Ruban
-",,,,,,,,,,,,,,,,,,,,"147--Ruban
---"
-148,Cinta bordada ,,,,,,,,,,,,,,,,,,,,,,,----
+",,"Tissu plat et mince, en longueur, formant lisière. Les rubans peuvent être dans toutes les matières, comme la soie, le satin ou le velours, et ils se tissent par pièce.",Subst. masc.,Leloir. Dictionnaire du costume,,,,,,,,,,,,,,,,"147--Ruban
+--Subst. masc."
+148,Cinta bordada ,,148,Ruban brodé,,,,,,,,,,,,,,,,,,,,148--Ruban brodé--
 248,Claro,,,,,,,,,,,,,,,,,,,,,,,----
-409,Coletaje,,409,Colletage,,,,,,,,,,,,,,,,,,,,409--Colletage--
+409,Coletaje,,409,Colletage,,Suspension dans un ordre déterminé des arcades aux cordes du rame.,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,409--Colletage--Subst. masc.
 149,Colonia ,,,,,,,,,,,,,,,,,,,,,,,----
-410,Contextura,,410,Contexture,,,,,,,,,,,,,,,,,,,,410--Contexture--
-411,Contramostrado,,411,Contresemplé,,,,,,,,,,,,,,,,,,,,411--Contresemplé--
+410,Contextura,,410,Contexture,,1. Mode de formation d'un tissu. 2. Manière sont les fils de chaîne et de trame sont entrecroisés,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,410--Contexture--Subst. fém.
+411,Contramostrado,,411,Contresemplé,,"Disposition en quinconce d'un motif de dessin (ou de liages d'une armure), provoquée par une déplacement d'un demi-rapport",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,411--Contresemplé--Subst. masc.
 150,Cordelado ,,,,,,,,,,,,,,,,,,,,,,,----
-264,Cordelina,,264,Cordeline,,,,,,,,,,,,,,,,,,,,264--Cordeline--
+264,Cordelina,,264,Cordeline,fil,"Gros fil, ou groupe de quelques fils, adjoints au bord extérieurd es lisières pour les renforcer et fixer les trames",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,264--Cordeline--Subst. fém.
 151,Cordoncillo ,,,,,,,,,,,,,,,,,,,,,,,----
 152,Cotí ,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,#REF!
 155,Crepé ,,,,,,,,,,,,,,,,,,,,,,,----
-157,Crespón ,,157,Crêpe,,,,,,,,,,,,,,,,,,,,157--Crêpe--
-158,Crespón de China ,,158,Crêpe de Chine,,,,,,,,,,,,,,,,,,,,158--Crêpe de Chine--
+157,Crespón ,,157,Crêpe,fil,"1. Fil formé de plusieurs fils de grège, assemblée par une torsion élevée S ou Z, généralement poussée au maximum (environ 1500 ou 3000 tours au mètre). 2. Fil de laine, de coton, de schappe, très fortement tordu. 3. Tissu composé de fils de crêpe ; Ce tissu se fabrique depuis la plus haute antiquité en Orient, et ce n'est qu'après les Croisades qu'il fut adopté en Occident. C'est au XIIIème siècle que l'on commença à contrefaire le crêpe en Italie, puis à Lyon au XVIème siècle, enfin en Angleterre.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997 ; Leloir. Dictionnaire du costume",,,,,,,,,,,,,,,,157--Crêpe--Subst. masc.
+158,Crespón de China ,,158,Crêpe de Chine,tissu,"Crêpe de soie plus épais que le crêpe de soie ordinaire. Doux au toucher et tombant, il peut être fait de soie, ou de laine et de soie",,Larousse universel en 2 volumes,,,,,,,,,,,,,,,,158--Crêpe de Chine--
 159,Crespón de Lyon ,,159,Crêpe de Lyon,,,,,,,,,,,,,,,,,,,,159--Crêpe de Lyon--
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-161,Crespón inglés ,,161,Crêpe anglais,,,,,,,,,,,,,,,,,,,,161--Crêpe anglais--
+161,Crespón inglés ,,161,Crêpe anglais,tissu,Crêpe que l'on obtient en faisant passer le tissu entre deux cylindres gravés,,Larousse universel en deux volumes,,,,,,,,,,,,,,,,161--Crêpe anglais--
 162,Crespón marroquí ,,162,Crêpe marocain,,,,,,,,,,,,,,,,,,,,162--Crêpe marocain--
-163,Cristalina ,,163,Cristaliine,,,,,,,,,,,,,,,,,,,,163--Cristaliine--
+163,Cristalina ,,163,Cristaline,,,,,,,,,,,,,,,,,,,,163--Cristaline--
 413,Cruce,,,,,,,,,,,,,,,,,,,,,,,----
-164,Crudo,,164,Écru,,,,,,,,,,,,,,,,,,,,164--Écru--
-166,Cuenta,,166,Compte,,,,,,,,,,,,,,,,,,,,166--Compte--
-414,Cuerpo,,414,Corps,,,,,,,,,,,,,,,,,,,,414--Corps--
-415,Curso de ligamento,,415,Rapport d'armure,,,,,,,,,,,,,,,,,,,,415--Rapport d'armure--
-167,Damarás ,,167,Damaras,,,,,,,,,,,,,,,,,,,,167--Damaras--
-168,Damasco ,,168,Damas,,Type de tissu dont le nom provient de la capitale syrienne. Son dessin est marqué par un contraste entre des zones brillantes et des zones mates résultant de l'alternance d'un effet de chaîne avec un effet de trame sur une armure généralement satin ou sergé. L'endroit et l'envers présentent le même dessin mais avec des effets inversés. Sa forme la plus simple est constituée d'une seule chaîne et d'une seule trame.,,,,,,,,,,,,,,,,,,#REF!
+164,Crudo,,164,Écru,,1. Etat d'un fil n'ayant subi aucune préparation tinctoriale. 2. Tissu exécuté avec de tels fils,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,164--Écru--Subst. masc.
+166,Cuenta,,166,Compte,,"Synonyme de réduction ; terme qui s'applique indistinctement à la chaîne, à la trame, aux lisses, au corps, aux peignes, aux empoulages, aux mécaniques, etc.",Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,réduction,,,,,,,,,,,,,,,166--Compte--Subst. masc.
+414,Cuerpo,,414,Corps,,"1. Corps de lisses, ou groupes de maillons, auquel est ordinairement assigné un rôle particulier dans la formation du tissu. 2. Ensemble des maillons ou des lisses d'un métier (ordinairement lorsqu'il n'existe qu'un seul corps)",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,414--Corps--Subst. masc.
+415,Curso de ligamento,,415,Rapport d'armure,,Nombre de fils de chaîneet de coups de trame composant le cycle d'évolution de l'armure considérée,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,415--Rapport d'armure--
+167,Damarás ,,167,Damarras,,"Genre d'armoisin, taffetas à fleurs fabriqués en Inde",Subst. ?.,Leloir. Dictionnaire du tissu,,,,,,,,,,,,,,,,167--Damarras--Subst. ?.
+168,Damasco ,,168,Damas,tissu,Type de tissu dont le nom provient de la capitale syrienne. Son dessin est marqué par un contraste entre des zones brillantes et des zones mates résultant de l'alternance d'un effet de chaîne avec un effet de trame sur une armure généralement satin ou sergé. L'endroit et l'envers présentent le même dessin mais avec des effets inversés. Sa forme la plus simple est constituée d'une seule chaîne et d'une seule trame.,Subst. masc.,,,,,,,,,,,,,,,,,#REF!
 169,Damasina ,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 171,Damasquillo ,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-418,Delfinado,,418,Dauphiné,,,,,,,,,,,,,,,,,,,,418--Dauphiné--
+418,Delfinado,,418,Dauphine,tissu,"Tissu façonné du XVIIème siècle d'une construction analogue à celle des droguets liserés mais caractérisés par des fonds pékinés,ordiniarement armurés en cannelé simpleté ou en cannetillé",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,418--Dauphine--
 173,Diaspro ,,,,,,,,,,,,,,,,,,,,,,,----
 297,Diaspro ,,,,,,,,,,,,,,,,,,,,,,,----
-419,Diente,,419,Dent,,,,,,,,,,,,,,,,,,,,419--Dent--
-420,Doblaje,,420,Doublage,,,,,,,,,,,,,,,,,,,,420--Doublage--
-421,Doble tela,,421,Double étoffe,,,,,,,,,,,,,,,,,,,,421--Double étoffe--
-174,Droguete de seda ,,174,Droguet de soie,,,,,,,,,,,,,,,,,,,,174--Droguet de soie--
-175,Efecto,,175,Effet,,,,,,,,,,,,,,,,,,,,175--Effet--
-176,Efecto de bastas por trama,,176,Liseré,,,,,,,,,,,,,,,,,,,,220--Florentine--
+419,Diente,,419,Dent,,"Intervalle séparant deux lamelles du peigne, où sont passés les fils de chaîne",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,419--Dent--Subst. fém.
+420,Doblaje,,420,Doublage,,"Réunion de plusieurs fils, en vue de leur assemblage par torsion",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,420--Doublage--Subst. masc.
+421,Doble tela,,421,Double-étoffe,,"1. Tissu, ou partie de tissu, composé de deux couches distinctes tissées l'une au-dessus de l'autre. 2. Combinaison de tissage concourant à l'exécution de tels tissus. 3. Par extension, exécution simultanée de plus de deux tissus (ou portions de tissu) superposées. Exemple : triple-étoffe",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,421--Double-étoffe--Subst. fém.
+174,Droguete de seda ,,174,Droguet de soie,,"Étoffe (de laine et coton, coton et soie ou de soie) ornée de dessins brochés passant à l'envers d'un dessin à l'autre sans être tissés dans le fond de l'étoffe",,CNRTL. https://cnrtl.fr/definition/droguet. Consulté en septembre 2019,,,,,,,,,,,,,,,,174--Droguet de soie--
+175,Efecto,,175,Effet,,"Système de croisure participant à la formation d'un tissu façonné. Par extension, motif de dessin",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,175--Effet--Subst. masc.
+176,Efecto de bastas por trama,,176,Liseré,,Effet de dessin formé par une trame de fond,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,220--Florentine--Subst. fém.
 177,Efecto de perdido de urdimbre,,,,,,,,,,,,,,,,,,,,,,,----
 178,Efecto de perdido por trama ,,,,,,,,,,,,,,,,,,,,,,,----
 179,Embrochado ,,,,,,,,,,,,,,,,,,,,,,,----
-180,Encaje ,,180,Dentelle,,,,,,,,,,,,,,,,,,,,180--Dentelle--
-181,Encaje de aguja ,,,,,,,,,,,,,,,,,,,,,,,----
+180,Encaje ,,180,Dentelle,,"Tissu sans trame ni chaîne, généralement en fil de soie, nylon ou fibres plus riches selon les cas, exécuté à la main ou à la machine, à l'aide de points semblables ou non formant un dessin, à bords dentelés ou non.",Subst. fém.,CNRTL. https://cnrtl.fr/definition/dentelle. Consulté en septembre 2019,,,,,,,,,,,,,,,,180--Dentelle--Subst. fém.
+181,Encaje de aguja ,,181,Dentelle à l'aiguille,,"La dentelle à l'aiguille est un ouvrage, où la dentellière forme elle-même le soutien (c'est-à-dire le ""réseau"" qu'elle va décorer) avec l'aiguille. La dentelle a fait ses débuts en Italie et a alors pris le nom de ""punto in aria"" (ou ""point dans l'air""), et on la retrouve pour la première fois mentionnée dans un ouvrage XVIème siècle. On pense que la dentelle à l'aiguille est née à Venise - tandis que la dentelle aux fuseaux serait née dans les Flandres. La dentelle à l'aiguille a été introduite en France par Catherine de Médicis.",,Leloir. Dictionnaire du costume ; Encyclopedia Britannica,,,,,,,,,,,,,,,,181--Dentelle à l'aiguille--
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-423,Envés,,423,Envers,,,,,,,,,,,,,,,,,,,,423--Envers--
-424,Escalonado,,424,Décochement,,,,,,,,,,,,,,,,,,,,424--Décochement--
+423,Envés,,423,Envers,,Face du tissu opposée à l'endroit,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,423--Envers--Subst. masc.
+424,Escalonado,,424,Décochement,,"Succession des liages d'une armure, selon un rythme déterminé indiqué par un nombre.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,424--Décochement--Subst. masc.
 185,Escarzo ,,,,,,,,,,,,,,,,,,,,,,,----
-186,Escocés ,,,,,,,,,,,,,,,,,,,,,,,----
+186,Escocés ,,186,Tartan écossais,,"Etoffe souple et moelleuse, en laine cardée, pour robe et manteaux de dames. Grand mouchoir de laine, très commun, écossais ou façonné",,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,186--Tartan écossais--
 ,,,,,,,,,,,,,,,,,,,,,,,,234--Gaze anglaise--
 188,Esparragón ,,,,,,,,,,,,,,,,,,,,,,,----
-189,Espiguilla,,,,,,,,,,,,,,,,,,,,,,,----
-190,EspolÍn ,,190,Espolin,,,,,,,,,,,,,,,,,,,,190--Espolin--
-191,Espolín ,,191,Espolin,,,,,,,,,,,,,,,,,,,,191--Espolin--
+189,Espiguilla,,189,Chevron,,Sillon oblique avec retour par effet de chaîne ou de trame,Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,189--Chevron--Subst. masc.
+190,EspolÍn ,,190,Espolin,,Petite navette utilisée pour le tissage des trames brochées,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,190--Espolin--Subst. masc.
+191,Espolín ,,191,Espolin,,Courte canette placée dans l'espolin (navette),Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,191--Espolin--Subst. masc.
 192,Espolinado ,,192,Espoliné,,,,,,,,,,,,,,,,,,,,192--Espoliné--
-193,Espolinar ,,,,,,,,,,,,,,,,,,,,,,,----
+193,Espolinar ,,193,Espoliner,,"Passer les expolins, brocher",Vb.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,193--Espoliner--Vb.
 194,Espumilla ,,,,,,,,,,,,,,,,,,,,,,,----
 195,Espumillón ,,,,,,,,,,,,,,,,,,,,,,,----
 196,Estampado ,,,,,,,,,,,,,,,,,,,,,,,----
@@ -209,265 +208,265 @@ ID-ES,TERM-ES,,ID,TÉRMINO,Qualifier,DEFINICIÓN INICIAL,DEFINICIÓN FINAL,FUENT
 198,Estampar ,,198,Imprimer,,,,,,,,,,,,,,,,,,,,198--Imprimer--
 199,Estofar ,,,,,,,,,,,,,,,,,,,,,,,----
 200,Faille crespón,,200,Faille crêpe,,,,,,,,,,,,,,,,,,,,200--Faille crêpe--
-201,Faya ,,201,Faille,,,,,,,,,,,,,,,,,,,,201--Faille--
-202,Felpa,,202,Felpa,,,,,,,,,,,,,,,,,,,,202--Felpa--
+201,Faya ,,201,Faille,,"Etoffe de soie ou de rayonne à gros grains, formant des cotes",Subst. fém.,Larousse universel en 2 volumes ; CNRTL. https://cnrtl.fr/definition/faille. Consulté en septembre 2019,,,,,,,,,,,,,,,,201--Faille--Subst. fém.
+202,Felpa,,202,Peluche,,"Velours coupé, à très longs poils",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,202--Peluche--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 205,Felpudo,,,,,,,,,,,,,,,,,,,,,,,----
 206,Festón,,,,,,,,,,,,,,,,,,,,,,,----
 207,Festón,,,,,,,,,,,,,,,,,,,,,,,----
-209,Fibra ,,209,Fibre,,,,,,,,,,,,,,,,,,,,209--Fibre--
-210,Fibra animal ,,210,Fibre animale,,,,,,,,,,,,,,,,,,,,210--Fibre animale--
-213,Fibra natural,,213,Fibre naturelle,,,,,,,,,,,,,,,,,,,,213--Fibre naturelle--
-35,Fibra artificial,,35,Fibre synthétique,,,,,,A vérifier : la définition espagnole semble mêler fibre synthétique et fibre artificielle.,,,,,,,,,,,,,,35--Fibre synthétique--
-214,Fibra vegetal ,,214,Fibre végétale,,,,,,,,,,,,,,,,,,,,214--Fibre végétale--
-24,Fibroína,,24,Fibroïne,,,,,,,,,,,,,,,,,,,,----
-216,Filadiz,,216,Schappe,,,,,,,,,,,,,,,,,,,,216--Schappe--
-217,Fleco,,,,,,,,,,,,,,,,,,,,,,,#REF!
+209,Fibra ,,209,Fibre,,Filament délié susceptible d'être utilisé à la formation de fils.,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,209--Fibre--Subst. fém.
+210,Fibra animal ,,210,Fibre animale,,Filament délié d'origine animale susceptible d'être utilisé à la formation de fils.,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,210--Fibre animale--
+213,Fibra natural,,213,Fibre naturelle,,"Filament délié d'origine, animale, vétale ou animale susceptible d'être utilisé à la formation de fils.",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,213--Fibre naturelle--
+35,Fibra artificial,,35,Fibre synthétique,,Filament délié d'origine synthétique susceptible d'être utilisé à la formation de fils.,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,A vérifier : la définition espagnole semble mêler fibre synthétique et fibre artificielle.,,,,,,,,,,,,,,35--Fibre synthétique--
+214,Fibra vegetal ,,214,Fibre végétale,,Filament délié d'origine végétale susceptible d'être utilisé à la formation de fils.,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,214--Fibre végétale--
+24,Fibroína,,24,Fibroïne,,Matière constitutive principale des fils de soie.,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,----Subst. fém.
+216,Filadiz,,216,Frisons,,"Filaments de soie arrachés d'un cocon, en vue de la recherche de l'extrémité du fil",Subst. masc. pl.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,216--Frisons--Subst. masc. pl.
+217,Fleco,,217,Frange,,Bordure décorative composée de divers ornements de passementerie suspendus à un galon ou obtenus en effilant l'étoffe qu'ils ornent,Subst. fém.,CNRTL. https://cnrtl.fr/definition/frange. Consulté en septembre 2019,,,,,,,,,,,,,,,,#REF!
 218,Flocadura,,,,,,,,,,,,,,,,,,,,,,,#REF!
-220,Florentina,,220,Florentine,,,,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: 
-dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196",,,,,,,,,,,,,,,,#REF!
+220,Florentina,,220,Florentine,,Satin façonné de Florence,Subst. fém.,"Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: 
+dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196 ; FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852",,,,,,,,,,,,,,,,#REF!
 221,Fondo,,,,,,,,,,,,,,,,,,,,,,,----
-223,Fondo,,223,Fond,,,,,,,,,,,,,,,,,,,,223--Fond--
+223,Fondo,,223,Fond,,Champ sur lequel se détachent les effets de dessin,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,223--Fond--Subst. masc.
 224,Frisado,,,,,,,,,,,,,,,,,,,,,,,----
 226,Frisar,,,,,,,,,,,,,,,,,,,,,,,----
 228,Gabardina de seda,,228,Gabardine de soie,,,,,,,,,,,,,,,,,,,,228--Gabardine de soie--
-230,Galón,,230,Galon,,,,,,,,,,,,,,,,,,,,230--Galon--
+230,Galón,,230,Galon,,"Passementerie plate que l'on coud sur les vêtements, ou que l'on cloue sur les meubles, et qui peut être de laine, de soie, de velours, d'argent ou d'or.",Subst. masc.,Leloir. Dictionnaire du costume,,,,,,,,,,,,,,,,230--Galon--Subst. masc.
 222,Gasa,,222,Gaze,,,,,,,,,,,,,,,,,,,,222--Gaze--
-232,Gasa,,232,Gaze,,,,,,,,,,,,,,,,,,,,232--Gaze--
+232,Gasa,,232,Gaze,,"Tissu formé d'une armure dans laquelle on distingue deux sortes de fils à liage très différents : les fils droits qui peuvent demeurer sans liage ou lier d'après les moyens ordinaires du tissage habituel ; les fils de tour qui se déplacent pour contourner les fils droits et sont fixés par la trame, d'un côté et de l'autre de ces derniers. Le tissu ainsi produits est généralement, mais pas nécessairement, ajouré ; Tissu de soie très léger et transparent",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997 ; Leloir. Dictionnaire du tissu",,,,,,,,,,,,,,,,232--Gaze--Subst. fém.
 234,Gasa de vuelta,,234,Gaze anglaise,,,,"Guicherd 1946, p. 303",,,,,,,,,,,,,,,,#REF!
 240,Gayadura,,,,,,,,,,,,,,,,,,,,,,,
-242,Glasé,,242,Glacé,,,,,,,,,,,,,,,,,,,,242--Glacé--
+242,Glasé,,242,Glacé,,Qualificatif d'un tissu ayant été calendré entre deux cylindres unis pour lui donner un aspect fortement brillant,Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,242--Glacé--Adj.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-244,Gofrado,,244,Gaufré frappé,,,,,,,,,,,,,,,,,,,,244--Gaufré frappé--
-241,Gofrar,,241,Gaufrer,,,,,,,,,,,,,,,,,,,,241--Gaufrer--
+244,Gofrado,,244,Gaufré / Frappé,,"1. Gaufré : Dessin produit, après tissage, sur des tissus autres que le velours par leur passage entre deux cylindres gravés, l'un enrelief, l'autre en creux. 2. Frappé : Dessin produit, après tissage, sur des velours unis, par leur passage entre deux cylindres, l'un gravé en relief, l'autre uni, produisant un écrasement de certaines du poil.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,244--Gaufré / Frappé--Subst. masc.
+241,Gofrar,,241,Gaufrer / frapper,,"1. Gaufrer : Action de produire un dessin sur un tissu autre que le velours en le faisant passer entre deux cylindres, l'un gravé en relief et l'autre en creux. 2. Frapper : Action de produire un dessin sur un tvelours en le faisant passer entre deux cylindres, l'un gravé en relief et l'autre en creux. ",Vb.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,241--Gaufrer / frapper--Vb.
 231,Gorgorán,,231,,,,,,,,,,,,,,,,,,,,,231----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-225,Granadina,,225,Grenadine,,,,,,,,,,,,,,,,,,,,225--Grenadine--
-249,Hilo granadina,,249,Grenadine,,,,,,,,,,,,,,,,,,,,
-251,Granza,,,,,,,,,,,,,,,,,,,,,,,----
-252,Grisalla,,252,Grisaille,,,,,,,,,,,,,,,,,,,,252--Grisaille--
-253,Griseta,,253,Grisette,,,,,,,,,,,,,,,,,,,,253--Grisette--
-254,Gro,,254,Gros,,,,,,,,,,,,,,,,,,,,254--Gros--
+225,Granadina,,225,Grenadine,tissu,Tissu formé à partir de la grenadine,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,225--Grenadine--Subst. fém.
+249,Hilo granadina,,249,Grenadine,fil,Fil formé comme l'organsin mais comportant des torsions trois ou quatre fois plus fortes,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,
+251,Granza,,251,Garance,couleur,Couleur rouge vif,Adj.,CNRTL. https://cnrtl.fr/definition/grisaille. Consulté en septembre 2019,,,,,,,,,,,,,,,,251--Garance--Adj.
+252,Grisalla,,252,Grisaille,tissu,Étoffe mélangée de noir et de blanc ou à petits careaux noirs et blancs. ,Subst. fém.,CNRTL. https://cnrtl.fr/definition/garance. Consulté en septembre 2019,,,,,,,,,,,,,,,,252--Grisaille--Subst. fém.
+253,Griseta,,253,Grisette,tissu,Étoffe commune de teinte grise,Subst. fém.,CNRTL. https://cnrtl.fr/definition/grisette. Consulté en septembre 2019,,,,,,,,,,,,,,,,253--Grisette--Subst. fém.
+254,Gro,,254,Gros,,"Étoffe de soie, dont la chaine & la trame sont plus fortes qu’au taffetas",Subst. masc.,"L'Encyclopédie, 1ère édition",,,,,,,,,,,,,,,,254--Gros--Subst. masc.
 257,Gro de Londres,,257,Gros de Londres,,,,,,,,,,,,,,,,,,,,257--Gros de Londres--
-258,Gro de Nápoles,,258,Gros de Naples,,,,,,,,,,,,,,,,,,,,258--Gros de Naples--
-259,Gro de Tours,,259,Gros de Tours,,,,,,,,,,,,,,,,,,,,259--Gros de Tours--
+258,Gro de Nápoles,,258,Gros de Naples,,"Taffetas très fort tout en soie cuite, chaîne et trame double",,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,258--Gros de Naples--
+259,Gro de Tours,,259,Gros de Tours,,"Nom habituel du cannelé de deux coups . Etoffe de soie genre taffetas au tissage plus grossier, originaire de Tours, réalisé à partir d’une armure cannelée et de fil de soie. Souvent utilisé pour les fonds de tissus ou les lisières",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997 . The Decoralist",,,,,,,,,,,,,,,,259--Gros de Tours--
 260,Gro de verano,,260,Gros d'été,,,,,,,,,,,,,,,,,,,,260--Gros d'été--
-27,Haz,,27,Endroit,,,,,,,,,,,,,,,,,,,,307--Lampas taille-douce--
-30,Haz trama ,,30,Face trame,,,,,,,,,,,,,,,,,,,,309--Lampasette--
-33,Haz urdimbre,,33,Face chaîne,,,,,,,,,,,,,,,,,,,,
+27,Haz,,27,Endroit,,Face du tissu présentant l'aspect le plus séduisant et choisie pour sa présentation,Subst. masc.,,,,,,,,,,,,,,,,,307--Lampas taille-douce--Subst. masc.
+30,Haz trama ,,30,Face trame,,Face du tissu où les fils de trame prédominent dans une armure déterminée,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,309--Lampassette--
+33,Haz urdimbre,,33,Face chaîne,,Face du tissu où les fils de chaîne prédominent dans une armure déterminée,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,
 227,Hiladillo,,,,,,,,,,,,,,,,,,,,,,,----
 266,Hiladillo,,,,,,,,,,,,,,,,,,,,,,,----
-262,Hilatura ,,262,Filature,,,,,,,,,,,,,,,,,,,,262--Filature--
-267,Hilatura ,,267,Filature,,,,,,,,,,,,,,,,,,,,267--Filature--
-268,Hilo,,268,Fil,,,,,,,,,,,,,,,,,,,,268--Fil--
+262,Hilatura ,,262,Filature,,Atelier où s'effectuent les opérations de fabrication au fil,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,262--Filature--Subst. fém.
+267,Hilatura ,,267,Filature,,Ensemble des opérations ayant pour but la formation des fils,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,267--Filature--Subst. fém.
+268,Hilo,,268,Fil,fil,"Forme longue et déliée, sous laquelle se préparent et s'utilisent les différentes matières textiles",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,268--Fil--Subst. masc.
 270,Hilo briscado,,,,,,,,,,,,,,,,,,,,,,,317--Liage--
-271,Hilo canutillo,,,,,,,,,,,,,,,,,,,,,,,318--Armure--
+271,Hilo canutillo,,,Fil côtelé,,,,,,,,,,,,,,,,,,,,318--Armure--Subst. fém.
 272,Hilo céfiro,,,,,,,,,,,,,,,,,,,,,,,----
 255,Hilo chiné,,255,Fil chiné,,,,,,,,,,,,,,,,,,,,255--Fil chiné--
 273,Hilo continuo,,273,Fil continu,,,,,,,,,,,,,,,,,,,,273--Fil continu--
-274,Hilo crespón,,274,Fil crêpe,,,,,,,,,,,,,,,,,,,,274--Fil crêpe--
-275,Hilo crudo,,275,Fil grêge,,,,,,,,,,,,,,,,,,,,275--Fil grêge--
-276,Hilo de organzí,,276,Organsin,,,,,,,,,,,,,,,,,,,,276--Organsin--
+274,Hilo crespón,,274,Fil crêpe,,"Fil formé de plusieurs fils de grège assemblés par une torsion élevée, S ou Z, généralement poussée au maximum",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,274--Fil crêpe--
+275,Hilo crudo,,275,Fil grêge,,"Fil résultat du tirage, ou dévidage, simultané de plusieurs cocons. Le fil grège n'a aucune torsion. Le fil de grège ne peut être utilisé au tissage qu'à l'état écru, ou après avoir été teint dans le dépuiller de son grès.",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,275--Fil grêge--
+276,Hilo de organzí,,276,Organsin,,Fil formé de deux ou plusieurs bouts de fil poil assemblés par une torsion de sens opposé à celle des bouts. Les deux torsions diffèrent d'une centaine de tours et s'échelonnent de 350 à 700 tours,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,276--Organsin--Subst. masc.
 277,Hilo de seda,,277,Fil de soie,,,,,,,,,,,,,,,,,,,,277--Fil de soie--
-278,Hilo de trama,,278,Fil de trame,,,,,,,,,,,,,,,,,,,,278--Fil de trame--
-279,Hilo de urdimbre,,279,Fil de chaîne,,,,,,,,,,,,,,,,,,,,279--Fil de chaîne--
-280,Hilo de vuelta,,280,Fil de tour,,,,,,,,,,,,,,,,,,,,280--Fil de tour--
-184,Hilo entorchado ,,184,Filé,,,,,,,,,,,,,,,,,,,,184--Filé--
+278,Hilo de trama,,278,Fil de trame,,Un des fils composant la trame,,"Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980",,,,,,,,,,,,,,,,278--Fil de trame--
+279,Hilo de urdimbre,,279,Fil de chaîne,,"Fil tendu dans la longueur du méter à tisser et qui est passé dans les organes chargés de les actionner : mailles, maillons, ou simples boucles de fils dans les métiers plus primitifs",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,279--Fil de chaîne--
+280,Hilo de vuelta,,280,Fil de tour,,Cf. Gaze,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,280--Fil de tour--
+184,Hilo entorchado ,,184,Filé,,"Fil composé d'une lame de métal ou d'une lamelle de matière organique, enroulée ""S"" ou ""Z"" autour d'une âme composée d'un ou plusieurs fils de soie, de lin ou de coton",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,184--Filé--Subst. masc.
 235,Hilo fantasia ,,235,Fil fantaisie,,,,,,,,,,,,,,,,,,,,235--Fil fantaisie--
-233,Hilo granito,,,,,,,,,,,,,,,,,,,,,,,----
-283,Hilo ondeado,,283,Ondé,,,,,,,,,,,,,,,,,,,,283--Ondé--
+233,Hilo granito,,233,Frisé,,"Filé, or ou argent, monté sur une âme par un fil ondé",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,233--Frisé--Subst. masc.
+283,Hilo ondeado,,283,Ondé,,Fil formé d'une âme autour de laquelle est renroulée en spires très espacées un fil non métallique plus gros,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,283--Ondé--Subst. masc.
 284,Hilo torzal,,,,,,,,,,,,,,,,,,,,,,,----
-285,Hojuela,,,,,,,,,,,,,,,,,,,,,,,----
-287,Ikat,,287,Ikat,,,,,,,,,,,,,,,,,,,,287--Ikat--
+285,Laminilla metálica,,,,,,,,,,,,,,,,,,,,,,,----
+287,Ikat,,287,Ikat,,"1.Terme indonésien, désignant une procédé de décoloration par réserve sur écheveau. 2. Tissu en résultant",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,287--Ikat--Subst. masc.
 289,Imperial,,,,,,,,,,,,,,,,,,,,,,,----
 290,Isabela,,,,,,,,,,,,,,,,,,,,,,,----
-215,Jacquard,,215,Jacquard,,,,,,,,,,,,,,,,,,,,215--Jacquard--
+215,Jacquard,,215,Jacquard,,Mécanique généralement adoptée pour la fabrication des étoffes façonnées,Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,215--Jacquard--Subst. masc.
 293,Jamete,,,,,,,,,,,,,,,,,,,,,,,----
-294,Jaspeado,,294,Jaspé,,,,,,,,,,,,,,,,,,,,294--Jaspé--
+294,Jaspeado,,294,Jaspé,,"1. Qualificatif d'un tissu dont on fait varier la coloration par un mélange irrégulier de fils de couleurs ou de tons différents, en chaîne ou en trame. 2. Irrégularité de coloration d'un tissu",Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,294--Jaspé--Adj.
 296,Joyante,,,,,,,,,,,,,,,,,,,,,,,----
 298,Jusi,,,,,,,,,,,,,,,,,,,,,,,----
-301,Labrado,,301,Façonné,,,,,figuré,voir règlement Lyon 1744,,,,,,,,,,,,,,301--Façonné--
-302,Lama ,,302,Lamé,,,,,,,,,,,,,,,,,,,,302--Lamé--
-304,Laminilla de piel,,304,Lamelle de baudruche,,,,,lamelle de pellicule,,,,,,,,,,,,,,,304--Lamelle de baudruche--
-305,Lampás,,305,Lampas,,,,,,,,,,,,,,,,,,,,305--Lampas--
-306,Lampás brochado,,306,Lampas broché,,,,,,,,,,,,,,,,,,,,#REF!
-307,Lampás talla dulce,,307,Lampas taille-douce,,,,,,,,,,,,,,,,,,,,----
-309,Lampasete,,309,Lampasette,,,,,,,,,,,,,,,,,,,,311--Navette--
-311,Lanzadera,,311,Navette,,,,,,,,,,,,,,,,,,,,#REF!
-310,Lanzado,,310,Lancé,,,,,,,,,,,,,,,,,,,,310--Lancé--
+301,Labrado,,301,Façonné,,"Tissu décoré de dessins plus ou moins complexes, obtenus par les croisements des fils de chaîne et de trame et dont l'exécution nécessite l'emploi de procédés spéciaux de fabrication. Le mot façonné adjoint à un nom d'armure indique que cette armure forme le fond du tissu.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",figuré,voir règlement Lyon 1744,,,,,,,,,,,,,,301--Façonné--Subst. masc.
+302,Lama ,,302,Lamé,,"Qualificatif d'un tissu, ou d'une croisure, comportant des lames d'or ou d'argent",Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,302--Lamé--Adj.
+304,Laminilla de piel,,304,Lamelle de baudruche,,"Bande étroite, découpée dans une pellicule préparée avec l'intestin de divers animaux ou parfois dans du cuir. Dorée, ou plus rarement argentée, elle s'utilise comme la lame et se rencontre d'ordinaire dans les tissu anciens, sous forme de filé monté sur une âme de lien ou de soie",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",lamelle de pellicule,,,,,,,,,,,,,,,304--Lamelle de baudruche--
+305,Lampás,,305,Lampas,tissu,"Tissu façonné, dont le décor est essentiellement constitué par des flottés de trame de fond (liseré), normalement liés en taffetas ou en sergé, par des fis d'une chaîne de liage. Ces effets se détachent sur un fond d'armure quelconque, construit par une chaîne ou par deux chaîne, pièce et poil. Les lampas résultent d'une évolution technique, introduisant une croisure produite par les fils pièce, parmi les flottés de trame",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,305--Lampas--Subst. masc.
+306,Lampás brochado,,306,Lampas broché,tissu,"Tissu façonné, dont le décor est essentiellement constitué par des flottés de trame supplémentaire. Cf. Lampas",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+307,Lampás talla dulce,,307,Lampas taille-douce,tissu,"Lampas créé au début du XIXème siècle, comportant une chaîne de liage supplémentaire (appelée chaîne taille-douce) dont les fils superposent leur croisure aux flottés de trame pour en modifier la coloration.",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,----
+309,Lampasete,,309,Lampassette,tissu,"Tissu façonné, où l'armure trame est formée par deux ou trois fils et peut prendre, du fait de l'espacement des liages, l'aspect des effets de trame des lampas",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,311--Navette--Subst. fém.
+311,Lanzadera,,311,Navette,,"Ustensile des métiers à tisser, servant à introduire la trame entre les fils de chaîne",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+310,Lanzado,,310,Lancé,,1. Effet de dessin formé par une trame supplémentaire passant dans toute la largeur du tissu. 2. Tissu décoré d'effets de trame lancée,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,310--Lancé--Subst. masc.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-313,Lazo,,313,Lat,,,,,,,,,,,,,,,,,,,,313--Lat--
-317,Ligadura,,317,Liage,,,,,,,,,,,,,,,,,,,,#REF!
-314,Ligamento por trama,,314,Armure tramée,,,,,,,,,,,,,,,,,,,,370--Soie grège--
-315,Ligamento por urdimbre,,315,Armure chaîne,,,,,,,,,,,,,,,,,,,,315--Armure chaîne--
-318,Ligamento,,318,Armure,,,,,croisure,,,,,,,,,,,,,,,#REF!
+313,Lazo,,313,Lat,,Une des trames composant la passée,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,313--Lat--Subst. masc.
+317,Ligadura,,317,Liage,,"Combinaisons diverses du croisement servant à raccourcir les brides de chaîne ou de trame ; coups, lisses ou cartons qui y ont rapport",Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,#REF!
+314,Ligamento por trama,,314,Armure trame,,"Armure où la trame prédomine à la surface du tissu, en dissimulant plus ou moins les fils de chaîne",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,370--Soie grège--
+315,Ligamento por urdimbre,,315,Armure chaîne,,"Armure où les fils de chaîne prédominent à la surface du tissu, en dissimulant plus ou moins les trames",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,315--Armure chaîne--
+318,Ligamento,,318,Armure,,"Mode d'entrecroisement des fils de chaîne et de trame, suivant des règles nettement définies en vue de la production d'un tissu ou d'une partie de tissu",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",croisure,,,,,,,,,,,,,,,#REF!
 319,Lineta,,,,,,,,,,,,,,,,,,,,,,,----
-282,Lisaje,,282,Lisage,,,,,,,,,,,,,,,,,,,,282--Lisage--
-321,Liso,,321,Uni,,,,,,,,,,,,,,,,,,,,375--Sériciculture--Industrie de l'élevage et de la production de cocons de soie.
-322,Listado,,322,Rayé,,,,,,,,,,,,,,,,,,,,376--Séricine--
-324,Lizo,,324,Lisse,,,,,,,,,,,,,,,,,,,,324--Lisse--
-323,Lizo de alza,,323,Lisse de levée,,,,,,,,,,,,,,,,,,,,323--Lisse de levée--
-325,Lizo de rebaten ,,325,Lisse de rabat,,,,,,,,,,,,,,,,,,,,"379--Velours
+282,Lisaje,,282,Lisage,,"Sélection, effectuée au métier à la tire sur les cordes du rame ou les cordes du semple pour préparer la confection des lacs",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,282--Lisage--Subst. masc.
+321,Liso,,321,Uni,,"Caractère uniforme de la surface d'un tissu. Par extension, tissu dont le rapport d'armure se répète sans interruption sur toute sa surface et qui est produit au moyen de lisses. Antonyme de façonné",Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,375--Sériciculture--Subst. fém. Industrie de l'élevage et de la production de cocons de soie
+322,Listado,,322,Rayé,,"Qualificatif d'un tissu qui présente des bandes de couleurs différentes, parallèles à la chaîne",Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,376--Séricine--Adj.
+324,Lizo,,324,Lisse,,"Ensemble de mailles tendues côte à côte entre deux lisserons, ou fixées dans un cadre. Parfois appelée lame",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,324--Lisse--Subst. fém.
+323,Lizo de alza,,323,Lisse de levée,,Lisse dont les mailles agissent exclusivement pour soulever les fils de chaîne,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,323--Lisse de levée--
+325,Lizo de rebaten ,,325,Lisse de rabat,,Lisse dont les mailles agissent exclusivement pour abaisser les fils de chaîne,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,"379--Velours
 --"
-425,Luisina,,425,Louisine,,,,,,,,,,,,,,,,,,,,425--Louisine--
-326,Luquesa,,326,Luquoise,,,,,,,,,,,,,,,,,,,,326--Luquoise--
+425,Luisina,,425,Louisine,,Taffetas produit par groupes de deux fils ou plus,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,425--Louisine--Subst. fém.
+326,Luquesa,,326,Luquoise,,"Sorte d’étoffe de soie ; elle est montée à huit lisses, & elle a autant de lisses pour rabattre, qu’elle en a pour lever, de maniere qu’à chaque coup de la tête on fait baisser une lisse de rabat, & on passe a navette de la même couleur, ce qui fait un diminutif du lustrine.",Subst. fém.,"L'Encyclopédie, 1ère édition",,,,,,,,,,,,,,,,326--Luquoise--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,#REF!
 330,Lustrina brochada,,330,Lustrine brochée,,,,,,,,,,,,,,,,,,,,330--Lustrine brochée--
-329,Lustrina de seda,,329,Lustrine de soie,,,,,,,,,,,,,,,,,,,,329--Lustrine de soie--
+329,Lustrina de seda,,329,Lustrine de soie,,Tissu de soie d'aspect brillant utilisé pour la doublure des vêtements,,Leloir. Dictionnaire du costume,,,,,,,,,,,,,,,,329--Lustrine de soie--
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-426,Madeja de seda,,426,Flotte de soie,,,,,,,,,,,,,,,,,,,,426--Flotte de soie--
-427,Malla,,427,Maille,,,,,,,,,,,,,,,,,,,,427--Maille--
-428,Mallón,,428,Maillon,,,,,,,,,,,,,,,,,,,,428--Maillon--
-335,Marabú,,335,Marabout,,,,,,,,,,,,,,,,,,,,335--Marabout--
+426,Madeja de seda,,426,Flotte,,Echeveau de soie,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,426--Flotte--Subst. fém.
+427,Malla,,427,Maille,,Boucle de fil faisant partie d'une lisse ou fixée à l'extrémité d'une arcade et dans laquelle est passée un fil de chaîne,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,427--Maille--Subst. fém.
+428,Mallón,,428,Maillon,,"Anneau de verre ou de métal suspendu à l'extrémitéd'une arcade pour recevoir un ou plusieurs fils de chaîne. Par extension, ensemble constitué par les amilles fixées au maillon er par le fuseau suspendu à la maille inférieure",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,428--Maillon--Subst. masc.
+335,Marabú,,335,Marabout ou marabou,,Organsin très fin ; tissu formé de cette matière ; espèce de gaze passée au peigne à un seul fil par denst et tramé à un seul bout,Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,335--Marabout ou marabou--Subst. masc.
 342,Marca,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-429,Marco ,,429,Cadre,,,,,,,,,,,,,,,,,,,,429--Cadre--
-341,Marlí,,341,Marli,,,,,,,,,,,,,,,,,,,,341--Marli--
-337,Marquiseta,,337,Marquisette,,,,,,,,,,,,,,,,,,,,337--Marquisette--
+429,Marco ,,429,Cadre,,Support rigide des mailles qui composent une lisse,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,429--Cadre--Subst. masc.
+341,Marlí,,341,Marli,tissu,Tissu léger (sorte de gaze) fabriqué à Bayeux et utilisé au xviiiesiècle comme garniture dans la confection des toilettes féminines ou des ouvrages de mode.,Subst. masc.,CNRTL. https://cnrtl.fr/definition/marli. Consulté en septembre 2019,,,,,,,,,,,,,,,,341--Marli--Subst. masc.
+337,Marquiseta,,337,Marquisette,tissu,"Étoffe légère, transparente, employée autrefois pour réaliser des vêtements féminins et utilisée actuellement pour la confection de rideaux",Subst. fém.,CNRTL. https://cnrtl.fr/definition/marquisette. Consulté en septembre 2019,,,,,,,,,,,,,,,,337--Marquisette--Subst. fém.
 338,Matizado,,,,,,,,,,,,,,,,,,,,,,,----
-476,Matizado,,,,,,,,,,,,,,,,,,,,,,,396--Marche--
+476,Matizado,,,,,,,,,,,,,,,,,,,,,,,396--Marche--Subst. fém.
 340,Media seda,,,,,,,,,,,,,,,,,,,,,,,399--Cannelé oblique--
-430,Mejicana,,430,Mexicaine,,,,,,,,,,,,,,,,,,,,"400--Côte par la trame
---"
+430,Mejicana,,430,Mexicaine,,"Genre de pékin façonné, comportant des effets de dessin formés par des flottés d'une ou plusieurs chaîne poil, d'après le principe des poils traînants",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,"400--Côte par la trame
+--Subst. fém."
 344,Menador,,,,,,,,,,,,,,,,,,,,,,,401--Côte par la chaîne--
 345,Menar,,,,,,,,,,,,,,,,,,,,,,,----
-348,Molinar,,348,Mouliner,,,,,ouvrer,,,,,,,,,,,,,,,348--Mouliner--
-431,Montura,,431,Montage,,,,,,,,,,,,,,,,,,,,431--Montage--
+348,Molinar,,348,Mouliner,,Verbe décrivant l'action réalisée par le moulinage,Vb.,,ouvrer,,,,,,,,,,,,,,,348--Mouliner--Vb.
+431,Montura,,431,Montage,,Ensemble des maillons et des lisses réunis au métier à tisser. Plan d'organisation des fils de chaîne,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,431--Montage--Subst. masc.
 433,Montura a la Jacquard,,433,Montage à la Jacquard,,,,,,,,,,,,,,,,,,,,433--Montage à la Jacquard--
 432,Montura a lizos,,432,Montage à lisses,,,,,,,,,,,,,,,,,,,,432--Montage à lisses--
 434,Montura mixta,,434,Montage mixte,,,,,,,,,,,,,,,,,,,,434--Montage mixte--
-346,Muaré,,346,Moirage,,,,,,,,,,,,,,,,,,,,346--Moirage--
-347,Muaré,,347,Moire,,,,,,,,,,,,,,,,,,,,347--Moire--
+346,Muaré,,346,Moirage,,Action de moirer une étoffe; résultat de cette action,Subst. masc.,CNRTL. https://cnrtl.fr/definition/moirage. Consulté en septembre 2019,,,,,,,,,,,,,,,,346--Moirage--Subst. masc.
+347,Muaré,,347,Moiré,,"Qualificatif d'un tissu dont les côtes, plus ou moins saillantes, ont été déformées par écrasement pour créer des surfaces sur lesquelles la lumière se reflète différemment",Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",moire,,,,,,,,,,,,,,,347--Moiré--Adj.
 354,Musco ,,,,,,,,,,,,,,,,,,,,,,,----
-355,Muselina,,355,Mousseline,,,,,,,,,,,,,,,,,,,,355--Mousseline--
+355,Muselina,,355,Mousseline,,Toile très fine de coton,Subst. fém.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,355--Mousseline--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-357,Orillo,,357,Lisière,,,,,,,,,,,,,,,,,,,,357--Lisière--
+357,Orillo,,357,Lisière,,"Etroite bordure formée de chaque côté du tissu et qui s'en différencie souvent par la matière, le coloris ou l'armure",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,357--Lisière--Subst. fém.
 358,Ormesí,,,,,,,,,,,,,,,,,,,,,,,----
-435,Otomán,,435,Ottoman,,,,,,,,,,,,,,,,,,,,435--Ottoman--
-436,Pasada,,436,Coup,,,,,,,,,,,,,,,,,,,,436--Coup--
-359,Peine,,359,Peigne,,,,,peigne de serrage,,,,,,,,,,,,,,,359--Peigne--
-437,Pelillo,,437,Chaîne de liage,,,,,,,,,,,,,,,,,,,,437--Chaîne de liage--
-360,Pelo,,360,Poil,,,,,,,,,,,,,,,,,,,,360--Poil--
-438,Pelo,,438,Poil,,,,,,,,,,,,,,,,,,,,438--Poil--
-439,Peluche,,439,Peluche,,,,,,,,,,,,,,,,,,,,439--Peluche--
-361,Pequín,,361,Pékin,,,,,,,,,,,,,,,,,,,,361--Pékin--
-440,Ligamento pesado,,440,Lourd,,,,,,,,,,,,,,,,,,,,440--Lourd--
+435,Otomán,,435,Ottoman,,Faille française comportant des côtes de grosseurs inégales,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,435--Ottoman--Subst. masc.
+436,Pasada,,436,Coup,,Passage d'une navette au travers des fils de chaîne. Trame transportée par cette navette et insérée au tissu,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,436--Coup--Subst. masc.
+359,Peine,,359,Peigne,,"1. Assemblage de lamelles, métalliques ou taillées dans l'écorce de roseaux, destinées à répartir les fils de chaîne dans la larguer d'exécution d'un tissu et à serrer les trames. 2. Instrument plus ou moins primitif, en forme de peigne et destiné à serrer les trames, particulièrement dans le tissage de la tapisserie.",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",peigne de serrage,,,,,,,,,,,,,,,359--Peigne--Subst. masc.
+437,Pelillo,,437,Chaîne de liage,,"Chaîne auxiliaire utilisée pour relier les trames les unes aux autres, les fixer au-dessus d'une armure de fond, ou les armurer",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,437--Chaîne de liage--
+360,Pelo,,360,Poil,,"Fil de grège tordu sur lui-même, surtout en torsion Z",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,360--Poil--Subst. masc.
+438,Pelo,,438,Poil,,Partie velue d'un tissu,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,438--Poil--Subst. masc.
+439,Peluche,,439,Peluche,,"Velours coupé, à très long poil",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,439--Peluche--Subst. fém.
+361,Pequín,,361,Pékin,,"Tissu à bandes d'armures différentes, disposées parallèlement à la chaîne ; Etoffe de soie peinte, ressemblant au taffetas, originaire de Chine",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,361--Pékin--Subst. masc.
+440,Ligamento pesado,,440,Lourd,,Terme utilisé pour indiquer qu'une armure a été exécutée en actionnant le maximum de fils ou de lisses permis par cette croisure,Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,440--Lourd--Adj.
 362,Piñuela,,,,,,,,,,,,,,,,,,,,,,,430--Mexicaine--
-363,Plegador,,363,Rouleau,,,,,,,,,,,,,,,,,,,,363--Rouleau--
-441,Puesta en carta,,441,Mise en carte,,,,,,,,,,,,,,,,,,,,441--Mise en carte--
-364,Puntas,,364,Pointe,,,,,,,,,,,,,,,,,,,,364--Pointe--
+363,Plegador,,363,Rouleau,,Cylindre de bois servant à l'enroulement des chaînes et des étoffes,Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,ensouple,,,,,,,,,,,,,,,363--Rouleau--Subst. masc.
+441,Puesta en carta,,441,Mise en carte,,"Figuration plus ou moins conventionnelles des effets de dessin d'un tissu façonné sur du papier quadrillé. Dans le quadrillage du papier, chaque interligne vertical représente une découpure chaîne et un interlignehorizontale représente une découpure trame",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,441--Mise en carte--
+364,Puntas,,364,Pointe,,Axe des groupes de fils ou des groupes de coups de construction symétrique,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,364--Pointe--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-442,Punto de ligadura,,442,Point de liage,,,,,,,,,,,,,,,,,,,,442--Point de liage--
+442,Punto de ligadura,,442,Point de liage,,Lieu où un fil de chaîne et un fil de trame changent de position l'un par rapport à l'autre,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,442--Point de liage--
 365,Punzó,,,,,,,,,,,,,,,,,,,,,,,----
-237,Raso,,237,Satin,,,,,,,,,,,,,,,,,,,,237--Satin--
-366,Raso,,366,Satin,,,,,,S'agit-il de la surface d'un velours ou de tous types de tissus ?,,,,,,,,,,,,,,366--Satin--
-444,Raport,,444,Rapport,,,,,,,,,,,,,,,,,,,,----
-238,Sarga,,238,Sergé,,,,,,,,,,,,,,,,,,,,238--Sergé--
+237,Raso,,237,Satin,,"Armure dont les liages sont répartis de manière à se dissimuler parmi les flottés adjacents, afin de constituer une surface unie et plane, ne laissant apparaître que des flottés. Les satins se définissent par le nombre de fils de chaîne constituant le rapport d'armure et par le décochement",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,237--Satin--Subst. masc.
+366,Raso,,366,Satin,,"Anciennement satanin ou satalin. Etoffe de soie lisse, moelleuse, brillante et unie. ",,Leloir. Dictionnaire du costume,,S'agit-il de la surface d'un velours ou de tous types de tissus ?,,,,,,,,,,,,,,366--Satin--
+444,Raport,,444,Rapport,,"Ensemble de fils disposés de manière appropriée, qu'il faut compter avant que ne se reproduise la même disposition et servant à caractériser la structure d'un tissu.",Subst. masc.,CNRTL. https://cnrtl.fr/definition/rapport. Consulté en septembre 2019,,,,,,,,,,,,,,,,371--Soie floche--Subst. masc.
+238,Sarga,,238,Sergé,,"Armure caractérisée par des côtes obliques obtenues en déplaçant d'un seul fil, vers la droite ou vers la gauche, tous les points de liage à chaque passage de la trame",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,238--Sergé--Subst. masc.
 367,Sarga,,367,Sergé,,,,,,,,,,,,,,,,,,,,367--Sergé--
-368,Seda,,368,Soie,,,,,,,,,,,,,,,,,,,,368--Soie--
+368,Seda,,368,Soie,,"Au sens textile, matière tirée des cocons et plus spécialement des cocons filés par les chenilles du Bombyx Mori",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,368--Soie--Subst. fém.
 369,Seda ahogada,,,,,,,,,,,,,,,,,,,,,,,----
-370,Seda cruda,,370,Soie grège,,,,,,,,,,,,,,,,,,,,444--Rapport--
-371,Seda floja ,,,,,,,,,,,,,,,,,,,,,,,445--Soie ouvrée--
-372,Seda salvaje,,,,,,,,,,,,,,,,,,,,,,,446--Métier à plaquettes--
-445,Seda torcida,,445,Soie ouvrée,,,,,soie moulinée,,,,,,,,,,,,,,,#REF!
+370,Seda cruda,,370,Soie grège,,"Soie écrue ou crue, qui n'a pas passé à la cuisson",,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,444--Rapport--
+371,Seda floja ,,371,Soie floche,,"Soie cuite, mais peu torse ou montée",,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,445--Soie ouvrée--
+372,Seda salvaje,,372,Soie sauvage,,,,,,,,,,,,,,,,,,,,446--Métier aux plaquettes--
+445,Seda torcida,,445,Soie ouvrée,,Fil de soie ayant subi les opérations de moulinage,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",soie moulinée,,,,,,,,,,,,,,,#REF!
 373,Seda verde,,,,,,,,,,,,,,,,,,,,,,,448--Métier à baguettes--
 374,Segrí,,,,,,,,,,,,,,,,,,,,,,,449--Métier à  la tire--
-375,Sericicultura,,375,Sériciculture,,,Industrie de l'élevage et de la production de cocons de soie.,,,,,,,,,,,,,,,,,#REF!
-376,Sericina,,376,Séricine,,,,,,,,,,,,,,,,,,,,451--Métier aux boutons--
-13,Surá,,13,Surah,,,,,,,,,,,,,,,,,,,,452--Cuit--
-236,Tafetán,,236,Taffetas,,,,,,,,,,,,,,,,,,,,453--Teint en fils--
-377,Tafetán,,377,Taffetas,,,,,,,,,,,,,,,,,,,,454--Teint en pièce--
-450,Telar,,450,Métier,,,,,,,,,,,,,,,,,,,,455--Velours au sabre--
-448,Telar  de varillas,,448,Métier à baguettes,,,,,,,,,,,,,,,,,,,,456--Velours ciselé--
-451,Telar de botones ,,451,Métier aux boutons,,,,,,,,,,,,,,,,,,,,#REF!
-446,Telar de cartones,,446,Métier à plaquettes,,,,,métier aux cartons,,,,,,,,,,,,,,,#REF!
-449,Telar de tiro,,449,Métier à  la tire,,,,,,,,,,,,,,,,,,,,459--Velours façonné--
-447,Telar Jacquard,,447,Métier Jacquard,,,,,,,,,,,,,,,,,,,,460--Velours gaufré--
-,,,,,,,,,,,,,,,,,,,,,,,,461--Velour par trame--
-452,Teñido,,452,Cuit,,,,,soie cuite,,,,,,,,,,,,,,,#REF!
-453,Teñido en madeja,,453,Teint en fils,,,,,,,,,,,,,,,,,,,,#REF!
-454,Teñido en pieza,,454,Teint en pièce,,,,,,,,,,,,,,,,,,,,#REF!
+375,Sericicultura,,375,Sériciculture,,,Subst. fém. Industrie de l'élevage et de la production de cocons de soie,,,,,,,,,,,,,,,,,#REF!
+376,Sericina,,376,Séricine,,Substance albuminoïde constituant la presque totalité du grès des fils de soie,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,451--Métier aux boutons--
+13,Surá,,13,Surah,,"Étoffe de soie croisée, légère, douce et souple, originaire des Indes",Subst. masc.,CNRTL. https://cnrtl.fr/definition/surah. Consulté en septembre 2019,,,,,,,,,,,,,,,,452--Cuit--Subst. masc.
+236,Tafetán,,236,Taffetas,,"Armure dont le rapport se limite à deux fils et deux coups et dans laquelle les fils impairs et pairs alternent à chaque coup, au-dessus et au-dessus de la trame",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,453--Teint en fils--
+377,Tafetán,,377,Taffetas,,Tissu de soie exécuté d'après l'armure taffetas,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,454--Teint en pièce--
+450,Telar,,450,Métier (à tisser),,"Instrument plus ou moins perfectionné, sur lesquels sont tenus les fils de chaîne et où l'on peut, par divers procédés, obtenir le passage de la trame entre deux nappes de fil séparées",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,455--Velours au sabre--Subst. masc.
+448,Telar  de varillas,,448,Métier à baguettes,,"Métier permettant l'exécution d'étoffes façonnées par une sélection des fils de chaîne effectuée au moyen de baguettes munies, ou non, de boucles",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,456--Velours ciselé--
+451,Telar de botones ,,451,Métier aux boutons,,"Genre de métier à la tire, à rame horizontal où les lacs, gansés directement sur les cordes de rame, sont réunies à de petites quilles appelées boutons, sur lesquelles le tireur agit successivement",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",métier à la petite tire,,,,,,,,,,,,,,,#REF!
+446,Telar de cartones,,446,Métier aux plaquettes,,Ensemble de plaquettes polygonales (le plus souvent carrées) percées aux angles pour recevoir les fils de chaînes et disposées côte à côte parallèlement aux fils de chaîne,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",métier aux cartons,,,,,,,,,,,,,,,#REF!
+449,Telar de tiro,,449,Métier à  la tire,,Métier créé pour l'exécution des étoffes façonnées,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,459--Velours façonné--
+447,Telar Jacquard,,447,Métier Jacquard,,"Expression courante, bien qu'inexacte, pour un métier à tisser équipée d'une mécanique Jacquard. Il faut lui préférer métier à mécanique Jacquard",,,,,,,,,,,,,,,,,,460--Velours gaufré--
+,,,,,,,,,,,,,,,,,,,,,,,,461--Velours par trame--
+452,Teñido,,452,Cuit,,Etat d'un fil de soie teint après avoir été totalement dépouillé de son grès,Adj.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",soie cuite,,,,,,,,,,,,,,,#REF!
+453,Teñido en madeja,,453,Teint en fils,,Expression utilisée pour désigner un tissu exécuté avec des fils préalablement teints en écheveaux,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+454,Teñido en pieza,,454,Teint en pièce,,Expression utilisée pour désigner un tissu ayant reçu une teinture après tissage,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 379,Terciopelo,,379,"Velours
-",,,,,,,,,,,,,,,,,,,,#REF!
-455,Terciopelo al sable,,455,Velours au sabre,,,,,,,,,,,,,,,,,,,,#REF!
-456,Terciopelo cincelado,,456,Velours ciselé,,,,,,,,,,,,,,,,,,,,467--Trame--
-457,Terciopelo cortado,,457,Velours coupé,,,,,,,,,,,,,,,,,,,,----
-458,Terciopelo de dos o más altos,,458,Velours relevé,,,,,,,,,,,,,,,,,,,,469--Trame de bourré--
+",,Tissu dont la surface est couverte de boucles ou de poils dressés au-dessus d'une croisure de fond,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+455,Terciopelo al sable,,455,Velours au sabre,,"Velours de soie obtenu après tissage, en sectionnant des flottés de chaîne, ou parfois de trame, à l'aide d'une lame affilée (rasoir) glissée sous les flottés",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+456,Terciopelo cincelado,,456,Velours ciselé,,"Velours façonné formé par une ou plusieurs chaînes poil, dont l'effet de velours coupé est plus élevé sous l'effet de velours frisé",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,467--Trame--
+457,Terciopelo cortado,,457,Velours coupé,,"Velours, uni ou façonné, sont la surface est constituée par les fils d'une ou plusieurs chaînes poil dressées au-dessus d'une armure de fond et sectionnés à la même hauteur",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,468--Trame de fond--
+458,Terciopelo de dos o más altos,,458,Velours relevé,,"Velours façonné, formé par une ou plusieurs chaînes poil et produisant plusieurs hauteurs de velours frisé ou coupé",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,469--Trame de bourré--
 460,Terciopelo gofrado,,460,Velours gaufré,,,,,,,,,,,,,,,,,,,,470--Trame de lancé--
 459,Terciopelo labrado,,459,Velours façonné,,,,,,,,,,,,,,,,,,,,471--Trame brochée--
 ,,,,,,,,,,,,,,,,,,,,,,,,472--Trame supplémentaire--
-461,Terciopelo por trama,,461,Velour par trame,,,,,,,,,,,,,,,,,,,,473--Serrée--
-462,Terciopelo recamado,,,,,,,,,,,,,,,,,,,,,,,474--Chaîne poil--
-463,Terciopelo rizado,,463,Velours frisé,,,,,,,,,,,,,,,,,,,,475--Chaîne de bourré--
-464,Tirador de lazos ,,464,Tireurs de lacs,,,,,,,,,,,,,,,,,,,,
+461,Terciopelo por trama,,461,Velours par trame,,"Velours uni ou côtélé, ordinairement en coton, obtenu après tissage par le découpage manuel ou mécanique des flottés d'une armure trame",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",velvet,,,,,,,,,,,,,,,473--Serrée--
+462,Terciopelo recamado,,462,Velours broderie,,"Velours façonné formé par une ou plusieurs chaînes poil, dont l'effet de velours frisé est égal ou plus élevé que l'effet de velours coupé et qui se tisse d'une autre manière que le velours ciselé",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,474--Chaîne poil--
+463,Terciopelo rizado,,463,Velours frisé,,"Velours, uni ou façonné, caractérisé par des côtes parallèles à la trame et formées de bouclettes juxtaposées produites par les fils d'une ou plusieurs chaînes poil",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,475--Chaîne de bourré--
+464,Tirador de lazos ,,464,Tireurs de lacs,,"Ouvrier auxiliaire chargé, aux métiers à la tire, de dégager les lacs et d'exercer une traction sur les cordes du rame, ou du semple, ainsi sélectionnées, pour soulever les fils de chaîne et produire ainsi des effets de dessin",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,
 380,Tiraz,,380,Tiraz,,,,,,,,,,,,,,,,,,,,477--Chemin--
 381,Tiritaña,,,,,,,,,,,,,,,,,,,,,,,478--Bave--
 465,Tornasolado,,,,,,,,,,,,,,,,,,,,,,,----
-382,Torsión,,382,Torsion,,,,,,,,,,,,,,,,,,,,481--Ourdissoir--
+382,Torsión,,382,Torsion,,"Torsion d'un fil autour de son axe résultant du moulinage. La direction de la torsion est indiquée par la lettre ""S"" ou ""Z""",Subst. fém.,"Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980.",,,,,,,,,,,,,,,,481--Ourdissoir--Subst. fém.
 383,Hilo torzal,,,,,,,,,,,,,,,,,,,,,,,482--Sergé composé--
-384,Trama,,384,Trame,,,,,,,,,,,,,,,,,,,,384--Trame--
+384,Trama,,384,Trame,,Fil disposé transversalement aux fils de chaîne dans un tissu,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,384--Trame--Subst. fém.
 ,,,,,,,,,,,,,,,,,,,,,,,,484--Denier--
-467,Trama,,467,Trame,,,,,,,,,,,,,,,,,,,,485--Bout--
-469,Trama de alma,,469,Trame de bourré,,,,,"bourre, bourré",,,,,,,,,,,,,,,487--Filament--
-468,Trama de base,,,,,,,,,,,,,,,,,,,,,,,488--Lin--
-471,Trama espolinada,,471,Trame brochée,,,,,,,,,,,,,,,,,,,,489--Lustré--
-470,Trama lanzada,,470,Trame de lancé,,,,,,,,,,,,,,,,,,,,490--Gobelins--
+467,Trama,,467,Trame,,"Fil formé de plusieurs bouts de soie grège assemblés par une faible torsion, S ou Z",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,485--Bout--Subst. fém.
+469,Trama de alma,,469,Trame de bourré,,"Grosse trame, insérée entre deux croisures superposées, pour produire un effet à fort relief",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997","bourre, bourré",,,,,,,,,,,,,,,487--Filament--
+468,Trama de base,,468,Trame de fond,,"Trame constituant les croisements de l'armure de fond, dans les tissus à plusieurs lats",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,488--Lin--
+471,Trama espolinada,,471,Trame brochée,,"Trame qui limite son emploi à la larguer des motifs qu'elle produit, et qui permet de former un effet de dessin",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,489--Lustré--
+470,Trama lanzada,,470,Trame de lancé,,"Trame supplémentaire, passée dans toute la largeur du tissu",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,490--Gobelin--
 472,Trama suplementaria,,472,Trame supplémentaire,,,,,,,,,,,,,,,,,,,,492--Métier à bras--
-385,Tul,,385,Tulle,,,,,,,,,,,,,,,,,,,,493--Interruption--
-473,Tupido,,473,Serrée,,,,,,,,,,,,,,,,,,,,494--Léger--
+385,Tul,,385,Tulle,,"Tissu très léger, fabriqué avec de fins fils de soie, de coton, etc., formant un réseau de mailles lâches, rondes, carrées ou polygonales.",Subst. masc.,CNRTL. https://cnrtl.fr/definition/tulle. Consulté en septembre 2019,,,,,,,,,,,,,,,,493--Interruption--Subst. masc.
+473,Tupido,,473,Serrée,,"Partie du tissu où la trame est exagérément tassée, soit par la trop grande épaisseur des fils de trame, soit par un tassement irrégulier trop important dans cette partie",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,494--Léger--Subst. fém.
 386,Turquí,,,,,,,,,,,,,,,,,,,,,,,495--Plomb--
-387,Urdimbre,,387,Chaîne,,,,,,,,,,,,,,,,,,,,496--Losange--
-388,Urdimbre base,,388,Chaîne pièce,,,,,,,,,,,,,,,,,,,,497--Fil métallique--
-389,Urdimbre de efecto,,389,Chaîne poil,,,,,,,,,,,,,,,,,,,,498--Fil manquant--
+387,Urdimbre,,387,Chaîne,,Ensemble des fils longitudinaux d'un tissu,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,496--Losange--Subst. fém.
+388,Urdimbre base,,388,Chaîne pièce,,"Chaîne principale, dans les tissus qui en comporte plusieurs. Parfois appelée chaîne de fond",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,497--Fil métallique--
+389,Urdimbre de efecto,,389,Chaîne poil,,"Chaîne dont les fils sont spécialement chargés de former des flottés, au-dessus d'une armure produite par une autre chaîne",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,498--Fil manquant--
 390,Urdimbre de fondo,,390,Chaîne toile,,,,,,,,,,,,,,,,,,,,499--Trame manquante--
-391,Urdimbre de ligadura,,391,Chaîne de liage,,,,,,,,,,,,,,,,,,,,500--Lardure--
-475,Urdimbre de mecha,,475,Chaîne de bourré,,,,,,,,,,,,,,,,,,,,501--Retors--
-474,Urdimbre de pelo,,474,Chaîne poil,,,,,,,,,,,,,,,,,,,,502--Dessin à pointe--
-392,Urdir,,392,Ourdir,,,,,,,,,,,,,,,,,,,,503--Portée--
-393,Vellutero,,393,Veloutier,,,,,,,,,,,,,,,,,,,,504--Métier mécanique--
-394,Verdeceledón,,394,Vert céladon,,,,,,,,,,,,,,,,,,,,506--Sans envers--
+391,Urdimbre de ligadura,,391,Chaîne de liage,,"Chaîne auxiliaire utilisée pour relier les trames les unes aux autres, les fixer au-dessus d'une armure de fond ou les armurer",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,500--Lardure--
+475,Urdimbre de mecha,,475,Chaîne de bourré,,"Chaîne complémentaire, généralement composée de gros fils, ayant pour rôle de s'inetrposer entre deux croisures et de provoquer leur relief",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,501--Retors--
+474,Urdimbre de pelo,,474,Chaîne poil,,"Dans les velours par chaîne, expression utilisée pour les fils formant les effets de velours tissé ou coupé",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,502--Dessin à pointe--
+392,Urdir,,392,Ourdir,,"Préparer la chaîne, par disposition parallèle des fils d'une longueur uniforme et enroulage (pliage) de ces fils sur le rouleau de la chaîne",Vb.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,503--Portée--Vb.
+393,Vellutero,,393,Veloutier,,Tisseur en métier mécanique. Il réalise plus particulièrement des articles de velours,Subst. masc.,CNRTL. https://cnrtl.fr/definition/veloutier. Consulté en septembre 2019,,,,,,,,,,,,,,,,504--Métier mécanique--Subst. masc.
+394,Verdeceledón,,394,Vert céladon,,"Couleur vert tendre, pâle et bleuté",,CNRTL. https://cnrtl.fr/definition/céladon. Consulté en septembre 2019,,,,,,,,,,,,,,,,#REF!
 395,Zarzahán,,395,Zarzahan,,,,,,,,,,,,,,,,,,,,507--Double-face--
-477,Camino,,477,Chemin,,,,,,,,,,,,,,,,,,,,#REF!
-478,Baba,,478,Bave,,,,,,,,,,,,,,,,,,,,#REF!
+477,Camino,,477,Chemin,,Ensemble des arcades et des maillons constituant une section autonome du montage et sui sont reliés consécutivement aux cordes du rame. Largeur du tissu correspondant à cette section du montage,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+478,Baba,,478,Bave,,"Fil émis par le ver à soie pour former le cocon. Elle est composée de deux filaments, les brins, soudés l'un à l'autre par le grès",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-481,Urdidor,,481,Ourdissoir,,,,,,,,,,,,,,,,,,,,#REF!
+481,Urdidor,,481,Ourdissoir,,Appareil permettant de préparer la chaîne,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 482,Sarga compuesta,,482,Sergé composé,,,,,,,,,,,,,,,,,,,,#REF!
-483,Título,,483,Titre,,,,,,,,,,,,,,,,,,,,483--Titre--
-484,Denier,,484,Denier,,,,,,,,,,,,,,,,,,,,#REF!
-485,Cabo,,485,Bout,,,,,,,,,,,,,,,,,,,,#REF!
+483,Título,,483,Titre,,"Expression de la grosseur des fils, au moyen d'unités de mesure qui diffèrent suivant la nature des fils",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,483--Titre--Subst. masc.
+484,Denier,,484,Denier,,Unité d'après laquelle s'exprime la grosseur des fils continus de soie et d'autres matières,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+485,Cabo,,485,Bout,,"Terme utilisé pour désigner : 1. un des fils assemblés par une torsion, 2. un des composants d'un coup de trame",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-487,Filamento,,487,Filament,,,,,,,,,,,,,,,,,,,,#REF!
-488,Lino,,488,Lin,,,,,,,,,,,,,,,,,,,,#REF!
-489,Lustrado,,489,Lustré,,,,,,,,,,,,,,,,,,,,#REF!
-490,Gobelino,,490,Gobelins,,,,,,,,,,,,,,,,,,,,#REF!
+487,Filamento,,487,Filament,,"Élément long et très fin, entrant dans la composition de certaines substances animales, minérales ou végétales",Subst. masc.,CNRTL. https://cnrtl.fr/definition/filaments. Consulté en septembre 2016,,,,,,,,,,,,,,,,#REF!
+488,Lino,,488,Lin,,Fibres extraites de l'écorce de plantes de la famille des Linacées. Fil formé de ces fibres,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+489,Lustrado,,489,Lustré,,"Etoffe de soie, chaîne et trame cuite, armure taffetas",Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,#REF!
+490,Gobelino,,490,Gobelin,,Tapisserie provenant de la manufacture des Gobelins,"Subst. masc. La manufacture des Gobelins est un manufacture de tapisserie française, et l'un de ses plus hauts lieux de production. Par extension, le terme ""Gobelin"" désigne les tapisserie provenant de cette manufacture",CNRTL. https://cnrtl.fr/definition/gobelins. Consulté en septembre 2016,,,,,,,,,,,,,,,,#REF!
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 492,Telar manual,,492,Métier à bras,,,,,,,,,,,,,,,,,,,,#REF!
-493,Intervalo,,493,Interruption,,,,,,,,,,,,,,,,,,,,#REF!
-494,Ligamento ligero,,494,Léger,,,,,,,,,,,,,,,,,,,,#REF!
-495,Plomo,,495,Plomb,,,,,,,,,,,,,,,,,,,,#REF!
-496,Losange,,496,Losange,,,,,,,,,,,,,,,,,,,,#REF!
+493,Intervalo,,493,Interruption,,"Dans les satins, espacement des points de liage placés sur les coups successifs du rapport. L'interruption est le nombre de fils, compté sur la face trame du tissun qui sépare un liage de celui placé à la droite sur le coup suivant. L'interruption est égale au décochement moins un",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+494,Ligamento ligero,,494,Léger,,Terme utilisé pour indiquer qu'une armure a été exécutée en actionnant le minimum de fils ou de lisses permis par cette croisure,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+495,Plomo,,495,Plomb,,Tige de plomb ou de fer suspendue à un maillon pour tendre l'arcade,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+496,Losange,,496,Losange,,"Armure dérivée des chevrons à sens chaîne et à sens trame, formant des losanges par une double interversion des lignes de liage",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 497,Hilo metálico,,497,Fil métallique,,,,,,,,,,,,,,,,,,,,#REF!
-498,Falla de urdimbre,,498,Fil manquant,,,,,,,,,,,,,,,,,,,,#REF!
-499,Falla de trama,,499,Trame manquante,,,,,,,,,,,,,,,,,,,,#REF!
-500,Falla de calada,,500,Lardure,,,,,,,,,,,,,,,,,,,,#REF!
-501,Hilo torcido,,501,Retors,,,,,,,,,,,,,,,,,,,,#REF!
-502,Dibujo simétrico,,502,Dessin à pointe,,,,,,,,,,,,,,,,,,,,#REF!
+498,Falla de urdimbre,,498,Fil manquant,,"Rayure plus ou moins apparente, provoquée par l'absence d'un fil de chaîne, généralement à la suite d'une rupture",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+499,Falla de trama,,499,Trame manquante,,Défaut de fabrication dû à l'absence d'une trame sur une partie de la larguer du tissu,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+500,Falla de calada,,500,Lardure,,"Défaut de tissage, provoqué par une navette maladroitement lancée, ou lancée avant que le pas ne soit convenablement ouvert",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+501,Hilo torcido,,501,Retors,fil,"Fil formé par assemblage de deux ou plusieurs bouts de filés, par une torsion inverse de celles des filés",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+502,Dibujo simétrico,,502,Dessin à pointe,,"Dessin présentant une construction symétrique, axée ""sens chaîne"" et exécutée sur un montage à pointe",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
 503,Portada,,503,Portée,,,,,,,,,,,,,,,,,,,,#REF!
 504,Telar mecánico,,504,Métier mécanique,,,,,,,,,,,,,,,,,,,,#REF!
 ,,,,,,,,,,,,,,,,,,,,,,,,#REF!
-506,Reversible,,506,Sans envers,,,,,,,,,,,,,,,,,,,,#REF!
-507,Tela a dos caras,,507,Double-face,,,,,,,,,,,,,,,,,,,,#REF!
-508,Tisú,,,,,,,,,,,,,,,,,,,,,,,----
-509,Armura,,,,,,,,,,,,,,,,,,,,,,,----
+506,Reversible,,506,Sans envers,,"Expression utilisée pour indiquer que les deux faces d'une armure, ou d'un tissu, sont de construction indentique. Fréquemment utilisé pour désigner des tissus double-face dont les deux faces sont construites avec la même armure",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+507,Tela a dos caras,,507,Double-face,,"Tissu dont les deux faces peuvent être indistinctement utilisées comme endroit, qu'elles soient semblables ou différentes par leur armure, leur couleur ou leur dessin",Subst. masc. ,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997 ; CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,#REF!
+508,Tisú,,508,Lamé,,"Tissu orné de lames d'or ou d'argent, tissé de fils d'or ou d'argent qui lui donnent un aspect scientillant",Subst. masc.,CNRTL. https://cnrtl.fr/definition/lam%C3%A9. Consulté en octobre 2019,,,,,,,,,,,,,,,,508--Lamé--Subst. masc. 
+509,Armura,,509,Armure,,,,,,,,,,,,,,,,,,,,509--Armure--
 510,Ferronerie,,,,,,,,,,,,,,,,,,,,,,,----
 511,Alluciolato,,,,,,,,,,,,,,,,,,,,,,,----
 512,Atributos según técnica de tejido,,,,,,,,,,,,,,,,,,,,,,,----
 513,Tejidos determinados por su origen geográfico ,,,,,,,,,,,,,,,,,,,,,,,----
-514,Raso irregular,,,,,,,,,,,,,,,,,,,,,,,----
-515,Raso reina,,,,,,,,,,,,,,,,,,,,,,,----
+514,Raso irregular,,514,Satin irrégulier,,Les satins irréguliers sont construits avec utilisation de plusieurs décochements successifs,,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,514--Satin irrégulier--
+515,Raso reina,,515,Satin à la reine,,"Satin de 6 décochement 2,3,4,4,3,(2)",,MEMOtextile,,,,,,,,,,,,,,,,515--Satin à la reine--
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 517,Teletón,,,,,,,,,,,,,,,,,,,,,,,----
 518,Aceituní,,,,,,,,,,,,,,,,,,,,,,,----
@@ -475,41 +474,41 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196",,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 521,Cartonaje,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-523,Telar de alto lizo,,,,,,,,,,,,,,,,,,,,,,,----
-524,Telar de bajo lizo,,,,,,,,,,,,,,,,,,,,,,,----
+523,Telar de alto lizo,,523,Métier de haute lisse,,,,,,,,,,,,,,,,,,,,523--Métier de haute lisse--
+524,Telar de bajo lizo,,524,Métier de basse lisse,,,,,,,,,,,,,,,,,,,,524--Métier de basse lisse--
 525,Telar de lizos,,,,,,,,,,,,,,,,,,,,,,,----
-526,Tisaje,,,,,,,,,,,,,,,,,,,,,,,----
-527,Devanar,,,,,,,,,,,,,,,,,,,,,,,----
+526,Tisaje,,526,Tissage,,Confection des tissus,Subst. masc.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,526--Tissage--Subst. masc.
+527,Devanar,,527,Dévider,,Enrouler un fil sur un nouveau support en vue d'une utilisation ou d'une manipulation particulière,Vb.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,527--Dévider--Vb.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
-529,Rayón,,,,,,,,,,,,,,,,,,,,,,,----
-530,Torcer,,,,,,,,,,,,,,,,,,,,,,,----
+529,Rayón,,529,Rayonne,,Fibre textile artificielle à base de cellulose; cette matière utilisée en fibres continues,Subst. fém.,CNRTL. https://cnrtl.fr/definition/rayonne. Consulté en septembre 2019,Soie artificielle,,,,,,,,,,,,,,,529--Rayonne--Subst. fém.
+530,Torcer,,530,Tordre,,"Durant le moulinage, réunir le  faisceau des brins d'un fil, afin de former un fil unique, de façon à augmenter la résistance du fil tout en réduisant son élasticité.",Vb.,Villard. Manuel de théorie du tissage. Tome 1,,,,,,,,,,,,,,,,530--Tordre--Vb.
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 532,Muselina tornasol,,,,,,,,,,,,,,,,,,,,,,,----
 533,Nobleza,,,,,,,,,,,,,,,,,,,,,,,----
 534,Pana,,,,,,,,,,,,,,,,,,,,,,,----
 535,Pana de seda,,,,,,,,,,,,,,,,,,,,,,,----
 536,Paño de seda,,,,,,,,,,,,,,,,,,,,,,,----
-537,Pasamanería ,,,,,,,,,,,,,,,,,,,,,,,----
+537,Pasamanería ,,537,Passementerie,,"Tissus très étroits, pour enjolivures et ornements",Subst. fém.,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,537--Passementerie--Subst. fém.
 538,Piel de seda,,,,,,,,,,,,,,,,,,,,,,,----
-539,Raso de Lyon,,,,,,,,,,,,,,,,,,,,,,,----
+539,Raso de Lyon,,539,Satin de Lyon,,Sergé 2 lie 1,,MEMOtextile,,,,,,,,,,,,,,,,539--Satin de Lyon--
 540,Polonesa,,,,,,,,,,,,,,,,,,,,,,,----
 541,Pongis,,,,,,,,,,,,,,,,,,,,,,,----
 542,Pongis Lionés,,,,,,,,,,,,,,,,,,,,,,,----
-543,Popelín,,,,,,,,,,,,,,,,,,,,,,,----
-544,Popelín de seda,,,,,,,,,,,,,,,,,,,,,,,----
-545,Popelín de Irlanda,,,,,,,,,,,,,,,,,,,,,,,----
-546,Puntilla,,,,,,,,,,,,,,,,,,,,,,,----
+543,Popelín,,543,Popeline,,"Étoffe de coton, tissée en armure toile, formant des côtes dans le sens de la chaîne et comprenant beaucoup moins de fils en trame qu'en chaîne  ; Etoffe dont la chaîne est de soie et la trame est de laine",Subst. fém.,CNRTL. https://cnrtl.fr/definition/popeline. Consulté en septembre 2019 ; Leloir. dictionnaire du costume,,,,,,,,,,,,,,,,543--Popeline--Subst. fém.
+544,Popelín de seda,,544,Popeline de soie,,"Tissu à chaîne de soie et à trame de laine, de lin ou de coton, qui a de petites côtes dans le sens de la largeur",,CNRTL. https://cnrtl.fr/definition/popeline. Consulté en septembre 2019,,,,,,,,,,,,,,,,544--Popeline de soie--
+545,Popelín de Irlanda,,545,Popeline d'Irlande,,,,,,,,,,,,,,,,,,,,545--Popeline d'Irlande--
+546,Puntilla,,,Dentelle,,,,,,,,,,,,,,,,,,,,--Dentelle--
 547,Ramadés,,,,,,,,,,,,,,,,,,,,,,,----
 548,Radiados,,,,,,,,,,,,,,,,,,,,,,,----
 549,Rádium,,,,,,,,,,,,,,,,,,,,,,,----
-550,Rasete,,,,,,,,,,,,,,,,,,,,,,,----
+550,Rasete,,550,Satinette,,Étoffe de coton ou de coton et de soie ayant l'aspect lustré du satin sur l'endroit,Subst. fém.,CNRTL. https://cnrtl.fr/definition/satinette. Consulté ens eptmebre 2019,,,,,,,,,,,,,,,,550--Satinette--Subst. fém.
 551,Raso compuesto,,,,,,,,,,,,,,,,,,,,,,,----
 552,Raso de cuatro,,,,,,,,,,,,,,,,,,,,,,,----
 553,Recamado,,,,,,,,,,,,,,,,,,,,,,,----
-554,Raso duquesa,,,,,,,,,,,,,,,,,,,,,,,----
-555,Raso Liberty,,,,,,,,,,,,,,,,,,,,,,,----
-556,Reps,,,,,,,,,,,,,,,,,,,,,,,----
-557,Reps de seda,,,,,,,,,,,,,,,,,,,,,,,----
+554,Raso duquesa,,554,Satin duchesse,,Satin de décochement de 3,,MEMOtextile,,,,,,,,,,,,,,,,554--Satin duchesse--
+555,Raso Liberty,,555,Satin liberty,,,Dénomination commerciale d'un groupe de d'étoffes en satin de 8 fabriqué avec une chaîne grège et une trame schappe teint en pièce,MEMOtextile,,,,,,,,,,,,,,,,555--Satin liberty--Dénomination commerciale d'un groupe de d'étoffes en satin de 8 fabriqué avec une chaîne grège et une trame schappe teint en pièce
+556,Reps,,556,Reps,,"Armure à côtes longitudinales plus ou moins larges, formées par des flottés de trame reposant sur une armure de fond",Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,556--Reps--Subst. masc.
+557,Reps de seda,,557,Reps de soie,,"Étoffe de soie à côtes perpendiculaires aux lisières, employée souvent pour l'ameublement (rideaux, fauteuils)",,CNRTL. https://cnrtl.fr/definition/reps. Consulté ens eptmebre 2019,,,,,,,,,,,,,,,,557--Reps de soie--
 558,Restaño,,,,,,,,,,,,,,,,,,,,,,,----
 559,Sarga romana,,,,,,,,,,,,,,,,,,,,,,,----
 600,Sarga interrumpida,,,,,,,,,,,,,,,,,,,,,,,----
@@ -520,21 +519,21 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196",,,,,,,,,
 605,Tafetán inglés,,,,,,,,,,,,,,,,,,,,,,,----
 606,Tafetán listado,,,,,,,,,,,,,,,,,,,,,,,----
 607,Tapinete,,,,,,,,,,,,,,,,,,,,,,,----
-608,Tapiz,,,,,,,,,,,,,,,,,,,,,,,----
-609,Tapiz de bajo lizo,,,,,,,,,,,,,,,,,,,,,,,----
+608,Tapiz,,608,Tapisserie,,"Ouvrage d'art destiné à la décoration murale, composé de panneaux tissés à la main sur métier avec de la laine, de la soie, de l'or, qui se distingue de la broderie en ce que les tableaux et sujets représentés sont intégrés dans la trame même du tissu; un de ces panneaux. Par méton. Art de tisser à la main sur métier, pour faire une tapisserie; tissu qui résulte de cet art. Par analog. Ouvrage exécuté à l'aiguille dans lequel on recouvre entièrement de fils (de laine, de coton, de soie,...) un canevas; tissu qui résulte de cet ouvrage.",,CNRTL. https://cnrtl.fr/definition/tapisserie. Consulté en septembre 2019,,,,,,,,,,,,,,,,608--Tapisserie--
+609,Tapiz de bajo lizo,,609,Tapisserie de basse lisse,,,,,,,,,,,,,,,,,,,,609--Tapisserie de basse lisse--
 610,Tercianela,,,,,,,,,,,,,,,,,,,,,,,----
 611,Terciopelo liso,,,,,,,,,,,,,,,,,,,,,,,----
 612,Terciopleo  Gregoire,,612,Velours Grégoire,,,,,,,,,,,,,,,,,,,,612--Velours Grégoire--
-613,Terciopleo de Génova,,613,Velours de Gênes,,,,,,,,,,,,,,,,,,,,613--Velours de Gênes--
+613,Terciopleo de Génova,,613,Velours de Gênes,,"Très beau velours ancien, qui associe le velours coupé au velours épinglé, créant ainsi dessins et motifs",,CNRTL. https://cnrtl.fr/definition/velours. Consulté en septembre 2019,,,,,,,,,,,,,,,,613--Velours de Gênes--
 614,Terciopelo de Lyon,,614,Velours de Lyon,,,,,,,,,,,,,,,,,,,,614--Velours de Lyon--
 615,Terciopelo del Norte,,615,Velours du Nord,,,,,,,,,,,,,,,,,,,,615--Velours du Nord--
-616,Aguja,,,,,,,,,,,,,,,,,,,,,,,----
-617,Algodón,,617,Coton,,,,,,,,,,,,,,,,,,,,617--Coton--
-618,Seda,,618,Soie,,,,,,,,,,,,,,,,,,,,618--Soie--
+616,Aguja,,616,Aiguille,,"Tige, généralement métallique, dont l'une des extrémités est effilée, l'autre percée d'un trou (le chas), utilisée dans les travaux de couture, de broderie, de tapisserie, etc.",,CNRTL. https://cnrtl.fr/definition/aiguille. Consulté en septembre 2019,,,,,,,,,,,,,,,,616--Aiguille--
+617,Algodón,,617,Coton,fil,"Fil constitué à partir des poils qui recouvrent la graine du cotonnier, plante de la famille des Maivacées",,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,617--Coton--
+618,Seda,,618,Soie,,"Au sens textile, matière tirée des cocons et plus spécialement des coco,s filés par les chenilles du Bombyx Mori",Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,618--Soie--Subst. fém.
 619,Azul de Prusia,,619,Bleu de Prusse,,,,,,,,,,,,,,,,,,,,619--Bleu de Prusse--
-620,Azul de Sajonia,,,,,,,,,,,,,,,,,,,,,,,----
-621,Puesta en carta,,621,Mise en carte,,,,,,,,,,,,,,,,,,,,621--Mise en carte--
-622,Cartón ,,,,,,,,,,,,,,,,,,,,,,,----
+620,Azul de Sajonia,,620,Bleu de Saxe,,,,,,,,,,,,,,,,,,,,620--Bleu de Saxe--
+,,,621,Mise en carte,,,,,,,,,,,,,,,,,,,,621--Mise en carte--
+622,Cartón ,,622,Carton,,"Bande de coton coupée de la dimension d'une des faces du cylindre, et percée selon l'exigence de l'armure ou du dessin. Représentation d'une duite ou d'un coup de trame. Equivalent d'une marche",,FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852,,,,,,,,,,,,,,,,622--Carton--
 623,Cordón,,,,,,,,,,,,,,,,,,,,,,,----
 624,Dejado,,,,,,,,,,,,,,,,,,,,,,,----
 625,Tomado,,,,,,,,,,,,,,,,,,,,,,,----
@@ -548,35 +547,35 @@ dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196",,,,,,,,,
 632,Seda ocal,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 634,Cadarzo,,,,,,,,,,,,,,,,,,,,,,,----
-635,Mezclilla,,,,,,,,,,,,,,,,,,,,,,,----
-636,Tusor,,,,,,,,,,,,,,,,,,,,,,,----
-637,Ligamento simple,,,,,,,,,,,,,,,,,,,,,,,----
+635,Mezclilla,,635,Denim,,,,,,,,,,,,,,,,,,,,635--Denim--
+636,Tusor,,636,Tussah,,Soie sauvage provenant du dévidage des cocons filés par des chenilles des Anterae,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",Tusar,,,,,,,,,,,,,,,636--Tussah--Subst. masc.
+637,Ligamento simple,,637,Armure simple,,,,,,,,,,,,,,,,,,,,637--Armure simple--
 638,Ligamento compuesto,,,,,,,,,,,,,,,,,,,,,,,----
-639,Ligamento fundamental,,,,,,,,,,,,,,,,,,,,,,,----
-640,Ligamento derivado,,,,,,,,,,,,,,,,,,,,,,,----
+639,Ligamento fundamental,,639,Armure fondamentale,,,,,,,,,,,,,,,,,,,,639--Armure fondamentale--
+640,Ligamento derivado,,640,Armure dérivée,,,,,,,,,,,,,,,,,,,,640--Armure dérivée--
 641,Sarga batavia,,,,,,,,,,,,,,,,,,,,,,,----
 642,Área de tejido,,,,,,,,,,,,,,,,,,,,,,,----
 643,Atributos según modificaciones del tejido,,,,,,,,,,,,,,,,,,,,,,,----
-644,Lana,,,,,,,,,,,,,,,,,,,,,,,----
+644,Lana,,644,Laine,,Fil formé des poils qui composent la toison des moutons de quelques autres animaux,Subst. fém.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,644--Laine--Subst. fém.
 645,Elementos interfuncionales ,,,,,,,,,,,,,,,,,,,,,,,----
 646,Urdidor,,,,,,,,,,,,,,,,,,,,,,,----
-647,Devanador,,,,,,,,,,,,,,,,,,,,,,,----
-649,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
-,,,,,,,,,,,,,,,,,,,,,,,,----
+647,Devanador,,647,Dévidoir,,Terme très général impliquant l'enroulage d'un fil sur un nouveau support en vue d'une utilisation ou d'une manipulation particulière,Subst. masc.,"CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997",,,,,,,,,,,,,,,,647--Dévidoir--Subst. masc.
+649,Tejido,,,,,,,,,,,,,,,,,,,,,,,----
+650,Tejido,,,,,,,,,,,,,,,,,,,,,,,----
+651,Motivo,,,,,,,,,,,,,,,,,,,,,,,----
+652,Diseño,,,,,,,,,,,,,,,,,,,,,,,----
+653,Dibujo,,,,,,,,,,,,,,,,,,,,,,,----
+654,Bizarro,,,,,,,,,,,,,,,,,,,,,,,----
+655,Iconografía,,,,,,,,,,,,,,,,,,,,,,,----
+656,Hoja,,,,,,,,,,,,,,,,,,,,,,,----
+657,Roseta,,,,,,,,,,,,,,,,,,,,,,,----
+658,Centro,,,,,,,,,,,,,,,,,,,,,,,----
+659,Rosetón,,,,,,,,,,,,,,,,,,,,,,,----
+660,Roleo,,,,,,,,,,,,,,,,,,,,,,,----
+661,Hilo de seda,,,,,,,,,,,,,,,,,,,,,,,----
+662,Muaré,,,,,,,,,,,,,,,,,,,,,,,----
+663,"Tejido ""a dentelle""",,,,,,,,,,,,,,,,,,,,,,,----
+664,Naturalista,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
 ,,,,,,,,,,,,,,,,,,,,,,,,----
