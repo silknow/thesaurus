@@ -34,6 +34,8 @@ const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
 const SKOS = $rdf.Namespace('http://www.w3.org/2004/02/skos/core#');
 const DC = $rdf.Namespace('http://purl.org/dc/terms/');
 const XSD = $rdf.Namespace('http://www.w3.org/2001/XMLSchema#');
+const FOAF = $rdf.Namespace('http://xmlns.com/foaf/0.1/');
+const PAV = $rdf.Namespace('http://purl.org/pav/');
 
 const today = new Date().toISOString().slice(0, 10);
 
@@ -72,12 +74,23 @@ function add(s, p, o, lang) {
   else store.add(s, p, o);
 }
 
+// silknow project entity
+const silknowProj = $rdf.sym('http://data.silknow.org/SILKNOW');
+add(silknowProj, RDF('type'), FOAF('Project'));
+add(silknowProj, RDFS('label'), 'SILKNOW');
+add(silknowProj, RDFS('comment'), 'SILKNOW is a research project that improves the understanding, conservation and dissemination of European silk heritage from the 15th to the 19th century.');
+add(silknowProj, FOAF('logo'), 'http://silknow.org/wp-content/uploads/2018/06/cropped-silknow-1.png');
+add(silknowProj, FOAF('homepage'), $rdf.sym('http://silknow.eu/'));
+
 // setup scheme
 const scheme = $rdf.sym(SILKNOW('silk-thesaurus'));
 add(scheme, RDF('type'), SKOS('ConceptScheme'));
 add(scheme, RDFS('label'), 'Thesaurus describing silk related techniques and material', 'en');
 add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
+add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
+add(scheme, DC('creator'), silknowProj);
+add(scheme, PAV('version'), '1.0');
 
 function toConcept(s, k, lang) {
   const concept = SILKNOW(s[k.ID]);
@@ -99,6 +112,7 @@ function toConcept(s, k, lang) {
       .map(r => r.trim())
       .forEach(r => add(concept, SKOS('related'), SILKNOW(r)));
   }
+
   let hasInternalBroader;
   if (s[k.BROADER]) {
     const b = s[k.BROADER].split(',')
@@ -110,8 +124,8 @@ function toConcept(s, k, lang) {
       })
       .filter(x => x);
 
-      hasInternalBroader = b.some(x => x instanceof $rdf.NamedNode);
-      b.forEach(x => add(concept, SKOS('broader'), x));
+    hasInternalBroader = b.some(x => x instanceof $rdf.NamedNode);
+    b.forEach(x => add(concept, SKOS('broader'), x));
   }
 
   add(concept, SKOS('inScheme'), scheme);
@@ -120,16 +134,15 @@ function toConcept(s, k, lang) {
 
   if (s[k.BIB]) {
     s[k.BIB].split(';')
-    .forEach(b => add(concept, DC('bibliographicCitation'), b, lang));
+      .forEach(b => add(concept, DC('bibliographicCitation'), b, lang));
   }
 }
 
 function convertToSkos(source, lang) {
   let K = Object.assign({}, COLUMN.en);
   const fileColumns = Object.keys(source[0]);
-  if (fileColumns.includes('TÉRMINO')) {
-     K = Object.assign({}, COLUMN.es);
-  }
+  if (fileColumns.includes('TÉRMINO')) K = Object.assign({}, COLUMN.es);
+
 
   if (!fileColumns.includes('ID')) {
     K.ID = 'ID-ES';
@@ -163,18 +176,18 @@ Promise.all(promises)
       xsd: XSD().value,
       getty: 'http://vocab.getty.edu/aat/',
       rdfs: RDFS().value,
+      foaf: FOAF().value,
+      pav: FOAF().value,
     };
 
     $rdf.serialize(undefined, store, 'http://example.org', 'text/turtle', (err, str) => {
       if (err) throw (err);
       const data = str
-            .replace('@prefix : <#>.\n', '')
-            .replace(/^silknow:/gm, '\nsilknow:');
+        .replace('@prefix : <#>.\n', '')
+        .replace(/^silknow:/gm, '\nsilknow:');
 
       fs.writeFile(options.dst, data, 'utf8');
       console.log(`File written: ${options.dst}`);
     });
   })
-  .catch((err) => {
-    console.error(err);
-  });
+  .catch(err => console.error(err));
