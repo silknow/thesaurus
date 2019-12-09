@@ -1,13 +1,7 @@
 /* eslint-disable no-console */
 
 
-/* remove when Array#flat is implemented in Node (see https://goo.gl/pK34PD) */
-const flat = require('array.prototype.flat');
 const path = require('path');
-
-if (!Array.prototype.flat) flat.shim();
-/* end remove */
-
 const fs = require('fs-extra');
 const klawSync = require('klaw-sync');
 const csv = require('csvtojson');
@@ -60,6 +54,16 @@ const COLUMN = {
     RELATED: 'TÉRMINO ASOCIADO',
     BROADER: 'JERARQUÍA',
   },
+  fr: {
+    ID: 'ID-ES',
+    TERM: 'TERME',
+    DEFINITION: 'DEFINITION INITIALE',
+    BIB: 'BIBLIOGRAPHIE',
+    SYN: 'SYNONYMES',
+    QUAL: 'Qualifier',
+    RELATED: 'TÉRMINO ASOCIADO',
+    BROADER: 'JERARQUÍA',
+  },
 };
 
 const store = $rdf.graph();
@@ -102,10 +106,10 @@ function toConcept(s, k, lang) {
   let label = s[k.TERM];
   if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
 
-  add(concept, SKOS('prefLabel'), label, lang);
+  add(concept, SKOS('prefLabel'), label.replace(/\.$/, ''), lang);
   if (s[k.SYN]) {
     s[k.SYN].split(',')
-      .forEach(syn => add(concept, SKOS('altLabel'), syn, lang));
+      .forEach(syn => add(concept, SKOS('altLabel'), syn.replace(/\.$/, ''), lang));
   }
   add(concept, SKOS('definition'), s[k.DEFINITION], lang);
 
@@ -145,6 +149,7 @@ function convertToSkos(source, lang) {
   let K = Object.assign({}, COLUMN.en);
   const fileColumns = Object.keys(source[0]);
   if (fileColumns.includes('TÉRMINO')) K = Object.assign({}, COLUMN.es);
+  if (fileColumns.includes('TERME')) K = Object.assign({}, COLUMN.fr);
 
 
   if (!fileColumns.includes('ID')) {

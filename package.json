@@ -1,8 +1,8 @@
 {
   "name": "silknow",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
-  "main": "index.js",
+  "main": "converter/index.js",
   "scripts": {
     "convert": "node converter/index.js",
     "post": "skosify thesaurus.ttl -o thesaurus.ttl",
@@ -12,7 +12,6 @@
   "author": "Pasquale Lisena<pasquale.lisena@eurecom.fr>",
   "license": "ISC",
   "dependencies": {
-    "array.prototype.flat": "^1.2.1",
     "command-line-args": "^5.1.1",
     "csvtojson": "^2.0.8",
     "fs-extra": "^8.0.1",
