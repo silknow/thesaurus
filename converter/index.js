@@ -54,9 +54,9 @@ const COLUMN = {
     QUAL: 'QUALIFIER',
     RELATED: 'ASSOCIATED TERMS',
     FACETS: 'FACETS',
-    BROADER: 'Hierarchy (parent)',
-    EXACT_MATCH: ' skos:exactMatch',
-    CLOSE_MATCH: ' skos:closeMatch\'',
+    BROADER: 'HIERARCHY (PARENT)',
+    EXACT_MATCH: 'skos:exactMatch',
+    CLOSE_MATCH: 'skos:closeMatch',
   },
   fr: {
     ID: 'ID-ES',
@@ -153,6 +153,9 @@ function toConcept(s, k, lang) {
     hasInternalBroader = b.some((x) => x instanceof $rdf.NamedNode);
     b.forEach((x) => add(concept, SKOS('broader'), x));
   }
+
+  add(concept, SKOS('exactMatch'), s[k.EXACT_MATCH]);
+  add(concept, SKOS('closeMatch'), s[k.CLOSE_MATCH]);
 
   add(concept, SKOS('inScheme'), scheme);
   if (!hasInternalBroader) add(concept, SKOS('topConceptOf'), scheme);
