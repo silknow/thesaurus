@@ -39,12 +39,37 @@ const COLUMN = {
     TERM: 'TERM',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BiBLIOGRAPHY',
-    QUAL: 'QUALIFIER',
+    QUAL: 'Qualifier',
     SYN: 'SYNONYMS',
     RELATED: 'ASSOCIATED TERMS',
+    FACETS: 'FACETS',
     BROADER: 'hierarchy',
   },
   es: {
+    ID: 'ID-ES',
+    TERM: 'TERM-ES',
+    DEFINITION: 'FINAL DEFINITION',
+    BIB: 'BiBLIOGRAPHY',
+    SYN: 'SYNONYMS',
+    QUAL: 'QUALIFIER',
+    RELATED: 'ASSOCIATED TERMS',
+    FACETS: 'FACETS',
+    BROADER: 'Hierarchy (parent)',
+    EXACT_MATCH: ' skos:exactMatch',
+    CLOSE_MATCH: ' skos:closeMatch\'',
+  },
+  fr: {
+    ID: 'ID-ES',
+    TERM: 'TERME',
+    DEFINITION: 'DEFINITION FINALE',
+    BIB: 'BIBLIOGRAPHIE',
+    SYN: 'SYNONYMES',
+    QUAL: 'Qualifier',
+    RELATED: 'TÉRMINO ASOCIADO',
+    FACETS: 'FACETS',
+    BROADER: 'JERARQUÍA',
+  },
+  it: {
     ID: 'ID-ES',
     TERM: 'TÉRMINO',
     DEFINITION: 'DEFINICIÓN FINAL',
@@ -52,16 +77,7 @@ const COLUMN = {
     SYN: 'SINÓNIMOS',
     QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
-    BROADER: 'JERARQUÍA',
-  },
-  fr: {
-    ID: 'ID-ES',
-    TERM: 'TERME',
-    DEFINITION: 'DEFINITION INITIALE',
-    BIB: 'BIBLIOGRAPHIE',
-    SYN: 'SYNONYMES',
-    QUAL: 'Qualifier',
-    RELATED: 'TÉRMINO ASOCIADO',
+    FACETS: 'FACETS',
     BROADER: 'JERARQUÍA',
   },
 };
@@ -94,45 +110,48 @@ add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
 add(scheme, DC('creator'), silknowProj);
-add(scheme, PAV('version'), '1.5');
+add(scheme, PAV('version'), '1.8');
 
 function toConcept(s, k, lang) {
   const id = s[k.ID].trim();
   if (!id) return;
+  let label = s[k.TERM].trim();
+  if (!label) return;
 
   const concept = SILKNOW(id);
   add(concept, RDF('type'), SKOS('Concept'));
 
-  let label = s[k.TERM];
   if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
 
   add(concept, SKOS('prefLabel'), label.replace(/\.$/, ''), lang);
   if (s[k.SYN]) {
     s[k.SYN].split(',')
-      .forEach(syn => add(concept, SKOS('altLabel'), syn.replace(/\.$/, ''), lang));
+      .forEach((syn) => add(concept, SKOS('altLabel'), syn.replace(/\.$/, ''), lang));
   }
   add(concept, SKOS('definition'), s[k.DEFINITION], lang);
 
   if (s[k.RELATED]) {
     s[k.RELATED].split(',')
-      .filter(r => !Number.isNaN(Number.parseInt(r, 10)))
-      .map(r => r.trim())
-      .forEach(r => add(concept, SKOS('related'), SILKNOW(r)));
+      .filter((r) => !Number.isNaN(Number.parseInt(r, 10)))
+      .map((r) => r.trim())
+      .forEach((r) => add(concept, SKOS('related'), SILKNOW(r)));
   }
+
+  add(concept, SKOS('member'), s[k.FACETS]);
 
   let hasInternalBroader;
   if (s[k.BROADER]) {
     const b = s[k.BROADER].split(',')
-      .map(x => x.trim())
+      .map((x) => x.trim())
       .map((x) => {
         if (validUrl.isUri(x)) return x;
         if (!Number.isNaN(Number.parseInt(x, 10))) return SILKNOW(x);
         return null;
       })
-      .filter(x => x);
+      .filter((x) => x);
 
-    hasInternalBroader = b.some(x => x instanceof $rdf.NamedNode);
-    b.forEach(x => add(concept, SKOS('broader'), x));
+    hasInternalBroader = b.some((x) => x instanceof $rdf.NamedNode);
+    b.forEach((x) => add(concept, SKOS('broader'), x));
   }
 
   add(concept, SKOS('inScheme'), scheme);
@@ -141,38 +160,27 @@ function toConcept(s, k, lang) {
 
   if (s[k.BIB]) {
     s[k.BIB].split(';')
-      .forEach(b => add(concept, DC('bibliographicCitation'), b, lang));
+      .forEach((b) => add(concept, DC('bibliographicCitation'), b, lang));
   }
 }
 
 function convertToSkos(source, lang) {
-  let K = Object.assign({}, COLUMN.en);
-  const fileColumns = Object.keys(source[0]);
-  if (fileColumns.includes('TÉRMINO')) K = Object.assign({}, COLUMN.es);
-  if (fileColumns.includes('TERME')) K = Object.assign({}, COLUMN.fr);
+  const K = { ...COLUMN[lang] };
 
-
-  if (!fileColumns.includes('ID')) {
-    K.ID = 'ID-ES';
-    K.TERM = 'TERM-ES';
-  } else if (!fileColumns.includes('ID-ES')) {
-    K.ID = 'ID';
-  }
-
-  source.filter(s => s[K.ID])
-    .forEach(s => toConcept(s, K, lang));
+  source.filter((s) => s[K.ID])
+    .forEach((s) => toConcept(s, K, lang));
 }
 
 async function convertFile(file) {
   const lang = path.parse(file).name;
 
   return csv().fromFile(file)
-    .then(s => convertToSkos(s, lang));
+    .then((s) => convertToSkos(s, lang));
 }
 
 const promises = klawSync(options.src, { nodir: true })
-  .map(x => x.path)
-  .filter(x => x.endsWith('.csv'))
+  .map((x) => x.path)
+  .filter((x) => x.endsWith('.csv'))
   .map(convertFile);
 
 Promise.all(promises)
@@ -185,7 +193,7 @@ Promise.all(promises)
       getty: 'http://vocab.getty.edu/aat/',
       rdfs: RDFS().value,
       foaf: FOAF().value,
-      pav: FOAF().value,
+      pav: PAV().value,
     };
 
     $rdf.serialize(undefined, store, 'http://example.org', 'text/turtle', (err, str) => {
@@ -198,4 +206,4 @@ Promise.all(promises)
       console.log(`File written: ${options.dst}`);
     });
   })
-  .catch(err => console.error(err));
+  .catch((err) => console.error(err));

@@ -1,6 +1,6 @@
 {
   "name": "silknow",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "",
   "main": "converter/index.js",
   "scripts": {
@@ -13,15 +13,15 @@
   "license": "ISC",
   "dependencies": {
     "command-line-args": "^5.1.1",
-    "csvtojson": "^2.0.8",
-    "fs-extra": "^8.0.1",
+    "csvtojson": "^2.0.10",
+    "fs-extra": "^8.1.0",
     "klaw-sync": "^6.0.0",
-    "rdflib": "^0.20.1",
+    "rdflib": "^1.0.6",
     "valid-url": "^1.0.9"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.17.3"
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
   }
 }
