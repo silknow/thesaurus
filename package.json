@@ -2,6 +2,7 @@
   "name": "silknow",
   "version": "1.2.0",
   "description": "",
+  "type": "module",
   "main": "converter/index.js",
   "scripts": {
     "convert": "node converter/index.js",

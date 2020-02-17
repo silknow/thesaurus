@@ -1,14 +1,15 @@
-/* eslint-disable no-console */
-
-
-const path = require('path');
-const fs = require('fs-extra');
-const klawSync = require('klaw-sync');
-const csv = require('csvtojson');
-const commandLineArgs = require('command-line-args');
-const $rdf = require('rdflib');
-const validUrl = require('valid-url');
-
+import path from 'path';
+import fs from 'fs-extra';
+import klawSync from 'klaw-sync';
+import csv from 'csvtojson';
+import commandLineArgs from 'command-line-args';
+import $rdf from 'rdflib';
+import { add, store } from './utils.js';
+import langTab from './langTab.js';
+import groupTab from './groupTab.js';
+import {
+  SILKNOW, RDF, RDFS, SKOS, DC, XSD, FOAF, PAV, nsValues,
+} from './prefixes.js';
 
 const optionDefinitions = [
   { name: 'verbose', alias: 'v', type: Boolean },
@@ -22,77 +23,7 @@ const optionDefinitions = [
 
 const options = commandLineArgs(optionDefinitions);
 
-const SILKNOW = $rdf.Namespace('http://data.silknow.org/vocabulary/');
-const RDF = $rdf.Namespace('http://www.w3.org/1999/02/22-rdf-syntax-ns#');
-const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
-const SKOS = $rdf.Namespace('http://www.w3.org/2004/02/skos/core#');
-const DC = $rdf.Namespace('http://purl.org/dc/terms/');
-const XSD = $rdf.Namespace('http://www.w3.org/2001/XMLSchema#');
-const FOAF = $rdf.Namespace('http://xmlns.com/foaf/0.1/');
-const PAV = $rdf.Namespace('http://purl.org/pav/');
-
 const today = new Date().toISOString().slice(0, 10);
-
-const COLUMN = {
-  en: {
-    ID: 'ID-ES',
-    TERM: 'TERM',
-    DEFINITION: 'FINAL DEFINITION',
-    BIB: 'BiBLIOGRAPHY',
-    QUAL: 'Qualifier',
-    SYN: 'SYNONYMS',
-    RELATED: 'ASSOCIATED TERMS',
-    FACETS: 'FACETS',
-    BROADER: 'hierarchy',
-  },
-  es: {
-    ID: 'ID-ES',
-    TERM: 'TERM-ES',
-    DEFINITION: 'FINAL DEFINITION',
-    BIB: 'BiBLIOGRAPHY',
-    SYN: 'SYNONYMS',
-    QUAL: 'QUALIFIER',
-    RELATED: 'ASSOCIATED TERMS',
-    FACETS: 'FACETS',
-    BROADER: 'HIERARCHY (PARENT)',
-    EXACT_MATCH: 'skos:exactMatch',
-    CLOSE_MATCH: 'skos:closeMatch',
-  },
-  fr: {
-    ID: 'ID-ES',
-    TERM: 'TERME',
-    DEFINITION: 'DEFINITION FINALE',
-    BIB: 'BIBLIOGRAPHIE',
-    SYN: 'SYNONYMES',
-    QUAL: 'Qualifier',
-    RELATED: 'TÉRMINO ASOCIADO',
-    FACETS: 'FACETS',
-    BROADER: 'JERARQUÍA',
-  },
-  it: {
-    ID: 'ID-ES',
-    TERM: 'TÉRMINO',
-    DEFINITION: 'DEFINICIÓN FINAL',
-    BIB: 'FUENTES',
-    SYN: 'SINÓNIMOS',
-    QUAL: 'Qualifier',
-    RELATED: 'TÉRMINO ASOCIADO',
-    FACETS: 'FACETS',
-    BROADER: 'JERARQUÍA',
-  },
-};
-
-const store = $rdf.graph();
-
-function add(s, p, o, lang) {
-  if (!s || !p || !o) return;
-  /* eslint-disable no-param-reassign  */
-  if (typeof o === 'string') o = o.trim();
-  if (!o) return;
-  if (lang) store.add(s, p, $rdf.literal(o, lang));
-  else if (typeof o === 'string' && validUrl.isUri(o)) store.add(s, p, $rdf.sym(o));
-  else store.add(s, p, o);
-}
 
 // silknow project entity
 const silknowProj = $rdf.sym('http://data.silknow.org/SILKNOW');
@@ -112,73 +43,19 @@ add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
 add(scheme, DC('creator'), silknowProj);
 add(scheme, PAV('version'), '1.8');
 
-function toConcept(s, k, lang) {
-  const id = s[k.ID].trim();
-  if (!id) return;
-  let label = s[k.TERM].trim();
-  if (!label) return;
-
-  const concept = SILKNOW(id);
-  add(concept, RDF('type'), SKOS('Concept'));
-
-  if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
-
-  add(concept, SKOS('prefLabel'), label.replace(/\.$/, ''), lang);
-  if (s[k.SYN]) {
-    s[k.SYN].split(',')
-      .forEach((syn) => add(concept, SKOS('altLabel'), syn.replace(/\.$/, ''), lang));
-  }
-  add(concept, SKOS('definition'), s[k.DEFINITION], lang);
-
-  if (s[k.RELATED]) {
-    s[k.RELATED].split(',')
-      .filter((r) => !Number.isNaN(Number.parseInt(r, 10)))
-      .map((r) => r.trim())
-      .forEach((r) => add(concept, SKOS('related'), SILKNOW(r)));
-  }
-
-  add(concept, SKOS('member'), s[k.FACETS]);
-
-  let hasInternalBroader;
-  if (s[k.BROADER]) {
-    const b = s[k.BROADER].split(',')
-      .map((x) => x.trim())
-      .map((x) => {
-        if (validUrl.isUri(x)) return x;
-        if (!Number.isNaN(Number.parseInt(x, 10))) return SILKNOW(x);
-        return null;
-      })
-      .filter((x) => x);
-
-    hasInternalBroader = b.some((x) => x instanceof $rdf.NamedNode);
-    b.forEach((x) => add(concept, SKOS('broader'), x));
-  }
-
-  add(concept, SKOS('exactMatch'), s[k.EXACT_MATCH]);
-  add(concept, SKOS('closeMatch'), s[k.CLOSE_MATCH]);
-
-  add(concept, SKOS('inScheme'), scheme);
-  if (!hasInternalBroader) add(concept, SKOS('topConceptOf'), scheme);
-
-
-  if (s[k.BIB]) {
-    s[k.BIB].split(';')
-      .forEach((b) => add(concept, DC('bibliographicCitation'), b, lang));
-  }
-}
-
-function convertToSkos(source, lang) {
-  const K = { ...COLUMN[lang] };
-
-  source.filter((s) => s[K.ID])
-    .forEach((s) => toConcept(s, K, lang));
-}
+langTab.setScheme(scheme);
 
 async function convertFile(file) {
   const lang = path.parse(file).name;
 
   return csv().fromFile(file)
-    .then((s) => convertToSkos(s, lang));
+    .then((s) => {
+      if (lang.startsWith('group-')) {
+        const name = lang.split('-')[1];
+        return groupTab.convert(s, name);
+      }
+      return langTab.convert(s, lang);
+    });
 }
 
 const promises = klawSync(options.src, { nodir: true })
@@ -188,16 +65,7 @@ const promises = klawSync(options.src, { nodir: true })
 
 Promise.all(promises)
   .then(() => {
-    store.namespaces = {
-      silknow: SILKNOW().value,
-      skos: SKOS().value,
-      dc: DC().value,
-      xsd: XSD().value,
-      getty: 'http://vocab.getty.edu/aat/',
-      rdfs: RDFS().value,
-      foaf: FOAF().value,
-      pav: PAV().value,
-    };
+    store.namespaces = nsValues;
 
     $rdf.serialize(undefined, store, 'http://example.org', 'text/turtle', (err, str) => {
       if (err) throw (err);

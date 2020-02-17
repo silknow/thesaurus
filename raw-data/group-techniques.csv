@@ -1,0 +1,22 @@
+Group,Facet
+a_twill,http://data.silknow.org/vocabulary/facet/twill
+b_satin,http://data.silknow.org/vocabulary/facet/satin
+c_tabby,http://data.silknow.org/vocabulary/facet/tabby
+,
+d_embroidery,http://data.silknow.org/vocabulary/facet/embroidery
+e_velvet,http://data.silknow.org/vocabulary/facet/velvet
+f_damask,http://data.silknow.org/vocabulary/facet/damask
+g_ printed_fabric,http://data.silknow.org/vocabulary/facet/printed_fabric
+h_damassé,http://data.silknow.org/vocabulary/facet/damasse
+l_lampas,http://data.silknow.org/vocabulary/facet/lampas
+k_patterned_fabric,http://data.silknow.org/vocabulary/facet/patterned_fabric
+m_brocatelle,http://data.silknow.org/vocabulary/facet/brocatelle
+,
+n_cannele,http://data.silknow.org/vocabulary/facet/cannele
+o_metal_weft,http://data.silknow.org/vocabulary/facet/metal_effect
+p_rippled_effect_fabric,http://data.silknow.org/vocabulary/facet/rippled_effect
+q_gauze,http://data.silknow.org/vocabulary/facet/gauze
+,
+r_effect,http://data.silknow.org/vocabulary/facet/effect
+,
+s_other_technique,http://data.silknow.org/vocabulary/facet/other_technique
