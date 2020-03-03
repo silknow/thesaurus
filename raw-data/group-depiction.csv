@@ -1,0 +1,16 @@
+Group,Facet
+a_flowers,http://data.silknow.org/vocabulary/facet/flowers
+b_plant,http://data.silknow.org/vocabulary/facet/plant
+g_fruits,http://data.silknow.org/vocabulary/facet/fruits
+,
+f_animals,http://data.silknow.org/vocabulary/facet/animals
+h_objects,http://data.silknow.org/vocabulary/facet/objects
+e_geom_shapes,http://data.silknow.org/vocabulary/facet/geom_shapes
+i_symbols,http://data.silknow.org/vocabulary/facet/symbols
+l_figure,http://data.silknow.org/vocabulary/facet/figure
+m_fantastic,http://data.silknow.org/vocabulary/facet/fantastic
+,
+c_stripes,http://data.silknow.org/vocabulary/facet/stripes
+d_geom_comp,http://data.silknow.org/vocabulary/facet/geom_comp
+k_texts,http://data.silknow.org/vocabulary/facet/texts
+j_styles,http://data.silknow.org/vocabulary/facet/styles

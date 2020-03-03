@@ -8,7 +8,7 @@ j_metals,http://data.silknow.org/vocabulary/facet/metals
 ,
 f_vegetal_fibres,http://data.silknow.org/vocabulary/facet/vegetal_fibres
 g_animal_fibres,http://data.silknow.org/vocabulary/facet/animal_fibres
-h_mixed_fiber,http://data.silknow.org/vocabulary/facet/mixed_fiber
+h_mixed_fibre,http://data.silknow.org/vocabulary/facet/mixed_fibre
 i_synthetic_fibres,http://data.silknow.org/vocabulary/facet/synthtetic_fibres
 ,
 k_other_material,http://data.silknow.org/vocabulary/facet/other_material

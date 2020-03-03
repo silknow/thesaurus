@@ -14,7 +14,7 @@ const COLUMN = {
     QUAL: 'Qualifier',
     SYN: 'SYNONYMS',
     RELATED: 'ASSOCIATED TERMS',
-    FACETS: 'FACETS',
+    FACETS: 'FACET',
     BROADER: 'hierarchy',
   },
   es: {
@@ -25,7 +25,7 @@ const COLUMN = {
     SYN: 'SYNONYMS',
     QUAL: 'QUALIFIER',
     RELATED: 'ASSOCIATED TERMS',
-    FACETS: 'FACETS',
+    FACETS: 'FACET',
     BROADER: 'HIERARCHY (PARENT)',
     EXACT_MATCH: 'skos:exactMatch',
     CLOSE_MATCH: 'skos:closeMatch',
@@ -38,7 +38,7 @@ const COLUMN = {
     SYN: 'SYNONYMES',
     QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
-    FACETS: 'FACETS',
+    FACETS: 'FACET',
     BROADER: 'JERARQUÍA',
   },
   it: {
@@ -49,7 +49,7 @@ const COLUMN = {
     SYN: 'SINÓNIMOS',
     QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
-    FACETS: 'FACETS',
+    FACETS: 'FACET',
     BROADER: 'JERARQUÍA',
   },
 };
