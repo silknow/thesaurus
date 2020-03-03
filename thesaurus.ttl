@@ -1,8 +1,6 @@
 @prefix d: <http://data.silknow.org/> .
-@prefix dc: <http://purl.org/dc/terms/> .
-@prefix dc1: <http://purl.org/dc/elements/1.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
-@prefix f: <http://data.silknow.org/vocabulary/facet/http://data.silknow.org/vocabulary/facet/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix getty: <http://vocab.getty.edu/aat/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -15,10 +13,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-silknow-fct:geom_shapes a skos:Collection ;
-    rdfs:label "geom shapes"@en ;
-    skos:member silknow-fct:depiction .
 
 silknow-fct:mixed_fibre a skos:Collection ;
     rdfs:label "mixed fibre"@en ;
@@ -427,6 +421,8 @@ silknow-fct:texts a skos:Collection ;
 
 <http://vocab.getty.edu/aat/300311460> skos:closeMatch <http://data.silknow.org/vocabulary/251> .
 
+<http://vocab.getty.edu/aat/300375726> skos:closeMatch <http://data.silknow.org/vocabulary/774> .
+
 <http://vocab.getty.edu/aat/300379004> skos:closeMatch <http://data.silknow.org/vocabulary/773> .
 
 <http://vocab.getty.edu/aat/300379347> skos:narrower <http://data.silknow.org/vocabulary/699> .
@@ -442,8 +438,6 @@ silknow-fct:texts a skos:Collection ;
 <http://vocab.getty.edu/aat/300411750> skos:closeMatch <http://data.silknow.org/vocabulary/699> .
 
 <ttp://vocab.getty.edu/aat/300055783> skos:narrower <http://data.silknow.org/vocabulary/687> .
-
-"http://vocab.getty.edu/aat/300375726, http://data.silknow.org/vocabulary/facet/fantastic" skos:closeMatch <http://data.silknow.org/vocabulary/774> .
 
 <http://data.silknow.org/vocabulary/115> a skos:Concept ;
     dct:bibliographicCitation "New York : Oxford University Press, 1989. [www.oed.com]"@en,
@@ -3709,7 +3703,7 @@ Adorno a manera de tira estrecha que  atado o anudado aparece en los diseños de
         "Oxford"@en,
         "Roberts A., Edward. A Comprehensive Etymological Dictionary of the Spanish Language with Families of Words Based on Indo-European Roots. Bloomington: Xlibris, 2014. Simpson, John"@en,
         "Weiner, Edmund (eds). The Oxford English Dictionary. Oxford : Clarendon Press"@en,
-        """«Real Academia Española». Accedido 27 de enero de 2020.
+        """«Real Academia Española». Accedido 27 de enero de 2020. 
  https://dle.rae.es/cesta?m=form"""@es,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9P0312."@fr,
         "Luc Derroitte, Dictionnaire de l'Ornement, Paris : Editions Gisserot, 2012"@fr ;
@@ -4522,6 +4516,10 @@ silknow-fct:gauze a skos:Collection ;
     rdfs:label "gauze"@en ;
     skos:member silknow-fct:techniques .
 
+silknow-fct:geom_shapes a skos:Collection ;
+    rdfs:label "geom shapes"@en ;
+    skos:member silknow-fct:depiction .
+
 silknow-fct:gold_thread a skos:Collection ;
     rdfs:label "gold thread"@en ;
     skos:member silknow-fct:materials .
@@ -4814,7 +4812,7 @@ Lyon, Sève, 1946, p. 21-22"""@fr,
         "CNRTL, https://cnrtl.fr/definition/siglaton"@fr,
         "Charlotte Jirousek, Ottoman Dress and Design in the West: A Visual History of Cultural Exchange, Bloominton, Indiana University Press, 2019"@fr,
         "Elisabeth Hardouin-Fugier et al., Les étoffes : dictionnaire historique, Paris : Les éditions de l'Amateur, 2005"@fr,
-        """Eugène-Emmanuel Viollet-le-Duc,
+        """Eugène-Emmanuel Viollet-le-Duc, 
 Dictionnaire raisonné du mobilier français de l'eṕoque carlovinguenne a la renaissance, Paris,
 Morel et Cie, 1873, Tome quatrième"""@fr,
         "Frédéric Godefroy, Dictionnaire de l’ancienne langue française et de tous ses dialectes du IXe au XVe siècle, édition de F. Vieweg, Paris, 1881-1902"@fr,
@@ -4971,7 +4969,7 @@ Morel et Cie, 1873, Tome quatrième"""@fr,
 <http://data.silknow.org/vocabulary/177> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre International d’Etude des Textiles Anciens, 1963. Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980."@en,
         "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980"@es,
-        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano.
+        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. 
 Lyon: Centre  International d’Etude des Textiles Anciens, 1963"""@es,
         "CIETA Vocabolario tecnico dei tessuti Italiano - Francese - Inglese. Lyon: Centre  International d’Etude des Textiles Anciens, 2019."@it ;
     skos:broader <http://data.silknow.org/vocabulary/175> ;
@@ -5714,7 +5712,7 @@ Lyon, Société anonyme de l’imprimerie A. Rey, 1923, p. 37."""@fr,
         "Oxford"@en,
         "Weiner, Edmund (eds). The Oxford English Dictionary. Oxford : Clarendon Press"@en,
         "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
-        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre
+        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre 
 International d’Etude des Textiles Anciens, 1963, Universidad de Murcia. ‘Diccionario de Comercio Medieval’. Accessed 17 February 2020. https://www.um.es/lexico-comercio-medieval/index.php/v/lexico/24784/samit."""@es,
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
@@ -7506,8 +7504,8 @@ trama, quando sono costruiti con un ordito e due trame, o doppia faccia ordito, 
     dct:bibliographicCitation "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980. Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2014."@en,
         "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980."@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
-        """CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des
-Textiles Anciens, 1997. Villard, Manuel de théorie du tissage. Tome I,
+        """CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des 
+Textiles Anciens, 1997. Villard, Manuel de théorie du tissage. Tome I, 
 Lyon, 1925, p. 174-176"""@fr,
         "CIETA Vocabolario tecnico dei tessuti Italiano - Francese - Inglese. Lyon: Centre  International d’Etude des Textiles Anciens, 2019."@it ;
     skos:broader <http://data.silknow.org/vocabulary/2> ;
@@ -8128,7 +8126,7 @@ Editions du Patrimoine, Thesaurus des objets religieux : meubles, objets, linges
         "Subst. masc. D'or. obsc."@fr,
         "s. m. [lat. rhŏmbus, dal gr. ῥόμβος «trottola», der. di ῥέμβω «girare»], quadrilatero piano avente tutti i lati uguali, ha le due diagonali perpendicolari tra loro e tali da essere assi di simmetria del rombo e due angoli acuti su una diagonale e due ottusi sull’altra. Motivo decorativo molto utilizzato nei tessuti sia a piccoli che a grande rapporti."@it ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:member f:geom_shapes,
+    skos:member silknow-fct:geom_shapes,
         <http://vocab.getty.edu/aat/300264087> ;
     skos:prefLabel "Rhombus (motif)"@en,
         "Rombo"@es,
@@ -8197,7 +8195,7 @@ Editions du Patrimoine, Thesaurus des objets religieux : meubles, objets, linges
         "Luc Derroitte, Dictionnaire de l'Ornement, Paris : Editions Gisserot, 2012"@fr,
         "Treccani online. Accessed 02 March 2020. http://www.treccani.it//vocabolario/versione."@it ;
     skos:broader <http://data.silknow.org/vocabulary/817> ;
-    skos:closeMatch "http://vocab.getty.edu/aat/300375726, http://data.silknow.org/vocabulary/facet/fantastic" ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300375726> ;
     skos:definition "n. From the French \"dragon\" and the Latin \"dracōn-em\" \"draco\". A mythical monster, represented as a huge and terrible reptile, usually combining ophidian and crocodilian structure, with strong claws, like a beast or bird of prey, and a scaly skin; it is generally represented with wings, and sometimes as breathing out fire. The heraldic dragon combines reptilian and mammalian form with the addition of wings."@en,
         "Del lat. draco, -ōnis, y este del gr. δράκων drákōn. Es un animal mítico de origen oriental que generalmente se representa como un gran reptil mezcla de estructura de anfibio y cocodrilo, con garras fuertes y cubierto de escamas. Generalmente alado y también lanzando llamas y en ocasiones con varias cabezas.  Se cree que simbolizaba el rayo surcando la nube, y ha sido considerado el genio del mal. En las leyendas posteriores al cristianismo San Miguel lo derriba, San Jorge lo atraviesa con su lanza y Santa Marta lo abate con una oración. En la Heráldica es una figura de fantasía que combina formas de diferentes animales e incluso se le llega a representar con cara humana. En la ornamentaria, es una figura también fantástica  y que se presta a múltiples interpretaciones como el grifo y la quimera. Se encuentra en los tejidos de inspiración oriental y también en aquellos con motivos heráldicos."@es,
         "Subst. masc. Empr. du latin draco, ‑conis \"animal fabuleux\", \"serpent\", et \"diable\", puis, \"enseigne de cohorte\", du grec drakôn, drakontos \"dragon, serpent\". Animal fabuleux représenté avec des ailes d'aigle ou de chauve-souris déployées, des pattes armées de griffes de lion et une queue de serpent. En Occident, on le représente fréquemment en train de cracher du feu. Dans l'art chrétien, le dragon symbolise Satan ou la Bête de l'Apocalypse, vaincue par le Christ, Saint Michel ou Saint Georges, ou encore foulée aux pieds par la Vierge Marie. Sur un tapis, le motif du dragon symbolise aussi le pouvoir et la puissance."@fr,
@@ -8365,8 +8363,8 @@ Editions du Patrimoine, Thesaurus des objets religieux : meubles, objets, linges
 <http://data.silknow.org/vocabulary/794> a skos:Concept ;
     dct:bibliographicCitation "Roberts A., Edward. A Comprehensive Etymological Dictionary of the Spanish Language with Families of Words Based on Indo-European Roots. Bloomington: Xlibris, 2014."@en,
         "Fatás, Guillermo, y M. Borrás, Gonzalo. Diccionario de términos de arte y elementos de arqueología, heráldica y numismática. Madrid: Alianza Editorial, 2012"@es,
-        """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido
-20 de noviembre de 2018.
+        """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido 
+20 de noviembre de 2018. 
 http://www.getty.edu/research/tools/vocabularies/aat/."""@es,
         "Bernard Wodon, L'ornement de l'Antiquité au XXe s., Paris : Citadelles & Mazenod, 2014"@fr,
         "CNRTL, https://cnrtl.fr/definition/cand%C3%A9labre"@fr,
@@ -8948,7 +8946,7 @@ silknow-fct:lampas a skos:Collection ;
         "Weiner, Edmund (eds). The Oxford English Dictionary. Oxford : Clarendon Press"@en,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández,   Máximo. Diccionario histórico de telas y tejidos castellano-catalán.  Salamanca: Junta de Castilla y León, 2004"@es,
         "Moliner, M. Diccionario del Uso del Español. Gredos, 2016."@es,
-        """«Real Academia Española».
+        """«Real Academia Española». 
 Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "Aniello Gentile, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
     skos:broader <http://data.silknow.org/vocabulary/670> ;
@@ -9736,10 +9734,10 @@ famiglia dei damaschi, ma imita l’aspetto del lampasso per il contrasto fra l�
         "Oxford"@en,
         "Simpson, John"@en,
         "Weiner, Edmund (eds). The Oxford English Dictionary. Oxford : Clarendon Press"@en,
-        """Burnham,
-Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum,
+        """Burnham, 
+Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 
 1980."""@es,
-        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano.
+        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. 
 Lyon: Centre  International d’Etude des Textiles Anciens, 1963"""@es,
         "CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997"@fr,
         "Elisabeth Hardouin-Fugier et al., Les étoffes : dictionnaire historique, Paris : Les éditions de l'Amateur, 2005"@fr,
@@ -10944,7 +10942,7 @@ Gyan, Encyclopaedia of Untouchables Ancient, Medieval and Modern, Publishing Hou
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949."@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
         "FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852"@fr,
-        """Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes:
+        """Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: 
 dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr,
         "Aniello Gentile, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
     skos:altLabel "taffeta de Florence"@en,
@@ -11830,7 +11828,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
         "Loc. masc. Empr. par l’intermédiaire du lat. geometricus, du grec geômetrikos \"relatif à sa géométrie, à l’arpentage\". Element distinct se répétant dans la décoration d'un objet et qui est caractérisé par des formes relevant de la géométrie, qui en présente les formes régulières."@fr,
         "Qualsiasi complesso decorativo o motivo lavorato ricamato o cucito su tessuti, stoffe, ecc. in cui sia rappresentata qualsiasi forma geometrica"@it ;
     skos:inScheme silknow:silk-thesaurus ;
-    skos:member f:geom_shapes,
+    skos:member silknow-fct:geom_shapes,
         <http://vocab.getty.edu/aat/300264087> ;
     skos:narrower <http://data.silknow.org/vocabulary/768>,
         <http://data.silknow.org/vocabulary/826> ;
@@ -13471,7 +13469,7 @@ Il sinonimo ' bocca' è un termine gergale"""@it ;
 <http://data.silknow.org/vocabulary/10> a skos:Concept ;
     dct:bibliographicCitation "Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2014."@en,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
-        """Dávila Corona, R., Duran i Pujol,
+        """Dávila Corona, R., Duran i Pujol, 
 Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"""@es,
         "Sanz, J., y R. Gallego. Diccionario del color. Madrid: Akal S.A., 2001."@es,
         "«Diccionario de Autoridades(1726-1739)». Accedido 20 de noviembre de 2018. http://web.frl.es/DA.html."@es,
@@ -13558,9 +13556,9 @@ Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tej
     dct:bibliographicCitation "Tortora, Phyllis, y Ingrid Johnson. The Fairchild Books Dictionary of Textiles, 2015."@en,
         "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949."@es,
-        """Cervera i Caminal, Anna, Mumbrú i Laporta,Josep, Pont i Puntigam, M.
-Rosa,  Taló i Rovira, Joan. Diccionari de la indústria tèxtil. Català,
-Castellà, Francés, Anglés i Alemany. Barcelona: Universitat Politècnica
+        """Cervera i Caminal, Anna, Mumbrú i Laporta,Josep, Pont i Puntigam, M. 
+Rosa,  Taló i Rovira, Joan. Diccionari de la indústria tèxtil. Català, 
+Castellà, Francés, Anglés i Alemany. Barcelona: Universitat Politècnica 
 de Catalunya: Servei de llengües i terminologia de la UPC, s. f."""@es,
         "CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997"@fr,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9N0132."@fr,
@@ -14742,7 +14740,7 @@ silknow-fct:satin a skos:Collection ;
         <http://data.silknow.org/vocabulary/497>,
         <http://data.silknow.org/vocabulary/501> ;
     skos:prefLabel "Thread"@en,
-        """Hilo (THREAD
+        """Hilo (THREAD 
 )"""@es,
         "Fil"@fr,
         "Filo"@it ;
@@ -15624,7 +15622,7 @@ silknow-fct:velvet a skos:Collection ;
         "Oxford"@en,
         "Simpson, John"@en,
         "Weiner, Edmund (eds). The Oxford English Dictionary. Oxford : Clarendon Press"@en,
-        """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido
+        """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido 
 20 de noviembre de 2018.  http://www.getty.edu/research/tools/vocabularies/aat/."""@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9M2924"@fr,
@@ -16805,3 +16803,4 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/92>,
         <http://data.silknow.org/vocabulary/97>,
         <http://data.silknow.org/vocabulary/99> .
+

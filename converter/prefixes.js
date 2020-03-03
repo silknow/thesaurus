@@ -15,7 +15,7 @@ export const nsValues = {
   silknow: SILKNOW().value,
   'silknow-fct': FACET().value,
   skos: SKOS().value,
-  dc: DC().value,
+  dct: DC().value,
   xsd: XSD().value,
   getty: 'http://vocab.getty.edu/aat/',
   rdfs: RDFS().value,
