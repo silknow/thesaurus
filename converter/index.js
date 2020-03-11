@@ -41,7 +41,7 @@ add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
 add(scheme, DC('creator'), silknowProj);
-add(scheme, PAV('version'), '1.8');
+add(scheme, PAV('version'), '1.9');
 
 langTab.setScheme(scheme);
 
