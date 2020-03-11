@@ -83,7 +83,7 @@ function toConcept(s, k, lang) {
 
   if (s[k.FACETS]) {
     s[k.FACETS].split(',')
-      .forEach((r) => add(concept, SKOS('member'), r));
+      .forEach((r) => add(r, SKOS('member'), concept));
   }
 
   let hasInternalBroader;
