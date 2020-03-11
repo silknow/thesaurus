@@ -17,6 +17,7 @@ function convert(source, name) {
   // create main collection
   const mainGroup = $rdf.sym(FACET(name));
   add(mainGroup, RDF('type'), SKOS('Collection'));
+  add(mainGroup, SKOS('prefLabel'), name, 'en');
 
   source.filter((s) => s.Facet)
     .forEach((s) => toCollection(s, mainGroup));

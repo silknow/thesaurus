@@ -13790,7 +13790,8 @@ silknow-fct:flowers a skos:Collection ;
     skos:member silknow-fct:depiction ;
     skos:prefLabel "flowers"@en .
 
-silknow-fct:materials a skos:Collection .
+silknow-fct:materials a skos:Collection ;
+    skos:prefLabel "materials"@en .
 
 silknow-fct:satin a skos:Collection ;
     skos:member silknow-fct:techniques ;
@@ -14249,7 +14250,8 @@ silknow-fct:cannele a skos:Collection ;
         "Elementi interfunzionali"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:depiction a skos:Collection .
+silknow-fct:depiction a skos:Collection ;
+    skos:prefLabel "depiction"@en .
 
 <http://data.silknow.org/vocabulary/276> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
@@ -14639,7 +14641,8 @@ silknow-fct:depiction a skos:Collection .
         "Tipologia iconografica"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:techniques a skos:Collection .
+silknow-fct:techniques a skos:Collection ;
+    skos:prefLabel "techniques"@en .
 
 <http://data.silknow.org/vocabulary/387> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
