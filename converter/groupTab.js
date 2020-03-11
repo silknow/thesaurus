@@ -1,7 +1,7 @@
 import $rdf from 'rdflib';
 import { add } from './utils.js';
 import {
-  FACET, RDF, RDFS, SKOS,
+  FACET, RDF, SKOS,
 } from './prefixes.js';
 
 
@@ -9,7 +9,7 @@ function toCollection(s, main) {
   const coll = $rdf.sym(s.Facet);
   add(coll, RDF('type'), SKOS('Collection'));
   const name = s.Group.replace(/^[a-z]_/, '').replace('_', ' ');
-  add(coll, RDFS('label'), name, 'en');
+  add(coll, SKOS('prefLabel'), name, 'en');
   add(coll, SKOS('member'), main);
 }
 

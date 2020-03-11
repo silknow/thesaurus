@@ -15,20 +15,20 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 silknow-fct:mixed_fibre a skos:Collection ;
-    rdfs:label "mixed fibre"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "mixed fibre"@en .
 
 silknow-fct:other_material a skos:Collection ;
-    rdfs:label "other material"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "other material"@en .
 
 silknow-fct:patterned_fabric a skos:Collection ;
-    rdfs:label "patterned fabric"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "patterned fabric"@en .
 
 silknow-fct:synthtetic_fibres a skos:Collection ;
-    rdfs:label "synthetic fibres"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "synthetic fibres"@en .
 
 d:SILKNOW a foaf:Project ;
     rdfs:label "SILKNOW" ;
@@ -118,32 +118,32 @@ d:SILKNOW a foaf:Project ;
 <http://data.silknow.org/vocabulary/86> skos:related <http://data.silknow.org/vocabulary/604> .
 
 silknow-fct:brocatelle a skos:Collection ;
-    rdfs:label "brocatelle"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "brocatelle"@en .
 
 silknow-fct:damasse a skos:Collection ;
-    rdfs:label "damassé"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "damassé"@en .
 
 silknow-fct:effect a skos:Collection ;
-    rdfs:label "effect"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "effect"@en .
 
 silknow-fct:metal_effect a skos:Collection ;
-    rdfs:label "metal weft"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "metal weft"@en .
 
 silknow-fct:metals a skos:Collection ;
-    rdfs:label "metals"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "metals"@en .
 
 silknow-fct:rippled_effect a skos:Collection ;
-    rdfs:label "rippled effect"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "rippled effect"@en .
 
 silknow-fct:texts a skos:Collection ;
-    rdfs:label "texts"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "texts"@en .
 
 <http://vocab.getty.edu/aat/300004894> skos:narrower <http://data.silknow.org/vocabulary/262> .
 
@@ -3497,7 +3497,7 @@ Adorno a manera de tira estrecha que  atado o anudado aparece en los diseños de
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/787> a skos:Concept ;
-    dct:bibliographicCitation """«Real Academia Española». Accedido 27 de enero de 2020.
+    dct:bibliographicCitation """«Real Academia Española». Accedido 27 de enero de 2020. 
  https://dle.rae.es/cesta?m=form"""@es,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9P0312."@fr,
         "Luc Derroitte, Dictionnaire de l'Ornement, Paris : Editions Gisserot, 2012"@fr,
@@ -4361,40 +4361,40 @@ Adorno a manera de tira estrecha que  atado o anudado aparece en los diseños de
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:damask a skos:Collection ;
-    rdfs:label "damask"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "damask"@en .
 
 silknow-fct:figure a skos:Collection ;
-    rdfs:label "figure"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "figure"@en .
 
 silknow-fct:gauze a skos:Collection ;
-    rdfs:label "gauze"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "gauze"@en .
 
 silknow-fct:geom_shapes a skos:Collection ;
-    rdfs:label "geom shapes"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "geom shapes"@en .
 
 silknow-fct:gold_thread a skos:Collection ;
-    rdfs:label "gold thread"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "gold thread"@en .
 
 silknow-fct:metal_thread a skos:Collection ;
-    rdfs:label "metal thread"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "metal thread"@en .
 
 silknow-fct:printed_fabric a skos:Collection ;
-    rdfs:label "printed fabric"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "printed fabric"@en .
 
 silknow-fct:silver_thread a skos:Collection ;
-    rdfs:label "silver thread"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "silver thread"@en .
 
 silknow-fct:stripes a skos:Collection ;
-    rdfs:label "stripes"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "stripes"@en .
 
 <http://vocab.getty.edu/aat/300021031> skos:narrower <http://data.silknow.org/vocabulary/681>,
         <http://data.silknow.org/vocabulary/682> .
@@ -4652,7 +4652,7 @@ Lyon, Sève, 1946, p. 21-22"""@fr,
         "CNRTL, https://cnrtl.fr/definition/siglaton"@fr,
         "Charlotte Jirousek, Ottoman Dress and Design in the West: A Visual History of Cultural Exchange, Bloominton, Indiana University Press, 2019"@fr,
         "Elisabeth Hardouin-Fugier et al., Les étoffes : dictionnaire historique, Paris : Les éditions de l'Amateur, 2005"@fr,
-        """Eugène-Emmanuel Viollet-le-Duc,
+        """Eugène-Emmanuel Viollet-le-Duc, 
 Dictionnaire raisonné du mobilier français de l'eṕoque carlovinguenne a la renaissance, Paris,
 Morel et Cie, 1873, Tome quatrième"""@fr,
         "Frédéric Godefroy, Dictionnaire de l’ancienne langue française et de tous ses dialectes du IXe au XVe siècle, édition de F. Vieweg, Paris, 1881-1902"@fr,
@@ -4820,7 +4820,7 @@ Morel et Cie, 1873, Tome quatrième"""@fr,
 
 <http://data.silknow.org/vocabulary/177> a skos:Concept ;
     dct:bibliographicCitation "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980"@es,
-        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano.
+        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. 
 Lyon: Centre  International d’Etude des Textiles Anciens, 1963"""@es,
         "Maggy Baum et Chantal Boyeldieu, Dictionnaire encyclopédique des textiles, Paris : Eyrolles, 2018."@fr,
         "CIETA Vocabolario tecnico dei tessuti Italiano - Francese - Inglese. Lyon: Centre  International d’Etude des Textiles Anciens, 2019."@it ;
@@ -5510,7 +5510,7 @@ Lyon, Société anonyme de l’imprimerie A. Rey, 1923, p. 37."""@fr,
 
 <http://data.silknow.org/vocabulary/293> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
-        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre
+        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre 
 International d’Etude des Textiles Anciens, 1963, Universidad de Murcia. ‘Diccionario de Comercio Medieval’. Accessed 17 February 2020. https://www.um.es/lexico-comercio-medieval/index.php/v/lexico/24784/samit."""@es,
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
@@ -6654,7 +6654,7 @@ trama, quando sono costruiti con un ordito e due trame, o doppia faccia ordito, 
         "Termine usato per indicare l’avvolgersi di un filo su un nuovo supporto"@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:member <http://vocab.getty.edu/aat/300264090> ;
-    skos:prefLabel """Spool (technique
+    skos:prefLabel """Spool (technique 
 )"""@en,
         "Devanar"@es,
         "Dévider"@fr,
@@ -7215,8 +7215,8 @@ trama, quando sono costruiti con un ordito e due trame, o doppia faccia ordito, 
 <http://data.silknow.org/vocabulary/7> a skos:Concept ;
     dct:bibliographicCitation "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980."@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
-        """CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des
-Textiles Anciens, 1997. Villard, Manuel de théorie du tissage. Tome I,
+        """CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des 
+Textiles Anciens, 1997. Villard, Manuel de théorie du tissage. Tome I, 
 Lyon, 1925, p. 174-176"""@fr,
         "CIETA Vocabolario tecnico dei tessuti Italiano - Francese - Inglese. Lyon: Centre  International d’Etude des Textiles Anciens, 2019."@it ;
     skos:broader <http://data.silknow.org/vocabulary/2> ;
@@ -7961,8 +7961,8 @@ Editions du Patrimoine, Thesaurus des objets religieux : meubles, objets, linges
 
 <http://data.silknow.org/vocabulary/794> a skos:Concept ;
     dct:bibliographicCitation "Fatás, Guillermo, y M. Borrás, Gonzalo. Diccionario de términos de arte y elementos de arqueología, heráldica y numismática. Madrid: Alianza Editorial, 2012"@es,
-        """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido
-20 de noviembre de 2018.
+        """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido 
+20 de noviembre de 2018. 
 http://www.getty.edu/research/tools/vocabularies/aat/."""@es,
         "CNRTL, https://cnrtl.fr/definition/chandelier"@fr,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9C1582."@fr,
@@ -8191,20 +8191,20 @@ http://www.getty.edu/research/tools/vocabularies/aat/."""@es,
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:embroidery a skos:Collection ;
-    rdfs:label "embroidery"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "embroidery"@en .
 
 silknow-fct:fantastic a skos:Collection ;
-    rdfs:label "fantastic"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "fantastic"@en .
 
 silknow-fct:fruits a skos:Collection ;
-    rdfs:label "fruits"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "fruits"@en .
 
 silknow-fct:lampas a skos:Collection ;
-    rdfs:label "lampas"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "lampas"@en .
 
 <http://vocab.getty.edu/aat/300014072> skos:closeMatch <http://data.silknow.org/vocabulary/368> ;
     skos:exactMatch <http://data.silknow.org/vocabulary/618> ;
@@ -8522,7 +8522,7 @@ silknow-fct:lampas a skos:Collection ;
 <http://data.silknow.org/vocabulary/17> a skos:Concept ;
     dct:bibliographicCitation "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández,   Máximo. Diccionario histórico de telas y tejidos castellano-catalán.  Salamanca: Junta de Castilla y León, 2004"@es,
         "Moliner, M. Diccionario del Uso del Español. Gredos, 2016."@es,
-        """«Real Academia Española».
+        """«Real Academia Española». 
 Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "CNRTL, https://www.cnrtl.fr/definition/peluché"@fr,
         "Aniello Gentile, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
@@ -9261,10 +9261,10 @@ famiglia dei damaschi, ma imita l’aspetto del lampasso per il contrasto fra l�
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/411> a skos:Concept ;
-    dct:bibliographicCitation """Burnham,
-Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum,
+    dct:bibliographicCitation """Burnham, 
+Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 
 1980."""@es,
-        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano.
+        """CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. 
 Lyon: Centre  International d’Etude des Textiles Anciens, 1963"""@es,
         "CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997"@fr,
         "Elisabeth Hardouin-Fugier et al., Les étoffes : dictionnaire historique, Paris : Les éditions de l'Amateur, 2005"@fr,
@@ -10249,20 +10249,20 @@ l’altro liscio, per produrre schiacciamenti in alcune aree del pelo."""@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:animal_fibres a skos:Collection ;
-    rdfs:label "animal fibres"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "animal fibres"@en .
 
 silknow-fct:other_technique a skos:Collection ;
-    rdfs:label "other technique"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "other technique"@en .
 
 silknow-fct:paper a skos:Collection ;
-    rdfs:label "paper"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "paper"@en .
 
 silknow-fct:vegetal_fibres a skos:Collection ;
-    rdfs:label "vegetal fibres"@en ;
-    skos:member silknow-fct:materials .
+    skos:member silknow-fct:materials ;
+    skos:prefLabel "vegetal fibres"@en .
 
 <http://vocab.getty.edu/aat/300053053> skos:narrower <http://data.silknow.org/vocabulary/287>,
         <http://data.silknow.org/vocabulary/452>,
@@ -10429,7 +10429,7 @@ Gyan, Encyclopaedia of Untouchables Ancient, Medieval and Modern, Publishing Hou
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949."@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
         "FALCOT. Traité encyclopédique et méthodique de la fabrication des tissus. 1852"@fr,
-        """Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes:
+        """Hardouin-Fugier E., B. Berthod, et M. Chavent-Fusaro, Les étoffes: 
 dictionnaire historique, Paris, Editions de l’amateur, 1994,  p. 196"""@fr,
         "Aniello Gentile, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
     skos:altLabel "taffeta de Florence"@en,
@@ -10719,7 +10719,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
         "Preparazione dell’ordito in fili di numero definito, disposti ordinati e paralleli tutti della stessa lunghezza, destinati ad essere avvolti sul subbio di ordito."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:member <http://vocab.getty.edu/aat/300264090> ;
-    skos:prefLabel """Warp (technique
+    skos:prefLabel """Warp (technique 
 )"""@en,
         "Urdir"@es,
         "Ourdir"@fr,
@@ -10812,7 +10812,7 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
         "Passaggio completo di tutte le trame che, in ordine di successione, si alternano per formare gli effetti di disegno. La passata costituisce generalmente una scalinatura di trama nei tessuti operati."@it ;
     skos:inScheme silknow:silk-thesaurus ;
     skos:member <http://vocab.getty.edu/aat/300264090> ;
-    skos:prefLabel """Pick (technique
+    skos:prefLabel """Pick (technique 
 )"""@en,
         "Pasada"@es,
         "Coup"@fr,
@@ -11384,16 +11384,16 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:animals a skos:Collection ;
-    rdfs:label "animals"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "animals"@en .
 
 silknow-fct:geom_comp a skos:Collection ;
-    rdfs:label "geom comp"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "geom comp"@en .
 
 silknow-fct:symbols a skos:Collection ;
-    rdfs:label "symbols"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "symbols"@en .
 
 <http://vocab.getty.edu/aat/300025349> skos:narrower <http://data.silknow.org/vocabulary/344>,
         <http://data.silknow.org/vocabulary/393>,
@@ -12788,7 +12788,7 @@ Il sinonimo ' bocca' è un termine gergale"""@it ;
 
 <http://data.silknow.org/vocabulary/10> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
-        """Dávila Corona, R., Duran i Pujol,
+        """Dávila Corona, R., Duran i Pujol, 
 Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"""@es,
         "Sanz, J., y R. Gallego. Diccionario del color. Madrid: Akal S.A., 2001."@es,
         "«Diccionario de Autoridades(1726-1739)». Accedido 20 de noviembre de 2018. http://web.frl.es/DA.html."@es,
@@ -12871,9 +12871,9 @@ Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tej
 <http://data.silknow.org/vocabulary/213> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
         "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949."@es,
-        """Cervera i Caminal, Anna, Mumbrú i Laporta,Josep, Pont i Puntigam, M.
-Rosa,  Taló i Rovira, Joan. Diccionari de la indústria tèxtil. Català,
-Castellà, Francés, Anglés i Alemany. Barcelona: Universitat Politècnica
+        """Cervera i Caminal, Anna, Mumbrú i Laporta,Josep, Pont i Puntigam, M. 
+Rosa,  Taló i Rovira, Joan. Diccionari de la indústria tèxtil. Català, 
+Castellà, Francés, Anglés i Alemany. Barcelona: Universitat Politècnica 
 de Catalunya: Servei de llengües i terminologia de la UPC, s. f."""@es,
         "CIETA. Vocabulaire français. Lyon: Centre  International d’Etude des Textiles Anciens, 1997"@fr,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9N0132."@fr,
@@ -13501,20 +13501,20 @@ Jean-Jacques Boucher, Le dictionnaire de la soie : découvrir son histoire de s
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:objects a skos:Collection ;
-    rdfs:label "objects"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "objects"@en .
 
 silknow-fct:plant a skos:Collection ;
-    rdfs:label "plant"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "plant"@en .
 
 silknow-fct:tabby a skos:Collection ;
-    rdfs:label "tabby"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "tabby"@en .
 
 silknow-fct:twill a skos:Collection ;
-    rdfs:label "twill"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "twill"@en .
 
 <http://data.silknow.org/vocabulary/1> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
@@ -13787,14 +13787,14 @@ silknow-fct:twill a skos:Collection ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:flowers a skos:Collection ;
-    rdfs:label "flowers"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "flowers"@en .
 
 silknow-fct:materials a skos:Collection .
 
 silknow-fct:satin a skos:Collection ;
-    rdfs:label "satin"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "satin"@en .
 
 <http://data.silknow.org/vocabulary/322> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963."@es,
@@ -14221,8 +14221,8 @@ silknow-fct:satin a skos:Collection ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:cannele a skos:Collection ;
-    rdfs:label "cannele"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "cannele"@en .
 
 <http://data.silknow.org/vocabulary/645> a skos:Concept ;
     skos:broader <http://data.silknow.org/vocabulary/526> ;
@@ -14756,8 +14756,8 @@ silknow-fct:techniques a skos:Collection .
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:velvet a skos:Collection ;
-    rdfs:label "velvet"@en ;
-    skos:member silknow-fct:techniques .
+    skos:member silknow-fct:techniques ;
+    skos:prefLabel "velvet"@en .
 
 <http://data.silknow.org/vocabulary/368> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
@@ -14802,7 +14802,7 @@ silknow-fct:velvet a skos:Collection ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/742> a skos:Concept ;
-    dct:bibliographicCitation """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido
+    dct:bibliographicCitation """«Art & Architecture Thesaurus (Getty Research Institute)». Accedido 
 20 de noviembre de 2018.  http://www.getty.edu/research/tools/vocabularies/aat/."""@es,
         "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es,
         "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9M2924"@fr,
@@ -14953,8 +14953,8 @@ silknow-fct:velvet a skos:Collection ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:styles a skos:Collection ;
-    rdfs:label "styles"@en ;
-    skos:member silknow-fct:depiction .
+    skos:member silknow-fct:depiction ;
+    skos:prefLabel "styles"@en .
 
 <http://data.silknow.org/vocabulary/497> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
@@ -15977,3 +15977,4 @@ silknow:silk-thesaurus a skos:ConceptScheme ;
         <http://data.silknow.org/vocabulary/92>,
         <http://data.silknow.org/vocabulary/97>,
         <http://data.silknow.org/vocabulary/99> .
+
