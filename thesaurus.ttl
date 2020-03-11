@@ -63,248 +63,13 @@ silknow-fct:techniques a skos:Collection ;
         silknow-fct:velvet ;
     skos:prefLabel "techniques"@en .
 
-" http://data.silknow.org/vocabulary/facet/animal_fibres" skos:member <http://data.silknow.org/vocabulary/210>,
-        <http://data.silknow.org/vocabulary/368>,
-        <http://data.silknow.org/vocabulary/644>,
-        <http://data.silknow.org/vocabulary/830> .
-
-" http://data.silknow.org/vocabulary/facet/animals" skos:member <http://data.silknow.org/vocabulary/747>,
-        <http://data.silknow.org/vocabulary/751>,
-        <http://data.silknow.org/vocabulary/771>,
-        <http://data.silknow.org/vocabulary/823>,
-        <http://data.silknow.org/vocabulary/825> .
-
-" http://data.silknow.org/vocabulary/facet/brocatelle" skos:member <http://data.silknow.org/vocabulary/103> .
-
-" http://data.silknow.org/vocabulary/facet/cannele" skos:member <http://data.silknow.org/vocabulary/2>,
-        <http://data.silknow.org/vocabulary/254>,
-        <http://data.silknow.org/vocabulary/257>,
-        <http://data.silknow.org/vocabulary/258>,
-        <http://data.silknow.org/vocabulary/259>,
-        <http://data.silknow.org/vocabulary/399>,
-        <http://data.silknow.org/vocabulary/4>,
-        <http://data.silknow.org/vocabulary/400>,
-        <http://data.silknow.org/vocabulary/401>,
-        <http://data.silknow.org/vocabulary/5>,
-        <http://data.silknow.org/vocabulary/6>,
-        <http://data.silknow.org/vocabulary/7> .
-
-" http://data.silknow.org/vocabulary/facet/damask" skos:member <http://data.silknow.org/vocabulary/168>,
-        <http://data.silknow.org/vocabulary/838> .
-
-" http://data.silknow.org/vocabulary/facet/damasse" skos:member <http://data.silknow.org/vocabulary/10> .
-
-" http://data.silknow.org/vocabulary/facet/effect" skos:member <http://data.silknow.org/vocabulary/837> .
-
-" http://data.silknow.org/vocabulary/facet/embroidery" skos:member <http://data.silknow.org/vocabulary/553>,
-        <http://data.silknow.org/vocabulary/87>,
-        <http://data.silknow.org/vocabulary/88> .
-
-" http://data.silknow.org/vocabulary/facet/fantastic" skos:member <http://data.silknow.org/vocabulary/772>,
-        <http://data.silknow.org/vocabulary/839> .
-
-" http://data.silknow.org/vocabulary/facet/figure" skos:member <http://data.silknow.org/vocabulary/773>,
-        <http://data.silknow.org/vocabulary/889> .
-
-" http://data.silknow.org/vocabulary/facet/flowers" skos:member <http://data.silknow.org/vocabulary/743>,
-        <http://data.silknow.org/vocabulary/759>,
-        <http://data.silknow.org/vocabulary/760>,
-        <http://data.silknow.org/vocabulary/785>,
-        <http://data.silknow.org/vocabulary/786>,
-        <http://data.silknow.org/vocabulary/821>,
-        <http://data.silknow.org/vocabulary/824>,
-        <http://data.silknow.org/vocabulary/835>,
-        <http://data.silknow.org/vocabulary/886>,
-        <http://data.silknow.org/vocabulary/887> .
-
-" http://data.silknow.org/vocabulary/facet/fruits" skos:member <http://data.silknow.org/vocabulary/752>,
-        <http://data.silknow.org/vocabulary/753>,
-        <http://data.silknow.org/vocabulary/761> .
-
-" http://data.silknow.org/vocabulary/facet/gauze" skos:member <http://data.silknow.org/vocabulary/232>,
-        <http://data.silknow.org/vocabulary/234> .
-
-" http://data.silknow.org/vocabulary/facet/geom_comp" skos:member <http://data.silknow.org/vocabulary/764>,
-        <http://data.silknow.org/vocabulary/766>,
-        <http://data.silknow.org/vocabulary/776>,
-        <http://data.silknow.org/vocabulary/802>,
-        <http://data.silknow.org/vocabulary/808> .
-
-" http://data.silknow.org/vocabulary/facet/geom_shapes" skos:member <http://data.silknow.org/vocabulary/745>,
-        <http://data.silknow.org/vocabulary/768> .
-
-" http://data.silknow.org/vocabulary/facet/gold_thread" skos:member <http://data.silknow.org/vocabulary/812>,
-        <http://data.silknow.org/vocabulary/813> .
-
-" http://data.silknow.org/vocabulary/facet/lampas" skos:member <http://data.silknow.org/vocabulary/305>,
-        <http://data.silknow.org/vocabulary/307>,
-        <http://data.silknow.org/vocabulary/309> .
-
-" http://data.silknow.org/vocabulary/facet/metal_effect" skos:member <http://data.silknow.org/vocabulary/302> .
-
-" http://data.silknow.org/vocabulary/facet/metal_thread" skos:member <http://data.silknow.org/vocabulary/271> .
-
-" http://data.silknow.org/vocabulary/facet/metals" skos:member <http://data.silknow.org/vocabulary/285> .
-
-" http://data.silknow.org/vocabulary/facet/objects" skos:member <http://data.silknow.org/vocabulary/746>,
-        <http://data.silknow.org/vocabulary/754>,
-        <http://data.silknow.org/vocabulary/755>,
-        <http://data.silknow.org/vocabulary/782>,
-        <http://data.silknow.org/vocabulary/787>,
-        <http://data.silknow.org/vocabulary/789>,
-        <http://data.silknow.org/vocabulary/790>,
-        <http://data.silknow.org/vocabulary/791>,
-        <http://data.silknow.org/vocabulary/794> .
-
-" http://data.silknow.org/vocabulary/facet/other_technique" skos:member <http://data.silknow.org/vocabulary/143>,
-        <http://data.silknow.org/vocabulary/144>,
-        <http://data.silknow.org/vocabulary/287>,
-        <http://data.silknow.org/vocabulary/361> .
-
-" http://data.silknow.org/vocabulary/facet/paper" skos:member <http://data.silknow.org/vocabulary/441>,
-        <http://data.silknow.org/vocabulary/622>,
-        <http://data.silknow.org/vocabulary/841>,
-        <http://data.silknow.org/vocabulary/842> .
-
-" http://data.silknow.org/vocabulary/facet/plant" skos:member <http://data.silknow.org/vocabulary/744>,
-        <http://data.silknow.org/vocabulary/750>,
-        <http://data.silknow.org/vocabulary/763>,
-        <http://data.silknow.org/vocabulary/765>,
-        <http://data.silknow.org/vocabulary/781>,
-        <http://data.silknow.org/vocabulary/788>,
-        <http://data.silknow.org/vocabulary/793>,
-        <http://data.silknow.org/vocabulary/822>,
-        <http://data.silknow.org/vocabulary/836> .
-
-" http://data.silknow.org/vocabulary/facet/printed_fabric" skos:member <http://data.silknow.org/vocabulary/197>,
-        <http://data.silknow.org/vocabulary/198> .
-
-" http://data.silknow.org/vocabulary/facet/rippled_effect" skos:member <http://data.silknow.org/vocabulary/346> .
-
-" http://data.silknow.org/vocabulary/facet/satin" skos:member <http://data.silknow.org/vocabulary/125>,
-        <http://data.silknow.org/vocabulary/152>,
-        <http://data.silknow.org/vocabulary/237>,
-        <http://data.silknow.org/vocabulary/514>,
-        <http://data.silknow.org/vocabulary/515>,
-        <http://data.silknow.org/vocabulary/550>,
-        <http://data.silknow.org/vocabulary/551>,
-        <http://data.silknow.org/vocabulary/552>,
-        <http://data.silknow.org/vocabulary/554>,
-        <http://data.silknow.org/vocabulary/555> .
-
-" http://data.silknow.org/vocabulary/facet/silver_thread" skos:member <http://data.silknow.org/vocabulary/814>,
-        <http://data.silknow.org/vocabulary/815> .
-
-" http://data.silknow.org/vocabulary/facet/stripes" skos:member <http://data.silknow.org/vocabulary/797>,
-        <http://data.silknow.org/vocabulary/840> .
-
-" http://data.silknow.org/vocabulary/facet/styles" skos:member <http://data.silknow.org/vocabulary/510>,
-        <http://data.silknow.org/vocabulary/654>,
-        <http://data.silknow.org/vocabulary/663>,
-        <http://data.silknow.org/vocabulary/664>,
-        <http://data.silknow.org/vocabulary/667>,
-        <http://data.silknow.org/vocabulary/672>,
-        <http://data.silknow.org/vocabulary/673>,
-        <http://data.silknow.org/vocabulary/674>,
-        <http://data.silknow.org/vocabulary/675>,
-        <http://data.silknow.org/vocabulary/676>,
-        <http://data.silknow.org/vocabulary/677>,
-        <http://data.silknow.org/vocabulary/678>,
-        <http://data.silknow.org/vocabulary/679>,
-        <http://data.silknow.org/vocabulary/680>,
-        <http://data.silknow.org/vocabulary/681>,
-        <http://data.silknow.org/vocabulary/682>,
-        <http://data.silknow.org/vocabulary/683>,
-        <http://data.silknow.org/vocabulary/684>,
-        <http://data.silknow.org/vocabulary/686>,
-        <http://data.silknow.org/vocabulary/687>,
-        <http://data.silknow.org/vocabulary/688>,
-        <http://data.silknow.org/vocabulary/691>,
-        <http://data.silknow.org/vocabulary/693> .
-
-" http://data.silknow.org/vocabulary/facet/symbols" skos:member <http://data.silknow.org/vocabulary/792>,
-        <http://data.silknow.org/vocabulary/796>,
-        <http://data.silknow.org/vocabulary/798>,
-        <http://data.silknow.org/vocabulary/820>,
-        <http://data.silknow.org/vocabulary/888> .
-
-" http://data.silknow.org/vocabulary/facet/tabby" skos:member <http://data.silknow.org/vocabulary/137>,
-        <http://data.silknow.org/vocabulary/167>,
-        <http://data.silknow.org/vocabulary/194>,
-        <http://data.silknow.org/vocabulary/236>,
-        <http://data.silknow.org/vocabulary/242>,
-        <http://data.silknow.org/vocabulary/355>,
-        <http://data.silknow.org/vocabulary/425>,
-        <http://data.silknow.org/vocabulary/604>,
-        <http://data.silknow.org/vocabulary/606> .
-
-" http://data.silknow.org/vocabulary/facet/texts" skos:member <http://data.silknow.org/vocabulary/758> .
-
-" http://data.silknow.org/vocabulary/facet/twill" skos:member <http://data.silknow.org/vocabulary/189>,
-        <http://data.silknow.org/vocabulary/228>,
-        <http://data.silknow.org/vocabulary/238>,
-        <http://data.silknow.org/vocabulary/482>,
-        <http://data.silknow.org/vocabulary/496>,
-        <http://data.silknow.org/vocabulary/559>,
-        <http://data.silknow.org/vocabulary/600>,
-        <http://data.silknow.org/vocabulary/601>,
-        <http://data.silknow.org/vocabulary/641> .
-
-" http://data.silknow.org/vocabulary/facet/vegetal_fibres" skos:member <http://data.silknow.org/vocabulary/214>,
-        <http://data.silknow.org/vocabulary/488>,
-        <http://data.silknow.org/vocabulary/529>,
-        <http://data.silknow.org/vocabulary/617> .
-
-" http://data.silknow.org/vocabulary/facet/velvet" skos:member <http://data.silknow.org/vocabulary/101>,
-        <http://data.silknow.org/vocabulary/102>,
-        <http://data.silknow.org/vocabulary/379>,
-        <http://data.silknow.org/vocabulary/380>,
-        <http://data.silknow.org/vocabulary/439>,
-        <http://data.silknow.org/vocabulary/455>,
-        <http://data.silknow.org/vocabulary/456>,
-        <http://data.silknow.org/vocabulary/457>,
-        <http://data.silknow.org/vocabulary/458>,
-        <http://data.silknow.org/vocabulary/459>,
-        <http://data.silknow.org/vocabulary/460>,
-        <http://data.silknow.org/vocabulary/461>,
-        <http://data.silknow.org/vocabulary/462>,
-        <http://data.silknow.org/vocabulary/463>,
-        <http://data.silknow.org/vocabulary/464>,
-        <http://data.silknow.org/vocabulary/611>,
-        <http://data.silknow.org/vocabulary/612>,
-        <http://data.silknow.org/vocabulary/613>,
-        <http://data.silknow.org/vocabulary/614>,
-        <http://data.silknow.org/vocabulary/615> .
-
-" http://vocab.getty.edu/aat/300264090" skos:member <http://data.silknow.org/vocabulary/355> .
-
-"http://data.silknow.org/vocabulary/facet/fantastic" skos:member <http://data.silknow.org/vocabulary/774> .
-
-"http://data.silknow.org/vocabulary/facet/metal_thread" skos:member <http://data.silknow.org/vocabulary/233> .
-
-"http://data.silknow.org/vocabulary/facet/styles" skos:member <http://data.silknow.org/vocabulary/689> .
-
-"http://vocab.getty.edu/aat/300009699" skos:member <http://data.silknow.org/vocabulary/799>,
-        <http://data.silknow.org/vocabulary/800>,
-        <http://data.silknow.org/vocabulary/801>,
-        <http://data.silknow.org/vocabulary/802>,
-        <http://data.silknow.org/vocabulary/804>,
-        <http://data.silknow.org/vocabulary/805>,
-        <http://data.silknow.org/vocabulary/806>,
-        <http://data.silknow.org/vocabulary/808> .
-
-"http://vocab.getty.edu/aat/300191790" skos:member <http://data.silknow.org/vocabulary/175>,
+<http://vocab.getty.edu/aat/300191790> skos:member <http://data.silknow.org/vocabulary/175>,
         <http://data.silknow.org/vocabulary/176>,
         <http://data.silknow.org/vocabulary/177>,
         <http://data.silknow.org/vocabulary/178>,
         <http://data.silknow.org/vocabulary/837> .
 
-"http://vocab.getty.edu/aat/300231560" skos:member <http://data.silknow.org/vocabulary/501> .
-
-"http://vocab.getty.edu/aat/300231560; http://data.silknow.org/vocabulary/facet/metal_thread" skos:member <http://data.silknow.org/vocabulary/184>,
-        <http://data.silknow.org/vocabulary/497> .
-
-"http://vocab.getty.edu/aat/300264086" skos:member <http://data.silknow.org/vocabulary/166>,
+<http://vocab.getty.edu/aat/300264086> skos:member <http://data.silknow.org/vocabulary/166>,
         <http://data.silknow.org/vocabulary/441>,
         <http://data.silknow.org/vocabulary/483>,
         <http://data.silknow.org/vocabulary/484>,
@@ -313,138 +78,8 @@ silknow-fct:techniques a skos:Collection ;
         <http://data.silknow.org/vocabulary/691>,
         <http://data.silknow.org/vocabulary/734> .
 
-"http://vocab.getty.edu/aat/300264087" skos:member <http://data.silknow.org/vocabulary/10>,
-        <http://data.silknow.org/vocabulary/134>,
-        <http://data.silknow.org/vocabulary/15>,
-        <http://data.silknow.org/vocabulary/192>,
-        <http://data.silknow.org/vocabulary/196>,
-        <http://data.silknow.org/vocabulary/222>,
-        <http://data.silknow.org/vocabulary/223>,
-        <http://data.silknow.org/vocabulary/248>,
-        <http://data.silknow.org/vocabulary/251>,
-        <http://data.silknow.org/vocabulary/252>,
-        <http://data.silknow.org/vocabulary/27>,
-        <http://data.silknow.org/vocabulary/289>,
-        <http://data.silknow.org/vocabulary/290>,
-        <http://data.silknow.org/vocabulary/294>,
-        <http://data.silknow.org/vocabulary/296>,
-        <http://data.silknow.org/vocabulary/30>,
-        <http://data.silknow.org/vocabulary/301>,
-        <http://data.silknow.org/vocabulary/321>,
-        <http://data.silknow.org/vocabulary/322>,
-        <http://data.silknow.org/vocabulary/33>,
-        <http://data.silknow.org/vocabulary/342>,
-        <http://data.silknow.org/vocabulary/354>,
-        <http://data.silknow.org/vocabulary/357>,
-        <http://data.silknow.org/vocabulary/362>,
-        <http://data.silknow.org/vocabulary/365>,
-        <http://data.silknow.org/vocabulary/386>,
-        <http://data.silknow.org/vocabulary/394>,
-        <http://data.silknow.org/vocabulary/404>,
-        <http://data.silknow.org/vocabulary/405>,
-        <http://data.silknow.org/vocabulary/411>,
-        <http://data.silknow.org/vocabulary/42>,
-        <http://data.silknow.org/vocabulary/421>,
-        <http://data.silknow.org/vocabulary/423>,
-        <http://data.silknow.org/vocabulary/43>,
-        <http://data.silknow.org/vocabulary/438>,
-        <http://data.silknow.org/vocabulary/44>,
-        <http://data.silknow.org/vocabulary/444>,
-        <http://data.silknow.org/vocabulary/465>,
-        <http://data.silknow.org/vocabulary/47>,
-        <http://data.silknow.org/vocabulary/473>,
-        <http://data.silknow.org/vocabulary/477>,
-        <http://data.silknow.org/vocabulary/48>,
-        <http://data.silknow.org/vocabulary/489>,
-        <http://data.silknow.org/vocabulary/49>,
-        <http://data.silknow.org/vocabulary/498>,
-        <http://data.silknow.org/vocabulary/500>,
-        <http://data.silknow.org/vocabulary/506>,
-        <http://data.silknow.org/vocabulary/512>,
-        <http://data.silknow.org/vocabulary/518>,
-        <http://data.silknow.org/vocabulary/52>,
-        <http://data.silknow.org/vocabulary/619>,
-        <http://data.silknow.org/vocabulary/620>,
-        <http://data.silknow.org/vocabulary/642>,
-        <http://data.silknow.org/vocabulary/643>,
-        <http://data.silknow.org/vocabulary/66>,
-        <http://data.silknow.org/vocabulary/662>,
-        <http://data.silknow.org/vocabulary/742>,
-        <http://data.silknow.org/vocabulary/743>,
-        <http://data.silknow.org/vocabulary/744>,
-        <http://data.silknow.org/vocabulary/745>,
-        <http://data.silknow.org/vocabulary/746>,
-        <http://data.silknow.org/vocabulary/747>,
-        <http://data.silknow.org/vocabulary/748>,
-        <http://data.silknow.org/vocabulary/750>,
-        <http://data.silknow.org/vocabulary/751>,
-        <http://data.silknow.org/vocabulary/752>,
-        <http://data.silknow.org/vocabulary/753>,
-        <http://data.silknow.org/vocabulary/754>,
-        <http://data.silknow.org/vocabulary/755>,
-        <http://data.silknow.org/vocabulary/756>,
-        <http://data.silknow.org/vocabulary/757>,
-        <http://data.silknow.org/vocabulary/758>,
-        <http://data.silknow.org/vocabulary/759>,
-        <http://data.silknow.org/vocabulary/760>,
-        <http://data.silknow.org/vocabulary/761>,
-        <http://data.silknow.org/vocabulary/762>,
-        <http://data.silknow.org/vocabulary/763>,
-        <http://data.silknow.org/vocabulary/764>,
-        <http://data.silknow.org/vocabulary/765>,
-        <http://data.silknow.org/vocabulary/766>,
-        <http://data.silknow.org/vocabulary/767>,
-        <http://data.silknow.org/vocabulary/768>,
-        <http://data.silknow.org/vocabulary/771>,
-        <http://data.silknow.org/vocabulary/772>,
-        <http://data.silknow.org/vocabulary/773>,
-        <http://data.silknow.org/vocabulary/774>,
-        <http://data.silknow.org/vocabulary/775>,
-        <http://data.silknow.org/vocabulary/776>,
-        <http://data.silknow.org/vocabulary/778>,
-        <http://data.silknow.org/vocabulary/779>,
-        <http://data.silknow.org/vocabulary/780>,
-        <http://data.silknow.org/vocabulary/781>,
-        <http://data.silknow.org/vocabulary/782>,
-        <http://data.silknow.org/vocabulary/783>,
-        <http://data.silknow.org/vocabulary/785>,
-        <http://data.silknow.org/vocabulary/786>,
-        <http://data.silknow.org/vocabulary/787>,
-        <http://data.silknow.org/vocabulary/788>,
-        <http://data.silknow.org/vocabulary/789>,
-        <http://data.silknow.org/vocabulary/790>,
-        <http://data.silknow.org/vocabulary/791>,
-        <http://data.silknow.org/vocabulary/792>,
-        <http://data.silknow.org/vocabulary/793>,
-        <http://data.silknow.org/vocabulary/794>,
-        <http://data.silknow.org/vocabulary/796>,
-        <http://data.silknow.org/vocabulary/797>,
-        <http://data.silknow.org/vocabulary/798>,
-        <http://data.silknow.org/vocabulary/809>,
-        <http://data.silknow.org/vocabulary/810>,
-        <http://data.silknow.org/vocabulary/811>,
-        <http://data.silknow.org/vocabulary/816>,
-        <http://data.silknow.org/vocabulary/817>,
-        <http://data.silknow.org/vocabulary/818>,
-        <http://data.silknow.org/vocabulary/819>,
-        <http://data.silknow.org/vocabulary/820>,
-        <http://data.silknow.org/vocabulary/821>,
-        <http://data.silknow.org/vocabulary/822>,
-        <http://data.silknow.org/vocabulary/823>,
-        <http://data.silknow.org/vocabulary/824>,
-        <http://data.silknow.org/vocabulary/825>,
-        <http://data.silknow.org/vocabulary/826>,
-        <http://data.silknow.org/vocabulary/835>,
-        <http://data.silknow.org/vocabulary/836>,
-        <http://data.silknow.org/vocabulary/839>,
-        <http://data.silknow.org/vocabulary/840>,
-        <http://data.silknow.org/vocabulary/886>,
-        <http://data.silknow.org/vocabulary/887>,
-        <http://data.silknow.org/vocabulary/888>,
-        <http://data.silknow.org/vocabulary/889>,
-        <http://data.silknow.org/vocabulary/99> .
-
-"http://vocab.getty.edu/aat/300264088" skos:member <http://data.silknow.org/vocabulary/510>,
+<http://vocab.getty.edu/aat/300264088> skos:member <http://data.silknow.org/vocabulary/499>,
+        <http://data.silknow.org/vocabulary/510>,
         <http://data.silknow.org/vocabulary/654>,
         <http://data.silknow.org/vocabulary/663>,
         <http://data.silknow.org/vocabulary/664>,
@@ -466,18 +101,15 @@ silknow-fct:techniques a skos:Collection ;
         <http://data.silknow.org/vocabulary/688>,
         <http://data.silknow.org/vocabulary/693> .
 
-"""http://vocab.getty.edu/aat/300264088
-""" skos:member <http://data.silknow.org/vocabulary/499> .
-
-"http://vocab.getty.edu/aat/300264089" skos:member <http://data.silknow.org/vocabulary/344>,
+<http://vocab.getty.edu/aat/300264089> skos:member <http://data.silknow.org/vocabulary/344>,
         <http://data.silknow.org/vocabulary/393>,
         <http://data.silknow.org/vocabulary/464>,
         <http://data.silknow.org/vocabulary/646>,
         <http://data.silknow.org/vocabulary/647> .
 
-"http://vocab.getty.edu/aat/30026409" skos:member <http://data.silknow.org/vocabulary/262> .
+<http://vocab.getty.edu/aat/30026409> skos:member <http://data.silknow.org/vocabulary/262> .
 
-"http://vocab.getty.edu/aat/300264090" skos:member <http://data.silknow.org/vocabulary/1>,
+<http://vocab.getty.edu/aat/300264090> skos:member <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/101>,
         <http://data.silknow.org/vocabulary/102>,
         <http://data.silknow.org/vocabulary/103>,
@@ -591,6 +223,7 @@ silknow-fct:techniques a skos:Collection ;
         <http://data.silknow.org/vocabulary/361>,
         <http://data.silknow.org/vocabulary/366>,
         <http://data.silknow.org/vocabulary/367>,
+        <http://data.silknow.org/vocabulary/374>,
         <http://data.silknow.org/vocabulary/375>,
         <http://data.silknow.org/vocabulary/377>,
         <http://data.silknow.org/vocabulary/379>,
@@ -724,12 +357,9 @@ silknow-fct:techniques a skos:Collection ;
         <http://data.silknow.org/vocabulary/92>,
         <http://data.silknow.org/vocabulary/97> .
 
-"""http://vocab.getty.edu/aat/300264090
-""" skos:member <http://data.silknow.org/vocabulary/374> .
+<http://vocab.getty.edu/aat/300264090318> skos:member <http://data.silknow.org/vocabulary/602> .
 
-"http://vocab.getty.edu/aat/300264090318" skos:member <http://data.silknow.org/vocabulary/602> .
-
-"http://vocab.getty.edu/aat/300264091" skos:member <http://data.silknow.org/vocabulary/113>,
+<http://vocab.getty.edu/aat/300264091> skos:member <http://data.silknow.org/vocabulary/113>,
         <http://data.silknow.org/vocabulary/12>,
         <http://data.silknow.org/vocabulary/128>,
         <http://data.silknow.org/vocabulary/132>,
@@ -810,7 +440,7 @@ silknow-fct:techniques a skos:Collection ;
         <http://data.silknow.org/vocabulary/830>,
         <http://data.silknow.org/vocabulary/90> .
 
-"http://vocab.getty.edu/aat/300264092" skos:member <http://data.silknow.org/vocabulary/115>,
+<http://vocab.getty.edu/aat/300264092> skos:member <http://data.silknow.org/vocabulary/115>,
         <http://data.silknow.org/vocabulary/127>,
         <http://data.silknow.org/vocabulary/129>,
         <http://data.silknow.org/vocabulary/145>,
@@ -981,123 +611,305 @@ d:SILKNOW a foaf:Project ;
 <http://data.silknow.org/vocabulary/86> skos:related <http://data.silknow.org/vocabulary/604> .
 
 silknow-fct:animal_fibres a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/210>,
+        <http://data.silknow.org/vocabulary/368>,
+        <http://data.silknow.org/vocabulary/644>,
+        <http://data.silknow.org/vocabulary/830> ;
     skos:prefLabel "animal fibres"@en .
 
 silknow-fct:animals a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/747>,
+        <http://data.silknow.org/vocabulary/751>,
+        <http://data.silknow.org/vocabulary/771>,
+        <http://data.silknow.org/vocabulary/823>,
+        <http://data.silknow.org/vocabulary/825> ;
     skos:prefLabel "animals"@en .
 
 silknow-fct:brocatelle a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/103> ;
     skos:prefLabel "brocatelle"@en .
 
 silknow-fct:cannele a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/2>,
+        <http://data.silknow.org/vocabulary/254>,
+        <http://data.silknow.org/vocabulary/257>,
+        <http://data.silknow.org/vocabulary/258>,
+        <http://data.silknow.org/vocabulary/259>,
+        <http://data.silknow.org/vocabulary/399>,
+        <http://data.silknow.org/vocabulary/4>,
+        <http://data.silknow.org/vocabulary/400>,
+        <http://data.silknow.org/vocabulary/401>,
+        <http://data.silknow.org/vocabulary/5>,
+        <http://data.silknow.org/vocabulary/6>,
+        <http://data.silknow.org/vocabulary/7> ;
     skos:prefLabel "cannele"@en .
 
 silknow-fct:damask a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/168>,
+        <http://data.silknow.org/vocabulary/838> ;
     skos:prefLabel "damask"@en .
 
 silknow-fct:damasse a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/10> ;
     skos:prefLabel "damassé"@en .
 
 silknow-fct:effect a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/837> ;
     skos:prefLabel "effect"@en .
 
 silknow-fct:embroidery a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/553>,
+        <http://data.silknow.org/vocabulary/87>,
+        <http://data.silknow.org/vocabulary/88> ;
     skos:prefLabel "embroidery"@en .
 
 silknow-fct:fantastic a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/772>,
+        <http://data.silknow.org/vocabulary/774>,
+        <http://data.silknow.org/vocabulary/839> ;
     skos:prefLabel "fantastic"@en .
 
 silknow-fct:figure a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/773>,
+        <http://data.silknow.org/vocabulary/889> ;
     skos:prefLabel "figure"@en .
 
 silknow-fct:flowers a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/743>,
+        <http://data.silknow.org/vocabulary/759>,
+        <http://data.silknow.org/vocabulary/760>,
+        <http://data.silknow.org/vocabulary/785>,
+        <http://data.silknow.org/vocabulary/786>,
+        <http://data.silknow.org/vocabulary/821>,
+        <http://data.silknow.org/vocabulary/824>,
+        <http://data.silknow.org/vocabulary/835>,
+        <http://data.silknow.org/vocabulary/886>,
+        <http://data.silknow.org/vocabulary/887> ;
     skos:prefLabel "flowers"@en .
 
 silknow-fct:fruits a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/752>,
+        <http://data.silknow.org/vocabulary/753>,
+        <http://data.silknow.org/vocabulary/761> ;
     skos:prefLabel "fruits"@en .
 
 silknow-fct:gauze a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/232>,
+        <http://data.silknow.org/vocabulary/234> ;
     skos:prefLabel "gauze"@en .
 
 silknow-fct:geom_comp a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/764>,
+        <http://data.silknow.org/vocabulary/766>,
+        <http://data.silknow.org/vocabulary/776>,
+        <http://data.silknow.org/vocabulary/802>,
+        <http://data.silknow.org/vocabulary/808> ;
     skos:prefLabel "geom comp"@en .
 
 silknow-fct:geom_shapes a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/745>,
+        <http://data.silknow.org/vocabulary/768> ;
     skos:prefLabel "geom shapes"@en .
 
 silknow-fct:gold_thread a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/812>,
+        <http://data.silknow.org/vocabulary/813> ;
     skos:prefLabel "gold thread"@en .
 
 silknow-fct:lampas a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/305>,
+        <http://data.silknow.org/vocabulary/307>,
+        <http://data.silknow.org/vocabulary/309> ;
     skos:prefLabel "lampas"@en .
 
 silknow-fct:metal_effect a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/302> ;
     skos:prefLabel "metal weft"@en .
 
 silknow-fct:metal_thread a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/184>,
+        <http://data.silknow.org/vocabulary/233>,
+        <http://data.silknow.org/vocabulary/271>,
+        <http://data.silknow.org/vocabulary/497> ;
     skos:prefLabel "metal thread"@en .
 
 silknow-fct:metals a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/285> ;
     skos:prefLabel "metals"@en .
 
 silknow-fct:mixed_fibre a skos:Collection ;
     skos:prefLabel "mixed fibre"@en .
 
 silknow-fct:objects a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/746>,
+        <http://data.silknow.org/vocabulary/754>,
+        <http://data.silknow.org/vocabulary/755>,
+        <http://data.silknow.org/vocabulary/782>,
+        <http://data.silknow.org/vocabulary/787>,
+        <http://data.silknow.org/vocabulary/789>,
+        <http://data.silknow.org/vocabulary/790>,
+        <http://data.silknow.org/vocabulary/791>,
+        <http://data.silknow.org/vocabulary/794> ;
     skos:prefLabel "objects"@en .
 
 silknow-fct:other_material a skos:Collection ;
     skos:prefLabel "other material"@en .
 
 silknow-fct:other_technique a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/143>,
+        <http://data.silknow.org/vocabulary/144>,
+        <http://data.silknow.org/vocabulary/287>,
+        <http://data.silknow.org/vocabulary/361> ;
     skos:prefLabel "other technique"@en .
 
 silknow-fct:paper a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/441>,
+        <http://data.silknow.org/vocabulary/622>,
+        <http://data.silknow.org/vocabulary/841>,
+        <http://data.silknow.org/vocabulary/842> ;
     skos:prefLabel "paper"@en .
 
 silknow-fct:patterned_fabric a skos:Collection ;
     skos:prefLabel "patterned fabric"@en .
 
 silknow-fct:plant a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/744>,
+        <http://data.silknow.org/vocabulary/750>,
+        <http://data.silknow.org/vocabulary/763>,
+        <http://data.silknow.org/vocabulary/765>,
+        <http://data.silknow.org/vocabulary/781>,
+        <http://data.silknow.org/vocabulary/788>,
+        <http://data.silknow.org/vocabulary/793>,
+        <http://data.silknow.org/vocabulary/822>,
+        <http://data.silknow.org/vocabulary/836> ;
     skos:prefLabel "plant"@en .
 
 silknow-fct:printed_fabric a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/197>,
+        <http://data.silknow.org/vocabulary/198> ;
     skos:prefLabel "printed fabric"@en .
 
 silknow-fct:rippled_effect a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/346> ;
     skos:prefLabel "rippled effect"@en .
 
 silknow-fct:satin a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/125>,
+        <http://data.silknow.org/vocabulary/152>,
+        <http://data.silknow.org/vocabulary/237>,
+        <http://data.silknow.org/vocabulary/514>,
+        <http://data.silknow.org/vocabulary/515>,
+        <http://data.silknow.org/vocabulary/550>,
+        <http://data.silknow.org/vocabulary/551>,
+        <http://data.silknow.org/vocabulary/552>,
+        <http://data.silknow.org/vocabulary/554>,
+        <http://data.silknow.org/vocabulary/555> ;
     skos:prefLabel "satin"@en .
 
 silknow-fct:silver_thread a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/814>,
+        <http://data.silknow.org/vocabulary/815> ;
     skos:prefLabel "silver thread"@en .
 
 silknow-fct:stripes a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/797>,
+        <http://data.silknow.org/vocabulary/840> ;
     skos:prefLabel "stripes"@en .
 
 silknow-fct:styles a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/510>,
+        <http://data.silknow.org/vocabulary/654>,
+        <http://data.silknow.org/vocabulary/663>,
+        <http://data.silknow.org/vocabulary/664>,
+        <http://data.silknow.org/vocabulary/667>,
+        <http://data.silknow.org/vocabulary/672>,
+        <http://data.silknow.org/vocabulary/673>,
+        <http://data.silknow.org/vocabulary/674>,
+        <http://data.silknow.org/vocabulary/675>,
+        <http://data.silknow.org/vocabulary/676>,
+        <http://data.silknow.org/vocabulary/677>,
+        <http://data.silknow.org/vocabulary/678>,
+        <http://data.silknow.org/vocabulary/679>,
+        <http://data.silknow.org/vocabulary/680>,
+        <http://data.silknow.org/vocabulary/681>,
+        <http://data.silknow.org/vocabulary/682>,
+        <http://data.silknow.org/vocabulary/683>,
+        <http://data.silknow.org/vocabulary/684>,
+        <http://data.silknow.org/vocabulary/686>,
+        <http://data.silknow.org/vocabulary/687>,
+        <http://data.silknow.org/vocabulary/688>,
+        <http://data.silknow.org/vocabulary/689>,
+        <http://data.silknow.org/vocabulary/691>,
+        <http://data.silknow.org/vocabulary/693> ;
     skos:prefLabel "styles"@en .
 
 silknow-fct:symbols a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/792>,
+        <http://data.silknow.org/vocabulary/796>,
+        <http://data.silknow.org/vocabulary/798>,
+        <http://data.silknow.org/vocabulary/820>,
+        <http://data.silknow.org/vocabulary/888> ;
     skos:prefLabel "symbols"@en .
 
 silknow-fct:synthtetic_fibres a skos:Collection ;
     skos:prefLabel "synthetic fibres"@en .
 
 silknow-fct:tabby a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/137>,
+        <http://data.silknow.org/vocabulary/167>,
+        <http://data.silknow.org/vocabulary/194>,
+        <http://data.silknow.org/vocabulary/236>,
+        <http://data.silknow.org/vocabulary/242>,
+        <http://data.silknow.org/vocabulary/355>,
+        <http://data.silknow.org/vocabulary/425>,
+        <http://data.silknow.org/vocabulary/604>,
+        <http://data.silknow.org/vocabulary/606> ;
     skos:prefLabel "tabby"@en .
 
 silknow-fct:texts a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/758> ;
     skos:prefLabel "texts"@en .
 
 silknow-fct:twill a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/189>,
+        <http://data.silknow.org/vocabulary/228>,
+        <http://data.silknow.org/vocabulary/238>,
+        <http://data.silknow.org/vocabulary/482>,
+        <http://data.silknow.org/vocabulary/496>,
+        <http://data.silknow.org/vocabulary/559>,
+        <http://data.silknow.org/vocabulary/600>,
+        <http://data.silknow.org/vocabulary/601>,
+        <http://data.silknow.org/vocabulary/641> ;
     skos:prefLabel "twill"@en .
 
 silknow-fct:vegetal_fibres a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/214>,
+        <http://data.silknow.org/vocabulary/488>,
+        <http://data.silknow.org/vocabulary/529>,
+        <http://data.silknow.org/vocabulary/617> ;
     skos:prefLabel "vegetal fibres"@en .
 
 silknow-fct:velvet a skos:Collection ;
+    skos:member <http://data.silknow.org/vocabulary/101>,
+        <http://data.silknow.org/vocabulary/102>,
+        <http://data.silknow.org/vocabulary/379>,
+        <http://data.silknow.org/vocabulary/380>,
+        <http://data.silknow.org/vocabulary/439>,
+        <http://data.silknow.org/vocabulary/455>,
+        <http://data.silknow.org/vocabulary/456>,
+        <http://data.silknow.org/vocabulary/457>,
+        <http://data.silknow.org/vocabulary/458>,
+        <http://data.silknow.org/vocabulary/459>,
+        <http://data.silknow.org/vocabulary/460>,
+        <http://data.silknow.org/vocabulary/461>,
+        <http://data.silknow.org/vocabulary/462>,
+        <http://data.silknow.org/vocabulary/463>,
+        <http://data.silknow.org/vocabulary/464>,
+        <http://data.silknow.org/vocabulary/611>,
+        <http://data.silknow.org/vocabulary/612>,
+        <http://data.silknow.org/vocabulary/613>,
+        <http://data.silknow.org/vocabulary/614>,
+        <http://data.silknow.org/vocabulary/615> ;
     skos:prefLabel "velvet"@en .
 
 <http://vocab.getty.edu/aat/300004894> skos:narrower <http://data.silknow.org/vocabulary/262> .
@@ -1350,7 +1162,137 @@ silknow-fct:velvet a skos:Collection ;
 
 <http://vocab.getty.edu/aat/300260164> skos:closeMatch <http://data.silknow.org/vocabulary/708> .
 
-<http://vocab.getty.edu/aat/300264087> skos:closeMatch <http://data.silknow.org/vocabulary/619> .
+<http://vocab.getty.edu/aat/300264087> skos:closeMatch <http://data.silknow.org/vocabulary/619> ;
+    skos:member <http://data.silknow.org/vocabulary/10>,
+        <http://data.silknow.org/vocabulary/134>,
+        <http://data.silknow.org/vocabulary/15>,
+        <http://data.silknow.org/vocabulary/192>,
+        <http://data.silknow.org/vocabulary/196>,
+        <http://data.silknow.org/vocabulary/222>,
+        <http://data.silknow.org/vocabulary/223>,
+        <http://data.silknow.org/vocabulary/248>,
+        <http://data.silknow.org/vocabulary/251>,
+        <http://data.silknow.org/vocabulary/252>,
+        <http://data.silknow.org/vocabulary/27>,
+        <http://data.silknow.org/vocabulary/289>,
+        <http://data.silknow.org/vocabulary/290>,
+        <http://data.silknow.org/vocabulary/294>,
+        <http://data.silknow.org/vocabulary/296>,
+        <http://data.silknow.org/vocabulary/30>,
+        <http://data.silknow.org/vocabulary/301>,
+        <http://data.silknow.org/vocabulary/321>,
+        <http://data.silknow.org/vocabulary/322>,
+        <http://data.silknow.org/vocabulary/33>,
+        <http://data.silknow.org/vocabulary/342>,
+        <http://data.silknow.org/vocabulary/354>,
+        <http://data.silknow.org/vocabulary/357>,
+        <http://data.silknow.org/vocabulary/362>,
+        <http://data.silknow.org/vocabulary/365>,
+        <http://data.silknow.org/vocabulary/386>,
+        <http://data.silknow.org/vocabulary/394>,
+        <http://data.silknow.org/vocabulary/404>,
+        <http://data.silknow.org/vocabulary/405>,
+        <http://data.silknow.org/vocabulary/411>,
+        <http://data.silknow.org/vocabulary/42>,
+        <http://data.silknow.org/vocabulary/421>,
+        <http://data.silknow.org/vocabulary/423>,
+        <http://data.silknow.org/vocabulary/43>,
+        <http://data.silknow.org/vocabulary/438>,
+        <http://data.silknow.org/vocabulary/44>,
+        <http://data.silknow.org/vocabulary/444>,
+        <http://data.silknow.org/vocabulary/465>,
+        <http://data.silknow.org/vocabulary/47>,
+        <http://data.silknow.org/vocabulary/473>,
+        <http://data.silknow.org/vocabulary/477>,
+        <http://data.silknow.org/vocabulary/48>,
+        <http://data.silknow.org/vocabulary/489>,
+        <http://data.silknow.org/vocabulary/49>,
+        <http://data.silknow.org/vocabulary/498>,
+        <http://data.silknow.org/vocabulary/500>,
+        <http://data.silknow.org/vocabulary/506>,
+        <http://data.silknow.org/vocabulary/512>,
+        <http://data.silknow.org/vocabulary/518>,
+        <http://data.silknow.org/vocabulary/52>,
+        <http://data.silknow.org/vocabulary/619>,
+        <http://data.silknow.org/vocabulary/620>,
+        <http://data.silknow.org/vocabulary/642>,
+        <http://data.silknow.org/vocabulary/643>,
+        <http://data.silknow.org/vocabulary/66>,
+        <http://data.silknow.org/vocabulary/662>,
+        <http://data.silknow.org/vocabulary/742>,
+        <http://data.silknow.org/vocabulary/743>,
+        <http://data.silknow.org/vocabulary/744>,
+        <http://data.silknow.org/vocabulary/745>,
+        <http://data.silknow.org/vocabulary/746>,
+        <http://data.silknow.org/vocabulary/747>,
+        <http://data.silknow.org/vocabulary/748>,
+        <http://data.silknow.org/vocabulary/750>,
+        <http://data.silknow.org/vocabulary/751>,
+        <http://data.silknow.org/vocabulary/752>,
+        <http://data.silknow.org/vocabulary/753>,
+        <http://data.silknow.org/vocabulary/754>,
+        <http://data.silknow.org/vocabulary/755>,
+        <http://data.silknow.org/vocabulary/756>,
+        <http://data.silknow.org/vocabulary/757>,
+        <http://data.silknow.org/vocabulary/758>,
+        <http://data.silknow.org/vocabulary/759>,
+        <http://data.silknow.org/vocabulary/760>,
+        <http://data.silknow.org/vocabulary/761>,
+        <http://data.silknow.org/vocabulary/762>,
+        <http://data.silknow.org/vocabulary/763>,
+        <http://data.silknow.org/vocabulary/764>,
+        <http://data.silknow.org/vocabulary/765>,
+        <http://data.silknow.org/vocabulary/766>,
+        <http://data.silknow.org/vocabulary/767>,
+        <http://data.silknow.org/vocabulary/768>,
+        <http://data.silknow.org/vocabulary/771>,
+        <http://data.silknow.org/vocabulary/772>,
+        <http://data.silknow.org/vocabulary/773>,
+        <http://data.silknow.org/vocabulary/774>,
+        <http://data.silknow.org/vocabulary/775>,
+        <http://data.silknow.org/vocabulary/776>,
+        <http://data.silknow.org/vocabulary/778>,
+        <http://data.silknow.org/vocabulary/779>,
+        <http://data.silknow.org/vocabulary/780>,
+        <http://data.silknow.org/vocabulary/781>,
+        <http://data.silknow.org/vocabulary/782>,
+        <http://data.silknow.org/vocabulary/783>,
+        <http://data.silknow.org/vocabulary/785>,
+        <http://data.silknow.org/vocabulary/786>,
+        <http://data.silknow.org/vocabulary/787>,
+        <http://data.silknow.org/vocabulary/788>,
+        <http://data.silknow.org/vocabulary/789>,
+        <http://data.silknow.org/vocabulary/790>,
+        <http://data.silknow.org/vocabulary/791>,
+        <http://data.silknow.org/vocabulary/792>,
+        <http://data.silknow.org/vocabulary/793>,
+        <http://data.silknow.org/vocabulary/794>,
+        <http://data.silknow.org/vocabulary/796>,
+        <http://data.silknow.org/vocabulary/797>,
+        <http://data.silknow.org/vocabulary/798>,
+        <http://data.silknow.org/vocabulary/809>,
+        <http://data.silknow.org/vocabulary/810>,
+        <http://data.silknow.org/vocabulary/811>,
+        <http://data.silknow.org/vocabulary/816>,
+        <http://data.silknow.org/vocabulary/817>,
+        <http://data.silknow.org/vocabulary/818>,
+        <http://data.silknow.org/vocabulary/819>,
+        <http://data.silknow.org/vocabulary/820>,
+        <http://data.silknow.org/vocabulary/821>,
+        <http://data.silknow.org/vocabulary/822>,
+        <http://data.silknow.org/vocabulary/823>,
+        <http://data.silknow.org/vocabulary/824>,
+        <http://data.silknow.org/vocabulary/825>,
+        <http://data.silknow.org/vocabulary/826>,
+        <http://data.silknow.org/vocabulary/835>,
+        <http://data.silknow.org/vocabulary/836>,
+        <http://data.silknow.org/vocabulary/839>,
+        <http://data.silknow.org/vocabulary/840>,
+        <http://data.silknow.org/vocabulary/886>,
+        <http://data.silknow.org/vocabulary/887>,
+        <http://data.silknow.org/vocabulary/888>,
+        <http://data.silknow.org/vocabulary/889>,
+        <http://data.silknow.org/vocabulary/99> .
 
 <http://vocab.getty.edu/aat/300265531> skos:closeMatch <http://data.silknow.org/vocabulary/441> .
 
@@ -1476,7 +1418,10 @@ silknow-fct:velvet a skos:Collection ;
 <http://vocab.getty.edu/aat/300206575> skos:narrower <http://data.silknow.org/vocabulary/24>,
         <http://data.silknow.org/vocabulary/376> .
 
-<http://vocab.getty.edu/aat/300231560> skos:narrower <http://data.silknow.org/vocabulary/128>,
+<http://vocab.getty.edu/aat/300231560> skos:member <http://data.silknow.org/vocabulary/184>,
+        <http://data.silknow.org/vocabulary/497>,
+        <http://data.silknow.org/vocabulary/501> ;
+    skos:narrower <http://data.silknow.org/vocabulary/128>,
         <http://data.silknow.org/vocabulary/249> .
 
 <http://vocab.getty.edu/aat/300231580> skos:narrower <http://data.silknow.org/vocabulary/268>,
@@ -4367,30 +4312,6 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         "Agrément"@fr,
         "cordoncino"@it ;
     skos:related <http://data.silknow.org/vocabulary/147> ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/184> a skos:Concept ;
-    dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
-        "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
-        "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es,
-        "Maggy Baum et Chantal Boyeldieu, Dictionnaire encyclopédique des textiles, Paris : Eyrolles, 2018."@fr,
-        "CIETA Vocabolario tecnico dei tessuti Italiano - Francese - Inglese. Lyon: Centre  International d’Etude des Textiles Anciens, 2019."@it ;
-    skos:altLabel "spiral thread"@en,
-        "entorchado"@es,
-        "argento filato"@it,
-        "oro filato"@it,
-        "vergolinato"@it ;
-    skos:broader <http://data.silknow.org/vocabulary/497> ;
-    skos:definition "n. From the Latin \"filum\" and the French \"fil\" \"file\". It refers to a type of thread, composed of a lamella wound around a core of a different material."@en,
-        "Hilo doble, compuesto de un alma interior de seda u otro material, alrededor de la cual se enrolla en espiral otro hilo de un color o  material diferente,  para producir distintos efectos de textura o color."@es,
-        "Loc. masc. Désigne un fil qui est fabriqué à partir de deux fils : un fil d'âme qui peut être en soie et dans tout autre matériau, sur lequel on enroule un fil d'effet ou fil de couverture disposé en hélice."@fr,
-        "agg. filo costituito da un’anima in fibra vegetale o in seta cui si avvolge una laminetta metallica."@it ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:prefLabel "Filé"@en,
-        "Hilo entorchado"@es,
-        "Fil guipé"@fr,
-        "Filo Laminato"@it ;
-    skos:related <http://data.silknow.org/vocabulary/382> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/185> a skos:Concept ;
@@ -8101,6 +8022,30 @@ Accedido 20 de noviembre de 2018 http://www.rae.es/"""@es,
         <http://data.silknow.org/vocabulary/470> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
+<http://data.silknow.org/vocabulary/184> a skos:Concept ;
+    dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
+        "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
+        "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/"@es,
+        "Maggy Baum et Chantal Boyeldieu, Dictionnaire encyclopédique des textiles, Paris : Eyrolles, 2018."@fr,
+        "CIETA Vocabolario tecnico dei tessuti Italiano - Francese - Inglese. Lyon: Centre  International d’Etude des Textiles Anciens, 2019."@it ;
+    skos:altLabel "spiral thread"@en,
+        "entorchado"@es,
+        "argento filato"@it,
+        "oro filato"@it,
+        "vergolinato"@it ;
+    skos:broader <http://data.silknow.org/vocabulary/497> ;
+    skos:definition "n. From the Latin \"filum\" and the French \"fil\" \"file\". It refers to a type of thread, composed of a lamella wound around a core of a different material."@en,
+        "Hilo doble, compuesto de un alma interior de seda u otro material, alrededor de la cual se enrolla en espiral otro hilo de un color o  material diferente,  para producir distintos efectos de textura o color."@es,
+        "Loc. masc. Désigne un fil qui est fabriqué à partir de deux fils : un fil d'âme qui peut être en soie et dans tout autre matériau, sur lequel on enroule un fil d'effet ou fil de couverture disposé en hélice."@fr,
+        "agg. filo costituito da un’anima in fibra vegetale o in seta cui si avvolge una laminetta metallica."@it ;
+    skos:inScheme silknow:silk-thesaurus ;
+    skos:prefLabel "Filé"@en,
+        "Hilo entorchado"@es,
+        "Fil guipé"@fr,
+        "Filo Laminato"@it ;
+    skos:related <http://data.silknow.org/vocabulary/382> ;
+    skos:topConceptOf silknow:silk-thesaurus .
+
 <http://data.silknow.org/vocabulary/191> a skos:Concept ;
     dct:bibliographicCitation "Blanxart y Pedrals, Daniel. La Industria Textil. Barcelona: Imp. A. Ortega, 1946"@es,
         "Hollen, Norma, and Jane Saddler. Introducción a Los Textiles. México: Editorial Limusa, 2002."@es,
@@ -11425,6 +11370,14 @@ l’altro liscio, per produrre schiacciamenti in alcune aree del pelo."""@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://vocab.getty.edu/aat/300009699> skos:closeMatch <http://data.silknow.org/vocabulary/816> ;
+    skos:member <http://data.silknow.org/vocabulary/799>,
+        <http://data.silknow.org/vocabulary/800>,
+        <http://data.silknow.org/vocabulary/801>,
+        <http://data.silknow.org/vocabulary/802>,
+        <http://data.silknow.org/vocabulary/804>,
+        <http://data.silknow.org/vocabulary/805>,
+        <http://data.silknow.org/vocabulary/806>,
+        <http://data.silknow.org/vocabulary/808> ;
     skos:narrower <http://data.silknow.org/vocabulary/742>,
         <http://data.silknow.org/vocabulary/799>,
         <http://data.silknow.org/vocabulary/816>,
@@ -13712,6 +13665,35 @@ Jean-Jacques Boucher, Le dictionnaire de la soie : découvrir son histoire de s
         <http://data.silknow.org/vocabulary/310> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
+<http://data.silknow.org/vocabulary/355> a skos:Concept ;
+    dct:bibliographicCitation "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
+        "Dávila Corona, R,osa Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
+        "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/."@es,
+        "CNRTL, https://www.cnrtl.fr/definition/mousseline"@fr,
+        "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9M3036"@fr,
+        "Elisabeth Hardouin-Fugier et al., Les étoffes : dictionnaire historique, Paris : Les éditions de l'Amateur, 2005"@fr,
+        "Falcot,Traité encyclopédique et méthodique de la fabrication des tissus. 1852"@fr,
+        "Aniello Gentile, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
+    skos:altLabel "mussolina"@it ;
+    skos:broader <http://data.silknow.org/vocabulary/236> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300014087> ;
+    skos:definition "n. A term borrowed from the French \"mousseline\". From previous forms as \"mossuline\" \"muscelin\" \"muslina\" \"muzlin\". It refers to the various lightweight cotton, cotton blend or silk fabrics in a plain weave, from the most lightweight sheers to the heavyweight sheetings. Its origins are in the city of Mosul, antique Mesopotamia, now Iraq. Most common uses are underwear, linings, shirtings, sheets, pillow cases or furniture coverings."@en,
+        "Del fr. mousseline. Tela de algodón, lana o seda fina, ligera y poco tupida.  Su origen se remonta a los tejidos fabricados en la ciudad mesopotámica de Mosul. Tejido de hilo muy fino y ligero, tanto en la urdimbre como en la trama, con ligamento tafetán con una densidad muy pequeña y presentado el aspecto transparente de la gasa."@es,
+        "Subst. fém. Emprunté de l’italien mosolino, proprement \"tissu fabriqué à Mossoul\". Toile généralement en coton légère, très fine et transparente. La mousseline est une étoffe très appéciée, et elle a notamment bénéficié de l'engouement pour la mode antique à la fin du XVIIIe s. et dans le premier quart du XIXe s. Les teintes utilisées sont claires (écru, blanc) ; elle peut-être teinte ou brochée. La mousseline présente une armure toile, avec une chaîne et une trame en fils retors à haute torsion en coton à longues fibres."@fr,
+        "s.f. Lat. mediev. musolum. Dall'ar. Mossul, nome della famosa città della Mesopotamia. Tipo di tessuto morbido e leggerissimo, in tela di cotone, lana o seta, formato da filati fini sia in ordito che in trama, importato in Inghilterra nel XVII sec. dal Medio Oriente. Detto anche mosal. Anche it. tela mussolina, il fr. mousseline; fr. a. mosulin (XIII sec.) forse dal veneziano; anche l'ingl. mussolin (muslin, 1609) ."@it ;
+    skos:inScheme silknow:silk-thesaurus ;
+    skos:narrower <http://data.silknow.org/vocabulary/532> ;
+    skos:prefLabel "Muslin"@en,
+        "Muselina"@es,
+        "Mousseline"@fr,
+        "Mussola"@it ;
+    skos:related <http://data.silknow.org/vocabulary/108>,
+        <http://data.silknow.org/vocabulary/335>,
+        <http://data.silknow.org/vocabulary/644>,
+        <http://data.silknow.org/vocabulary/70>,
+        <http://data.silknow.org/vocabulary/71> ;
+    skos:topConceptOf silknow:silk-thesaurus .
+
 <http://data.silknow.org/vocabulary/427> a skos:Concept ;
     dct:bibliographicCitation "Burnham, Dorothy. Warp and Weft. A Textile Terminology. Royal Ontario Museum, 1980"@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
@@ -13902,35 +13884,6 @@ Jean-Jacques Boucher, Le dictionnaire de la soie : découvrir son histoire de s
         <http://data.silknow.org/vocabulary/544>,
         <http://data.silknow.org/vocabulary/606>,
         <http://data.silknow.org/vocabulary/68> ;
-    skos:topConceptOf silknow:silk-thesaurus .
-
-<http://data.silknow.org/vocabulary/355> a skos:Concept ;
-    dct:bibliographicCitation "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
-        "Dávila Corona, R,osa Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
-        "«Real Academia Española». Accedido 20 de noviembre de 2018. http://www.rae.es/."@es,
-        "CNRTL, https://www.cnrtl.fr/definition/mousseline"@fr,
-        "Dictionnaire de l'Académie française, https://www.dictionnaire-academie.fr/article/A9M3036"@fr,
-        "Elisabeth Hardouin-Fugier et al., Les étoffes : dictionnaire historique, Paris : Les éditions de l'Amateur, 2005"@fr,
-        "Falcot,Traité encyclopédique et méthodique de la fabrication des tissus. 1852"@fr,
-        "Aniello Gentile, Dizionario etimologico dell'arte tessile, Napoli, 1981."@it ;
-    skos:altLabel "mussolina"@it ;
-    skos:broader <http://data.silknow.org/vocabulary/236> ;
-    skos:closeMatch <http://vocab.getty.edu/aat/300014087> ;
-    skos:definition "n. A term borrowed from the French \"mousseline\". From previous forms as \"mossuline\" \"muscelin\" \"muslina\" \"muzlin\". It refers to the various lightweight cotton, cotton blend or silk fabrics in a plain weave, from the most lightweight sheers to the heavyweight sheetings. Its origins are in the city of Mosul, antique Mesopotamia, now Iraq. Most common uses are underwear, linings, shirtings, sheets, pillow cases or furniture coverings."@en,
-        "Del fr. mousseline. Tela de algodón, lana o seda fina, ligera y poco tupida.  Su origen se remonta a los tejidos fabricados en la ciudad mesopotámica de Mosul. Tejido de hilo muy fino y ligero, tanto en la urdimbre como en la trama, con ligamento tafetán con una densidad muy pequeña y presentado el aspecto transparente de la gasa."@es,
-        "Subst. fém. Emprunté de l’italien mosolino, proprement \"tissu fabriqué à Mossoul\". Toile généralement en coton légère, très fine et transparente. La mousseline est une étoffe très appéciée, et elle a notamment bénéficié de l'engouement pour la mode antique à la fin du XVIIIe s. et dans le premier quart du XIXe s. Les teintes utilisées sont claires (écru, blanc) ; elle peut-être teinte ou brochée. La mousseline présente une armure toile, avec une chaîne et une trame en fils retors à haute torsion en coton à longues fibres."@fr,
-        "s.f. Lat. mediev. musolum. Dall'ar. Mossul, nome della famosa città della Mesopotamia. Tipo di tessuto morbido e leggerissimo, in tela di cotone, lana o seta, formato da filati fini sia in ordito che in trama, importato in Inghilterra nel XVII sec. dal Medio Oriente. Detto anche mosal. Anche it. tela mussolina, il fr. mousseline; fr. a. mosulin (XIII sec.) forse dal veneziano; anche l'ingl. mussolin (muslin, 1609) ."@it ;
-    skos:inScheme silknow:silk-thesaurus ;
-    skos:narrower <http://data.silknow.org/vocabulary/532> ;
-    skos:prefLabel "Muslin"@en,
-        "Muselina"@es,
-        "Mousseline"@fr,
-        "Mussola"@it ;
-    skos:related <http://data.silknow.org/vocabulary/108>,
-        <http://data.silknow.org/vocabulary/335>,
-        <http://data.silknow.org/vocabulary/644>,
-        <http://data.silknow.org/vocabulary/70>,
-        <http://data.silknow.org/vocabulary/71> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 <http://data.silknow.org/vocabulary/382> a skos:Concept ;
@@ -15027,6 +14980,37 @@ Jean-Jacques Boucher, Le dictionnaire de la soie : découvrir son histoire de s
         <http://data.silknow.org/vocabulary/95> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
+<http://vocab.getty.edu/aat/300247544> skos:narrower <http://data.silknow.org/vocabulary/127>,
+        <http://data.silknow.org/vocabulary/129>,
+        <http://data.silknow.org/vocabulary/190>,
+        <http://data.silknow.org/vocabulary/263>,
+        <http://data.silknow.org/vocabulary/281>,
+        <http://data.silknow.org/vocabulary/311>,
+        <http://data.silknow.org/vocabulary/313>,
+        <http://data.silknow.org/vocabulary/324>,
+        <http://data.silknow.org/vocabulary/363>,
+        <http://data.silknow.org/vocabulary/403>,
+        <http://data.silknow.org/vocabulary/41>,
+        <http://data.silknow.org/vocabulary/414>,
+        <http://data.silknow.org/vocabulary/419>,
+        <http://data.silknow.org/vocabulary/427>,
+        <http://data.silknow.org/vocabulary/428>,
+        <http://data.silknow.org/vocabulary/429>,
+        <http://data.silknow.org/vocabulary/431>,
+        <http://data.silknow.org/vocabulary/450>,
+        <http://data.silknow.org/vocabulary/481>,
+        <http://data.silknow.org/vocabulary/495>,
+        <http://data.silknow.org/vocabulary/519>,
+        <http://data.silknow.org/vocabulary/521>,
+        <http://data.silknow.org/vocabulary/616>,
+        <http://data.silknow.org/vocabulary/622>,
+        <http://data.silknow.org/vocabulary/648>,
+        <http://data.silknow.org/vocabulary/72>,
+        <http://data.silknow.org/vocabulary/831>,
+        <http://data.silknow.org/vocabulary/832>,
+        <http://data.silknow.org/vocabulary/841>,
+        <http://data.silknow.org/vocabulary/842> .
+
 <http://data.silknow.org/vocabulary/497> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
         "Carbonell, Antonio, trans. Encyclopedia Metòdica: Fábricas, Artes y Oficios, 2: Fàbricas, Artes y Oficios, Traducidos Del Francés Al Castellano. Imp. de Sancha, 1794."@es,
@@ -15079,37 +15063,6 @@ Jean-Jacques Boucher, Le dictionnaire de la soie : découvrir son histoire de s
         <http://data.silknow.org/vocabulary/95>,
         <http://data.silknow.org/vocabulary/97> ;
     skos:topConceptOf silknow:silk-thesaurus .
-
-<http://vocab.getty.edu/aat/300247544> skos:narrower <http://data.silknow.org/vocabulary/127>,
-        <http://data.silknow.org/vocabulary/129>,
-        <http://data.silknow.org/vocabulary/190>,
-        <http://data.silknow.org/vocabulary/263>,
-        <http://data.silknow.org/vocabulary/281>,
-        <http://data.silknow.org/vocabulary/311>,
-        <http://data.silknow.org/vocabulary/313>,
-        <http://data.silknow.org/vocabulary/324>,
-        <http://data.silknow.org/vocabulary/363>,
-        <http://data.silknow.org/vocabulary/403>,
-        <http://data.silknow.org/vocabulary/41>,
-        <http://data.silknow.org/vocabulary/414>,
-        <http://data.silknow.org/vocabulary/419>,
-        <http://data.silknow.org/vocabulary/427>,
-        <http://data.silknow.org/vocabulary/428>,
-        <http://data.silknow.org/vocabulary/429>,
-        <http://data.silknow.org/vocabulary/431>,
-        <http://data.silknow.org/vocabulary/450>,
-        <http://data.silknow.org/vocabulary/481>,
-        <http://data.silknow.org/vocabulary/495>,
-        <http://data.silknow.org/vocabulary/519>,
-        <http://data.silknow.org/vocabulary/521>,
-        <http://data.silknow.org/vocabulary/616>,
-        <http://data.silknow.org/vocabulary/622>,
-        <http://data.silknow.org/vocabulary/648>,
-        <http://data.silknow.org/vocabulary/72>,
-        <http://data.silknow.org/vocabulary/831>,
-        <http://data.silknow.org/vocabulary/832>,
-        <http://data.silknow.org/vocabulary/841>,
-        <http://data.silknow.org/vocabulary/842> .
 
 <http://data.silknow.org/vocabulary/379> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
