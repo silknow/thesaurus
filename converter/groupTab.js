@@ -10,7 +10,7 @@ function toCollection(s, main) {
   add(coll, RDF('type'), SKOS('Collection'));
   const name = s.Group.replace(/^[a-z]_/, '').replace('_', ' ');
   add(coll, SKOS('prefLabel'), name, 'en');
-  add(coll, SKOS('member'), main);
+  add(main, SKOS('member'), coll);
 }
 
 function convert(source, name) {

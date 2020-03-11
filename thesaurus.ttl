@@ -14,21 +14,54 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-silknow-fct:mixed_fibre a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "mixed fibre"@en .
+silknow-fct:depiction a skos:Collection ;
+    skos:member silknow-fct:animals,
+        silknow-fct:fantastic,
+        silknow-fct:figure,
+        silknow-fct:flowers,
+        silknow-fct:fruits,
+        silknow-fct:geom_comp,
+        silknow-fct:geom_shapes,
+        silknow-fct:objects,
+        silknow-fct:plant,
+        silknow-fct:stripes,
+        silknow-fct:styles,
+        silknow-fct:symbols,
+        silknow-fct:texts ;
+    skos:prefLabel "depiction"@en .
 
-silknow-fct:other_material a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "other material"@en .
+silknow-fct:materials a skos:Collection ;
+    skos:member silknow-fct:animal_fibres,
+        silknow-fct:gold_thread,
+        silknow-fct:metal_thread,
+        silknow-fct:metals,
+        silknow-fct:mixed_fibre,
+        silknow-fct:other_material,
+        silknow-fct:paper,
+        silknow-fct:silver_thread,
+        silknow-fct:synthtetic_fibres,
+        silknow-fct:vegetal_fibres ;
+    skos:prefLabel "materials"@en .
 
-silknow-fct:patterned_fabric a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "patterned fabric"@en .
-
-silknow-fct:synthtetic_fibres a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "synthetic fibres"@en .
+silknow-fct:techniques a skos:Collection ;
+    skos:member silknow-fct:brocatelle,
+        silknow-fct:cannele,
+        silknow-fct:damask,
+        silknow-fct:damasse,
+        silknow-fct:effect,
+        silknow-fct:embroidery,
+        silknow-fct:gauze,
+        silknow-fct:lampas,
+        silknow-fct:metal_effect,
+        silknow-fct:other_technique,
+        silknow-fct:patterned_fabric,
+        silknow-fct:printed_fabric,
+        silknow-fct:rippled_effect,
+        silknow-fct:satin,
+        silknow-fct:tabby,
+        silknow-fct:twill,
+        silknow-fct:velvet ;
+    skos:prefLabel "techniques"@en .
 
 d:SILKNOW a foaf:Project ;
     rdfs:label "SILKNOW" ;
@@ -117,33 +150,17 @@ d:SILKNOW a foaf:Project ;
 
 <http://data.silknow.org/vocabulary/86> skos:related <http://data.silknow.org/vocabulary/604> .
 
-silknow-fct:brocatelle a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "brocatelle"@en .
+silknow-fct:mixed_fibre a skos:Collection ;
+    skos:prefLabel "mixed fibre"@en .
 
-silknow-fct:damasse a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "damassé"@en .
+silknow-fct:other_material a skos:Collection ;
+    skos:prefLabel "other material"@en .
 
-silknow-fct:effect a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "effect"@en .
+silknow-fct:patterned_fabric a skos:Collection ;
+    skos:prefLabel "patterned fabric"@en .
 
-silknow-fct:metal_effect a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "metal weft"@en .
-
-silknow-fct:metals a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "metals"@en .
-
-silknow-fct:rippled_effect a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "rippled effect"@en .
-
-silknow-fct:texts a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "texts"@en .
+silknow-fct:synthtetic_fibres a skos:Collection ;
+    skos:prefLabel "synthetic fibres"@en .
 
 <http://vocab.getty.edu/aat/300004894> skos:narrower <http://data.silknow.org/vocabulary/262> .
 
@@ -4360,41 +4377,26 @@ Adorno a manera de tira estrecha que  atado o anudado aparece en los diseños de
         "Aceituni"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:damask a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "damask"@en .
+silknow-fct:brocatelle a skos:Collection ;
+    skos:prefLabel "brocatelle"@en .
 
-silknow-fct:figure a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "figure"@en .
+silknow-fct:damasse a skos:Collection ;
+    skos:prefLabel "damassé"@en .
 
-silknow-fct:gauze a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "gauze"@en .
+silknow-fct:effect a skos:Collection ;
+    skos:prefLabel "effect"@en .
 
-silknow-fct:geom_shapes a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "geom shapes"@en .
+silknow-fct:metal_effect a skos:Collection ;
+    skos:prefLabel "metal weft"@en .
 
-silknow-fct:gold_thread a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "gold thread"@en .
+silknow-fct:metals a skos:Collection ;
+    skos:prefLabel "metals"@en .
 
-silknow-fct:metal_thread a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "metal thread"@en .
+silknow-fct:rippled_effect a skos:Collection ;
+    skos:prefLabel "rippled effect"@en .
 
-silknow-fct:printed_fabric a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "printed fabric"@en .
-
-silknow-fct:silver_thread a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "silver thread"@en .
-
-silknow-fct:stripes a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "stripes"@en .
+silknow-fct:texts a skos:Collection ;
+    skos:prefLabel "texts"@en .
 
 <http://vocab.getty.edu/aat/300021031> skos:narrower <http://data.silknow.org/vocabulary/681>,
         <http://data.silknow.org/vocabulary/682> .
@@ -8190,21 +8192,32 @@ http://www.getty.edu/research/tools/vocabularies/aat/."""@es,
         "Evangelista"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:embroidery a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "embroidery"@en .
+silknow-fct:damask a skos:Collection ;
+    skos:prefLabel "damask"@en .
 
-silknow-fct:fantastic a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "fantastic"@en .
+silknow-fct:figure a skos:Collection ;
+    skos:prefLabel "figure"@en .
 
-silknow-fct:fruits a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "fruits"@en .
+silknow-fct:gauze a skos:Collection ;
+    skos:prefLabel "gauze"@en .
 
-silknow-fct:lampas a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "lampas"@en .
+silknow-fct:geom_shapes a skos:Collection ;
+    skos:prefLabel "geom shapes"@en .
+
+silknow-fct:gold_thread a skos:Collection ;
+    skos:prefLabel "gold thread"@en .
+
+silknow-fct:metal_thread a skos:Collection ;
+    skos:prefLabel "metal thread"@en .
+
+silknow-fct:printed_fabric a skos:Collection ;
+    skos:prefLabel "printed fabric"@en .
+
+silknow-fct:silver_thread a skos:Collection ;
+    skos:prefLabel "silver thread"@en .
+
+silknow-fct:stripes a skos:Collection ;
+    skos:prefLabel "stripes"@en .
 
 <http://vocab.getty.edu/aat/300014072> skos:closeMatch <http://data.silknow.org/vocabulary/368> ;
     skos:exactMatch <http://data.silknow.org/vocabulary/618> ;
@@ -10248,21 +10261,17 @@ l’altro liscio, per produrre schiacciamenti in alcune aree del pelo."""@it ;
         <http://data.silknow.org/vocabulary/66> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:animal_fibres a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "animal fibres"@en .
+silknow-fct:embroidery a skos:Collection ;
+    skos:prefLabel "embroidery"@en .
 
-silknow-fct:other_technique a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "other technique"@en .
+silknow-fct:fantastic a skos:Collection ;
+    skos:prefLabel "fantastic"@en .
 
-silknow-fct:paper a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "paper"@en .
+silknow-fct:fruits a skos:Collection ;
+    skos:prefLabel "fruits"@en .
 
-silknow-fct:vegetal_fibres a skos:Collection ;
-    skos:member silknow-fct:materials ;
-    skos:prefLabel "vegetal fibres"@en .
+silknow-fct:lampas a skos:Collection ;
+    skos:prefLabel "lampas"@en .
 
 <http://vocab.getty.edu/aat/300053053> skos:narrower <http://data.silknow.org/vocabulary/287>,
         <http://data.silknow.org/vocabulary/452>,
@@ -11383,17 +11392,17 @@ Del árabe aljombra, esterilla. Tejido de lana u otras materias textiles, y de v
         <http://data.silknow.org/vocabulary/185> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:animals a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "animals"@en .
+silknow-fct:animal_fibres a skos:Collection ;
+    skos:prefLabel "animal fibres"@en .
 
-silknow-fct:geom_comp a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "geom comp"@en .
+silknow-fct:other_technique a skos:Collection ;
+    skos:prefLabel "other technique"@en .
 
-silknow-fct:symbols a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "symbols"@en .
+silknow-fct:paper a skos:Collection ;
+    skos:prefLabel "paper"@en .
+
+silknow-fct:vegetal_fibres a skos:Collection ;
+    skos:prefLabel "vegetal fibres"@en .
 
 <http://vocab.getty.edu/aat/300025349> skos:narrower <http://data.silknow.org/vocabulary/344>,
         <http://data.silknow.org/vocabulary/393>,
@@ -12235,6 +12244,15 @@ fissate ai maglioni e dai piombini che le tengono in tensione."""@it ;
         <http://data.silknow.org/vocabulary/489>,
         <http://data.silknow.org/vocabulary/529> ;
     skos:topConceptOf silknow:silk-thesaurus .
+
+silknow-fct:animals a skos:Collection ;
+    skos:prefLabel "animals"@en .
+
+silknow-fct:geom_comp a skos:Collection ;
+    skos:prefLabel "geom comp"@en .
+
+silknow-fct:symbols a skos:Collection ;
+    skos:prefLabel "symbols"@en .
 
 <http://vocab.getty.edu/aat/300239669> skos:narrower <http://data.silknow.org/vocabulary/526>,
         <http://data.silknow.org/vocabulary/527>,
@@ -13500,22 +13518,6 @@ Jean-Jacques Boucher, Le dictionnaire de la soie : découvrir son histoire de s
         <http://data.silknow.org/vocabulary/87> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:objects a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "objects"@en .
-
-silknow-fct:plant a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "plant"@en .
-
-silknow-fct:tabby a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "tabby"@en .
-
-silknow-fct:twill a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "twill"@en .
-
 <http://data.silknow.org/vocabulary/1> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963."@es,
@@ -13786,16 +13788,17 @@ silknow-fct:twill a skos:Collection ;
         <http://data.silknow.org/vocabulary/95> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:flowers a skos:Collection ;
-    skos:member silknow-fct:depiction ;
-    skos:prefLabel "flowers"@en .
+silknow-fct:objects a skos:Collection ;
+    skos:prefLabel "objects"@en .
 
-silknow-fct:materials a skos:Collection ;
-    skos:prefLabel "materials"@en .
+silknow-fct:plant a skos:Collection ;
+    skos:prefLabel "plant"@en .
 
-silknow-fct:satin a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "satin"@en .
+silknow-fct:tabby a skos:Collection ;
+    skos:prefLabel "tabby"@en .
+
+silknow-fct:twill a skos:Collection ;
+    skos:prefLabel "twill"@en .
 
 <http://data.silknow.org/vocabulary/322> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963."@es,
@@ -13881,6 +13884,12 @@ silknow-fct:satin a skos:Collection ;
         "Dessin"@fr,
         "Disegno"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
+
+silknow-fct:flowers a skos:Collection ;
+    skos:prefLabel "flowers"@en .
+
+silknow-fct:satin a skos:Collection ;
+    skos:prefLabel "satin"@en .
 
 <http://data.silknow.org/vocabulary/147> a skos:Concept ;
     dct:bibliographicCitation "Castany Saládrigas, Francisco. Diccionario de tejidos. Etimología, origen, arte, historia y fabricación de los más importantes tejidos clásicos y modernos. Gustavo Gil S.A., 1949"@es,
@@ -14221,10 +14230,6 @@ silknow-fct:satin a skos:Collection ;
         "Motivo floreale"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:cannele a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "cannele"@en .
-
 <http://data.silknow.org/vocabulary/645> a skos:Concept ;
     skos:broader <http://data.silknow.org/vocabulary/526> ;
     skos:definition "All those elements or actions that take part in the weaving process and the relation among them."@en,
@@ -14250,8 +14255,8 @@ silknow-fct:cannele a skos:Collection ;
         "Elementi interfunzionali"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:depiction a skos:Collection ;
-    skos:prefLabel "depiction"@en .
+silknow-fct:cannele a skos:Collection ;
+    skos:prefLabel "cannele"@en .
 
 <http://data.silknow.org/vocabulary/276> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
@@ -14641,9 +14646,6 @@ silknow-fct:depiction a skos:Collection ;
         "Tipologia iconografica"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:techniques a skos:Collection ;
-    skos:prefLabel "techniques"@en .
-
 <http://data.silknow.org/vocabulary/387> a skos:Concept ;
     dct:bibliographicCitation "Benito, Pilar. Paraísos de seda. Tejidos y bordados de las casas del Príncipe en los Reales Sitios de El Pardo y El Escorial. València: Universitat de València, 2015"@es,
         "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
@@ -14758,10 +14760,6 @@ silknow-fct:techniques a skos:Collection ;
         <http://data.silknow.org/vocabulary/92> ;
     skos:topConceptOf silknow:silk-thesaurus .
 
-silknow-fct:velvet a skos:Collection ;
-    skos:member silknow-fct:techniques ;
-    skos:prefLabel "velvet"@en .
-
 <http://data.silknow.org/vocabulary/368> a skos:Concept ;
     dct:bibliographicCitation "CIETA. vocabulario Técnico Tejidos Español, francés, inglés, italiano. Lyon: Centre  International d’Etude des Textiles Anciens, 1963"@es,
         "Dávila Corona, Rosa, Duran i Pujol, Montserrat, y García Fernández, Máximo. Diccionario histórico de telas y tejidos castellano-catalán. Salamanca: Junta de Castilla y León, 2004"@es,
@@ -14842,6 +14840,9 @@ silknow-fct:velvet a skos:Collection ;
         "Motif"@fr,
         "Motivo"@it ;
     skos:topConceptOf silknow:silk-thesaurus .
+
+silknow-fct:velvet a skos:Collection ;
+    skos:prefLabel "velvet"@en .
 
 <http://vocab.getty.edu/aat/300193855> skos:narrower <http://data.silknow.org/vocabulary/1>,
         <http://data.silknow.org/vocabulary/10>,
@@ -14956,7 +14957,6 @@ silknow-fct:velvet a skos:Collection ;
     skos:topConceptOf silknow:silk-thesaurus .
 
 silknow-fct:styles a skos:Collection ;
-    skos:member silknow-fct:depiction ;
     skos:prefLabel "styles"@en .
 
 <http://data.silknow.org/vocabulary/497> a skos:Concept ;
