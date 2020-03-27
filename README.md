@@ -13,11 +13,16 @@ The software converts all the content of the `raw-data` (or differently defined 
     npm install --production ## download the dependencies
     npm run convert ## start the conversion
 
-Parameters:
+Parameters (to be introduced with a `--`):
 
 -  `--src`, `-s`, source folder, it parses all the csv inside. Default: `./raw-data`
 -  `--dst`, `-d`, output file. Default: `thesaurus.ttl`
+-  `--version`, `-v`, version number. Default: `2.0`
+-  `--verbose`, print verbose logs. Default: _false_.
 
+Example:
+
+    npm run convert -- -v 2.1
 
 ### Skosify
 
