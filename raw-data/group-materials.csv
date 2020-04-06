@@ -4,11 +4,11 @@ a_paper,http://data.silknow.org/vocabulary/facet/paper
 c_metal_thread,http://data.silknow.org/vocabulary/facet/metal_thread
 d_gold_thread,http://data.silknow.org/vocabulary/facet/gold_thread
 e_silver_thread,http://data.silknow.org/vocabulary/facet/silver_thread
-j_metals,http://data.silknow.org/vocabulary/facet/metals
+j_metal,http://data.silknow.org/vocabulary/facet/metal
 ,
-f_vegetal_fibres,http://data.silknow.org/vocabulary/facet/vegetal_fibres
-g_animal_fibres,http://data.silknow.org/vocabulary/facet/animal_fibres
+f_vegetal_fibre,http://data.silknow.org/vocabulary/facet/vegetal_fibre
+g_animal_fibre,http://data.silknow.org/vocabulary/facet/animal_fibre
 h_mixed_fibre,http://data.silknow.org/vocabulary/facet/mixed_fibre
-i_synthetic_fibres,http://data.silknow.org/vocabulary/facet/synthtetic_fibres
+i_synthetic_fibre,http://data.silknow.org/vocabulary/facet/synthtetic_fibre
 ,
 k_other_material,http://data.silknow.org/vocabulary/facet/other_material
