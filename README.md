@@ -4,9 +4,9 @@ Multilingual SILKNOW thesaurus extending Getty AAT, developed in [SKOS](https://
 
 ## Converter
 
-The software converts all the content of the `raw-data` (or differently defined `--src` folder), expecting that its content match the csv export of the [spreadsheet](https://docs.google.com/spreadsheets/d/1jo5n1_kNRTG5GKFUJKsYt-Q6ygNGR5RgECvYWTKt13E).
+The software converts all the content of the `raw-data` (or differently defined `--src` folder), expecting that its content match the csv export of the [spreadsheet](https://docs.google.com/spreadsheets/d/18Czllr7fZg90NYErcpzR4GweO5f-aoGVLdjmxZCadWU).
 
-**IMPORTANT** The input file name should be named `<language>.csv` (so `en.csv`, `es.csv`, ...).
+**IMPORTANT** The input file name should be named `<language>.csv` (so `en.csv`, `es.csv`, ...) and `group-<name>.csv` (so `group-depictions.csv`, ...).
 
 ### How to use
 
