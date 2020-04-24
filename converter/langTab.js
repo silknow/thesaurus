@@ -10,7 +10,7 @@ const COLUMN = {
     ID: 'ID-ES',
     TERM: 'TERM',
     DEFINITION: 'FINAL DEFINITION',
-    BIB: 'BiBLIOGRAPHY',
+    BIB: 'BIBLIOGRAPHY',
     QUAL: 'Qualifier',
     SYN: 'SYNONYMS',
     RELATED: 'ASSOCIATED TERMS',
@@ -21,7 +21,7 @@ const COLUMN = {
     ID: 'ID-ES',
     TERM: 'TERM-ES',
     DEFINITION: 'FINAL DEFINITION',
-    BIB: 'BiBLIOGRAPHY',
+    BIB: 'BIBLIOGRAPHY',
     SYN: 'SYNONYMS',
     QUAL: 'QUALIFIER',
     RELATED: 'ASSOCIATED TERMS',
@@ -109,8 +109,11 @@ function toConcept(s, k, lang) {
 
 
   if (s[k.BIB]) {
-    s[k.BIB].split(';')
-      .forEach((b) => add(concept, DC('bibliographicCitation'), b, lang));
+    if (lang === 'en') add(concept, DC('bibliographicCitation'), s[k.BIB], lang);
+    else {
+      s[k.BIB].split(';')
+        .forEach((b) => add(concept, DC('bibliographicCitation'), b, lang));
+    }
   }
 }
 
