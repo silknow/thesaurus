@@ -1,0 +1,26 @@
+Group,Facet
+a_costume,http://data.silknow.org/vocabulary/facet/costume
+b_civil attire,http://data.silknow.org/vocabulary/facet/civil_attire
+c_women's attire,http://data.silknow.org/vocabulary/facet/womens_attire
+d_men's attire,http://data.silknow.org/vocabulary/facet/mens_attire
+e_children's attire,http://data.silknow.org/vocabulary/facet/childrens_attire
+f_festive attire,http://data.silknow.org/vocabulary/facet/festive_attire
+g_religious attire,http://data.silknow.org/vocabulary/facet/religious_attire
+h_regional attire,http://data.silknow.org/vocabulary/facet/regional_attire
+i_costume accessories,http://data.silknow.org/vocabulary/facet/costume_accessories
+,
+j_drawings,http://data.silknow.org/vocabulary/facet/drawings
+k_sketch,http://data.silknow.org/vocabulary/facet/sketch
+l_other_typesofobjects,http://data.silknow.org/vocabulary/facet/other_typesofobjects
+m_point paper plan,http://data.silknow.org/vocabulary/facet/point_paper_plan
+,
+n_fabrics,http://data.silknow.org/vocabulary/facet/fabrics
+o_fabric passementerie,http://data.silknow.org/vocabulary/facet/fabric_passementerie
+p_ornamental fabrics,http://data.silknow.org/vocabulary/facet/ornamental_fabrics
+,
+q_household objects,http://data.silknow.org/vocabulary/facet/household_objects
+,
+,
+r_furniture,http://data.silknow.org/vocabulary/facet/furniture
+,
+s_religious accessories,http://data.silknow.org/vocabulary/facet/religious_accessories
