@@ -20,27 +20,43 @@ d:SILKNOW
 silknow_p42:1
     a skos:Concept;
     skos:altLabel
-        "Textile"@en, "Textiles-Embroidered and Woven"@en, "Textiles-Woven"@en,
-        "textile"@en, "textiles"@en, "textiles pieces"@en;
+        "Artes decorativas o suntuarias; Textiles. Confecci\u00f3n"@es,
+        "Tejido"@es, "Tejidos"@es, "Tejidos: confecci\u00f3n"@es, "Textile"@en,
+        "Textiles-Embroidered and Woven"@en, "Textiles-Woven"@en, "textile"@en,
+        "textiles"@en, "textiles pieces"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Textiles"@en, "tejido"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:10
     a skos:Concept;
+    skos:altLabel "Espol\u00edn"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "espol\u00edn"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:11
     a skos:Concept;
+    skos:altLabel
+        "Carta sobre papel milimitrado mon\u00f3cromo"@es,
+        "Patr\u00f3n monocromo"@es,
+        "Patr\u00f3n sobre papel milimitrado policromo"@es,
+        "carta sobre papel milimetrado mon\u00f3cromo"@es,
+        "carta sobre papel milimetrado pol\u00edcromo"@es, "patr\u00f3n"@es,
+        "patr\u00f3n monocromado"@es, "patr\u00f3n mon\u00f3cromo"@es,
+        "patr\u00f3n policromado"@es, "patr\u00f3n pol\u00edcromo"@es,
+        "patr\u00f3n sobre papel milimetrado mon\u00f3cromo"@es,
+        "patr\u00f3n sobre papel milimetrado pol\u00edclomo"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Patr\u00f3n"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:12
     a skos:Concept;
-    skos:altLabel "Textiles-Ecclesiastical"@en;
+    skos:altLabel
+        "Indumentaria Religiosa"@es, "Indumentaria eclesi\u00e1stica"@es,
+        "Textiles eclesi\u00e1sticos"@es, "Textiles-Ecclesiastical"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel
-    "Ecclesiastical textiles"@en, "Indumentaria lit\u00fargica"@es;
+        "Ecclesiastical textiles"@en, "Indumentaria lit\u00fargica"@es,
+        "mantelet"@fr;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:13
     a skos:Concept;
@@ -49,8 +65,13 @@ silknow_p42:13
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:14
     a skos:Concept;
+    skos:altLabel
+        "Abanicos"@es,
+        "Accesorios de indumentaria; Abanicos; Her\u00e1ldica"@es,
+        "Accesorios de indumentaria; Colecci\u00f3n de Arte Oriental; Abanicos"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
-    skos:prefLabel "Fans"@en, "abanicos; accesorios de indumentaria"@es;
+    skos:prefLabel
+    "Fans"@en, "abanicos; accesorios de indumentaria"@es, "\u00e9charpe"@fr;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:15
     a skos:Concept;
@@ -83,8 +104,10 @@ silknow_p42:19
 silknow_p42:2
     a skos:Concept;
     skos:altLabel
-        "Embroideries"@en, "Needlework accesories"@en,
-        "Needlework accessories"@en, "Textiles-Embroidered"@en;
+        "Bordado"@es, "Bordados"@es, "Bordados a la aguja"@es,
+        "Bordados de aplicaci\u00f3n"@es, "Embroideries"@en, "Labores"@es,
+        "Needlework accesories"@en, "Needlework accessories"@en,
+        "Textiles-Embroidered"@en, "bordados"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Bordados a la aguja"@es, "Embroidery"@en;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -128,11 +151,22 @@ silknow_p42:26
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:27
     a skos:Concept;
+    skos:altLabel
+        "Dibujo para calco"@es,
+        "Dibujo para posterior calco (marcas punz\u00f3n)"@es,
+        "dibujo originado por calco (marcas de punz\u00f3n)"@es,
+        "dibujo originado por calco sobre papel vegetal"@es,
+        "dibujo para posterior calco (S.N.)"@es,
+        "dibujo para posterior dibujo (marcas de punz\u00f3n)"@es,
+        "dibujo parcialmente para calco"@es,
+        "dibujo parcialmente para calco (marcas de punz\u00f3n)"@es,
+        "dibujo parcialmente para posterior calco (marcas punz\u00f3n)"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "dibujo para posterior calco (marcas punz\u00f3n)"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:28
     a skos:Concept;
+    skos:altLabel "dibujo policromado"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Boceto con motivo floral"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -143,7 +177,7 @@ silknow_p42:29
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:3
     a skos:Concept;
-    skos:altLabel "Textiles-Tapestries"@en, "Wall coverings"@en;
+    skos:altLabel "Tapices"@es, "Textiles-Tapestries"@en, "Wall coverings"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Tapestry"@en, "Tapices"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -164,22 +198,32 @@ silknow_p42:32
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:33
     a skos:Concept;
+    skos:altLabel "espol\u00edn"@es, "espol\u00edn realce"@es, "realce"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Espol\u00edn y realce"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:34
     a skos:Concept;
+    skos:altLabel
+        "Carta sobre papel milimitrado pol\u00edcromo"@es,
+        "Dibujo Pol\u00edcromo"@es, "dibujo policromo"@es,
+        "dibujos policromados"@es, "dibujos policromos"@es,
+        "dibujos pol\u00edcromos"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "dibujo policromo"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:35
     a skos:Concept;
+    skos:altLabel "Dibujo monocromo"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Dibujo monocromo"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:36
     a skos:Concept;
-    skos:altLabel "Fancy-dress"@en;
+    skos:altLabel
+        "Fancy-dress"@en,
+        "Indumentaria civil; Tejidos: confecci\u00f3n; Mujer"@es,
+        "Indumentaria femenina"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Indumentaria femenina"@es, "women's clothes"@en;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -200,12 +244,14 @@ silknow_p42:39
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:4
     a skos:Concept;
-    skos:altLabel "Furnishing Fabric"@en, "Woodwork-Furniture"@en;
+    skos:altLabel
+    "Furnishing Fabric"@en, "Mobiliario"@es, "Woodwork-Furniture"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Furniture"@en, "Mobiliario de asiento"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:40
     a skos:Concept;
+    skos:altLabel "Indumentaria masculina"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Indumentaria masculina"@es, "men's clothes"@en;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -221,18 +267,25 @@ silknow_p42:42
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:43
     a skos:Concept;
-    skos:altLabel "Accessories"@en, "Textiles-Costumes-Accessories"@en;
+    skos:altLabel
+        "Accesorios de indumentaria"@es, "Accessories"@en,
+        "Tejidos accesorios"@es, "Textiles-Costumes-Accessories"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Accesorios de indumentaria"@es, "Costume accesories"@en;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:44
     a skos:Concept;
-    skos:altLabel "cravate"@en;
+    skos:altLabel
+        "Objetos de uso personal"@es,
+        "Tejidos; Objetos de aseo y arreglo personal"@es, "cravate"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Objetos de uso personal"@es, "Personal accesories"@en;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:45
     a skos:Concept;
+    skos:altLabel
+        "Indumentaria civil"@es, "Indumentaria civil (burguesa)"@es,
+        "indumentaria civil"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Indumentaria civil"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -264,7 +317,7 @@ silknow_p42:5
     a skos:Concept;
     skos:altLabel "Textiles-Laces"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
-    skos:prefLabel "Lace"@en;
+    skos:prefLabel "Lace"@en, "ruban"@fr;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:50
     a skos:Concept;
@@ -290,7 +343,8 @@ silknow_p42:53
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:54
     a skos:Concept;
-    skos:altLabel "Household Objects"@en;
+    skos:altLabel
+    "Ajuar dom\u00e9stico"@es, "Household Objects"@en, "Labores"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Ajuar dom\u00e9stico"@es, "Household objects"@en;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -322,6 +376,7 @@ silknow_p42:59
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:6
     a skos:Concept;
+    skos:altLabel "Dibujo"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Drawings"@en, "dibujo"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -332,6 +387,7 @@ silknow_p42:60
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:61
     a skos:Concept;
+    skos:altLabel "Indumentaria Popular"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Indumentaria Popular"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -342,6 +398,7 @@ silknow_p42:62
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:63
     a skos:Concept;
+    skos:altLabel "Tejidos; Equipamiento de tejidos asociados al mobiliario"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Tapicer\u00eda a modo de Damasco"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -378,9 +435,10 @@ silknow_p42:69
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:7
     a skos:Concept;
-    skos:altLabel "Clothing"@en, "Costumes"@en, "Textiles-Costumes"@en;
+    skos:altLabel
+    "Clothing"@en, "Costumes"@en, "Indumentaria"@es, "Textiles-Costumes"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
-    skos:prefLabel "Costume"@en, "Indumentaria"@es;
+    skos:prefLabel "Costume"@en, "Indumentaria"@es, "mantelet"@fr;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:70
     a skos:Concept;
@@ -444,6 +502,7 @@ silknow_p42:80
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:81
     a skos:Concept;
+    skos:altLabel "encaje de bolillos"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "encaje"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -489,6 +548,9 @@ silknow_p42:89
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:9
     a skos:Concept;
+    skos:altLabel
+        "Damasco con motivo de rayas"@es, "Dasmasco"@es, "damasco"@es,
+        "damasco con motivos de rayas"@es;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
     skos:prefLabel "Damasco"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
@@ -506,8 +568,8 @@ silknow_p42:silk-P42-vocabulary
     a skos:ConceptScheme;
     dct:created "2018-11-09"^^xsd:date;
     dct:creator d:SILKNOW;
-    dct:modified "2020-09-21"^^xsd:date;
-    pav:createdOn "2020-09-21"^^xsd:date;
+    dct:modified "2020-09-22"^^xsd:date;
+    pav:createdOn "2020-09-22"^^xsd:date;
     pav:version "2.0";
     rdfs:label
         "Controlled vocabulary for P42_assigned property of E17_Type_Assignments"@en.
