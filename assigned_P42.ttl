@@ -22,10 +22,11 @@ silknow_p42:1
     skos:altLabel
         "Artes decorativas o suntuarias; Textiles. Confecci\u00f3n"@es,
         "Tejido"@es, "Tejidos"@es, "Tejidos: confecci\u00f3n"@es, "Textile"@en,
-        "Textiles-Embroidered and Woven"@en, "Textiles-Woven"@en, "textile"@en,
-        "textiles"@en, "textiles pieces"@en;
+        "Textiles-Embroidered and Woven"@en, "Textiles-Woven"@en, "teixit"@ca,
+        "teixit art\u00edstic"@ca, "teixits"@ca, "textile"@en, "textiles"@en,
+        "textiles pieces"@en;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
-    skos:prefLabel "Textiles"@en, "tejido"@es;
+    skos:prefLabel "Textiles"@en, "peces t\u00e8xtils"@ca, "tejido"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:10
     a skos:Concept;
@@ -356,7 +357,7 @@ silknow_p42:55
 silknow_p42:56
     a skos:Concept;
     skos:inScheme silknow_p42:silk-P42-vocabulary;
-    skos:prefLabel "mant\u00f3n"@es;
+    skos:prefLabel "mant\u00f3"@ca, "mant\u00f3n"@es;
     skos:topConceptOf silknow_p42:silk-P42-vocabulary.
 silknow_p42:57
     a skos:Concept;
