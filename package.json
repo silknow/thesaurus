@@ -7,6 +7,7 @@
   "scripts": {
     "convert": "node converter/index.js",
     "convert_P42": "node converter_P42/index.js",
+    "convert_P2": "node converter_P2/index.js",
     "post": "skosify thesaurus.ttl -o thesaurus.ttl",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +24,7 @@
     "react": "^16.13.1",
     "react-native": "^0.63.2",
     "solid-auth-cli": "^1.0.15",
-    "solid-auth-client": "^2.5.1",
+    "solid-auth-client": "^2.5.3",
     "valid-url": "^1.0.9"
   },
   "devDependencies": {
