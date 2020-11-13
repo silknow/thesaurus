@@ -17,7 +17,7 @@ const optionDefinitions = [
     name: 'src', alias: 's', type: String, defaultOption: true, defaultValue: './raw-data_P2',
   },
   {
-    name: 'dst', alias: 'd', type: String, defaultValue: 'assigned_P2.ttl',
+    name: 'dst', alias: 'd', type: String, defaultValue: 'has_type_P2.ttl',
   },
   {
     name: 'version', alias: 'v', type: String, defaultValue: '2.0',
