@@ -6,7 +6,7 @@ ID-ES,TERMS,SYNONYMS,altLabel1,altLabel2,altLabel3,altLabel4,altLabel5
 5,description,,,,,,
 6,width,,,,,,
 7,height,,,,,,
-8,Domain,"Object Type / Material, Categories, Classification:, Object, Classifications",Object Type / Material,Categories,Classification:,Object,Classifications
+8,Domain,"Object Type / Material, Categories, Classification, Object, Classifications",Object Type / Material,Categories,Classification,Object,Classifications
 9,Register number,"recordId, Object Number",recordId,Object Number,,,
 10,Denomination,,,,,,
 11,Technical description,,,,,,
