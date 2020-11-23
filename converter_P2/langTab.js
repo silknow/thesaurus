@@ -7,7 +7,7 @@ import {
 
 const COLUMN = {
   en: {
-    ID: 'ID-ES',
+    ID: 'ID',
     TERM: 'TERMS',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BIBLIOGRAPHY',
@@ -18,7 +18,7 @@ const COLUMN = {
     BROADER: 'hierarchy',
   },
   es: {
-    ID: 'ID-ES',
+    ID: 'ID',
     TERM: 'TERMS',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BIBLIOGRAPHY',
@@ -31,8 +31,8 @@ const COLUMN = {
     CLOSE_MATCH: 'skos:closeMatch',
   },
   ca: {
-    ID: 'ID-ES',
-    TERM: 'TERM-CA',
+    ID: 'ID',
+    TERM: 'TERMS',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BIBLIOGRAPHY',
     SYN: 'SYNONYMS',
@@ -44,7 +44,7 @@ const COLUMN = {
     CLOSE_MATCH: 'skos:closeMatch',
   },
   fr: {
-    ID: 'ID-ES',
+    ID: 'ID',
     TERM: 'TERMS',
     DEFINITION: 'DEFINITION FINALE',
     BIB: 'BIBLIOGRAPHIE',
@@ -55,11 +55,11 @@ const COLUMN = {
     BROADER: 'JERARQUÍA',
   },
   it: {
-    ID: 'ID-ES',
-    TERM: 'TÉRMINO',
+    ID: 'ID',
+    TERM: 'TERMS',
     DEFINITION: 'DEFINICIÓN FINAL',
     BIB: 'FUENTES',
-    SYN: 'SINÓNIMOS',
+    SYN: 'SYNONYMS',
     QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
     FACETS: 'FACET',

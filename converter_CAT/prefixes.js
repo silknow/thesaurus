@@ -1,6 +1,6 @@
 import $rdf from 'rdflib';
 
-export const SILKNOW_P42 = $rdf.Namespace('http://data.silknow.org/type_assignment_P42/');
+export const SILKNOW_CAT = $rdf.Namespace('http://data.silknow.org/categories/');
 export const FACET = $rdf.Namespace('http://data.silknow.org/vocabulary/facet/');
 export const RDF = $rdf.Namespace('http://www.w3.org/1999/02/22-rdf-syntax-ns#');
 export const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
@@ -12,7 +12,7 @@ export const PAV = $rdf.Namespace('http://purl.org/pav/');
 
 
 export const nsValues = {
-  silknow_p42: SILKNOW_P42().value,
+  silknow_cat: SILKNOW_CAT().value,
   'silknow-fct': FACET().value,
   skos: SKOS().value,
   dct: DC().value,

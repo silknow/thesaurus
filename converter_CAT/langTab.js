@@ -2,13 +2,13 @@ import $rdf from 'rdflib';
 import validUrl from 'valid-url';
 import { add } from './utils.js';
 import {
-  SILKNOW_P42, RDF, SKOS, DC,
+  SILKNOW_CAT, RDF, SKOS, DC,
 } from './prefixes.js';
 
 const COLUMN = {
   en: {
-    ID: 'ID-ES',
-    TERM: 'TERM',
+    ID: 'ID',
+    TERM: 'TERMS',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BIBLIOGRAPHY',
     QUAL: 'Qualifier',
@@ -18,8 +18,8 @@ const COLUMN = {
     BROADER: 'hierarchy',
   },
   es: {
-    ID: 'ID-ES',
-    TERM: 'TERM-ES',
+    ID: 'ID',
+    TERM: 'TERMS',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BIBLIOGRAPHY',
     SYN: 'SYNONYMS',
@@ -31,8 +31,8 @@ const COLUMN = {
     CLOSE_MATCH: 'skos:closeMatch',
   },
   ca: {
-    ID: 'ID-ES',
-    TERM: 'TERM-CA',
+    ID: 'ID',
+    TERM: 'TERMS',
     DEFINITION: 'FINAL DEFINITION',
     BIB: 'BIBLIOGRAPHY',
     SYN: 'SYNONYMS',
@@ -44,22 +44,22 @@ const COLUMN = {
     CLOSE_MATCH: 'skos:closeMatch',
   },
   fr: {
-    ID: 'ID-ES',
-    TERM: 'TERME',
+    ID: 'ID',
+    TERM: 'TERMS',
     DEFINITION: 'DEFINITION FINALE',
     BIB: 'BIBLIOGRAPHIE',
-    SYN: 'SYNONYMES',
+    SYN: 'SYNONYMS',
     QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
     FACETS: 'FACET',
     BROADER: 'JERARQUÍA',
   },
   it: {
-    ID: 'ID-ES',
-    TERM: 'TÉRMINO',
+    ID: 'ID',
+    TERM: 'TÉRMS',
     DEFINITION: 'DEFINICIÓN FINAL',
     BIB: 'FUENTES',
-    SYN: 'SINÓNIMOS',
+    SYN: 'SYNONYMS',
     QUAL: 'Qualifier',
     RELATED: 'TÉRMINO ASOCIADO',
     FACETS: 'FACET',
@@ -75,7 +75,7 @@ function toConcept(s, k, lang) {
   let label = s[k.TERM].trim();
   if (!label) return;
 
-  const concept = SILKNOW_P42(id);
+  const concept = SILKNOW_CAT(id);
   add(concept, RDF('type'), SKOS('Concept'));
 
   if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
@@ -91,7 +91,7 @@ function toConcept(s, k, lang) {
     s[k.RELATED].split(',')
       .filter((r) => !Number.isNaN(Number.parseInt(r, 10)))
       .map((r) => r.trim())
-      .forEach((r) => add(concept, SKOS('related'), SILKNOW_P42(r)));
+      .forEach((r) => add(concept, SKOS('related'), SILKNOW_CAT(r)));
   }
 
   if (s[k.FACETS]) {
@@ -105,7 +105,7 @@ function toConcept(s, k, lang) {
       .map((x) => x.trim())
       .map((x) => {
         if (validUrl.isUri(x)) return x;
-        if (!Number.isNaN(Number.parseInt(x, 10))) return SILKNOW_P42(x);
+        if (!Number.isNaN(Number.parseInt(x, 10))) return SILKNOW_CAT(x);
         return null;
       })
       .filter((x) => x);

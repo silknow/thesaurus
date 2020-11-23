@@ -8,16 +8,16 @@ import { add, store } from './utils.js';
 import langTab from './langTab.js';
 import groupTab from './groupTab.js';
 import {
-  SILKNOW_P42, RDF, RDFS, SKOS, DC, XSD, FOAF, PAV, nsValues,
+  SILKNOW_CAT, RDF, RDFS, SKOS, DC, XSD, FOAF, PAV, nsValues,
 } from './prefixes.js';
 
 const optionDefinitions = [
   { name: 'verbose', type: Boolean },
   {
-    name: 'src', alias: 's', type: String, defaultOption: true, defaultValue: './raw-data_P42',
+    name: 'src', alias: 's', type: String, defaultOption: true, defaultValue: './raw-data_CAT',
   },
   {
-    name: 'dst', alias: 'd', type: String, defaultValue: 'assigned_P42.ttl',
+    name: 'dst', alias: 'd', type: String, defaultValue: 'categories.ttl',
   },
   {
     name: 'version', alias: 'v', type: String, defaultValue: '2.0',
@@ -37,9 +37,9 @@ add(silknowProj, FOAF('logo'), 'http://silknow.org/wp-content/uploads/2018/06/cr
 add(silknowProj, FOAF('homepage'), $rdf.sym('http://silknow.eu/'));
 
 // setup scheme
-const scheme = $rdf.sym(SILKNOW_P42('silk-P42-vocabulary'));
+const scheme = $rdf.sym(SILKNOW_CAT('silk-category-vocabulary'));
 add(scheme, RDF('type'), SKOS('ConceptScheme'));
-add(scheme, RDFS('label'), 'Controlled vocabulary for P42_assigned property of E17_Type_Assignments', 'en');
+add(scheme, RDFS('label'), 'Controlled vocabulary for categories from P42_assigned property of E17_Type_Assignments', 'en');
 add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
