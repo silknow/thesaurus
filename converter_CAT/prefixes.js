@@ -1,6 +1,6 @@
 import $rdf from 'rdflib';
 
-export const SILKNOW_CAT = $rdf.Namespace('http://data.silknow.org/categories/');
+export const SILKNOW_CAT = $rdf.Namespace('http://data.silknow.org/category/');
 export const FACET = $rdf.Namespace('http://data.silknow.org/vocabulary/facet/');
 export const RDF = $rdf.Namespace('http://www.w3.org/1999/02/22-rdf-syntax-ns#');
 export const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
