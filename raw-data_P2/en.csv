@@ -1,12 +1,3 @@
-ID-ES,TERMS,SYNONYMS,altLabel1,altLabel2,altLabel3,altLabel4,altLabel5,altLabel6,altLabel7
-1,author,,,,,,,,
-2,artist,,,,,,,,
-3,bibliography,,,,,,,,
-4,condition,,,,,,,,
-5,description,,,,,,,,
-6,width,,,,,,,,
-7,height,,,,,,,,
-8,Domain,"Object Type / Material, Categories, Classification, Object, Classifications, Denomination, Type",Object Type / Material,Categories,Classification,Object,Classifications,Denomination,Type
-9,Register number,"recordId, Object Number",recordId,Object Number,,,,,
-10,Technical description,,,,,,,,
-11,Record,,,,,,,,
+ID-ES,TERMS,SYNONYMS,altLabel1,altLabel2,altLabel3,altLabel4,altLabel5,altLabel6,altLabel7,,
+1,Joker,"Tipología, Dénomination, CLASSIFICACIÓ GENÈRICA, Objeto/Documento, object, Description, titleField, Title, Textile",Tipología,Dénomination,CLASSIFICACIÓ GENÈRICA,Objeto/Documento,object,Description,titleField,Title,Textile
+2,Batman,"Objecto, Domaine, DENOMINACIÓ, Clasificación Genérica, categories, Type, Classifications, Classification",Objecto,Domaine,DENOMINACIÓ,Clasificación Genérica,categories,Type,Classifications,Classification,
