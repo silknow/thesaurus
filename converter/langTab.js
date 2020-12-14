@@ -65,7 +65,7 @@ function toConcept(s, k, lang) {
   const concept = SILKNOW(id);
   add(concept, RDF('type'), SKOS('Concept'));
 
-  if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
+  if (s[k.QUAL]) label += ` (${s[k.QUAL].trim()})`;
 
   add(concept, SKOS('prefLabel'), label.replace(/\.$/, ''), lang);
   if (s[k.SYN]) {
@@ -106,7 +106,6 @@ function toConcept(s, k, lang) {
 
   add(concept, SKOS('inScheme'), scheme);
   if (!hasInternalBroader) add(concept, SKOS('topConceptOf'), scheme);
-
 
   if (s[k.BIB]) {
     if (lang === 'en') add(concept, DC('bibliographicCitation'), s[k.BIB], lang);
