@@ -29,12 +29,12 @@ const options = commandLineArgs(optionDefinitions);
 const today = new Date().toISOString().slice(0, 10);
 
 // silknow project entity
-const silknowProj = $rdf.sym('http://data.silknow.org/SILKNOW');
+const silknowProj = $rdf.sym('https://www.silknow.eu/');
 add(silknowProj, RDF('type'), FOAF('Project'));
 add(silknowProj, RDFS('label'), 'SILKNOW');
 add(silknowProj, RDFS('comment'), 'SILKNOW is a research project that improves the understanding, conservation and dissemination of European silk heritage from the 15th to the 19th century.');
 add(silknowProj, FOAF('logo'), 'http://silknow.org/wp-content/uploads/2018/06/cropped-silknow-1.png');
-add(silknowProj, FOAF('homepage'), $rdf.sym('http://silknow.eu/'));
+add(silknowProj, FOAF('homepage'), $rdf.sym('https://www.silknow.eu/'));
 
 // setup scheme
 const scheme = $rdf.sym(SILKNOW('silk-thesaurus'));
