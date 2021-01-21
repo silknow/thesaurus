@@ -22,7 +22,7 @@ Parameters (to be introduced with a `--`):
 
 Example:
 
-    npm run convert -- -v 2.1
+    npm run convert -- -v 2.4
 
 ### Skosify
 
@@ -30,3 +30,4 @@ To make it ready to work with [Skosmos](https://github.com/NatLibFi/Skosmos), it
 
     pip install --upgrade skosify
     skosify thesaurus.ttl -o thesaurus.ttl
+    skosify categories.ttl -o categories.ttl

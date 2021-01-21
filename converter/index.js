@@ -43,7 +43,7 @@ add(scheme, RDFS('label'), 'Thesaurus describing silk related techniques and mat
 add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
-add(scheme, DC('creator'), silknowProj);
+// add(scheme, DC('creator'), silknowProj);
 add(scheme, PAV('version'), options.version);
 
 langTab.setScheme(scheme);
