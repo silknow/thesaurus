@@ -9,7 +9,7 @@ export const DC = $rdf.Namespace('http://purl.org/dc/terms/');
 export const XSD = $rdf.Namespace('http://www.w3.org/2001/XMLSchema#');
 export const FOAF = $rdf.Namespace('http://xmlns.com/foaf/0.1/');
 export const PAV = $rdf.Namespace('http://purl.org/pav/');
-
+export const WD = $rdf.Namespace('http://www.wikidata.org/entity/');
 
 export const nsValues = {
   silknow: SILKNOW().value,
@@ -21,4 +21,5 @@ export const nsValues = {
   rdfs: RDFS().value,
   foaf: FOAF().value,
   pav: PAV().value,
+  wd: WD().value,
 };

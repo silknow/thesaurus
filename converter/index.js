@@ -7,8 +7,9 @@ import $rdf from 'rdflib';
 import { add, store } from './utils.js';
 import langTab from './langTab.js';
 import groupTab from './groupTab.js';
+import matchTab from './matchTab.js';
 import {
-  SILKNOW, RDF, RDFS, SKOS, DC, XSD, FOAF, PAV, nsValues,
+  SILKNOW, RDF, RDFS, SKOS, DC, XSD, PAV, nsValues,
 } from './prefixes.js';
 
 const optionDefinitions = [
@@ -28,14 +29,6 @@ const options = commandLineArgs(optionDefinitions);
 
 const today = new Date().toISOString().slice(0, 10);
 
-// silknow project entity
-const silknowProj = $rdf.sym('https://www.silknow.eu/');
-add(silknowProj, RDF('type'), FOAF('Project'));
-add(silknowProj, RDFS('label'), 'SILKNOW');
-add(silknowProj, RDFS('comment'), 'SILKNOW is a research project that improves the understanding, conservation and dissemination of European silk heritage from the 15th to the 19th century.');
-add(silknowProj, FOAF('logo'), 'http://silknow.org/wp-content/uploads/2018/06/cropped-silknow-1.png');
-add(silknowProj, FOAF('homepage'), $rdf.sym('https://www.silknow.eu/'));
-
 // setup scheme
 const scheme = $rdf.sym(SILKNOW('silk-thesaurus'));
 add(scheme, RDF('type'), SKOS('ConceptScheme'));
@@ -43,7 +36,6 @@ add(scheme, RDFS('label'), 'Thesaurus describing silk related techniques and mat
 add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
-// add(scheme, DC('creator'), silknowProj);
 add(scheme, PAV('version'), options.version);
 
 langTab.setScheme(scheme);
@@ -51,13 +43,12 @@ langTab.setScheme(scheme);
 async function convertFile(file) {
   const lang = path.parse(file).name;
 
+  const name = lang.split('-')[1];
   return csv().fromFile(file)
     .then((s) => {
-      if (lang.startsWith('group-')) {
-        const name = lang.split('-')[1];
-        return groupTab.convert(s, name);
-      }
-      return langTab.convert(s, lang);
+      if (lang.startsWith('group-')) groupTab.convert(s, name);
+      else if (lang.startsWith('matches-')) matchTab.convert(s, name);
+      else langTab.convert(s, lang);
     });
 }
 
