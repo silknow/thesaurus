@@ -32,7 +32,6 @@ const today = new Date().toISOString().slice(0, 10);
 // setup scheme
 const scheme = $rdf.sym(SILKNOW('silk-thesaurus'));
 add(scheme, RDF('type'), SKOS('ConceptScheme'));
-add(scheme, RDFS('label'), 'Thesaurus describing silk related techniques and material', 'en');
 add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
