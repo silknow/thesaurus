@@ -2,7 +2,7 @@ import $rdf from 'rdflib';
 import validUrl from 'valid-url';
 import { add } from './utils.js';
 import {
-  SILKNOW_P2, RDF, SKOS, DC,
+  SILK, RDF, SKOS, DC,
 } from './prefixes.js';
 
 const COLUMN = {
@@ -75,7 +75,7 @@ function toConcept(s, k, lang) {
   let label = s[k.TERM].trim();
   if (!label) return;
 
-  const concept = SILKNOW_P2(id);
+  const concept = SILK(id);
   add(concept, RDF('type'), SKOS('Concept'));
 
   if (s[k.QUAL]) label += ` (${s[k.QUAL]})`;
@@ -105,7 +105,7 @@ function toConcept(s, k, lang) {
       .map((x) => x.trim())
       .map((x) => {
         if (validUrl.isUri(x)) return x;
-        if (!Number.isNaN(Number.parseInt(x, 10))) return SILKNOW_P2(x);
+        if (!Number.isNaN(Number.parseInt(x, 10))) return SILK(x);
         return null;
       })
       .filter((x) => x);

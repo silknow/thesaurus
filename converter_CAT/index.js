@@ -40,7 +40,7 @@ add(silknowProj, FOAF('homepage'), $rdf.sym('http://silknow.eu/'));
 const scheme = $rdf.sym(SILKNOW_CAT('silk-category-vocabulary'));
 add(scheme, RDF('type'), SKOS('ConceptScheme'));
 add(scheme, RDFS('label'), 'Controlled vocabulary for categories from P42_assigned property of E17_Type_Assignments', 'en');
-add(scheme, DC('created'), $rdf.literal('2018-11-09', XSD('date')));
+add(scheme, DC('created'), $rdf.literal('2020-12-08', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
 add(scheme, DC('creator'), silknowProj);
