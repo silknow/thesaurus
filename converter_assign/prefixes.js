@@ -1,6 +1,6 @@
 import $rdf from 'rdflib';
 
-export const SILK = $rdf.Namespace('http://data.silknow.org/');
+export const SILK_ASSIGN = $rdf.Namespace('http://data.silknow.org/assignment');
 export const FACET = $rdf.Namespace('http://data.silknow.org/vocabulary/facet/');
 export const RDF = $rdf.Namespace('http://www.w3.org/1999/02/22-rdf-syntax-ns#');
 export const RDFS = $rdf.Namespace('http://www.w3.org/2000/01/rdf-schema#');
@@ -12,8 +12,7 @@ export const PAV = $rdf.Namespace('http://purl.org/pav/');
 
 
 export const nsValues = {
-  silk: SILK().value,
-  'silknow-fct': FACET().value,
+  silk_assign: SILK_ASSIGN().value,
   skos: SKOS().value,
   dct: DC().value,
   xsd: XSD().value,

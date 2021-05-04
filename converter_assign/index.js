@@ -8,19 +8,19 @@ import { add, store } from './utils.js';
 import langTab from './langTab.js';
 import groupTab from './groupTab.js';
 import {
-  SILK, RDF, RDFS, SKOS, DC, XSD, FOAF, PAV, nsValues,
+  SILK_ASSIGN, RDF, RDFS, SKOS, DC, XSD, FOAF, PAV, nsValues,
 } from './prefixes.js';
 
 const optionDefinitions = [
   { name: 'verbose', type: Boolean },
   {
-    name: 'src', alias: 's', type: String, defaultOption: true, defaultValue: './raw-data_P2',
+    name: 'src', alias: 's', type: String, defaultOption: true, defaultValue: './raw-data_assign',
   },
   {
-    name: 'dst', alias: 'd', type: String, defaultValue: 'type_domain.ttl',
+    name: 'dst', alias: 'd', type: String, defaultValue: 'assignment.ttl',
   },
   {
-    name: 'version', alias: 'v', type: String, defaultValue: '2.0',
+    name: 'version', alias: 'v', type: String, defaultValue: '1.0',
   },
 ];
 
@@ -28,22 +28,14 @@ const options = commandLineArgs(optionDefinitions);
 
 const today = new Date().toISOString().slice(0, 10);
 
-// silknow project entity
-const silknowProj = $rdf.sym('http://data.silknow.org/SILKNOW');
-add(silknowProj, RDF('type'), FOAF('Project'));
-add(silknowProj, RDFS('label'), 'SILKNOW');
-add(silknowProj, RDFS('comment'), 'SILKNOW is a research project that improves the understanding, conservation and dissemination of European silk heritage from the 15th to the 19th century.');
-add(silknowProj, FOAF('logo'), 'http://silknow.org/wp-content/uploads/2018/06/cropped-silknow-1.png');
-add(silknowProj, FOAF('homepage'), $rdf.sym('http://silknow.eu/'));
 
 // setup scheme
-const scheme = $rdf.sym(SILK('silknow-vocabulary'));
+const scheme = $rdf.sym(SILK_ASSIGN('silknow-assignment-vocabulary'));
 add(scheme, RDF('type'), SKOS('ConceptScheme'));
 add(scheme, RDFS('label'), 'Controlled vocabulary for P2_has_type of E17_Type_Assignments', 'en');
 add(scheme, DC('created'), $rdf.literal('2020-12-08', XSD('date')));
 add(scheme, DC('modified'), $rdf.literal(today, XSD('date')));
 add(scheme, PAV('createdOn'), $rdf.literal(today, XSD('date')));
-add(scheme, DC('creator'), silknowProj);
 add(scheme, PAV('version'), options.version);
 
 langTab.setScheme(scheme);
