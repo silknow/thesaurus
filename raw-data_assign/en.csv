@@ -1,3 +1,3 @@
-ID,TERMS,SYNONYMS,altLabel1,altLabel2,altLabel3,altLabel4,altLabel5
-1,Object Type Assignment,"object, Description, titleField, Title, Textile",object,Description,titleField,Title,Textile
-2,Object Domain Assignment,"categories, Type, Classifications, Classification",categories,Type,Classifications,Classification,
+ID,TERMS,SYNONYMS,altLabel1,altLabel2,altLabel3,altLabel4,altLabel5,altLabel6
+1,Object Type Assignment,"object, Description, titleField, Title, Textile, Type of object",object,Description,titleField,Title,Textile,Type of object
+2,Object Domain Assignment,"categories, Type, Classifications, Classification, product_types",categories,Type,Classifications,Classification,product_types,

@@ -1,0 +1,40 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix pav: <http://purl.org/pav/>.
+@prefix d: <http://data.silknow.org/>.
+
+d:assignment1
+    a skos:Concept;
+    skos:altLabel
+        "CLASSIFICACI\u00d3 GEN\u00c8RICA"@es, "Definizione"@it,
+        "Description"@en, "D\u00e9nomination"@fr, "D\u00e9nomination(s)"@fr,
+        "Fotografia"@it, "Objeto/Documento"@es, "Oggetto"@it, "Sogetto"@it,
+        "Textile"@en, "Tipolog\u00eda"@es, "Title"@en, "Titolo"@it,
+        "Type of object"@en, "object"@en, "titleField"@en;
+    skos:inScheme d:assignmentsilknow-assignment-vocabulary;
+    skos:prefLabel
+        "Object Type Assignment"@en, "Object Type Assignment"@es,
+        "Object Type Assignment"@it, "Object Type Assignment"@fr;
+    skos:topConceptOf d:assignmentsilknow-assignment-vocabulary.
+d:assignment2
+    a skos:Concept;
+    skos:altLabel
+        "Clasificaci\u00f3n Gen\u00e9rica"@es, "Classe percorso"@it,
+        "Classification"@en, "Classifications"@en, "DENOMINACI\u00d3"@es,
+        "Domaine"@fr, "Objecto"@es, "Type"@en, "Type(s) d'objet(s)"@fr,
+        "categories"@en, "product_types"@en;
+    skos:inScheme d:assignmentsilknow-assignment-vocabulary;
+    skos:prefLabel
+        "Object Domain Assignment"@en, "Object Domain Assignment"@es,
+        "Object Domain Assignment"@it, "Object Domain Assignment"@fr;
+    skos:topConceptOf d:assignmentsilknow-assignment-vocabulary.
+d:assignmentsilknow-assignment-vocabulary
+    a skos:ConceptScheme;
+    dct:created "2020-12-08"^^xsd:date;
+    dct:modified "2021-05-05"^^xsd:date;
+    pav:createdOn "2021-05-05"^^xsd:date;
+    pav:version "1.0";
+    rdfs:label
+    "Controlled vocabulary for P2_has_type of E17_Type_Assignments"@en.

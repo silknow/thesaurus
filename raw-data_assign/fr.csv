@@ -1,3 +1,3 @@
-ID,TERMS,SYNONYMS,altLabel1
-1,Object Type Assignment,Dénomination,Dénomination
-2,Object Domain Assignment,Domaine,Domaine
+ID,TERMS,SYNONYMS,altLabel1,altLabel2
+1,Object Type Assignment,"Dénomination, Dénomination(s)",Dénomination,Dénomination(s)
+2,Object Domain Assignment,"Domaine, Type(s) d'objet(s)",Domaine,Type(s) d'objet(s)
