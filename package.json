@@ -8,6 +8,7 @@
     "convert": "node converter/index.js",
     "convert_cat": "node converter_CAT/index.js",
     "convert_assign": "node converter_assign/index.js",
+    "convert_dim": "node converter_dim/index.js",
     "post": "skosify thesaurus.ttl -o thesaurus.ttl",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
