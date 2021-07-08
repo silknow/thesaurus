@@ -20,7 +20,7 @@ function convert(source, name) {
     console.error('Matches not recognised. Implementation required');
     return;
   }
-  source.filter((s) => s[PROP] && s[PROP] !== 'NoMatch')
+  source.filter((s) => s[PROP] && s[PROP].toLowerCase() !== 'nomatch')
     .forEach((s) => { // instantiate match
       const prop = preprocessProperty(s[PROP]);
       add(SILKNOW(s[TARGET]), SKOS(prop), WD(s[ID]));

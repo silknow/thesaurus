@@ -1,2034 +1,2008 @@
-WikiData ID,Language,Label,Matching SilkNow Item IDs,mapping properties
-Q140,fr,lion,767,#BroadMatch
-Q140,it,leone,767,#BroadMatch
-Q140,es,león,767,#BroadMatch
-Q140,en,lion,767,#BroadMatch
-Q14378,en,neoclassicism,674,#CloseMatch
-Q14660,fr,drapeau,719,#ExactMatch
-Q14660,en,flag,719,#ExactMatch
-Q14660,es,bandera,719,#ExactMatch
-Q14660,it,bandiera,719,#ExactMatch
-Q14952,fr,couvre-chef,712,#BroadMatch
-Q14952,it,copricapo,721,#BroadMatch
-Q28823,fr,textile,857,#NarrowMatch
-Q28823,it,tessuto,649,NoMatch
-Q28823,en,textile,857,#NarrowMatch
-Q28823,es,textil,857,#NarrowMatch
-Q45926,fr,couronne,755,NoMatch
-Q48444,fr,phénix,835,NoMatch
-Q48444,it,fenice,839,#BroadMatch
-Q48444,en,phoenix,839,#BroadMatch
-Q75794,it,bolla,84, NoMatch
-Q101949,fr,manteau,716,NoMatch
-Q101949,en,mantle,716,NoMatch
-Q102231,en,rose,785,#BroadMatch
-Q102231,fr,rose,785,#BroadMatch
-Q112110,es,emblema,789,NoMatch
-Q112110,en,emblem,789,NoMatch
-Q134737,es,nobleza,533,NoMatch
-Q140101,en,ikat,287,#ExactMatch
-Q140101,fr,ikat,287,#ExactMatch
-Q140101,it,ikat,287,#ExactMatch
-Q150425,it,armatura,318,NoMatch
-Q154262,it,paramento,732,#NarrowMatch
-Q162827,es,atlas,125,NoMatch
-Q162827,fr,atlas,125,NoMatch
-Q191421,es,lama,302,NoMatch
-Q192411,es,pañuelo,712,#RelatedMatch
-Q192411,it,fazzoletto,712,#RelatedMatch
-Q192521,en,technical drawing,441,#RelatedMatch
-Q196672,fr,côte,405,NoMatch
-Q196672,it,costa,405,NoMatch
-Q196672,en,rib,405,NoMatch
-Q199657,it,lettura,282,NoMatch
-Q200691,it,pallio,726,#ExactMatch
-Q208145,en,iconography,817,#BroadMatch
-Q211025,fr,marche,396 648,NoMatch
-Q215172,fr,chasuble,702,#ExactMatch
-Q215172,es,casulla,702,#ExactMatch
-Q215172,it,casula,702,#ExactMatch
-Q215172,en,chasuble,702,#ExactMatch
-Q220648,fr,cadre,429,NoMatch
-Q275068,fr,bouillon,129,NoMatch
-Q276469,it,bolla,84,NoMatch
-Q284523,es,arnés,41,NoMatch
-Q285272,fr,cocarde,757,NoMatch
-Q287750,fr,chevron,189,NoMatch
-Q305026,fr,pédale,648,NoMatch
-Q333518,fr,harnais,41,NoMatch
-Q335261,fr,ornement,18 861,NoMatch
-Q336533,en,badge,789,NoMatch
-Q358148,fr,aigle,771,#ExactMatch
-Q358148,it,aquila,771,#ExactMatch
-Q358148,es,águila,771,#ExactMatch
-Q358148,en,eagle,771,#ExactMatch
-Q391414,es,elemento arquitectónico,748,#RelatedMatch
-Q415908,en,acanthus,822,#ExactMatch
-Q415908,it,acanto,822,#ExactMatch
-Q415908,es,acanto,822,#ExactMatch
-Q472927,en,galloon,230,#ExactMatch
-Q472927,es,galón,230,#ExactMatch
-Q487432,en,harness,41 414,NoMatch
-Q527395,it,nodo,757,NoMatch
-Q528285,en,tunicle,729,#ExactMatch
-Q646462,fr,bout,485,#RelatedMatch
-Q676245,en,girdle,139,NoMatch
-Q682582,es,peluche,439,NoMatch
-Q682582,it,peluche,439,NoMatch
-Q691189,en,chiffon,142,#ExactMatch
-Q691189,it,chiffon,142,#ExactMatch
-Q691189,fr,chiffon,142,#ExactMatch
-Q709069,en,banner,720,NoMatch
-Q731434,fr,dragon,774,NoMatch
-Q731434,it,drago,774,NoMatch
-Q756600,fr,guirlande,760,#ExactMatch
-Q756600,es,guirnalda,760,#ExactMatch
-Q756600,en,garland,760,#ExactMatch
-Q756600,it,ghirlanda,760,#ExactMatch
-Q878985,en,modernism,673,#BroadMatch
-Q908349,fr,motif,742,NoMatch
-Q908349,en,motif,742,NoMatch
-Q908349,es,motivo,742,NoMatch
-Q910914,en,tablet weaving,521,#ExactMatch
-Q912546,it,riduzione,166,NoMatch
-Q912546,fr,réduction,166,NoMatch
-Q917206,it,fondo,221 223,NoMatch
-Q953243,en,royal blue,386,NoMatch
-Q1026040,fr,chagrin,374,NoMatch
-Q1054559,en,celadon,394,NoMatch
-Q1064975,it,telaio,450,NoMatch
-Q1070065,en,chenille,417,#ExactMatch
-Q1097859,en,pill,226,NoMatch
-Q1122677,en,modernism,673,#NarrowMatch
-Q1132541,it,guarnizione,240,NoMatch
-Q1150730,it,riduzione,166,NoMatch
-Q1154705,fr,chevron,189,NoMatch
-Q1164991,es,teñido,452,#ExactMatch
-Q1164991,en,dyeing,452,#ExactMatch
-Q1191504,en,star,762,#BroadMatch
-Q1191504,it,stella,762,#BroadMatch
-Q1191504,es,estrella,762,#BroadMatch
-Q1229420,en,thistle,765,#CloseMatch
-Q1229420,fr,chardon,765,#CloseMatch
-Q1229420,es,cardo,765,#CloseMatch
-Q1231985,it,pedale,648,#RelatedMatch
-Q1231985,fr,pédale,648,#RelatedMatch
-Q1251441,it,capo,485,NoMatch
-Q1254187,en,dragon,774,#CloseMatch
-Q1324888,en,frame,783,NoMatch
-Q1337738,es,estrella,762,NoMatch
-Q1353185,en,power loom,504,#ExactMatch
-Q1353185,it,telaio meccanico,504,#ExactMatch
-Q1371499,en,flag,719,NoMatch
-Q1380786,en,mantle,716 738,NoMatch
-Q1380786,es,manto,716 738,NoMatch
-Q1380786,fr,manteau,716 738,NoMatch
-Q1380786,it,mantello,716 738,NoMatch
-Q1401935,it,disposizione,799,#RelatedMatch
-Q1475346,it,capo,485,NoMatch
-Q1481374,it,cornucopia,820,#CloseMatch
-Q1481374,en,cornucopia,820,#CloseMatch
-Q1481374,es,cornucopia,820,#CloseMatch
-Q1488331,es,manto,716 738,NoMatch
-Q1536781,en,aurora,53,NoMatch
-Q1587577,fr,foulard,722,#ExactMatch
-Q1587577,en,foulard,722,#ExactMatch
-Q1753397,es,marco,429,NoMatch
-Q1781358,fr,bouquet,759,NoMatch
-Q1788543,en,mantle,716 738,NoMatch
-Q2014788,fr,dragon,774,NoMatch
-Q2348516,it,toro,825,#CloseMatch
-Q2588838,en,ply,63 530,NoMatch
-Q2626590,it,drago,774,#BroadMatch
-Q3486877,en,pongee,541,#ExactMatch
-Q3615137,fr,canette,127,NoMatch
-Q3650703,it,calice,790,NoMatch
-Q3655385,en,reed,359,NoMatch
-Q3714125,en,double,420,NoMatch
-Q4177774,en,band,797,NoMatch
-Q4342445,en,stole,704,#BroadMatch
-Q4877042,en,beater,72,#ExactMatch
-Q4998130,it,burato,108,#RelatedMatch
-Q5148198,en,colonia,149,NoMatch
-Q5148198,es,colonia,149,NoMatch
-Q5176635,en,count,483,NoMatch
-Q5375781,en,end,279 485,NoMatch
-Q5459829,en,float,60 871,NoMatch
-Q5459830,en,float,60 871,NoMatch
-Q5849500,es,tela,858,#NarrowMatch
-Q5849500,es,tela,862,#RelatedMatch
-Q5849500,en,cloth,858,#NarrowMatch
-Q5849500,en,cloth,862,#RelatedMatch
-Q5849500,fr,tissu,649,#ExactMatch
-Q5849500,it,tessuto,649,#ExactMatch
-P178,es,desarrollador,363,NoMatch
-Q5908002,es,fondo,221 223,NoMatch
-Q6481696,en,lamella,285,NoMatch
-Q6671777,en,structure,410,NoMatch
-Q7448854,en,selvedge,357,#ExactMatch
-Q7577187,en,spike,836,NoMatch
-Q7684688,en,tapis,28,NoMatch
-Q7684688,fr,tapis,28,NoMatch
-Q7918659,en,veil,710,NoMatch
-Q7969879,it,chiné,143,#ExactMatch
-Q8231603,en,cotton,617,#RelatedMatch
-Q8231603,it,cotone,617,#RelatedMatch
-Q10862356,es,turquí,386,#ExactMatch
-Q11060274,en,print,198,#RelatedMatch
-Q11060274,en,print,197,#RelatedMatch
-Q11064354,fr,fil,268,#RelatedMatch
-Q11908691,en,frame,783,NoMatch
-Q13127755,es,losange,496,NoMatch
-Q13222088,fr,grenade,761,#BroadMatch
-Q13222088,en,pomegranate,761,#BroadMatch
-Q13222088,es,granada,761,#BroadMatch
-Q13222088,it,melagrana,761,#BroadMatch
-P784,it,cappello,721,#NarrowMatch
-Q15917320,en,tunic,729,NoMatch
-Q16533056,it,bocciolo,780,NoMatch
-Q17131072,fr,fibre,209,#ExactMatch
-Q18027795,en,batten,72,NoMatch
-P1476,fr,titre,483,NoMatch
-P1476,it,titolo,166,NoMatch
-P1476,es,título,483,NoMatch
-Q18408740,it,uccello,751,#cCoseMatch
-Q18408740,es,ave,751,#cCoseMatch
-Q18451251,en,chalice,790,NoMatch
-Q18668582,en,board,622,NoMatch
-Q18668582,fr,carton,622,NoMatch
-Q18668582,es,cartón,521 622,NoMatch
-P1716,es,marca,342,NoMatch
-P1716,it,marca,342,NoMatch
-Q19861550,en,smooth,42,NoMatch
-Q20980706,it,riposo,624,NoMatch
-Q21550470,en,ciselé velvet,456,#ExactMatch
-Q21550470,fr,velours ciselé,456,#ExactMatch
-Q23497981,es,capa,843,NoMatch
-Q24635645,fr,broché,192,#ExactMatch
-Q25590233,en,ground,223,NoMatch
-Q28152976,en,appliqué,39,NoMatch
-Q28224777,en,weave,318 631 650,NoMatch
-Q28869365,es,número,483,NoMatch
-Q28966302,en,embroidery,87,#ExactMatch
-Q28966302,es,bordado,87,#ExactMatch
-Q28966302,fr,broderie,87,#ExactMatch
-Q29211825,fr,calice,790,NoMatch
-Q29211924,fr,calice,790,NoMatch
-Q29211977,fr,calice,790,NoMatch
-Q29211994,fr,calice,790,NoMatch
-Q29218953,fr,ange,773,NoMatch
-Q29224842,en,chasuble,702,NoMatch
-Q29289832,en,band,797,NoMatch
-Q29713051,it,riposo,624,NoMatch
-Q29723763,en,hat,721,NoMatch
-Q29729743,en,fret,776,NoMatch
-Q31842016,en,harness,41 414,NoMatch
-Q39710583,en,cord,623,NoMatch
-Q40458125,en,lily,887,#BroadMatch
-Q40458125,es,lirio,887,#BroadMatch
-Q43114389,es,motivo geométrico,745,#ExactMatch
-Q43114389,fr,motif géométrique,745,#ExactMatch
-Q46998397,en,burse,735,NoMatch
-Q47677214,en,carpet,28,NoMatch
-Q49324053,es,filamento,487,#ExactMatch
-Q49324053,fr,filament,487,#ExactMatch
-Q52800022,en,brocading,97,NoMatch
-Q52800022,es,brochado,192,#RelatedMatch
-Q52800022,fr,brocher,105,#ExactMatch
-Q54857816,en,drugget,174,#RelatedMatch
-Q55132933,en,composite twill,482,#ExactMatch
-Q55132933,es,sarga compuesta,482,#ExactMatch
-Q55132933,fr,sergé composé,482,#ExactMatch
-Q55132933,it,saia composta,482,#ExactMatch
-Q55294736,en,twist,382,#BroadMatch
-Q55294736,en,twist,530,#ExactMatch
-Q55294736,fr,torsion,382,#BroadMatch
-Q55294736,es,torsión,382,#BroadMatch
-Q55294736,it,torsione,63,NoMatch
-Q55405126,en,supplementary weft,472,#ExactMatch
-Q55406557,en,pelican,823,#BroadMatch
-Q55741064,it,cerro,217,NoMatch
-Q55741144,it,vite,793,NoMatch
-Q55741427,it,cerro,217,NoMatch
-Q55741594,it,cerro,217,NoMatch
-Q55760865,en,sketch,861,NoMatch
-Q56418945,es,batán,72,NoMatch
-Q57006062,en,border,775 783,NoMatch
-Q62605980,en,grisaille,252,#BroadMatch
-Q63854244,es,seda cruda,370,#ExactMatch
-Q63854244,fr,soie grège,370,#ExactMatch
-Q63854244,it,seta greggia,275,NoMatch
-Q64214264,fr,aigle,771,#ExactMatch
-Q64214264,it,aquila,771,#ExactMatch
-Q64214264,en,eagle,771,#ExactMatch
-Q64225319,en,bird,751,#ExactMatch
-Q64225319,fr,oiseau,751,#ExactMatch
-Q64225319,it,uccello,751,#ExactMatch
-Q64376595,en,appliqué,39,NoMatch
-Q64410094,en,double-headed eagle,772,#ExactMatch
-Q65066971,en,braid,230,NoMatch
-Q73138804,en,ground,223,NoMatch
-Q90232460,fr,ciboire,782,NoMatch
-Q90577331,fr,ciboire,782,NoMatch
-Q90804106,fr,calice,790,NoMatch
-Q94089732,en,frame,783,NoMatch
-Q1368,it,denaro,484,NoMatch
-Q7362,en,ear,836,NoMatch
-Q9165,fr,âme,29,NoMatch
-Q9165,it,anima,29,NoMatch
-Q9165,es,alma,29,NoMatch
-Q32702,es,268,276,NoMatch
-Q37068,fr,romantisme,734,#BroadMatch
-Q37068,it,romanticismo,734,#BroadMatch
-Q37681,es,seda,368,#ExactMatch
-Q37681,fr,soie,368,#ExactMatch
-Q37681,it,seta,368,#ExactMatch
-Q37681,en,silk,368,#ExactMatch
-Q41159,es,rombo,768,#ExactMatch
-Q41159,fr,losange,496,NoMatch
-Q41159,fr,losange,768,#ExactMatch
-Q41159,it,rombo,768,#ExactMatch
-Q41159,en,rhombus,768,#ExactMatch
-Q80866,fr,marabout,335,NoMatch
-Q81825,fr,chenille,417,NoMatch
-Q118819,it,altezza,66,NoMatch
-Q158583,it,racemo,811,NoMatch
-Q175065,it,serrato,473,NoMatch
-Q184296,es,tapiz,608,#ExactMatch
-Q184296,fr,tapisserie,608,#ExactMatch
-Q184297,fr,tapisserie,629,#RelatedMatch
-Q184296,it,arazzo,608,#ExactMatch
-Q184296,it,arazzo,739,NoMatch
-Q184296,en,tapestry,608,#ExactMatch
-Q184754,it,stringa,264,NoMatch
-Q188488,it,scaglia,189,NoMatch
-Q188869,es,campo,444,NoMatch
-Q188869,it,campo,477 519,NoMatch
-Q189251,it,campo,477 519,NoMatch
-Q190109,es,cuerpo,414,NoMatch
-Q190109,it,campo,477 519,NoMatch
-Q192296,fr,tissage,526,#ExactMatch
-Q192296,it,tessitura,526,#ExactMatch
-Q192296,en,weaving,526,#ExactMatch
-Q220869,en,shoot,436,NoMatch
-Q251473,fr,feuille,750,NoMatch
-Q281560,it,borra,185,NoMatch
-Q283405,es,punta,364,NoMatch
-Q320617,es,carmín,134,NoMatch
-Q416598,es,310,178,NoMatch
-Q429220,it,rosa,785,NoMatch
-Q429220,es,rosa,785,NoMatch
-Q429220,fr,rose,785,NoMatch
-Q536168,en,tablecloth,711,#ExactMatch
-Q536168,es,mantel,711,#ExactMatch
-Q536168,it,tovaglia,711,#ExactMatch
-Q551997,fr,fil métallique,497,NoMatch
-Q607913,en,dalmatic,706,#ExactMatch
-Q607913,es,dalmática,706,#ExactMatch
-Q607913,fr,dalmatique,706,#ExactMatch
-Q628261,es,bengala,71,NoMatch
-Q628261,it,bengala,71,NoMatch
-Q645110,fr,panne,534,NoMatch
-Q649022,fr,brocart,97,#ExactMatch
-Q649022,it,broccato,97,#ExactMatch
-Q649022,en,brocade,97,#ExactMatch
-Q649022,en,brocade,105,#RelatedMatch
-Q694118,fr,chapeau,721,NoMatch
-Q694118,it,cappello,721,NoMatch
-Q738168,en,pattern,860,NoMatch
-Q746591,it,diadema,755,#BroadMatch
-Q806617,es,capa,843,NoMatch
-Q811430,en,construction,410,NoMatch
-Q826575,fr,torsion,382,#BroadMatch
-Q826575,it,torsione,63,NoMatch
-Q836708,fr,etoile,762,NoMatch
-Q857421,es,cinta,147,#ExactMatch
-Q857421,es,cinta,757,#BroadMatch
-Q857421,en,ribbon,147,#ExactMatch
-Q857421,it,nastro,147,#ExactMatch
-Q857421,fr,ruban,147,#ExactMatch
-Q1045836,es,chal,724,NoMatch
-Q1064538,en,quilt,199,NoMatch
-Q1134228,en,canopy,737 740,NoMatch
-Q1137901,en,coutil,152,NoMatch
-Q1144883,fr,frange,217,NoMatch
-Q1144883,it,frangia,115 217 840,NoMatch
-Q1164342,it,cappa,738 843,NoMatch
-Q1194132,en,tassel,89,#ExactMatch
-Q1194132,es,borla,89,NoMatch
-Q1308715,en,star,762,NoMatch
-Q1341768,it,angelo,773,#CloseMatch
-Q1341768,en,angel,773,#CloseMatch
-Q1341768,fr,ange,773,NoMatch
-Q1364175,it,rovescio,423,NoMatch
-Q1381391,en,evangelist,889,#BroadMatch
-Q1392122,en,banner,720,#RelatedMatch
-Q1392122,fr,bannière,720,NoMatch
-Q1420750,en,star,762,NoMatch
-Q1420750,it,stella,762,NoMatch
-Q1429034,en,float,60 871,NoMatch
-Q1527772,es,trama,384,NoMatch
-Q1531435,it,calice,790,NoMatch
-Q1535312,it,stola,704,NoMatch
-Q1542661,it,rovescio,423,NoMatch
-Q1542661,en,reverse,423,NoMatch
-Q1542661,es,reverso,423,NoMatch
-Q1547440,fr,gros,254,NoMatch
-Q1640824,en,inscription,758,NoMatch
-Q1640824,es,inscripción,758,NoMatch
-Q1722790,en,chalice,790,NoMatch
-Q1971485,fr,réduction,166,NoMatch
-Q2106790,fr,pourpoint,718,NoMatch
-Q2332203,en,star,762,NoMatch
-Q2459535,en,tulip,786,#CloseMatch
-Q2541418,en,celadon,394,#ExactMatch
-Q2702028,es,lista,797,NoMatch
-Q2736098,es,marca,342,NoMatch
-Q2844972,en,braid,230,#RelatedMatch
-Q2914295,en,velveteen,535,NoMatch
-Q2935533,it,campo,477 519,NoMatch
-Q2998209,en,mantle,738,NoMatch
-Q3010804,en,core,29,NoMatch
-Q3087901,fr,frisé,233,NoMatch
-Q3127570,fr,harnais,41,NoMatch
-Q3127570,es,arnés,41,NoMatch
-Q3284858,en,shed,396,NoMatch
-Q3289701,fr,marche,396 648,NoMatch
-Q3373295,en,float,60 871,NoMatch
-Q3421342,en,stripe,48,NoMatch
-Q3529345,en,tie,757,NoMatch
-Q3533997,it,aurora,52 53,NoMatch
-Q3643224,en,ox,825,NoMatch
-Q3657775,it,cappello,721,NoMatch
-Q3683459,it,colonia,149,NoMatch
-Q3693395,es,cordón,623,NoMatch
-Q3991928,it,titolo,166,NoMatch
-Q4000448,it,tunica,729,NoMatch
-Q4063215,en,quill,263 127,NoMatch
-Q4281830,es,marco,429,NoMatch
-Q4590598,en,frost,233,NoMatch
-Q4767951,it,mucca,825,#BroadMatch
-Q4781616,en,appliqué lace,38,NoMatch
-Q5026010,it,tessitura,410 526,NoMatch
-Q5375780,en,end,279 485,NoMatch
-Q5734146,fr,brocatelle,103,#RelatedMatch
-Q5734146,en,brocatelle,103,#RelatedMatch
-Q5960345,fr,turquoise,386,NoMatch
-Q5960345,it,turchese,386,NoMatch
-Q5961806,en,rose,785,NoMatch
-Q6752131,en,mantle,716,#BroadMatch
-Q7191065,en,picot,115,#RelatedMatch
-Q7502422,en,shot,119,#ExactMatch
-Q7502422,en,shot,465,#RelatedMatch
-Q7502422,fr,changeant,119,#ExactMatch
-Q7502422,fr,changeant,465,#RelatedMatch
-Q7502422,es,tornasol,465,#RelatedMatch
-Q7502422,it,cangiante,119,#ExactMatch
-Q7502422,it,cangiante,465,#RelatedMatch
-Q7515232,it,borra,185,NoMatch
-Q7577181,en,spike,836,NoMatch
-Q7836568,en,treadle,648,#BroadMatch
-Q7836568,it,pedale,648,#BroadMatch
-Q7978336,en,weave,318 631 650,NoMatch
-Q7978401,en,weaving,526,NoMatch
-Q9247895,en,disposition,799,NoMatch
-Q9247895,it,disposizione,799,NoMatch
-Q9247895,es,disposición,799,NoMatch
-Q10572374,en,plain weave,44,#ExactMatch
-Q10572374,en,plain weave,236,#RelatedMatch
-Q11418687,en,arabesque,766,#ExactMatch
-Q12030217,en,cordonnet,151,#ExactMatch
-Q12030217,fr,cordonnet,151,#ExactMatch
-Q12042884,en,organzine,276,#ExactMatch
-Q12042884,fr,organsin,276,#ExactMatch
-Q12042884,it,organzino,276,#ExactMatch
-Q12050361,en,girdle,139,NoMatch
-Q12139612,es,lista,797,NoMatch
-Q12598172,en,edge,775,NoMatch
-Q12884555,en,shot,119 436 465,NoMatch
-Q13427216,en,duchesse,554,#BroadMatch
-Q13427216,fr,satin duchesse,554,#BroadMatch
-Q15814441,en,reel,263,NoMatch
-Q16550653,it,drago,774,NoMatch
-Q16581465,it,naturalismo,664,NoMatch
-Q17232201,es,doblado,420,NoMatch
-Q18250408,fr,epi,782,NoMatch
-Q18628103,it,cornice,783,NoMatch
-P1684,en,inscription,758,NoMatch
-P1684,fr,inscription,758,NoMatch
-P1684,es,inscripción,758,NoMatch
-Q19842373,en,blackberry,781,#BroadMatch
-Q25384765,fr,filoselle,216,NoMatch
-P3091,es,montura,431,NoMatch
-Q28937103,fr,isabelle,290,#BroadMatch
-Q28955655,fr,costume,699,NoMatch
-Q29048022,es,tejido,649,NoMatch
-Q29124881,fr,ange,773,NoMatch
-Q29145633,fr,ange,773,NoMatch
-Q29199643,fr,ange,773,NoMatch
-Q29211899,fr,calice,790,NoMatch
-Q29213350,fr,calice,790,NoMatch
-Q29213353,fr,calice,790,NoMatch
-Q29213373,fr,frise,775,NoMatch
-Q29260902,fr,chrisme,792,NoMatch
-Q29264177,fr,chrisme,792,NoMatch
-Q29269504,fr,ange,773,NoMatch
-Q29293606,fr,ange,773,NoMatch
-Q29586589,en,silver thread,628,#ExactMatch
-Q29586589,es,hilo de plata,628,NoMatch
-Q29719333,en,lace,180 364 791,NoMatch
-Q29720775,en,rib,405,NoMatch
-Q29733133,en,ear,836,NoMatch
-Q29748297,en,star,762,NoMatch
-Q29757839,en,cope,705,NoMatch
-Q30095464,en,reed,359,NoMatch
-Q31835006,fr,âme,29,NoMatch
-Q44532723,es,portada,503,NoMatch
-Q47034857,en,leaf,750,#CloseMatch
-Q47034857,fr,feuille,750,#CloseMatch
-Q47034857,it,foglia,750,#CloseMatch
-Q47034857,es,hoja,750,#CloseMatch
-Q47072983,en,pashmina,724,NoMatch
-Q50324108,fr,couronne,755,NoMatch
-Q51760316,en,shaft,324,NoMatch
-Q53054783,fr,métier de basse lisse,524,#ExactMatch
-Q53864861,it,ramo,759,#CloseMatch
-Q55353522,en,chalice,790,#CloseMatch
-Q55353522,es,cáliz,790,#CloseMatch
-Q55353522,fr,calice,790,#CloseMatch
-Q55741071,it,cerro,217,NoMatch
-Q55741637,it,cerro,217,NoMatch
-Q55742246,it,cerro,217,NoMatch
-Q55742250,it,cerro,217,NoMatch
-Q56042940,en,woof,384,NoMatch
-Q56244401,fr,coup,436,NoMatch
-Q56854811,it,spinato,189 238,NoMatch
-Q56876960,fr,vêtement,699,NoMatch
-Q56876960,it,abbigliamento,699,NoMatch
-Q57629324,en,design,816 859,NoMatch
-Q59676043,es,palma,763,#CloseMatch
-Q59676043,fr,palme,763,#CloseMatch
-Q63958976,en,birds,751,NoMatch
-Q64170794,en,carpet,28,NoMatch
-Q65962595,en,cut velvet,457,#ExactMatch
-Q65962595,es,terciopelo cortado,457,#ExactMatch
-Q80696169,en,crown,755,NoMatch
-Q90229951,fr,calice,790,NoMatch
-Q90231664,fr,ciboire,782,NoMatch
-Q90232450,fr,ciboire,782,NoMatch
-Q90574046,fr,ciboire,782,NoMatch
-Q90574594,fr,calice,790,NoMatch
-Q90578552,fr,ciboire,782,NoMatch
-Q90580895,fr,ciboire,782,NoMatch
-Q90592349,fr,cadre,429,NoMatch
-Q90805165,fr,ciboire,782,NoMatch
-Q90807197,fr,calice,790,NoMatch
-Q96140174,en,crown,755,NoMatch
-Q523,en,star,762,#BroadMatch
-Q523,it,stella,762,#BroadMatch
-Q523,es,estrella,762,#BroadMatch
-Q7559,en,dragon,774,#BroadMatch
-Q7559,es,dragón,774,#BroadMatch
-Q7559,fr,dragon,774,#BroadMatch
-Q7559,it,drago,774,#BroadMatch
-Q7695,fr,marche,396 648,NoMatch
-Q11457,en,cotton,617,#ExactMatch
-Q11457,fr,coton,617,#ExactMatch
-Q11457,it,cotone,617,#ExactMatch
-Q11457,es,algodón,617,#ExactMatch
-Q11460,en,clothing,699,#ExactMatch
-Q11460,fr,vêtement,699,#ExactMatch
-Q11460,it,abbigliamento,699,#ExactMatch
-Q11460,es,indumentaria,699,#ExactMatch
-Q12200,fr,crêpe,157,NoMatch
-Q13188,en,pomegranate,761,#BroadMatch
-Q18281,en,embroidery,87,#ExactMatch
-Q18281,es,bordado,87,#ExactMatch
-Q18281,fr,broderie,87,#ExactMatch
-Q19413,fr,pélican,823,NoMatch
-Q23834,es,peine,359,NoMatch
-Q23834,fr,peigne,359,NoMatch
-Q23834,it,pettine,359,NoMatch
-Q33971,es,hoja,750,#BroadMatch
-Q33971,it,foglia,750,#BroadMatch
-Q33971,fr,feuille,750,#BroadMatch
-Q33971,en,leaf,750,#BroadMatch
-Q39888,es,ligamento,318,NoMatch
-Q42329,es,lana,644,#ExactMatch
-Q42329,fr,laine,644,#ExactMatch
-Q42329,it,lana,644,#ExactMatch
-Q42329,en,wool,644,#ExactMatch
-Q42865,es,orientalismo,687,NoMatch
-Q165254,it,turchese,386,NoMatch
-Q165254,fr,turquoise,386,NoMatch
-Q179076,fr,bourse,735,NoMatch
-Q186599,fr,arabesque,766,#ExactMatch
-Q186599,it,arabesco,766,#ExactMatch
-Q186599,en,arabesque,766,#ExactMatch
-Q231250,fr,dentelle,180,#ExactMatch
-Q231250,fr,dentelle,791,#RelatedMatch
-Q231250,es,encaje,791,#RelatedMatch
-Q231250,es,encaje,180,#ExactMatch
-Q231250,en,lace,180 364 791,NoMatch
-Q247154,fr,compte,166,NoMatch
-Q250386,en,pile,438,NoMatch
-Q263555,it,losanga,768,NoMatch
-Q263555,fr,losange,768,#CloseMatch
-Q263555,fr,losange,768,NoMatch
-Q333631,en,cashmere,112,NoMatch
-Q471447,fr,fleuret,227 266,NoMatch
-Q473194,es,buey,825,#BroadMatch
-Q473194,en,ox,825,#BroadMatch
-Q473194,it,bue,825,NoMatch
-Q499525,en,structure,410,NoMatch
-Q499525,it,tessitura,410 526,NoMatch
-Q519840,it,navetta,311,#ExactMatch
-Q519840,en,shuttle,311,#ExactMatch
-Q519840,fr,navette,311,#ExactMatch
-Q588676,es,trama,384,#ExactMatch
-Q588676,en,weft,384,#ExactMatch
-Q588676,fr,fil de trame,278,#RelatedMatch
-Q588676,it,trama,384,#ExactMatch
-Q621044,en,velour,47,NoMatch
-Q623823,en,arabesque,766,NoMatch
-Q636309,en,fret,776,NoMatch
-Q646051,en,tulle,385,NoMatch
-Q646051,fr,tulle,385,NoMatch
-Q646051,it,tulle,385,NoMatch
-Q666971,it,rombo,768,NoMatch
-Q696809,fr,palme,763,NoMatch
-Q748773,en,ribbon,147 756,NoMatch
-Q748773,es,cinta,147 757,NoMatch
-Q751880,fr,japonisme,693,NoMatch
-Q806880,fr,bannière,720,NoMatch
-Q806880,en,banner,720,NoMatch
-Q842358,fr,denier,484,NoMatch
-Q849904,fr,brillantine,92,NoMatch
-Q863679,fr,chinoiserie,676,#ExactMatch
-Q864650,fr,sériciculture,375,#ExactMatch
-Q864650,es,sericicultura,375,#ExactMatch
-Q864650,en,sericulture,375,NoMatch
-Q876065,en,double,420,NoMatch
-Q909391,fr,taffetas,377,#ExactMatch
-Q909391,fr,taffetas,236,#RelatedMatch
-Q909391,en,taffeta,377,#ExactMatch
-Q909391,es,tafetán,377,#ExactMatch
-Q909391,es,tafetán,236,#RelatedMatch
-Q909391,it,taffetà,236,#RelatedMatch
-Q909391,it,taffetà,377,#ExactMatch
-Q910194,en,rayon,529,#ExactMatch
-Q910194,fr,rayonne,529,NoMatch
-Q920297,en,cord,623,NoMatch
-Q920929,it,felpa,202,NoMatch
-Q1042979,it,tessitura,410 526,NoMatch
-Q1066140,es,310,178,NoMatch
-Q1076520,es,268,276,NoMatch
-Q1123578,en,upholstery,629,#BroadMatch
-Q1123578,es,tapicería,629,#BroadMatch
-Q1123578,it,tappezzeria,629,#BroadMatch
-Q1135221,en,frost,233,NoMatch
-Q1141566,fr,popeline,543,#ExactMatch
-Q1141566,en,poplin,543,#ExactMatch
-Q1141751,it,corona,755,NoMatch
-Q1149305,en,disposition,799,NoMatch
-Q1149305,es,disposición,799,NoMatch
-Q1149305,fr,disposition,799,NoMatch
-Q1149305,it,disposizione,799,NoMatch
-Q1155211,en,rose,785,NoMatch
-Q1189842,en,crown,755,NoMatch
-Q1192049,fr,fibre naturelle,213,#ExactMatch
-Q1192049,es,fibra natural,213,#ExactMatch
-Q1192049,en,natural fibre,213,#ExactMatch
-Q1192049,it,fibra naturale,213,NoMatch
-Q1192354,en,needle,616,NoMatch
-Q1234523,es,naveta,311,NoMatch
-Q1294983,fr,couronne,755,NoMatch
-Q1297428,fr,coup,436,NoMatch
-Q1333285,it,diritto,27,NoMatch
-Q1365679,en,calender,832,#ExactMatch
-Q1365679,es,calandria,832,#ExactMatch
-Q1365679,it,calandra,832,#ExactMatch
-Q1422342,it,vite,793,#CloseMatch
-Q1480193,fr,manipule,707,#ExactMatch
-Q1480193,es,manípulo,707,#ExactMatch
-Q1480193,en,maniple,707,#ExactMatch
-Q1537106,it,gonfalone,720,NoMatch
-Q1572258,fr,médaillon,764,NoMatch
-Q1647511,fr,navette,311,NoMatch
-Q1737943,it,telaio,450,NoMatch
-Q1737943,es,bastidor,429,NoMatch
-Q1801748,en,lamé,302,#ExactMatch
-Q1801748,fr,lamé,302,#ExactMatch
-Q1801748,es,lama,302,#ExactMatch
-Q1801748,it,lamé,302,NoMatch
-Q1807128,en,leaves,750,NoMatch
-Q1807128,fr,feuille,750,NoMatch
-Q1849502,fr,voile huméral,734,NoMatch
-Q1849502,en,humeral veil,833,#ExactMatch
-Q1960395,fr,portée,503,NoMatch
-Q2230201,en,shaft,324,NoMatch
-Q2347874,fr,palme,763,NoMatch
-Q2347874,en,palm,763,NoMatch
-Q2607599,it,lettura,282,NoMatch
-Q2734060,en,reed,359,NoMatch
-Q2755151,es,faldón,715,NoMatch
-Q2809148,fr,chagrin,374,NoMatch
-Q2983186,en,sericin,376,NoMatch
-Q2997700,fr,corps,414,NoMatch
-Q3205956,en,pile,438,NoMatch
-Q3242199,fr,coup,436,NoMatch
-Q3247568,en,lamella,285,NoMatch
-Q3354532,fr,châle,724,#ExactMatch
-Q3354532,es,chal,724,#ExactMatch
-Q3354532,en,shawl,723,NoMatch
-Q3442356,en,rose,785,NoMatch
-Q3481047,fr,rapport,444,NoMatch
-Q3515473,fr,tapis,28,NoMatch
-Q3746538,es,lino,488,NoMatch
-Q3875186,en,construction,410,#BroadMatch
-Q3941237,en,rose,785,#CloseMatch
-Q3941237,it,rosa,785,#CloseMatch
-P94,it,stemma,789,#CloseMatch
-Q4783341,en,arabesque,766,NoMatch
-Q4792460,it,ramo,759,NoMatch
-Q5459827,en,float,60 871,NoMatch
-Q5760422,es,cenefa,775,NoMatch
-Q6410229,en,kimono,728,NoMatch
-Q6410229,es,kimono,728,NoMatch
-Q6501125,en,ground,223,NoMatch
-Q6917678,en,motif,742,NoMatch
-Q6917681,en,motif,742,#ExactMatch
-Q7208203,fr,point de gaze,280,NoMatch
-Q7426225,en,satinet,550,NoMatch
-Q7979858,es,peso,495,NoMatch
-Q12032703,fr,lancé,178,#ExactMatch
-Q12032703,fr,lancé,310,#RelatedMatch
-Q12044462,en,banner,720,NoMatch
-Q12059482,it,trama,384,NoMatch
-Q12137981,fr,voile,710,NoMatch
-Q13629195,fr,titre,483,NoMatch
-Q14271241,fr,chevron,189,#ExactMatch
-Q14271241,it,spina di pesce,189,NoMatch
-Q14916053,es,número,483,NoMatch
-Q15069887,it,bandiera,719,NoMatch
-Q16596560,it,riduzione,166,NoMatch
-Q16670598,fr,polonaise,540,NoMatch
-Q16670598,en,polonaise,540,NoMatch
-Q16670598,es,polonesa,540,NoMatch
-Q19267880,fr,grenade,761,NoMatch
-Q19267880,es,granada,761,NoMatch
-Q21406562,fr,corps,414,NoMatch
-Q25592126,it,drago,774,NoMatch
-Q25592126,en,dragon,774,NoMatch
-Q25592126,fr,dragon,774,NoMatch
-Q25592126,es,dragón,774,NoMatch
-Q28777323,fr,panne,534,NoMatch
-Q28864717,en,waistcoat,727,NoMatch
-Q29261846,fr,chasuble,702,NoMatch
-Q29728017,en,shot,119 436 465,NoMatch
-Q30322382,en,pattern,860,#RelatedMatch
-Q40337498,en,gobelin,490,#ExactMatch
-Q43154049,fr,motif floral,743,#ExactMatch
-Q45712449,en,upholstery,629,#ExactMatch
-Q47460122,en,pile warp,474,#ExactMatch
-Q47460122,es,urdimbre de pelo,474,#ExactMatch
-Q47460122,fr,chaîne poil,389 474,NoMatch
-Q54935824,fr,coup,436,NoMatch
-Q55071249,en,rep,556,#BroadMatch
-Q55352046,en,ear,836,#CloseMatch
-Q55352046,es,espiga,836,NoMatch
-Q55741628,it,cerro,217,NoMatch
-Q56192108,en,heraldic motif,746,#ExactMatch
-Q56192108,es,motivo heráldico,746,#ExactMatch
-Q56192108,fr,motif héraldique,746,#ExactMatch
-Q56192108,it,motivo araldico,746,#ExactMatch
-Q57385915,en,pelican,823,NoMatch
-Q60791758,en,lamella,285,NoMatch
-Q60793753,en,float,60 871,NoMatch
-Q61686575,fr,collerette,82,NoMatch
-Q63792261,en,disposition,799,NoMatch
-Q64143035,en,medallion,764,#ExactMatch
-Q64143035,es,medallón,764,#ExactMatch
-Q65972045,fr,endroit,27,NoMatch
-Q68614425,en,motif,742,#BroadMatch
-Q68614425,fr,motif,742,#BroadMatch
-Q85550371,fr,cannetille,271,NoMatch
-Q87396089,fr,vase,754,NoMatch
-Q87396089,en,vase,754,NoMatch
-Q87650480,fr,lame,429,NoMatch
-Q87739600,en,angel,773,NoMatch
-Q90244279,fr,voile huméral,734,NoMatch
-Q90578446,fr,calice,790,NoMatch
-Q90804058,fr,calice,790,NoMatch
-Q12510,it,toro,825,NoMatch
-Q25325,fr,frison,113,NoMatch
-Q28472,es,pelo,360 438,NoMatch
-Q28472,it,pelo,360 438,NoMatch
-Q28472,fr,poil,360 438,NoMatch
-Q32427,es,310,178,NoMatch
-Q35059,en,width,66,#ExactMatch
-Q55996,en,naturalism,664,NoMatch
-Q55996,it,naturalismo,664,NoMatch
-Q128822,it,nodo,757,NoMatch
-Q131559,es,escudo,789,NoMatch
-Q134560,fr,ceinture,139,NoMatch
-Q134560,it,cintura,139 139 147,NoMatch
-Q142690,es,aguja,616,NoMatch
-Q143720,fr,couronne,755,NoMatch
-Q143720,en,crown,755,NoMatch
-Q167130,fr,cadre,429,NoMatch
-Q167130,it,telaio,450,NoMatch
-Q172560,en,throw,348,NoMatch
-Q185113,es,cabo,485,NoMatch
-Q185113,it,capo,485,NoMatch
-Q185113,en,cape,843,NoMatch
-Q185958,en,float,60 871,NoMatch
-Q187657,fr,doublage,420,NoMatch
-Q187657,es,doblaje,420,NoMatch
-Q187776,fr,denier,484,NoMatch
-Q189524,fr,flotte,426,NoMatch
-Q189962,es,intervalo,493,NoMatch
-Q192193,fr,portée,503,NoMatch
-Q216353,it,titolo,166,NoMatch
-Q216353,es,título,483,NoMatch
-Q218626,fr,volute,811,NoMatch
-Q221455,en,reed,359,NoMatch
-Q254857,es,547,276,NoMatch
-Q260899,en,shot,119 436 465,NoMatch
-Q309383,en,shaft,324,NoMatch
-Q322503,es,mezcla,635,NoMatch
-Q332682,fr,corne d'abondance,820,#BroadMatch
-Q332682,en,cornucopia,820,#BroadMatch
-Q332682,it,cornucopia,820,#BroadMatch
-Q335571,it,baldacchino,737 740,NoMatch
-Q335661,es,custodia,782,#BroadMatch
-Q337481,fr,manteau,716,#BroadMatch
-Q337481,it,mantello,716,#BroadMatch
-Q338814,fr,lion,767,#CloseMatch
-Q338814,en,lion,767,#CloseMatch
-Q338814,es,león,767,#CloseMatch
-Q338814,it,leone,767,NoMatch
-Q354341,es,colonia,149,NoMatch
-Q354341,it,colonia,149,NoMatch
-Q467717,it,racemo,811,NoMatch
-Q496346,it,tessitura,410 526,NoMatch
-Q515888,es,filamento,487,NoMatch
-Q515888,fr,filament,487,NoMatch
-Q595298,es,haz,27,NoMatch
-Q621642,en,appliqué,39,#CloseMatch
-Q621642,es,aplicación,39,#CloseMatch
-Q691543,fr,pas,396,NoMatch
-Q691543,it,passo,396,NoMatch
-Q693690,it,toro,825,NoMatch
-Q721663,en,face,27,NoMatch
-Q731988,it,telaio,450,NoMatch
-Q732034,fr,étole,704,#ExactMatch
-Q732034,it,stola,704,#ExactMatch
-Q732034,en,stole,704,#ExactMatch
-Q737438,es,bermellón,134,#ExactMatch
-Q747071,en,cocoon,132,#BroadMatch
-Q762984,en,twine,383,NoMatch
-Q836026,es,536,276,NoMatch
-Q854429,es,portada,503,NoMatch
-Q857397,es,445,276,NoMatch
-Q864152,fr,olive,518,#ExactMatch
-Q874142,fr,fibre animale,210,NoMatch
-Q947731,en,tie,757,NoMatch
-Q1004230,it,bolla,84,NoMatch
-Q1034198,it,cappa,738,NoMatch
-Q1034198,en,cape,843,#ExactMatch
-Q1034198,es,capa,843,#ExactMatch
-Q1034415,fr,portée,503,NoMatch
-Q1121690,fr,canette,127,NoMatch
-Q1122919,it,passamaneria,148,#NarrowMatch
-Q1122919,en,passementerie,537,#ExactMatch
-Q1122919,es,pasamanería,537,#ExactMatch
-Q1122919,fr,passementerie,537,#ExactMatch
-Q1132110,en,corduroy,534,#BroadMatch
-Q1132695,fr,calicot,117,#CloseMatch
-Q1132695,en,calico,117,NoMatch
-Q1164849,en,tie,757,NoMatch
-Q1194630,en,double,420,NoMatch
-Q1210061,en,doublet,718,NoMatch
-Q1229071,fr,motif,742,#ExactMatch
-Q1229071,en,motif,742,#ExactMatch
-Q1229071,es,motivo,742,#ExactMatch
-Q1229071,it,motivo,742,#ExactMatch
-Q1326028,es,campo,444,NoMatch
-Q1347198,en,surah,13,NoMatch
-Q1348031,fr,chevron,189,NoMatch
-Q1356191,en,marquisette,337,#BroadMatch
-Q1356191,fr,marquisette,337,#BroadMatch
-Q1374036,en,flag,719,NoMatch
-Q1374036,fr,drapeau,719,NoMatch
-Q1391023,it,passo,396,NoMatch
-Q1414254,fr,pédale,648,NoMatch
-Q1414254,it,pedale,648,NoMatch
-Q1426327,fr,lin,488,#ExactMatch
-Q1426327,it,lino,488,#ExactMatch
-Q1519454,en,design,859,#BroadMatch
-Q1520790,en,bobbin,263 127 831,NoMatch
-Q1619206,es,teletón,254,NoMatch
-Q1777478,en,fret,776,NoMatch
-Q1798677,it,ninfea,835,NoMatch
-Q1937516,en,veil,710,NoMatch
-Q2105906,en,effect,175,NoMatch
-Q2135068,en,vine,793,NoMatch
-Q2200632,fr,calice,790,NoMatch
-Q2217217,en,samite,293,#ExactMatch
-Q2217217,fr,samit,293,#ExactMatch
-Q2217217,es,samito,293,#ExactMatch
-Q2302447,fr,fibre,209,NoMatch
-Q2397733,en,pile,438,#ExactMatch
-Q2397733,es,pelo,438,#ExactMatch
-Q2621865,fr,portée,503,NoMatch
-Q2630146,en,core,29,NoMatch
-Q2923673,it,ramo,759,NoMatch
-Q3001277,en,crown,755,NoMatch
-Q3022468,es,denier,484,#BroadMatch
-Q3022468,en,denier,484,#BroadMatch
-Q3022468,it,denaro,484,#BroadMatch
-Q3038686,fr,dragon,774,NoMatch
-Q3115438,es,grana,134,NoMatch
-Q3241798,fr,lion rampant,848,#CloseMatch
-Q3268699,en,wild silk,372,#CloseMatch
-Q3268699,fr,soie sauvage,372,NoMatch
-Q3290657,fr,marguerite,786,NoMatch
-Q3294816,en,marquisette,337,NoMatch
-Q3321195,en,crown,755,NoMatch
-Q3506474,fr,grotesque,809,NoMatch
-Q3513433,en,board,622,NoMatch
-Q3519259,en,count,483,NoMatch
-Q3521824,fr,phénix,835,NoMatch
-Q3654601,it,campo,477 519,NoMatch
-Q3873351,it,naturalismo,664,NoMatch
-Q3885482,it,orditoio,481,#BroadMatch
-Q3898950,it,pellicano,823,#ExactMatch
-Q3898950,en,pelican,823,#ExactMatch
-Q3898950,fr,pélican,823,#ExactMatch
-Q4259259,fr,toile,236 862,NoMatch
-Q4504468,it,catena,387,NoMatch
-Q4504468,fr,chaîne,387,NoMatch
-Q4591805,it,pedale,648,NoMatch
-Q4591805,fr,pédale,648,NoMatch
-Q4684642,fr,ornement,18 861,NoMatch
-Q4857590,it,veste battesimale,715,#ExactMatch
-Q4968065,en,brilliantine,92,NoMatch
-Q5459831,en,float,60 871,NoMatch
-Q5564204,en,girdle,139,NoMatch
-Q5610850,en,ground,223,NoMatch
-Q5647631,fr,rouleau,363,NoMatch
-Q6497446,en,veil,710,#ExactMatch
-Q6497446,it,velo,710,#ExactMatch
-Q6497446,fr,voile,710,#ExactMatch
-Q6497446,es,velo,710,#ExactMatch
-Q6537379,fr,marche,396 648,NoMatch
-Q6555379,en,lion,767,NoMatch
-Q6555379,es,león,767,NoMatch
-Q6786427,en,matelassé,8,#CloseMatch
-Q7123983,fr,peau de soie,539,NoMatch
-Q7148361,en,pattern,860,NoMatch
-Q7322255,en,ribbon,147 756,NoMatch
-Q7322255,es,cinta,147 757,NoMatch
-Q7322255,fr,ruban,147 756,NoMatch
-Q7461093,en,shaft,324,NoMatch
-Q7577179,en,spike,836,NoMatch
-Q7672986,en,tabby,236,NoMatch
-Q10296772,es,carmín,134,NoMatch
-Q10354139,en,printing process,196,NoMatch
-Q11307685,en,shuttle,311,NoMatch
-Q11990109,en,motif,742,NoMatch
-Q12797896,en,frame,783,NoMatch
-Q12797896,fr,cadre,429,NoMatch
-Q13138579,fr,métier aux cartons,446,NoMatch
-Q14613593,fr,chaîne,387,NoMatch
-P1114,es,número,483,NoMatch
-Q15850852,en,thread,268,NoMatch
-Q16511984,it,passo,396,NoMatch
-Q16977936,en,rose,785,NoMatch
-Q21003883,en,doublet,718,NoMatch
-Q22341926,en,standard,720,NoMatch
-Q23868769,fr,couvre-chef,712,NoMatch
-Q28795982,it,puntina,364 546,NoMatch
-Q28962042,fr,rose,785,NoMatch
-Q29000384,fr,maille,427,NoMatch
-Q29000384,it,maglia,427,NoMatch
-Q29211856,fr,calice,790,NoMatch
-Q29211912,fr,calice,790,NoMatch
-Q29211922,fr,calice,790,NoMatch
-Q29211979,fr,calice,790,NoMatch
-Q29224084,fr,ange,773,NoMatch
-Q29249234,fr,ange,773,NoMatch
-Q29261053,fr,chrisme,792,NoMatch
-Q29405157,it,campionario,709,NoMatch
-Q29724827,en,pall,713,NoMatch
-Q30089737,it,filanda,262,NoMatch
-Q30345409,en,tulip,786,#BroadMatch
-Q30345409,it,tulipano,786,#BroadMatch
-Q30345409,fr,tulipe,786,#BroadMatch
-Q45057822,es,motivo geométrico,745,#ExactMatch
-Q45057822,fr,motif géométrique,745,#ExactMatch
-Q47450777,it,dente,419,NoMatch
-Q47460174,fr,velours par trame,461,#ExactMatch
-Q47460174,it,velluto per trama,461,#ExactMatch
-Q48289799,en,frame,783,NoMatch
-Q48797082,en,sketch,861,NoMatch
-Q49173693,fr,atlas,125,#CloseMatch
-Q52063543,en,madder,251,#ExactMatch
-Q52063543,fr,garance,251,NoMatch
-P5095,fr,faille,201,NoMatch
-P5095,it,faglia,201,NoMatch
-Q52791078,en,brocading weft,471,#ExactMatch
-Q52791078,fr,trame brochée,471,#ExactMatch
-Q55614571,en,interruption,493,NoMatch
-Q55740415,it,cerro,217,NoMatch
-Q55741267,it,cerro,217,NoMatch
-Q55741592,it,cerro,217,NoMatch
-Q55741595,it,cerro,217,NoMatch
-Q55741625,it,cerro,217,NoMatch
-Q55742185,it,cerro,217,NoMatch
-Q55742248,it,cerro,217,NoMatch
-Q55743918,fr,ferronnerie,510,NoMatch
-Q56334520,es,lazo,756,NoMatch
-Q59679261,es,bandera,719,NoMatch
-Q60173131,en,shaft,324,NoMatch
-Q62059481,en,crossing,413,NoMatch
-Q63854053,en,spun silk,12,#RelatedMatch
-Q64225207,it,vite,793,NoMatch
-Q65510139,en,vase,754,NoMatch
-Q66779998,es,cochinilla,134,NoMatch
-Q75883519,en,colonia,149,NoMatch
-Q75883519,es,colonia,149,NoMatch
-Q90231641,fr,ciboire,782,NoMatch
-Q90231650,fr,ciboire,782,NoMatch
-Q90574577,fr,ciboire,782,NoMatch
-Q90577832,fr,étole,704,NoMatch
-Q90579410,fr,ciboire,782,NoMatch
-Q90809566,en,thistle,765,NoMatch
-Q5113,es,ave,751,#BroadMatch
-Q5113,it,uccello,751,#BroadMatch
-Q5113,fr,oiseau,751,#BroadMatch
-Q5113,en,bird,751,#BroadMatch
-Q11034,en,printing,196,NoMatch
-Q11181,es,estrella,762,NoMatch
-Q14298,en,satin,237,#BroadMatch
-Q14298,en,satin,366,#RelatedMatch
-Q14298,fr,satin,237,#BroadMatch
-Q14298,fr,satin,366,#RelatedMatch
-Q14298,es,raso,237,#BroadMatch
-Q14298,es,raso,366,#RelatedMatch
-Q14298,it,raso,237,#BroadMatch
-Q14298,it,raso,366,#RelatedMatch
-Q25288,es,peso,495,NoMatch
-Q31004,es,547,276,NoMatch
-Q33330,es,rombo,768,NoMatch
-Q36241,es,pana,534,NoMatch
-Q37159,es,batido,465,NoMatch
-Q40397,es,tejido,649,NoMatch
-Q40397,it,tessuto,649,NoMatch
-Q40397,en,tissue,508,NoMatch
-Q40609,en,aurora,53,NoMatch
-Q47071,fr,brun,354,NoMatch
-Q47089,fr,faille,201,NoMatch
-Q47089,it,faglia,201,NoMatch
-Q56000,en,naturalism,664,NoMatch
-Q56000,it,naturalismo,664,NoMatch
-Q59172,it,filatura,267,#ExactMatch
-Q59172,en,spinning,267,#ExactMatch
-Q93201,fr,tulipe,786,NoMatch
-Q93352,fr,côte,405,NoMatch
-Q93352,it,costa,405,NoMatch
-Q104555,it,riga,797,NoMatch
-Q133346,en,border,775 783,NoMatch
-Q163446,es,alfombra,28,#ExactMatch
-Q163446,fr,tapis,28,#ExactMatch
-Q163446,it,tappeto,28,#ExactMatch
-Q163446,en,carpet,28,#ExactMatch
-Q170984,fr,couronne,755,#BroadMatch
-Q170984,es,corona,755,#BroadMatch
-Q170984,it,corona,755,#BroadMatch
-Q170984,en,crown,755,#BroadMatch
-Q180225,fr,corset,730,#ExactMatch
-Q180225,es,corsé,730,#ExactMatch
-Q180225,it,corsetto,730,#ExactMatch
-Q180225,en,corset,730,#ExactMatch
-Q183414,fr,carte perforée,842,#BroadMatch
-Q183414,es,tarjeta perforada,622,#BroadMatch
-Q183414,es,tarjeta perforada,842,#BroadMatch
-Q183414,it,scheda perforata,622,#BroadMatch
-Q183414,en,punched card,842,NoMatch
-Q188725,es,ligadura,317,NoMatch
-Q188725,it,legatura,317,NoMatch
-Q189838,fr,bourgeon,780,NoMatch
-Q194199,fr,dragon,774,NoMatch
-Q194199,es,dragón,774,NoMatch
-Q198373,fr,ciboire,782,NoMatch
-Q210788,it,sfumato,338 476,NoMatch
-Q230788,fr,bourse,735,NoMatch
-Q240502,es,raqueta,441,NoMatch
-Q307491,es,ave,751,NoMatch
-Q320809,en,braid,230,NoMatch
-Q331357,es,escudo,789,#BroadMatch
-Q339805,en,ottoman,435,#BroadMatch
-Q339805,fr,ottoman,435,#BroadMatch
-Q339805,it,ottoman,435,NoMatch
-Q372254,es,campo,444,NoMatch
-Q385378,en,construction,410,NoMatch
-Q389782,fr,carton,622,NoMatch
-Q421719,en,reel,263,NoMatch
-Q489636,en,batiste,67,NoMatch
-Q498794,it,catena,387,NoMatch
-Q517966,en,structure,410,NoMatch
-Q533047,en,rose,785,NoMatch
-Q538906,fr,chardon,765,#BroadMatch
-Q538906,en,thistle,765,#BroadMatch
-Q538906,es,cardo,765,#BroadMatch
-Q548275,es,candelabro,794,#BroadMatch
-Q548275,en,candelabra,794,#BroadMatch
-Q548275,fr,candélabre,794,#BroadMatch
-Q548275,it,candelabro,794,NoMatch
-Q559045,it,stringa,264,NoMatch
-Q572024,fr,antependium,714,#ExactMatch
-Q662639,it,stella,762,#CloseMatch
-Q662639,en,star,762,#CloseMatch
-Q662639,es,estrella,762,NoMatch
-Q721931,en,shed,396,NoMatch
-Q738822,en,warp,387,#ExactMatch
-Q738822,en,warp,392,#RelatedMatch
-Q738822,es,urdimbre,387,#ExactMatch
-Q738822,es,urdimbre,390,#RelatedMatch
-Q738822,fr,fil de chaîne,279,#RelatedMatch
-Q738822,it,ordito,387,NoMatch
-Q750197,fr,grisaille,252,NoMatch
-Q750197,en,grisaille,252,NoMatch
-Q750197,es,grisalla,252,NoMatch
-Q805079,fr,bande,836,#CloseMatch
-Q852345,es,batido,465,NoMatch
-Q876459,it,mantello,716 738,NoMatch
-Q900183,fr,lame,429,NoMatch
-Q914711,it,traliccio,152,NoMatch
-Q929132,fr,feston,206,NoMatch
-Q959831,fr,maille,427,NoMatch
-Q1039416,fr,cadre,429,NoMatch
-Q1039416,en,frame,783,NoMatch
-Q1053956,en,bead,115,NoMatch
-Q1058858,fr,chagrin,374,NoMatch
-Q1114829,es,malla,427,NoMatch
-Q1124951,fr,reps,556,NoMatch
-Q1128004,it,passo,396,NoMatch
-Q1136447,fr,carline,788,NoMatch
-Q1136498,es,granadina,225,NoMatch
-Q1136498,en,grenadine,225 249,NoMatch
-Q1136498,it,granatina,225,NoMatch
-Q1187930,en,bouquet,759,NoMatch
-Q1251376,en,double,420,NoMatch
-Q1271511,en,standard,720,NoMatch
-Q1313396,it,titolo,166,NoMatch
-Q1313396,fr,chapeau,721,NoMatch
-Q1333350,es,portada,503,NoMatch
-Q1353860,en,fringe,217,NoMatch
-Q1415372,fr,chaîne,387,NoMatch
-Q1415372,es,camino,477 519,NoMatch
-Q1429223,it,laminato,302,NoMatch
-Q1485097,it,pedale,648,NoMatch
-Q1542411,en,pomegranate,761,#CloseMatch
-Q1542411,fr,grenade,761,#CloseMatch
-Q1542411,es,granada,761,#CloseMatch
-Q1562096,fr,ferronnerie,510,NoMatch
-Q1590639,es,armadura,318,NoMatch
-Q1621080,fr,olive,518,NoMatch
-Q1621080,it,oliva,518,NoMatch
-Q1639165,en,hat,721,NoMatch
-Q1660919,es,orla,783,NoMatch
-Q1788454,es,cruce,413,NoMatch
-Q1851710,en,structure,410,NoMatch
-Q2067535,fr,dragon,774,NoMatch
-Q2380327,en,waistcoat,727,#ExactMatch
-Q2380327,es,chupa,727,NoMatch
-Q2529255,en,float,60 871,NoMatch
-Q2702291,en,double,420,NoMatch
-Q2748498,en,batten,72,NoMatch
-Q2862826,it,armatura,318,#ExactMatch
-Q2862826,en,weave,318,#ExactMatch
-Q2862826,fr,armure,318,#ExactMatch
-Q2862826,es,ligamento,318,#ExactMatch
-Q2871935,fr,aurore,52,#ExactMatch
-Q2871935,es,aurora,52,#ExactMatch
-Q2897292,en,drugget,174,NoMatch
-Q2897292,it,droghetto,174,NoMatch
-Q2912707,es,estandarte,720,#ExactMatch
-Q2912707,fr,étendard,720,#ExactMatch
-Q2912707,it,stendardo,720,#ExactMatch
-Q2983013,fr,collerette,82,NoMatch
-Q3045036,fr,lame,429,NoMatch
-Q3093009,fr,dais,737 740,NoMatch
-Q3248828,fr,vigne,793,NoMatch
-Q3287337,fr,marabout,335,NoMatch
-Q3294449,fr,marli,341,NoMatch
-Q3356530,fr,ornement,18 861,NoMatch
-Q3444710,fr,carton,622,NoMatch
-Q3454686,fr,réduction,166,NoMatch
-Q3500504,en,reed,359,#BroadMatch
-Q3500504,it,pettine,359,#BroadMatch
-Q3500504,fr,peigne,359,#BroadMatch
-Q3514338,en,printing technique,198,NoMatch
-Q3663882,en,dragon,774,NoMatch
-Q3745573,it,fimbria,217,NoMatch
-Q3914431,fr,saya,717,NoMatch
-Q3968171,en,batten,72,NoMatch
-Q3991930,it,titolo,166,NoMatch
-Q4202277,es,aplicación,39,NoMatch
-Q4242241,en,camlet,406,#BroadMatch
-Q4242241,es,camelote,406,#BroadMatch
-Q4492625,en,frame,783,NoMatch
-Q4558786,en,loop,757,NoMatch
-Q4727574,fr,garance,251,NoMatch
-Q4856913,en,banner,720,NoMatch
-Q4931276,en,board,622,NoMatch
-Q5004679,fr,chemin,477 519,NoMatch
-Q5004679,es,camino,477 519,NoMatch
-Q5170148,en,core,29,NoMatch
-Q5170150,en,core,29,NoMatch
-Q5299640,en,double,420,NoMatch
-Q5305470,fr,dragon,774,NoMatch
-Q5375783,en,end,279 485,NoMatch
-Q5375784,en,end,279 485,NoMatch
-Q5459835,en,float,60 871,NoMatch
-P163,en,flag,719,NoMatch
-P163,fr,drapeau,719,NoMatch
-Q5477883,en,frame,783,NoMatch
-Q5607438,en,grenadine,225,#ExactMatch
-Q5607438,en,grenadine,249,#RelatedMatch
-Q6501052,it,paramento liturgico,731,#ExactMatch
-Q6501052,es,vestidura litúrgica,701,NoMatch
-Q7193850,en,pile,438,NoMatch
-Q7193857,en,pile weave,379,NoMatch
-Q7858456,en,twist,382 530,NoMatch
-Q8069319,en,zephyr,272,NoMatch
-Q10475001,es,seda,368,#BroadMatch
-Q10475001,fr,soie,368,#BroadMatch
-Q10475001,it,seta,368,#BroadMatch
-Q10475001,en,silk,368,#BroadMatch
-Q10817602,en,pineapple,753,#BroadMatch
-Q10817602,fr,ananas,753,#BroadMatch
-Q10817602,es,piña,753,#BroadMatch
-Q10817602,it,ananas,753,#BroadMatch
-Q11992695,en,flag,719,NoMatch
-Q12016695,en,flush,60,NoMatch
-Q12068953,en,star,762,NoMatch
-Q13766456,en,lion,767,NoMatch
-Q14290457,fr,damier,826,NoMatch
-Q14915034,it,portata,503,NoMatch
-Q16623784,en,roses,785,NoMatch
-Q16623784,fr,rose,785,NoMatch
-Q16665874,fr,métier à la tire,449,#BroadMatch
-Q16665874,es,telar de tiro,449,#BroadMatch
-Q16846061,fr,panne,534,NoMatch
-Q17138781,en,twist,382 530,NoMatch
-Q17310518,en,graph paper,856,NoMatch
-Q17378201,es,cabo,485,NoMatch
-Q18089021,en,pile,438,NoMatch
-Q20019014,en,saya,717,NoMatch
-P2048,it,altezza,66,NoMatch
-Q24529780,es,punta,364,NoMatch
-Q28975326,en,pelican,823,NoMatch
-Q29045268,en,pekin,361,#ExactMatch
-Q29045268,fr,pékin,361,NoMatch
-Q29211909,fr,ciboire,782,NoMatch
-Q29211910,fr,ciboire,782,NoMatch
-Q29211915,fr,calice,790,NoMatch
-Q29211918,fr,calice,790,NoMatch
-Q29260793,fr,chrisme,792,NoMatch
-Q29261459,fr,chrisme,792,NoMatch
-Q29264426,fr,chrisme,792,NoMatch
-Q29274558,fr,ange,773,NoMatch
-Q29299711,fr,lion,767,NoMatch
-Q43107351,es,teñido en pieza,454,NoMatch
-Q47185760,en,border,775 783,NoMatch
-Q50402369,en,crown,755,NoMatch
-Q50402369,es,corona,755,NoMatch
-Q53672929,en,ribbon,756,NoMatch
-Q55353581,en,vase,754,NoMatch
-Q55740961,it,cerro,217,NoMatch
-Q55740966,it,cerro,217,NoMatch
-Q56479259,it,filanda,262,NoMatch
-Q59507148,en,border,775,#ExactMatch
-Q59507148,en,border,783,#RelatedMatch
-Q60693354,fr,parement d'autel,714,NoMatch
-Q61750010,fr,vase,754,NoMatch
-Q64224974,en,phoenix,839,#ExactMatch
-Q64224974,fr,phénix,835,NoMatch
-Q64224974,it,fenice,839,NoMatch
-Q64355657,en,frock,715,NoMatch
-Q64431056,es,arcada,403,NoMatch
-Q66034614,es,tirador de lazos,464,#ExactMatch
-Q66034614,fr,tireur de lacs,464,#ExactMatch
-Q66034614,it,tiratore di lacci,464,NoMatch
-Q81525074,en,fabric,649,NoMatch
-Q90229952,fr,calice,790,NoMatch
-Q90804117,fr,calice,790,NoMatch
-Q90805116,fr,ciboire,782,NoMatch
-Q90809052,fr,calice,790,NoMatch
-Q90809161,fr,calice,790,NoMatch
-Q90924333,fr,velours gaufré,460,NoMatch
-Q92311493,fr,rouleau,363,NoMatch
-Q161,en,fibre,209,#ExactMatch
-Q161,fr,fibre,209,#ExactMatch
-Q161,it,fibra,209,#ExactMatch
-Q161,es,fibra,209,#ExactMatch
-Q553,it,dente,419,NoMatch
-Q553,fr,dent,419,NoMatch
-Q553,es,diente,419,NoMatch
-Q20634,es,vid,793,NoMatch
-Q33640,es,445,276,NoMatch
-Q39515,en,heddle,428,#ExactMatch
-Q39515,it,liccio,324,#ExactMatch
-Q82604,es,diseño,859,#ExactMatch
-Q82604,en,design,859,#ExactMatch
-Q134609,fr,artichaut,821,NoMatch
-Q134609,en,artichoke,821,NoMatch
-Q157662,es,cabo,485,NoMatch
-Q173106,it,nodo,757,NoMatch
-Q185674,es,campo,444,NoMatch
-Q185674,it,campo,477 519,NoMatch
-Q189791,it,diagonale,367,NoMatch
-Q191022,it,sciarpa,724,#RelatedMatch
-Q191709,en,chandelier,794,#BroadMatch
-Q191851,fr,vase,754,#BroadMatch
-Q191851,es,jarrón,754,#BroadMatch
-Q191851,it,vaso,754,#BroadMatch
-Q191851,en,vase,754,#BroadMatch
-Q200674,fr,croix latine,779,#BroadMatch
-Q200674,it,croce latina,779,#BroadMatch
-Q200674,es,cruz latina,779,#BroadMatch
-Q201097,es,cesta,787,#BroadMatch
-Q201097,fr,panier,787,#BroadMatch
-Q201097,en,basket,787,#BroadMatch
-Q201714,fr,tunique,729,#BroadMatch
-Q201714,es,túnica,729,#BroadMatch
-Q201714,it,tunica,729,#BroadMatch
-Q201714,en,tunic,729,#BroadMatch
-Q210723,fr,calice,790,#BroadMatch
-Q210723,es,cáliz,790,#BroadMatch
-Q210723,it,calice,790,#BroadMatch
-Q210723,en,chalice,790,#BroadMatch
-Q218248,fr,grotesque,809,#BroadMatch
-Q218248,es,grotesco,809,#BroadMatch
-Q237893,fr,montage,431,NoMatch
-Q242009,it,intreccio,410 413,NoMatch
-Q328092,it,cornice,783,NoMatch
-Q357186,fr,papier millimétré,856,NoMatch
-Q368584,en,saya,717,NoMatch
-Q370502,fr,application,39,NoMatch
-Q377804,fr,armure,318,NoMatch
-Q377804,es,armadura,318,NoMatch
-Q377804,it,armatura,318,NoMatch
-Q448030,es,batán,72,NoMatch
-Q453762,en,spinning,267,NoMatch
-Q483444,es,kimono,728,#BroadMatch
-Q483444,fr,kimono,728,#BroadMatch
-Q483444,en,kimono,728,NoMatch
-Q512604,en,loop,757,NoMatch
-Q516992,fr,cape,843,#ExactMatch
-Q516992,es,manto,716,#ExactMatch
-Q516992,it,mantello,716,NoMatch
-Q598671,en,doublet,718,NoMatch
-Q622821,es,cuenta,166,NoMatch
-Q658310,en,frock,715,NoMatch
-Q679529,it,armatura,318,NoMatch
-Q690160,en,edge,775,NoMatch
-Q728243,en,crossing,413,NoMatch
-Q739589,fr,ornement,18 861,NoMatch
-Q780486,en,byssus,830,#ExactMatch
-Q780486,fr,byssus,830,#ExactMatch
-Q781953,en,pill,226,NoMatch
-Q783521,fr,titre,483,NoMatch
-Q783521,it,titolo,166,NoMatch
-Q783521,es,título,483,NoMatch
-Q838070,en,strip,797,NoMatch
-Q885039,fr,blonde,73,NoMatch
-Q890478,fr,feuille,750,NoMatch
-Q908430,en,crown,755,#BroadMatch
-Q908430,es,corona,755,#BroadMatch
-Q908430,it,corona,755,#BroadMatch
-Q908430,fr,couronne,755,#BroadMatch
-Q912142,fr,damas,168,#ExactMatch
-Q912142,en,damask,168,#ExactMatch
-Q912142,es,damasco,168,#ExactMatch
-Q912142,it,damasco,168,#ExactMatch
-Q917284,en,vine,793,NoMatch
-Q926230,fr,effet,175,NoMatch
-Q926230,en,effect,175,NoMatch
-Q926230,es,efecto,175,NoMatch
-Q926230,it,effetto,175,NoMatch
-Q940913,fr,chenille,417,NoMatch
-Q979962,fr,maille,427,NoMatch
-Q990683,fr,broché,192,NoMatch
-Q1051839,en,pashmina,724,NoMatch
-Q1069298,es,470,178,NoMatch
-Q1070358,en,ribbon,147 756,NoMatch
-Q1188853,it,nodo,757,NoMatch
-Q1201922,en,wreath,760,NoMatch
-Q1366002,fr,chemin,477 519,NoMatch
-Q1366187,it,portata,503,NoMatch
-Q1376436,it,stringa,264,NoMatch
-Q1391831,en,thread,268,#RelatedMatch
-Q1391831,fr,fil,268,#RelatedMatch
-Q1391831,fr,fil,696,#ExactMatch
-Q1410477,fr,costume,699,NoMatch
-Q1427141,fr,âme,29,NoMatch
-Q1550781,it,corona,755,NoMatch
-Q1567420,fr,chiffon,142,NoMatch
-Q1742316,fr,natté,694,NoMatch
-Q1752380,en,nuance,338 476,NoMatch
-Q1782991,en,construction,410,NoMatch
-Q1785388,it,mantello,716 738,NoMatch
-Q1785388,es,manto,716 738,NoMatch
-Q1785388,fr,manteau,716 738,NoMatch
-Q2077710,en,face,27,NoMatch
-Q2089634,en,phoenix,839,#BroadMatch
-Q2089634,fr,phénix,835,NoMatch
-Q2089634,it,fenice,839,#BroadMatch
-Q2092297,en,eagle,771,#BroadMatch
-Q2092297,es,águila,771,#BroadMatch
-Q2092297,fr,aigle,771,#BroadMatch
-Q2092297,it,aquila,771,#BroadMatch
-Q2135859,en,lozenge twill,496,#ExactMatch
-Q2135859,fr,losange,496,#ExactMatch
-Q2135859,fr,losange,768,NoMatch
-Q2135859,es,losange,496,#ExactMatch
-Q2135859,it,diamantina,496,NoMatch
-Q2147038,en,shaft,324,NoMatch
-Q2183220,it,costa,405,NoMatch
-Q2236563,fr,pas,396,NoMatch
-Q2236563,it,passo,396,NoMatch
-Q2283464,it,canestro,787,NoMatch
-Q2283464,fr,panier,787,NoMatch
-Q2283464,en,basket,787,NoMatch
-Q2345087,en,fibroin,24,#ExactMatch
-Q2345087,es,fibroína,24,NoMatch
-Q2349299,en,tie,757,NoMatch
-Q2438930,it,pelo,360 438,NoMatch
-Q2726568,it,altezza,66,NoMatch
-Q2827871,fr,aiguille,616,NoMatch
-Q2933965,fr,calice,790,NoMatch
-Q2933965,es,cáliz,790,NoMatch
-Q2933965,it,calice,790,NoMatch
-Q2995443,en,motif,742,NoMatch
-Q3075310,fr,fond,223,NoMatch
-Q3075310,it,fondo,221 223,NoMatch
-Q3075310,es,fondo,221 223,NoMatch
-Q3116435,fr,grenadine,225 249,NoMatch
-Q3116435,es,granadina,225,#BroadMatch
-Q3243230,fr,soie de mer,830,NoMatch
-Q3306078,en,shot,119 436 465,NoMatch
-Q3515476,fr,tapis,28,NoMatch
-Q3515476,en,tapis,28,NoMatch
-Q3663356,it,catena,387,NoMatch
-Q3683460,it,colonia,149,NoMatch
-Q3745851,en,flax,488,NoMatch
-Q3747265,it,fondo,221 223,NoMatch
-Q3816685,en,blonde lace,73,#ExactMatch
-Q3816685,fr,blonde,73,#ExactMatch
-Q3843248,it,maglia,427,NoMatch
-Q3873422,it,navetta,311,NoMatch
-Q3873422,en,shuttle,311,NoMatch
-Q3873422,fr,navette,311,NoMatch
-Q3935248,it,riduzione,166,NoMatch
-Q3940795,it,rombo,768,NoMatch
-Q4171386,it,anima,29,NoMatch
-Q4171386,es,alma,29,NoMatch
-Q4357882,en,double cloth,421,#ExactMatch
-Q4357882,es,doble tela,421,#ExactMatch
-Q5189298,en,crown,755,NoMatch
-Q5189298,es,corona,755,NoMatch
-Q5189298,it,corona,755,NoMatch
-Q6070109,es,lirio,887,NoMatch
-Q6481697,en,lamella,285,NoMatch
-Q6997582,en,vine,793,NoMatch
-Q7169371,fr,motif,742,NoMatch
-Q7316656,es,arcada,403,NoMatch
-Q7534724,en,sketch,861,NoMatch
-Q7595945,es,campo,444,NoMatch
-Q9053464,fr,costume,699,NoMatch
-Q10623719,it,altezza,66,NoMatch
-Q11173709,en,phoenix,839,NoMatch
-Q12321255,fr,toile,236 862,NoMatch
-Q12769393,en,end,279 485,NoMatch
-Q14085739,fr,voile,710,NoMatch
-Q16593391,it,quadro,429,NoMatch
-Q16596565,it,riduzione,166,NoMatch
-Q17504209,en,star,762,NoMatch
-Q18206654,it,bava,478,NoMatch
-Q20679890,en,flush,60,NoMatch
-Q485027,fr,armure,318,NoMatch
-Q485027,es,armadura,318,NoMatch
-Q485027,it,armatura,318,NoMatch
-Q25962599,en,stars,762,NoMatch
-Q29120811,fr,calice,790,NoMatch
-Q29125476,fr,ange,773,NoMatch
-Q29128601,fr,ange,773,NoMatch
-Q29211925,fr,calice,790,NoMatch
-Q29242956,fr,lion,767,NoMatch
-Q29260290,fr,chrisme,792,NoMatch
-Q29261847,fr,chasuble,702,NoMatch
-Q29310392,fr,ange,773,NoMatch
-Q29514179,en,lace,791 364 180 ,NoMatch
-Q29514179,es,cordón,623,#BroadMatch
-Q29527561,es,boceto,861,#ExactMatch
-Q29561475,en,cross twill,600,#ExactMatch
-Q29639251,en,printed fabric,197,NoMatch
-Q31834953,fr,drapeau,719,NoMatch
-Q35010210,fr,peigne,359,NoMatch
-Q39709980,en,board,622,NoMatch
-Q41553020,en,design,816,NoMatch
-Q41553020,fr,conception,859,NoMatch
-Q42170649,fr,chapeau,721,NoMatch
-Q43153155,en,pomegranate,761,NoMatch
-Q47089651,en,flax,488,NoMatch
-Q47089651,fr,lin,488,NoMatch
-Q50316288,fr,peigne,359,NoMatch
-Q50316288,it,pettine,359,NoMatch
-Q52793492,en,pattern weft,470,#ExactMatch
-Q52793492,fr,trame lancée,470,#ExactMatch
-Q54810368,en,ground weave,221,#ExactMatch
-Q54810368,fr,armure de fond,221,#ExactMatch
-Q54935958,en,binding warp,391,#ExactMatch
-Q54935958,fr,chaîne de liage,391,NoMatch
-Q55239425,fr,bande,836,NoMatch
-Q55353901,en,loom,450,NoMatch
-Q55366661,en,quill,263 127,NoMatch
-Q55368177,en,needle,616,NoMatch
-Q55368177,es,aguja,616,NoMatch
-Q55368177,fr,aiguille,616,NoMatch
-Q55732412,es,pasada,436,NoMatch
-Q55741165,it,vite,793,NoMatch
-Q55741502,it,vite,793,NoMatch
-Q55741634,it,cerro,217,NoMatch
-Q55742199,it,cerro,217,NoMatch
-Q55742247,it,cerro,217,NoMatch
-Q56877283,fr,ciboire,782,NoMatch
-Q57003787,fr,tordre,530,NoMatch
-Q60646305,en,pall,713,NoMatch
-Q60879587,it,pelo,360 438,NoMatch
-Q64037025,fr,lampas,305,#ExactMatch
-Q64037025,it,lampasso,305,#ExactMatch
-Q64140922,fr,rose,785,#BroadMatch
-Q64149073,fr,samit,293,#ExactMatch
-Q64618487,es,colgadura,739,#BroadMatch
-Q64618487,fr,tenture,739,#BroadMatch
-Q65965557,en,broken twill,600,#ExactMatch
-Q65972441,en,repeat,444,#ExactMatch
-Q65972441,fr,rapport,444,#ExactMatch
-Q74463210,fr,velouté,47,NoMatch
-Q90232455,fr,ciboire,782,NoMatch
-Q90232785,fr,ciboire,782,NoMatch
-Q90580452,fr,calice,790,NoMatch
-Q90804065,fr,ciboire,782,NoMatch
-Q90804088,fr,ciboire,782,NoMatch
-Q90804361,fr,calice,790,NoMatch
-Q90805141,fr,ciboire,782,NoMatch
-Q90805148,fr,ciboire,782,NoMatch
-Q90805173,fr,calice,790,NoMatch
-Q90810393,fr,ciboire,782,NoMatch
-Q90810400,fr,ciboire,782,NoMatch
-Q91132546,en,voided velvet,459,#ExactMatch
-Q91805998,en,pile-on-pile velvet,458,NoMatch
-Q7748,it,diritto,27,NoMatch
-Q11022,it,vite,793,NoMatch
-Q37017,en,face,27,NoMatch
-Q43417,es,fondo,221 223,NoMatch
-Q49007,en,yarn,696,#ExactMatch
-Q49007,es,hilo,696,#ExactMatch
-Q49007,es,hilo,268,#BroadMatch
-Q55995,en,naturalism,664,#BroadMatch
-Q147398,es,espiga,836,#BroadMatch
-Q147398,it,spiga,836,#BroadMatch
-Q147398,en,ear,836,#BroadMatch
-Q151771,fr,chandelier,794,NoMatch
-Q166142,fr,application,39,NoMatch
-Q166142,it,applicazione,39,NoMatch
-Q167270,es,marca,342,NoMatch
-Q170494,fr,corps,414,NoMatch
-Q170494,es,cuerpo,414,NoMatch
-Q178413,es,galón,230,NoMatch
-Q178413,it,gallone,230,NoMatch
-Q181362,es,crepé,157,#ExactMatch
-Q181362,fr,crêpe,157,#ExactMatch
-Q181362,it,crêpe,157,NoMatch
-Q183272,fr,frise,775,NoMatch
-Q183272,it,fregio,775,NoMatch
-Q185148,es,intervalo,493,NoMatch
-Q189940,it,catena,387,NoMatch
-Q201851,it,spina,367,NoMatch
-Q203478,en,polonaise,540,NoMatch
-Q211568,it,giglio,887,NoMatch
-Q211568,it,giglio,824,#CloseMatch
-Q211568,en,fleur-de-lis,824,#CloseMatch
-Q232191,it,maglia,427,NoMatch
-Q236232,it,cintura,139 139 147,NoMatch
-Q243519,fr,velours,379,#CloseMatch
-Q243519,es,terciopelo,379,#CloseMatch
-Q243519,it,velluto,379,#CloseMatch
-Q243519,en,velvet,379,#CloseMatch
-Q382874,fr,torsion,63 382,NoMatch
-Q382874,es,torsión,382,NoMatch
-Q384873,en,leash,427,NoMatch
-Q397648,fr,agrément,18,NoMatch
-Q445972,fr,pourpoint,718,#ExactMatch
-Q445972,es,jubón,718,#ExactMatch
-Q445972,en,doublet,718,#ExactMatch
-Q452858,en,polonaise,540,NoMatch
-Q475000,fr,bourse,735,NoMatch
-Q504779,fr,kesa,735,NoMatch
-Q513206,it,lustro,489,NoMatch
-Q552299,fr,chaîne,387,NoMatch
-Q552299,it,catena,387,NoMatch
-Q655357,es,atlas,125,NoMatch
-Q672590,en,grotesque,809,#ExactMatch
-Q725457,fr,mousseline,355,#CloseMatch
-Q725457,en,muslin,355,#CloseMatch
-Q725457,es,muselina,355,#CloseMatch
-Q725457,it,mussola,355,#CloseMatch
-Q745316,es,escudo,789,NoMatch
-Q752296,fr,palme,763,NoMatch
-Q806869,es,bandera,719,NoMatch
-Q806869,en,banner,720,NoMatch
-Q830328,it,corona,755,NoMatch
-Q849829,en,cope,705,NoMatch
-Q909576,fr,dragon,774,NoMatch
-Q909576,en,dragon,774,NoMatch
-Q930924,it,corpetto,730,NoMatch
-Q958210,fr,gilet,727,NoMatch
-Q958210,it,panciotto,727,NoMatch
-Q958210,en,waistcoat,727,NoMatch
-Q984959,fr,cannelé,1 2,NoMatch
-Q984959,it,cannellato,1 2,NoMatch
-Q1016957,fr,bourse,735,#ExactMatch
-Q1016957,es,bolsa de corporales,735,#ExactMatch
-Q1016957,en,burse,735,#ExactMatch
-Q1057522,en,plush,17,#RelatedMatch
-Q1057522,en,plush,202,#RelatedMatch
-Q1057522,en,plush,439,#ExactMatch
-Q1057522,it,peluche,439,#ExactMatch
-Q1134503,it,corona,755,NoMatch
-Q1134503,es,corona,755,NoMatch
-Q1152241,fr,serge,367,#RelatedMatch
-Q1152241,en,twill weave,238,#ExactMatch
-Q1152241,en,twill,238,#ExactMatch
-Q1152241,en,twill,367,#RelatedMatch
-Q1152241,it,saia,367,#RelatedMatch
-Q1152241,it,saia,238,#ExactMatch
-Q1152241,es,asargado,43,#RelatedMatch
-Q1153946,en,plain weave,236,#ExactMatch
-Q1153946,en,plain weave,44,#RelatedMatch
-Q1153946,fr,toile,236 862,NoMatch
-Q1197709,fr,réduction,166,NoMatch
-Q1261026,fr,imprimé,196 197,NoMatch
-Q1286741,en,ottoman,435,NoMatch
-Q1303310,es,atlas,125,NoMatch
-Q1368310,en,leaf,750,NoMatch
-Q1399356,it,catena,387,NoMatch
-Q1399356,fr,chaîne,387,NoMatch
-Q1402709,fr,médaillon,764,NoMatch
-Q1402709,it,medaglione,764,NoMatch
-Q1416517,es,cartón,521 622,NoMatch
-Q1416517,fr,carton,622,NoMatch
-Q1589116,en,canopy,737 740,NoMatch
-Q1589116,fr,dais,737 740,NoMatch
-Q1622547,en,core,29,NoMatch
-Q1708003,en,dragon,774,NoMatch
-Q1708003,es,dragón,774,NoMatch
-Q1708003,fr,dragon,774,NoMatch
-Q1758354,it,intreccio,410 413,NoMatch
-Q1758354,es,trama,384,NoMatch
-Q1865992,en,cord,623,#ExactMatch
-Q1865992,es,hebra,268,#RelatedMatch
-Q1969849,en,natté,694,#CloseMatch
-Q1969849,fr,natté,694,#CloseMatch
-Q1970335,fr,écru,164,#CloseMatch
-Q1985541,en,damassé,10,#ExactMatch
-Q1985541,fr,damassé,10,#ExactMatch
-Q1985541,es,adamascado,10,#ExactMatch
-Q2002752,fr,foulard,722,#CloseMatch
-Q2002752,es,velo,710,NoMatch
-Q2048179,it,palma,763,NoMatch
-Q2144381,es,ligadura,317,NoMatch
-Q2231138,fr,schappe,55,#ExactMatch
-Q2231138,en,schappe,90,#RelatedMatch
-Q2238160,es,marca,342,NoMatch
-Q2298133,en,pall,713,NoMatch
-Q2381072,en,frame,783,NoMatch
-Q2397485,fr,chaîne,387,NoMatch
-Q2397485,it,catena,387,NoMatch
-Q2399307,fr,inscription,758,NoMatch
-Q2479906,fr,portée,503,NoMatch
-Q2745866,en,shaft,324,NoMatch
-Q3241235,fr,lin,488,NoMatch
-Q3241235,es,lino,488,NoMatch
-Q3510770,en,metallic thread,497,NoMatch
-Q3556204,fr,vert céladon,394,NoMatch
-Q3764144,es,lirio,887,NoMatch
-Q3836720,en,loop,757,NoMatch
-Q3973051,fr,filature,262,#ExactMatch
-Q3973051,it,filanda,262,#ExactMatch
-Q4000449,it,tunica,729,NoMatch
-Q4071059,en,lion,767,NoMatch
-Q4876048,en,bead,115,NoMatch
-Q5033434,en,canopy,737 740,NoMatch
-Q5170145,en,core,29,NoMatch
-Q5456610,en,flag,719,NoMatch
-Q5477874,en,frame,783,NoMatch
-Q5849904,en,standard,720,NoMatch
-Q7148360,en,pattern,860,NoMatch
-Q7148362,en,pattern,860,NoMatch
-Q8083174,en,structure,410,NoMatch
-Q8868615,en,loop,757,NoMatch
-Q10318954,en,neoclassicism,674,NoMatch
-Q10605441,en,daisy,886,NoMatch
-Q10870555,fr,rapport,444,NoMatch
-Q11547758,en,wool,644,#ExactMatch
-Q11547758,es,lana,644,#ExactMatch
-Q11547758,fr,laine,644,#ExactMatch
-Q11812678,it,fondo,221 223,NoMatch
-Q12298060,it,tessitura,410 526,NoMatch
-Q12310114,en,angel,773,NoMatch
-Q13217555,es,fondo,223,NoMatch
-Q15982595,en,star,762,NoMatch
-Q16143108,en,beater,72,NoMatch
-Q16572889,it,liscio,321,NoMatch
-Q16889336,en,zephyr,272,NoMatch
-Q17231903,en,double,420,NoMatch
-Q17577215,en,lamella,285,#ExactMatch
-Q17577215,fr,lame,429,NoMatch
-Q17577215,it,laminetta,285,#ExactMatch
-Q18209559,it,disposizione,799,NoMatch
-P2049,en,width,66,NoMatch
-Q21076234,it,effetto,175,NoMatch
-Q21076234,en,effect,175,NoMatch
-Q23041430,fr,artichaut,821,#BroadMatch
-Q23041430,es,alcachofa,821,#BroadMatch
-Q23041430,it,carciofo,821,NoMatch
-Q23826330,en,eagle,771,NoMatch
-Q28960505,fr,lame métallique,285,#CloseMatch
-Q29167534,fr,tapisserie,608,NoMatch
-Q29211898,fr,calice,790,NoMatch
-Q29211940,fr,calice,790,NoMatch
-Q29405155,en,reed,359,NoMatch
-Q29586582,en,gold thread,627,#ExactMatch
-Q29586582,es,hilo de oro,627,#ExactMatch
-Q29586691,en,frisé,233,#ExactMatch
-Q29586691,fr,frisé,233,#ExactMatch
-Q29732002,en,double,420,NoMatch
-Q29951622,en,star,762,NoMatch
-Q30095434,en,cord,623,NoMatch
-Q34758434,en,end,279 485,NoMatch
-Q42890140,en,reed,359,NoMatch
-Q47507394,en,chalice veil,713,#ExactMatch
-Q55078809,es,gasa,222 232,NoMatch
-Q55351966,en,wreath,760,#ExactMatch
-Q55351966,es,guirnalda,760,#ExactMatch
-Q55351966,it,ghirlanda,760,#ExactMatch
-Q55413080,en,pattern,860,NoMatch
-Q55740992,it,cerro,217,NoMatch
-Q55741477,it,cerro,217,NoMatch
-Q55741636,it,cerro,217,NoMatch
-Q55742849,it,cerro,217,NoMatch
-Q55743153,it,vite,793,NoMatch
-Q56145959,en,needle,616,NoMatch
-Q57248625,es,marca,342,NoMatch
-Q60442663,es,547,276,NoMatch
-Q63442113,en,batik,65,#ExactMatch
-Q63676459,es,escudo,789,#BroadMatch
-Q63852445,fr,filoselle,216,#RelatedMatch
-Q64034366,en,lotus,835,NoMatch
-Q65082068,en,ground,223,NoMatch
-P7045,it,telaio,450,NoMatch
-Q66033606,en,undyed,164,#ExactMatch
-Q66033606,es,crudo,164,#ExactMatch
-Q66033606,fr,écru,164,#ExactMatch
-Q66033606,it,crudo,164,NoMatch
-Q66103780,es,cruce,413,NoMatch
-Q66119168,fr,brocher,105,NoMatch
-Q67377511,en,cocoon,132,#CloseMatch
-Q67441540,en,flag,719,#BroadMatch
-Q67441540,es,bandera,719,#BroadMatch
-Q67441540,fr,drapeau,719,#BroadMatch
-Q74488363,en,tabby,236,NoMatch
-Q89800979,en,rose,785,NoMatch
-Q90232443,fr,ciboire,782,NoMatch
-Q90804128,fr,calice,790,NoMatch
-Q90805906,fr,chandelier,794,NoMatch
-Q90809127,fr,ciboire,782,NoMatch
-Q91028826,en,pomegranate,761,NoMatch
-Q92279207,en,strip,797,NoMatch
-Q96211216,en,design,816 859,NoMatch
-Q708,fr,plomb,495,NoMatch
-Q708,it,piombo,495,NoMatch
-Q708,es,plomo,495,NoMatch
-Q1128,fr,radium,549,NoMatch
-Q1128,en,radium,549,NoMatch
-Q1493,fr,ananas,753,#BroadMatch
-Q1493,en,pineapple,753,NoMatch
-Q11563,es,número,483,NoMatch
-Q14659,it,stemma,789,NoMatch
-Q25999,fr,voile,710,NoMatch
-Q27948,es,lista,797,NoMatch
-Q30322,es,536,276,NoMatch
-Q32114,es,470,178,NoMatch
-Q80151,es,sombrero,721,#BroadMatch
-Q80151,fr,chapeau,721,#BroadMatch
-Q80151,it,cappello,721,#BroadMatch
-Q80151,en,hat,721,#BroadMatch
-Q115488,fr,médaillon,764,#BroadMatch
-Q115488,en,medallion,764,#BroadMatch
-Q115488,it,medaglione,764,NoMatch
-Q118120,en,reel,263,NoMatch
-Q118587,es,alzacuellos,708,#ExactMatch
-Q118587,fr,col romain,708,NoMatch
-Q133156,it,colonia,149,NoMatch
-Q151970,fr,chrisme,792,#ExactMatch
-Q151970,es,crismón,792,NoMatch
-Q152574,fr,manteau,716 738,NoMatch
-Q160091,en,plain,321,NoMatch
-Q169336,es,mezcla,635,NoMatch
-Q173056,es,telar,450,#BroadMatch
-Q173056,it,telaio,450,#BroadMatch
-Q173056,en,loom,450,NoMatch
-Q186637,fr,arcade,403,NoMatch
-Q186637,es,arcada,403,NoMatch
-Q186637,it,arcata,403,NoMatch
-Q196117,es,doblado,420,NoMatch
-Q208826,it,altezza,66,NoMatch
-Q213092,en,thread,268,NoMatch
-Q235113,en,angel,773,#BroadMatch
-Q235113,es,ángel,773,#BroadMatch
-Q235113,fr,ange,773,#BroadMatch
-Q235113,it,angelo,773,#BroadMatch
-Q236090,es,470,178,NoMatch
-Q244696,es,peso,495,NoMatch
-Q269345,en,lamella,285,NoMatch
-Q269345,fr,lame,429,NoMatch
-Q303826,en,crimson,134,#ExactMatch
-Q303826,en,crimson,135,NoMatch
-Q303826,es,carmesí,134,#ExactMatch
-Q303826,es,carmesí,135,NoMatch
-Q303826,fr,cramoisi,134,#ExactMatch
-Q303826,fr,cramoisi,135,NoMatch
-Q330946,fr,lame,429,NoMatch
-Q330946,es,hoja,750,NoMatch
-Q431289,es,marca,342,NoMatch
-Q431289,it,marca,342,NoMatch
-Q457931,en,fabric,649,NoMatch
-Q508295,es,cuenta,166,NoMatch
-Q508295,fr,compte,166,NoMatch
-Q535611,en,neoclassicism,674,NoMatch
-Q591274,fr,métamère,465,NoMatch
-Q612908,fr,croix grecque,778,#BroadMatch
-Q618710,fr,gaze,222,#RelatedMatch
-Q618710,fr,gaze,232,#ExactMatch
-Q618710,en,gauze,222,#RelatedMatch
-Q618710,en,gauze,232,#ExactMatch
-Q622964,en,double-headed eagle,772,"
-#ExactMatch"
-Q635427,fr,batik,65,NoMatch
-Q643584,es,punta,364,NoMatch
-Q694969,fr,chaîne,387,NoMatch
-Q756780,en,colonia,149,NoMatch
-Q799000,en,badge,789,NoMatch
-Q840507,es,lazo,313 756,NoMatch
-Q845391,fr,armure,318,NoMatch
-Q845391,it,armatura,318,NoMatch
-Q860792,fr,cadre,429,NoMatch
-Q860792,es,marco,429,NoMatch
-Q860792,it,cornice,783,NoMatch
-Q898879,fr,grecque,776,#ExactMatch
-Q898879,it,greca,776,#ExactMatch
-Q898879,es,greca,776,#ExactMatch
-Q925920,fr,trame,384,NoMatch
-Q940147,it,corona,755,NoMatch
-Q1088457,en,rinceau,811,#ExactMatch
-Q1088457,it,racemo,811,#ExactMatch
-Q1089123,es,marco,429,NoMatch
-Q1133563,es,cambiante,119,NoMatch
-Q1172412,it,campo,477 519,NoMatch
-Q1223884,fr,chaîne,387,NoMatch
-Q1324102,es,contrapeso,495,NoMatch
-Q1392130,fr,drapeau,719,NoMatch
-Q1392130,en,flag,719,NoMatch
-Q1401905,fr,titre,483,NoMatch
-Q1401905,it,titolo,166,NoMatch
-Q1416144,fr,drapeau,719,NoMatch
-Q1420806,en,reel,263,#BroadMatch
-Q1420806,es,carrete,831,#BroadMatch
-Q1469779,en,rose,785,#ExactMatch
-Q1469779,it,rosa,785,#ExactMatch
-Q1469779,fr,rose,785,#ExactMatch
-Q1476062,en,pall,713,#CloseMatch
-Q1476582,fr,voile de calice,713,#CloseMatch
-Q1476582,en,chalice veil,713,#CloseMatch
-Q1520324,en,serge,43,#ExactMatch
-Q1520324,en,serge,238,#RelatedMatch
-Q1570567,en,half silk,340,NoMatch
-Q1640811,en,fibre,209,NoMatch
-Q1640811,it,fibra,209,NoMatch
-Q1697305,en,motif,742,NoMatch
-Q1697305,it,motivo,742,NoMatch
-Q1704480,fr,ornement,18 861,NoMatch
-Q1752512,fr,moire,347,#ExactMatch
-Q1752512,fr,moire,662,#RelatedMatch
-Q1784238,en,basket,787,#BroadMatch
-Q1784238,fr,panier,787,#BroadMatch
-Q1788780,es,palio,726,NoMatch
-Q1943467,en,selvage,357,#ExactMatch
-Q1943467,es,orillo,357,#ExactMatch
-Q1943467,fr,lisière,357,NoMatch
-Q2001588,en,palm,763,NoMatch
-Q2001588,es,palma,763,NoMatch
-Q2010254,fr,tétramorphe,798,#ExactMatch
-Q2010254,en,tetramorph,798,#ExactMatch
-Q2046167,it,maglione,428,NoMatch
-Q2083958,en,pattern,860,#CloseMatch
-Q2083958,fr,motif,742,NoMatch
-Q2138208,en,crown,755,NoMatch
-Q2164217,en,ground,223,NoMatch
-Q2164576,it,cornice,783,NoMatch
-Q2269650,fr,lampas,305,#ExactMatch
-Q2269650,es,lampás,305,#ExactMatch
-Q2269650,en,lampas,305,#ExactMatch
-Q2269650,it,lampasso,305,#ExactMatch
-Q2426218,en,modernism,673,NoMatch
-Q2490224,es,indumentaria religiosa,701,NoMatch
-Q2541324,it,pizzo,180 791,NoMatch
-Q2891667,fr,battant,72,NoMatch
-Q2940174,en,edge,775,NoMatch
-Q2981904,fr,bobine,263 831,NoMatch
-Q2996915,fr,ponceau,365,NoMatch
-Q3038691,fr,dragon,774,NoMatch
-Q3053322,es,disposición,799,#RelatedMatch
-Q3053322,en,disposition,799,#RelatedMatch
-Q3063290,fr,pallium,726,NoMatch
-Q3063290,it,pallio,726,NoMatch
-Q3064117,en,face,27,NoMatch
-Q3064489,fr,faille,201,NoMatch
-Q3297804,en,edge,775,NoMatch
-Q3301501,en,filé,184,NoMatch
-Q3304024,en,shoot,436,NoMatch
-Q3503480,en,face,27,NoMatch
-Q3564710,es,arabesco,766,NoMatch
-Q3625549,fr,montage,431,NoMatch
-Q3640877,it,blasone,789,NoMatch
-Q3654600,it,campo,477 519,NoMatch
-Q3846914,it,margherita,886,#ExactMatch
-Q3846914,en,daisy,886,#ExactMatch
-Q3846914,fr,marguerite,886,#ExactMatch
-Q3846914,es,margarita,886,#ExactMatch
-Q3935249,it,riduzione,166,NoMatch
-P41,it,bandiera,719,NoMatch
-Q4248527,fr,bouillon,129,NoMatch
-Q4887700,en,bengaline,70,#ExactMatch
-Q4887700,fr,bengaline,70,#ExactMatch
-Q5078274,en,sketch,861,NoMatch
-Q5078274,fr,esquisse,861,NoMatch
-Q5078274,es,boceto,861,NoMatch
-Q5164415,en,construction,410,NoMatch
-Q5170147,en,core,29,NoMatch
-Q5189865,it,crudo,164,NoMatch
-Q5299641,en,double,420,NoMatch
-Q5299642,en,double,420,NoMatch
-Q5415826,en,evangelist,889,NoMatch
-Q5861518,es,fibra artificial,35,#ExactMatch
-Q6150593,fr,dentelle à l'aiguille,181,#ExactMatch
-Q6523033,fr,gaze anglaise,234,NoMatch
-Q7798503,en,throw,348,NoMatch
-Q8563541,en,flag,719,NoMatch
-Q8563541,fr,drapeau,719,NoMatch
-Q8737769,it,portata,503,NoMatch
-Q12030216,en,cord,623,NoMatch
-Q12060020,fr,serge,367,#ExactMatch
-Q12060020,en,twill,367,#ExactMatch
-Q12060020,en,twill,238,#RelatedMatch
-Q12060020,it,batavia,62 641,NoMatch
-Q15736718,es,haz,27,NoMatch
-Q17325659,es,peso,495,NoMatch
-Q19801288,fr,harnais,41,NoMatch
-Q19801288,en,harness,41 414,NoMatch
-Q20026824,fr,fibre végétale,214,#ExactMatch
-Q20026824,es,fibra vegetal,214,#ExactMatch
-Q20026824,it,fibra vegetale,214,#ExactMatch
-P2225,it,portata,503,NoMatch
-Q21551050,en,tiraz,380,NoMatch
-Q21560004,it,calice,790,NoMatch
-Q21560004,en,chalice,790,NoMatch
-Q23692101,es,corona,755,NoMatch
-Q24082844,it,bolla,84,NoMatch
-Q26225677,fr,montage,431,NoMatch
-Q28484848,en,face,27,NoMatch
-Q28517923,es,águila,771,NoMatch
-Q28839480,en,girdle,139,NoMatch
-Q29163818,fr,ange,773,NoMatch
-Q29211896,fr,ciboire,782,NoMatch
-Q29211948,fr,calice,790,NoMatch
-Q29211981,fr,calice,790,NoMatch
-Q29211984,fr,calice,790,NoMatch
-Q29230702,fr,dragon,774,NoMatch
-Q29260724,fr,chrisme,792,NoMatch
-Q29335541,en,floral pattern,743,#ExactMatch
-Q29335541,es,motivos florales,743,#ExactMatch
-Q29335541,fr,motif floral,743,#ExactMatch
-Q29335541,it,motivo floreale,743,#ExactMatch
-Q29711921,en,cocoon,132,NoMatch
-Q29714599,en,veil,710,NoMatch
-Q29714933,en,angel,773,NoMatch
-Q29726000,en,ox,825,NoMatch
-Q29732338,en,rug,28 28,NoMatch
-Q29788165,it,grottesco,809,#BroadMatch
-Q29788165,en,grotesque,809,#BroadMatch
-Q33133547,en,sendal,138,#ExactMatch
-Q33133547,fr,cendal,138,#ExactMatch
-Q44740228,en,wall hanging,739,#ExactMatch
-Q44740228,it,tappezzeria,629,NoMatch
-Q47526964,en,leaf,750,NoMatch
-Q50414774,es,armadura,318,NoMatch
-Q50414774,it,armatura,318,NoMatch
-Q52159630,fr,chevron,189,#ExactMatch
-Q52159630,it,spina di pesce,189,#ExactMatch
-Q52799055,es,efecto de trama,837,NoMatch
-Q52799055,fr,lancé,178,#ExactMatch
-Q52799055,fr,lancé,310,#RelatedMatch
-Q55238861,es,cinta,147 757,NoMatch
-Q55238861,fr,ruban,147 756,NoMatch
-Q55343967,es,lanzadera,311,#RelatedMatch
-Q55343967,it,navetta,311,#RelatedMatch
-Q55740979,it,cerro,217,NoMatch
-Q55740991,it,cerro,217,NoMatch
-Q55741486,it,cerro,217,NoMatch
-Q55741936,it,cerro,217,NoMatch
-Q55742201,it,cerro,217,NoMatch
-Q55742249,it,cerro,217,NoMatch
-Q55742929,it,cerro,217,NoMatch
-Q59260362,it,capo,485,NoMatch
-Q59526980,fr,ange,773,NoMatch
-Q63978866,fr,flotte,426,NoMatch
-Q63987029,es,cutí,152,NoMatch
-Q64313869,en,lion,767,#ExactMatch
-Q64313869,es,león,767,#ExactMatch
-Q64313869,fr,lion,767,#ExactMatch
-Q64313869,it,leone,767,#ExactMatch
-Q64692233,en,ground,223,#ExactMatch
-Q64692233,es,fondo,223,#ExactMatch
-Q64692233,it,fondo,223,#ExactMatch
-Q66036822,en,plied yarn,501,#CloseMatch
-Q66036822,es,hilo retorcido,501,#CloseMatch
-Q67189827,fr,ciboire,782,NoMatch
-Q90229198,fr,calice,790,NoMatch
-Q90574048,fr,calice,790,NoMatch
-Q90574052,fr,calice,790,NoMatch
-Q90574621,fr,calice,790,NoMatch
-Q90578241,fr,calice,790,NoMatch
-Q90578491,fr,ciboire,782,NoMatch
-Q90805137,fr,ciboire,782,NoMatch
-Q90805169,fr,ciboire,782,NoMatch
-Q91132898,en,uncut velvet,463,#ExactMatch
-Q91132898,fr,velours frisé,463,#ExactMatch
-Q91623875,en,blackberry,781,NoMatch
+WikiData ID,Language,Label,Matching SilkNow Item IDs,mapping properties,,,,,,,
+Q140,fr,lion,767,NoMatch,,,,,,,"is similar but more general than SILKNOW (broadMatch), "
+Q140,it,leone,767,NoMatch,,,,,,,"or similar but more specific (narrowMatch),"
+Q140,es,león,767,NoMatch,,,,,,,or exactly similar (exactMatch)
+Q140,en,lion,767,NoMatch,,,,,,,or very nearly similar (closeMatch)
+Q14378,en,neoclassicism,674,#CloseMatch,,,,,,,or somehow related (relatedMatch).
+Q14660,fr,drapeau,719,#ExactMatch,,,,,,,
+Q14660,en,flag,719,#ExactMatch,,,,,,,
+Q14660,es,bandera,719,#ExactMatch,,,,,,,
+Q14660,it,bandiera,719,#ExactMatch,,,,,,,
+Q14952,fr,couvre-chef,712,#RelatedMatch,,,,,,,
+Q14952,it,copricapo,721,#BroadMatch,,,,,,,
+Q28823,fr,textile,857,#CloseMatch,,,,,,,
+Q28823,it,tessuto,649,NoMatch,,,,,,,
+Q28823,en,textile,857,#CloseMatch,,,,,,,
+Q28823,es,textil,857,#CloseMatch,,,,,,,
+Q45926,fr,couronne,755,NoMatch,,,,,,,
+Q48444,fr,phénix,835,NoMatch,,,,,,,
+Q48444,it,fenice,839,#RelatedMatch,,,,,,,
+Q48444,en,phoenix,839,#RelatedMatch,,,,,,,
+Q75794,it,bolla,84, NoMatch,,,,,,,
+Q101949,fr,manteau,716,NoMatch,,,,,,,
+Q101949,en,mantle,716,NoMatch,,,,,,,
+Q102231,en,rose,785,NoMatch,,,,,,,
+Q102231,fr,rose,785,NoMatch,,,,,,,
+Q112110,es,emblema,789,NoMatch,,,,,,,
+Q112110,en,emblem,789,NoMatch,,,,,,,
+Q134737,es,nobleza,533,NoMatch,,,,,,,
+Q140101,en,ikat,287,#ExactMatch,,,,,,,
+Q140101,fr,ikat,287,#ExactMatch,,,,,,,
+Q140101,it,ikat,287,#ExactMatch,,,,,,,
+Q150425,it,armatura,318,NoMatch,,,,,,,
+Q154262,it,paramento,732,#NarrowMatch,,,,,,,
+Q162827,es,atlas,125,NoMatch,,,,,,,
+Q162827,fr,atlas,125,NoMatch,,,,,,,
+Q191421,es,lama,302,NoMatch,,,,,,,
+Q192411,es,pañuelo,712,#RelatedMatch,,,,,,,
+Q192411,it,fazzoletto,712,#RelatedMatch,,,,,,,
+Q192521,en,technical drawing,441,#RelatedMatch,,,,,,,
+Q196672,fr,côte,405,NoMatch,,,,,,,
+Q196672,it,costa,405,NoMatch,,,,,,,
+Q196672,en,rib,405,NoMatch,,,,,,,
+Q199657,it,lettura,282,NoMatch,,,,,,,
+Q200691,it,pallio,726,#ExactMatch,,,,,,,
+Q208145,en,iconography,817,#ExactMatch,,,,,,,
+Q211025,fr,marche,396 648,NoMatch,,,,,,,
+Q215172,fr,chasuble,702,#ExactMatch,,,,,,,
+Q215172,es,casulla,702,#ExactMatch,,,,,,,
+Q215172,it,casula,702,#ExactMatch,,,,,,,
+Q215172,en,chasuble,702,#ExactMatch,,,,,,,
+Q220648,fr,cadre,429,NoMatch,,,,,,,
+Q275068,fr,bouillon,129,NoMatch,,,,,,,
+Q276469,it,bolla,84,NoMatch,,,,,,,
+Q284523,es,arnés,41,NoMatch,,,,,,,
+Q285272,fr,cocarde,757,NoMatch,,,,,,,
+Q287750,fr,chevron,189,NoMatch,,,,,,,
+Q305026,fr,pédale,648,NoMatch,,,,,,,
+Q333518,fr,harnais,41,NoMatch,,,,,,,
+Q335261,fr,ornement,18 861,NoMatch,,,,,,,
+Q336533,en,badge,789,NoMatch,,,,,,,
+Q358148,fr,aigle,771,#ExactMatch,,,,,,,
+Q358148,it,aquila,771,#ExactMatch,,,,,,,
+Q358148,es,águila,771,#ExactMatch,,,,,,,
+Q358148,en,eagle,771,#ExactMatch,,,,,,,
+Q391414,es,elemento arquitectónico,748,#RelatedMatch,,,,,,,
+Q415908,en,acanthus,822,#ExactMatch,,,,,,,
+Q415908,it,acanto,822,#ExactMatch,,,,,,,
+Q415908,es,acanto,822,#ExactMatch,,,,,,,
+Q472927,en,galloon,230,#ExactMatch,,,,,,,
+Q472927,es,galón,230,#ExactMatch,,,,,,,
+Q487432,en,harness,41 414,NoMatch,,,,,,,
+Q527395,it,nodo,757,NoMatch,,,,,,,
+Q528285,en,tunicle,729,#ExactMatch,,,,,,,
+Q646462,fr,bout,485,NoMatch,,,,,,,
+Q676245,en,girdle,139,NoMatch,,,,,,,
+Q682582,es,peluche,439,NoMatch,,,,,,,
+Q682582,it,peluche,439,NoMatch,,,,,,,
+Q691189,en,chiffon,142,#ExactMatch,,,,,,,
+Q691189,it,chiffon,142,#ExactMatch,,,,,,,
+Q691189,fr,chiffon,142,#ExactMatch,,,,,,,
+Q709069,en,banner,720,NoMatch,,,,,,,
+Q731434,fr,dragon,774,NoMatch,,,,,,,
+Q731434,it,drago,774,NoMatch,,,,,,,
+Q756600,fr,guirlande,760,#ExactMatch,,,,,,,
+Q756600,es,guirnalda,760,#ExactMatch,,,,,,,
+Q756600,en,garland,760,#ExactMatch,,,,,,,
+Q756600,it,ghirlanda,760,#ExactMatch,,,,,,,
+Q878985,en,modernism,673,#BroadMatch,,,,,,,
+Q908349,fr,motif,742,NoMatch,,,,,,,
+Q908349,en,motif,742,NoMatch,,,,,,,
+Q908349,es,motivo,742,NoMatch,,,,,,,
+Q910914,en,tablet weaving,521,#ExactMatch,,,,,,,
+Q912546,it,riduzione,166,NoMatch,,,,,,,
+Q912546,fr,réduction,166,NoMatch,,,,,,,
+Q917206,it,fondo,221 223,NoMatch,,,,,,,
+Q953243,en,royal blue,386,,,,,,,,
+Q1026040,fr,chagrin,374,NoMatch,,,,,,,
+Q1054559,en,celadon,394,NoMatch,,,,,,,
+Q1064975,it,telaio,450,NoMatch,,,,,,,
+Q1070065,en,chenille,417,#ExactMatch,,,,,,,
+Q1097859,en,pill,226,NoMatch,,,,,,,
+Q1122677,en,modernism,673,#NarrowMatch,,,,,,,
+Q1132541,it,guarnizione,240,NoMatch,,,,,,,
+Q1150730,it,riduzione,166,NoMatch,,,,,,,
+Q1154705,fr,chevron,189,NoMatch,,,,,,,
+Q1164991,es,teñido,452,#ExactMatch,,,,,,,
+Q1164991,en,dyeing,452,#ExactMatch,,,,,,,
+Q1191504,en,star,762,#BroadMatch,,,,,,,
+Q1191504,it,stella,762,#BroadMatch,,,,,,,
+Q1191504,es,estrella,762,#BroadMatch,,,,,,,
+Q1229420,en,thistle,765,#CloseMatch,,,,,,,
+Q1229420,fr,chardon,765,#CloseMatch,,,,,,,
+Q1229420,es,cardo,765,#CloseMatch,,,,,,,
+Q1231985,it,pedale,648,#RelatedMatch,,,,,,,
+Q1231985,fr,pédale,648,#RelatedMatch,,,,,,,
+Q1251441,it,capo,485,NoMatch,,,,,,,
+Q1254187,en,dragon,774,#CloseMatch,,,,,,,
+Q1324888,en,frame,783,NoMatch,,,,,,,
+Q1337738,es,estrella,762,NoMatch,,,,,,,
+Q1353185,en,power loom,504,#ExactMatch,,,,,,,
+Q1353185,it,telaio meccanico,504,#ExactMatch,,,,,,,
+Q1371499,en,flag,719,NoMatch,,,,,,,
+Q1380786,en,mantle,716 738,NoMatch,,,,,,,
+Q1380786,es,manto,716 738,NoMatch,,,,,,,
+Q1380786,fr,manteau,716 738,NoMatch,,,,,,,
+Q1380786,it,mantello,716 738,NoMatch,,,,,,,
+Q1401935,it,disposizione,799,NoMatch,,,,,,,
+Q1475346,it,capo,485,NoMatch,,,,,,,
+Q1481374,it,cornucopia,820,#CloseMatch,,,,,,,
+Q1481374,en,cornucopia,820,#CloseMatch,,,,,,,
+Q1481374,es,cornucopia,820,#CloseMatch,,,,,,,
+Q1488331,es,manto,716 738,NoMatch,,,,,,,
+Q1536781,en,aurora,53,NoMatch,,,,,,,
+Q1587577,fr,foulard,722,#ExactMatch,,,,,,,
+Q1587577,en,foulard,722,#ExactMatch,,,,,,,
+Q1753397,es,marco,429,NoMatch,,,,,,,
+Q1781358,fr,bouquet,759,NoMatch,,,,,,,
+Q1788543,en,mantle,716 738,NoMatch,,,,,,,
+Q2014788,fr,dragon,774,NoMatch,,,,,,,
+Q2348516,it,toro,825,#CloseMatch,,,,,,,
+Q2588838,en,ply,63 530,NoMatch,,,,,,,
+Q2626590,it,drago,774,#BroadMatch,,,,,,,
+Q3486877,en,pongee,541,#ExactMatch,,,,,,,
+Q3615137,fr,canette,127,NoMatch,,,,,,,
+Q3650703,it,calice,790,NoMatch,,,,,,,
+Q3655385,en,reed,359,NoMatch,,,,,,,
+Q3714125,en,double,420,NoMatch,,,,,,,
+Q4177774,en,band,797,NoMatch,,,,,,,
+Q4342445,en,stole,704,#BroadMatch,,,,,,,
+Q4877042,en,beater,72,#ExactMatch,,,,,,,
+Q4998130,it,burato,108,#ExactMatch,,,,,,,
+Q5148198,en,colonia,149,NoMatch,,,,,,,
+Q5148198,es,colonia,149,NoMatch,,,,,,,
+Q5176635,en,count,483,NoMatch,,,,,,,
+Q5375781,en,end,279 485,NoMatch,,,,,,,
+Q5459829,en,float,60 871,NoMatch,,,,,,,
+Q5459830,en,float,60 871,NoMatch,,,,,,,
+Q5849500,es,tela,858,#ExactMatch,,,,,,,
+Q5849500,es,tela,862,#RelatedMatch,,,,,,,
+Q5849500,en,cloth,858,#ExactMatch,,para decir en el email ,,,,,
+Q5849500,en,cloth,862,#RelatedMatch,,,,,,,
+Q5849500,fr,tissu,649,#ExactMatch,,,,,,,
+Q5849500,it,tessuto,649,#ExactMatch,,,,,,,
+P178,es,desarrollador,363,NoMatch,,,,,,,
+Q5908002,es,fondo,221 223,NoMatch,,,,,,,
+Q6481696,en,lamella,285,NoMatch,,,,,,,
+Q6671777,en,structure,410,NoMatch,,,,,,,
+Q7448854,en,selvedge,357,#ExactMatch,,,,,,,
+Q7577187,en,spike,836,NoMatch,,,,,,,
+Q7684688,en,tapis,28,NoMatch,,,,,,,
+Q7684688,fr,tapis,28,NoMatch,,,,,,,
+Q7918659,en,veil,710,NoMatch,,,,,,,
+Q7969879,it,chiné,143,#ExactMatch,,,,,,,
+Q8231603,en,cotton,617,#RelatedMatch,,,,,,,
+Q8231603,it,cotone,617,#RelatedMatch,,,,,,,
+Q10862356,es,turquí,386,#ExactMatch,,,,,,,
+Q11060274,en,print,198,#RelatedMatch,,,,,,,
+Q11060274,en,print,197,NoMatch,,,,,,,
+Q11064354,fr,fil,268,NoMatch,,,,,,,
+Q11908691,en,frame,783,NoMatch,,,,,,,
+Q13127755,es,losange,496,NoMatch,,,,,,,
+Q13222088,fr,grenade,761,NoMatch,,,,,,,
+Q13222088,en,pomegranate,761,NoMatch,,,,,,,
+Q13222088,es,granada,761,NoMatch,,,,,,,
+Q13222088,it,melagrana,761,NoMatch,,,,,,,
+P784,it,cappello,721,NOMatch,,,,,,,
+Q15917320,en,tunic,729,NoMatch,,,,,,,
+Q16533056,it,bocciolo,780,NoMatch,,,,,,,
+Q17131072,fr,fibre,209,#ExactMatch,,,,,,,
+Q18027795,en,batten,72,NoMatch,,,,,,,
+P1476,fr,titre,483,NoMatch,,,,,,,
+P1476,it,titolo,166,NoMatch,,,,,,,
+P1476,es,título,483,NoMatch,,,,,,,
+Q18408740,it,uccello,751,#CLoseMatch,,,,,,,
+Q18408740,es,ave,751,#CLoseMatch,,,,,,,
+Q18451251,en,chalice,790,NoMatch,,,,,,,
+Q18668582,en,board,622,NoMatch,,,,,,,
+Q18668582,fr,carton,622,NoMatch,,,,,,,
+Q18668582,es,cartón,521 622,NoMatch,,,,,,,
+P1716,es,marca,342,NoMatch,,,,,,,
+P1716,it,marca,342,NoMatch,,,,,,,
+Q19861550,en,smooth,42,NoMatch,,,,,,,
+Q20980706,it,riposo,624,NoMatch,,,,,,,
+Q21550470,en,ciselé velvet,456,#ExactMatch,,,,,,,
+Q21550470,fr,velours ciselé,456,#ExactMatch,,,,,,,
+Q23497981,es,capa,843,NoMatch,,,,,,,
+Q24635645,fr,broché,192,#ExactMatch,,,,,,,
+Q25590233,en,ground,223,NoMatch,,,,,,,
+Q28152976,en,appliqué,39,NoMatch,,,,,,,
+Q28224777,en,weave,318 631 650,NoMatch,,,,,,,
+Q28869365,es,número,483,NoMatch,,,,,,,
+Q28966302,en,embroidery,87,#ExactMatch,,,,,,,
+Q28966302,es,bordado,87,#ExactMatch,,,,,,,
+Q28966302,fr,broderie,87,#ExactMatch,,,,,,,
+Q29211825,fr,calice,790,NoMatch,,,,,,,
+Q29211924,fr,calice,790,NoMatch,,,,,,,
+Q29211977,fr,calice,790,NoMatch,,,,,,,
+Q29211994,fr,calice,790,NoMatch,,,,,,,
+Q29218953,fr,ange,773,NoMatch,,,,,,,
+Q29224842,en,chasuble,702,NoMatch,,,,,,,
+Q29289832,en,band,797,NoMatch,,,,,,,
+Q29713051,it,riposo,624,NoMatch,,,,,,,
+Q29723763,en,hat,721,NoMatch,,,,,,,
+Q29729743,en,fret,776,NoMatch,,,,,,,
+Q31842016,en,harness,41 414,NoMatch,,,,,,,
+Q39710583,en,cord,623,NoMatch,,,,,,,
+Q40458125,en,lily,887,NoMatch,,,,,,,
+Q40458125,es,lirio,887,NoMatch,,,,,,,
+Q43114389,es,motivo geométrico,745,#ExactMatch,,,,,,,
+Q43114389,fr,motif géométrique,745,#ExactMatch,,,,,,,
+Q46998397,en,burse,735,NoMatch,,,,,,,
+Q47677214,en,carpet,28,NoMatch,,,,,,,
+Q49324053,es,filamento,487,#ExactMatch,,,,,,,
+Q49324053,fr,filament,487,#ExactMatch,,,,,,,
+Q52800022,en,brocading,97,NoMatch,,,,,,,
+Q52800022,es,brochado,192,#CloseMatch,,,,,,,
+Q52800022,fr,brocher,105,#ExactMatch,,,,,,,
+Q54857816,en,drugget,174,#RelatedMatch,,,,,,,
+Q55132933,en,composite twill,482,#ExactMatch,,,,,,,
+Q55132933,es,sarga compuesta,482,#ExactMatch,,,,,,,
+Q55132933,fr,sergé composé,482,#ExactMatch,,,,,,,
+Q55132933,it,saia composta,482,#ExactMatch,,,,,,,
+Q55294736,en,twist,382,#BroadMatch,,,,,,,
+Q55294736,en,twist,530,NoMatch,,,,,,,
+Q55294736,fr,torsion,382,#BroadMatch,,,,,,,
+Q55294736,es,torsión,382,#BroadMatch,,,,,,,
+Q55294736,it,torsione,63,NoMatch,,,,,,,
+Q55405126,en,supplementary weft,472,#ExactMatch,,,,,,,
+Q55406557,en,pelican,823,#BroadMatch,,,,,,,
+Q55741064,it,cerro,217,NoMatch,,,,,,,
+Q55741144,it,vite,793,NoMatch,,,,,,,
+Q55741427,it,cerro,217,NoMatch,,,,,,,
+Q55741594,it,cerro,217,NoMatch,,,,,,,
+Q55760865,en,sketch,861,NoMatch,,,,,,,
+Q56418945,es,batán,72,NoMatch,,,,,,,
+Q57006062,en,border,775 783,NoMatch,,,,,,,
+Q62605980,en,grisaille,252,NoMatch,,,,,,,
+Q63854244,es,seda cruda,370,#ExactMatch,,,,,,,
+Q63854244,fr,soie grège,370,#ExactMatch,,,,,,,
+Q63854244,it,seta greggia,275,NoMatch,,,,,,,
+Q64214264,fr,aigle,771,#ExactMatch,,,,,,,
+Q64214264,it,aquila,771,#ExactMatch,,,,,,,
+Q64214264,en,eagle,771,#ExactMatch,,,,,,,
+Q64225319,en,bird,751,#ExactMatch,,,,,,,
+Q64225319,fr,oiseau,751,#ExactMatch,,,,,,,
+Q64225319,it,uccello,751,#ExactMatch,,,,,,,
+Q64376595,en,appliqué,39,NoMatch,,,,,,,
+Q64410094,en,double-headed eagle,772,#ExactMatch,,,,,,,
+Q65066971,en,braid,230,NoMatch,,,,,,,
+Q73138804,en,ground,223,NoMatch,,,,,,,
+Q90232460,fr,ciboire,782,NoMatch,,,,,,,
+Q90577331,fr,ciboire,782,NoMatch,,,,,,,
+Q90804106,fr,calice,790,NoMatch,,,,,,,
+Q94089732,en,frame,783,NoMatch,,,,,,,
+Q1368,it,denaro,484,NoMatch,,,,,,,
+Q7362,en,ear,836,NoMatch,,,,,,,
+Q9165,fr,âme,29,NoMatch,,,,,,,
+Q9165,it,anima,29,NoMatch,,,,,,,
+Q9165,es,alma,29,NoMatch,,,,,,,
+Q32702,es,268,276,NoMatch,,,,,,,
+Q37068,fr,romantisme,734,#BroadMatch,,,,,,,
+Q37068,it,romanticismo,734,#BroadMatch,,,,,,,
+Q37681,es,seda,368,#ExactMatch,,,,,,,
+Q37681,fr,soie,368,#ExactMatch,,,,,,,
+Q37681,it,seta,368,#ExactMatch,,,,,,,
+Q37681,en,silk,368,#ExactMatch,,,,,,,
+Q41159,es,rombo,768,#ExactMatch,,,,,,,
+Q41159,fr,losange,496,NoMatch,,,,,,,
+Q41159,fr,losange,768,#ExactMatch,,,,,,,
+Q41159,it,rombo,768,#ExactMatch,,,,,,,
+Q41159,en,rhombus,768,#ExactMatch,,,,,,,
+Q80866,fr,marabout,335,NoMatch,,,,,,,
+Q81825,fr,chenille,417,NoMatch,,,,,,,
+Q118819,it,altezza,66,NoMatch,,,,,,,
+Q158583,it,racemo,811,NoMatch,,,,,,,
+Q175065,it,serrato,473,NoMatch,,,,,,,
+Q184296,es,tapiz,608,#ExactMatch,,,,,,,
+Q184296,fr,tapisserie,608,#ExactMatch,,,,,,,
+Q184297,fr,tapisserie,629,NoMatch,,,,,,,
+Q184296,it,arazzo,608,#ExactMatch,,,,,,,
+Q184296,it,arazzo,739,NoMatch,,,,,,,
+Q184296,en,tapestry,608,#ExactMatch,,,,,,,
+Q184754,it,stringa,264,NoMatch,,,,,,,
+Q188488,it,scaglia,189,NoMatch,,,,,,,
+Q188869,es,campo,444,NoMatch,,,,,,,
+Q188869,it,campo,477 519,NoMatch,,,,,,,
+Q189251,it,campo,477 519,NoMatch,,,,,,,
+Q190109,es,cuerpo,414,NoMatch,,,,,,,
+Q190109,it,campo,477 519,NoMatch,,,,,,,
+Q192296,fr,tissage,526,#ExactMatch,,,,,,,
+Q192296,it,tessitura,526,#ExactMatch,,,,,,,
+Q192296,en,weaving,526,#ExactMatch,,,,,,,
+Q220869,en,shoot,436,NoMatch,,,,,,,
+Q251473,fr,feuille,750,NoMatch,,,,,,,
+Q281560,it,borra,185,NoMatch,,,,,,,
+Q283405,es,punta,364,NoMatch,,,,,,,
+Q320617,es,carmín,134,NoMatch,,,,,,,
+Q416598,es,310,178,NoMatch,,,,,,,
+Q429220,it,rosa,785,NoMatch,,,,,,,
+Q429220,es,rosa,785,NoMatch,,,,,,,
+Q429220,fr,rose,785,NoMatch,,,,,,,
+Q536168,en,tablecloth,711,#ExactMatch,,,,,,,
+Q536168,es,mantel,711,#ExactMatch,,,,,,,
+Q536168,it,tovaglia,711,#ExactMatch,,,,,,,
+Q551997,fr,fil métallique,497,NoMatch,,,,,,,
+Q607913,en,dalmatic,706,#ExactMatch,,,,,,,
+Q607913,es,dalmática,706,#ExactMatch,,,,,,,
+Q607913,fr,dalmatique,706,#ExactMatch,,,,,,,
+Q628261,es,bengala,71,NoMatch,,,,,,,
+Q628261,it,bengala,71,NoMatch,,,,,,,
+Q645110,fr,panne,534,NoMatch,,,,,,,
+Q649022,fr,brocart,97,#ExactMatch,,,,,,,
+Q649022,it,broccato,97,#ExactMatch,,,,,,,
+Q649022,en,brocade,97,#ExactMatch,,,,,,,
+Q649022,en,brocade,105,#RelatedMatch,,,,,,,
+Q694118,fr,chapeau,721,NoMatch,,,,,,,
+Q694118,it,cappello,721,NoMatch,,,,,,,
+Q738168,en,pattern,860,NoMatch,,,,,,,
+Q746591,it,diadema,755,NoMatch,,,,,,,
+Q806617,es,capa,843,NoMatch,,,,,,,
+Q811430,en,construction,410,NoMatch,,,,,,,
+Q826575,fr,torsion,382,NoMatch,,,,,,,
+Q826575,it,torsione,63,NoMatch,,,,,,,
+Q836708,fr,etoile,762,NoMatch,,,,,,,
+Q857421,es,cinta,147,#ExactMatch,,,,,,,
+Q857421,es,cinta,757,#BroadMatch,,,,,,,
+Q857421,en,ribbon,147,#ExactMatch,,,,,,,
+Q857421,it,nastro,147,#ExactMatch,,,,,,,
+Q857421,fr,ruban,147,#ExactMatch,,,,,,,
+Q1045836,es,chal,724,NoMatch,,,,,,,
+Q1064538,en,quilt,199,NoMatch,,,,,,,
+Q1134228,en,canopy,737 740,NoMatch,,,,,,,
+Q1137901,en,coutil,152,NoMatch,,,,,,,
+Q1144883,fr,frange,217,NoMatch,,,,,,,
+Q1144883,it,frangia,115 217 840,NoMatch,,,,,,,
+Q1164342,it,cappa,738 843,NoMatch,,,,,,,
+Q1194132,en,tassel,89,#ExactMatch,,,,,,,
+Q1194132,es,borla,89,NoMatch,,,,,,,
+Q1308715,en,star,762,NoMatch,,,,,,,
+Q1341768,it,angelo,773,#CloseMatch,,,,,,,
+Q1341768,en,angel,773,#CloseMatch,,,,,,,
+Q1341768,fr,ange,773,NoMatch,,,,,,,
+Q1364175,it,rovescio,423,NoMatch,,,,,,,
+Q1381391,en,evangelist,889,NoMatch,,,,,,,
+Q1392122,en,banner,720,#RelatedMatch,,,,,,,
+Q1392122,fr,bannière,720,#RelatedMatch,,,,,,,
+Q1420750,en,star,762,NoMatch,,,,,,,
+Q1420750,it,stella,762,NoMatch,,,,,,,
+Q1429034,en,float,60 871,NoMatch,,,,,,,
+Q1527772,es,trama,384,NoMatch,,,,,,,
+Q1531435,it,calice,790,NoMatch,,,,,,,
+Q1535312,it,stola,704,NoMatch,,,,,,,
+Q1542661,it,rovescio,423,NoMatch,,,,,,,
+Q1542661,en,reverse,423,NoMatch,,,,,,,
+Q1542661,es,reverso,423,NoMatch,,,,,,,
+Q1547440,fr,gros,254,NoMatch,,,,,,,
+Q1640824,en,inscription,758,NoMatch,,,,,,,
+Q1640824,es,inscripción,758,NoMatch,,,,,,,
+Q1722790,en,chalice,790,NoMatch,,,,,,,
+Q1971485,fr,réduction,166,NoMatch,,,,,,,
+Q2106790,fr,pourpoint,718,NoMatch,,,,,,,
+Q2332203,en,star,762,NoMatch,,,,,,,
+Q2459535,en,tulip,786,#CloseMatch,,,,,,,
+Q2541418,en,celadon,394,#ExactMatch,,,,,,,
+Q2702028,es,lista,797,NoMatch,,,,,,,
+Q2736098,es,marca,342,NoMatch,,,,,,,
+Q2844972,en,braid,230,#RelatedMatch,,,,,,,
+Q2914295,en,velveteen,535,NoMatch,,,,,,,
+Q2935533,it,campo,477 519,NoMatch,,,,,,,
+Q2998209,en,mantle,738,NoMatch,,,,,,,
+Q3010804,en,core,29,NoMatch,,,,,,,
+Q3087901,fr,frisé,233,NoMatch,,,,,,,
+Q3127570,fr,harnais,41,NoMatch,,,,,,,
+Q3127570,es,arnés,41,NoMatch,,,,,,,
+Q3284858,en,shed,396,NoMatch,,,,,,,
+Q3289701,fr,marche,396 648,NoMatch,,,,,,,
+Q3373295,en,float,60 871,NoMatch,,,,,,,
+Q3421342,en,stripe,48,NoMatch,,,,,,,
+Q3529345,en,tie,757,NoMatch,,,,,,,
+Q3533997,it,aurora,52 53,NoMatch,,,,,,,
+Q3643224,en,ox,825,NoMatch,,,,,,,
+Q3657775,it,cappello,721,NoMatch,,,,,,,
+Q3683459,it,colonia,149,NoMatch,,,,,,,
+Q3693395,es,cordón,623,NoMatch,,,,,,,
+Q3991928,it,titolo,166,NoMatch,,,,,,,
+Q4000448,it,tunica,729,NoMatch,,,,,,,
+Q4063215,en,quill,263 127,NoMatch,,,,,,,
+Q4281830,es,marco,429,NoMatch,,,,,,,
+Q4590598,en,frost,233,NoMatch,,,,,,,
+Q4767951,it,mucca,825,NoMatch,,,,,,,
+Q4781616,en,appliqué lace,38,NoMatch,,,,,,,
+Q5026010,it,tessitura,410 526,NoMatch,,,,,,,
+Q5375780,en,end,279 485,NoMatch,,,,,,,
+Q5734146,fr,brocatelle,103,#RelatedMatch,,,,,,,
+Q5734146,en,brocatelle,103,#RelatedMatch,,,,,,,
+Q5960345,fr,turquoise,386,NoMatch,,,,,,,
+Q5960345,it,turchese,386,NoMatch,,,,,,,
+Q5961806,en,rose,785,NoMatch,,,,,,,
+Q6752131,en,mantle,716,#RelatedMatch,,,,,,,
+Q7191065,en,picot,115,#RelatedMatch,,,,,,,
+Q7502422,en,shot,119,NoMatch,,,,,,,
+Q7502422,en,shot,465,#RelatedMatch,,,,,,,
+Q7502422,fr,changeant,119,NoMatch,,,,,,,
+Q7502422,fr,changeant,465,#RelatedMatch,,,,,,,
+Q7502422,es,tornasol,465,#RelatedMatch,,,,,,,
+Q7502422,it,cangiante,119,NoMatch,,,,,,,
+Q7502422,it,cangiante,465,#RelatedMatch,,,,,,,
+Q7515232,it,borra,185,NoMatch,,,,,,,
+Q7577181,en,spike,836,NoMatch,,,,,,,
+Q7836568,en,treadle,648,NoMatch,,,,,,,
+Q7836568,it,pedale,648,NoMatch,,,,,,,
+Q7978336,en,weave,318 631 650,NoMatch,,,,,,,
+Q7978401,en,weaving,526,NoMatch,,,,,,,
+Q9247895,en,disposition,799,NoMatch,,,,,,,
+Q9247895,it,disposizione,799,NoMatch,,,,,,,
+Q9247895,es,disposición,799,NoMatch,,,,,,,
+Q10572374,en,plain weave,44,#ExactMatch,,,,,,,
+Q10572374,en,plain weave,236,#RelatedMatch,,,,,,,
+Q11418687,en,arabesque,766,#ExactMatch,,,,,,,
+Q12030217,en,cordonnet,151,#ExactMatch,,,,,,,
+Q12030217,fr,cordonnet,151,#ExactMatch,,,,,,,
+Q12042884,en,organzine,276,#ExactMatch,,,,,,,
+Q12042884,fr,organsin,276,#ExactMatch,,,,,,,
+Q12042884,it,organzino,276,#ExactMatch,,,,,,,
+Q12050361,en,girdle,139,NoMatch,,,,,,,
+Q12139612,es,lista,797,NoMatch,,,,,,,
+Q12598172,en,edge,775,NoMatch,,,,,,,
+Q12884555,en,shot,119 436 465,NoMatch,,,,,,,
+Q13427216,en,duchesse,554,#CloseMatch,,,,,,,
+Q13427216,fr,satin duchesse,554,#CloseMatch,,,,,,,
+Q15814441,en,reel,263,NoMatch,,,,,,,
+Q16550653,it,drago,774,NoMatch,,,,,,,
+Q16581465,it,naturalismo,664,NoMatch,,,,,,,
+Q17232201,es,doblado,420,NoMatch,,,,,,,
+Q18250408,fr,epi,782,NoMatch,,,,,,,
+Q18628103,it,cornice,783,NoMatch,,,,,,,
+P1684,en,inscription,758,NoMatch,,,,,,,
+P1684,fr,inscription,758,NoMatch,,,,,,,
+P1684,es,inscripción,758,NoMatch,,,,,,,
+Q19842373,en,blackberry,781,NoMatch,,,,,,,
+Q25384765,fr,filoselle,216,NoMatch,,,,,,,
+P3091,es,montura,431,NoMatch,,,,,,,
+Q28937103,fr,isabelle,290,#BroadMatch,,,,,,,
+Q28955655,fr,costume,699,NoMatch,,,,,,,
+Q29048022,es,tejido,649,NoMatch,,,,,,,
+Q29124881,fr,ange,773,NoMatch,,,,,,,
+Q29145633,fr,ange,773,NoMatch,,,,,,,
+Q29199643,fr,ange,773,NoMatch,,,,,,,
+Q29211899,fr,calice,790,NoMatch,,,,,,,
+Q29213350,fr,calice,790,NoMatch,,,,,,,
+Q29213353,fr,calice,790,NoMatch,,,,,,,
+Q29213373,fr,frise,775,NoMatch,,,,,,,
+Q29260902,fr,chrisme,792,NoMatch,,,,,,,
+Q29264177,fr,chrisme,792,NoMatch,,,,,,,
+Q29269504,fr,ange,773,NoMatch,,,,,,,
+Q29293606,fr,ange,773,NoMatch,,,,,,,
+Q29586589,en,silver thread,628,#ExactMatch,,,,,,,
+Q29586589,es,hilo de plata,628,NoMatch,,,,,,,
+Q29719333,en,lace,180 364 791,NoMatch,,,,,,,
+Q29720775,en,rib,405,NoMatch,,,,,,,
+Q29733133,en,ear,836,NoMatch,,,,,,,
+Q29748297,en,star,762,NoMatch,,,,,,,
+Q29757839,en,cope,705,NoMatch,,,,,,,
+Q30095464,en,reed,359,NoMatch,,,,,,,
+Q31835006,fr,âme,29,NoMatch,,,,,,,
+Q44532723,es,portada,503,NoMatch,,,,,,,
+Q47034857,en,leaf,750,NoMatch,,,,,,,
+Q47034857,fr,feuille,750,NoMatch,,,,,,,
+Q47034857,it,foglia,750,NoMatch,,,,,,,
+Q47034857,es,hoja,750,NoMatch,,,,,,,
+Q47072983,en,pashmina,724,NoMatch,,,,,,,
+Q50324108,fr,couronne,755,NoMatch,,,,,,,
+Q51760316,en,shaft,324,NoMatch,,,,,,,
+Q53054783,fr,métier de basse lisse,524,#ExactMatch,,,,,,,
+Q53864861,it,ramo,759,#CloseMatch,,,,,,,
+Q55353522,en,chalice,790,NoMatch,,,,,,,
+Q55353522,es,cáliz,790,NoMatch,,,,,,,
+Q55353522,fr,calice,790,NoMatch,,,,,,,
+Q55741071,it,cerro,217,NoMatch,,,,,,,
+Q55741637,it,cerro,217,NoMatch,,,,,,,
+Q55742246,it,cerro,217,NoMatch,,,,,,,
+Q55742250,it,cerro,217,NoMatch,,,,,,,
+Q56042940,en,woof,384,NoMatch,,,,,,,
+Q56244401,fr,coup,436,NoMatch,,,,,,,
+Q56854811,it,spinato,189 238,NoMatch,,,,,,,
+Q56876960,fr,vêtement,699,NoMatch,,,,,,,
+Q56876960,it,abbigliamento,699,NoMatch,,,,,,,
+Q57629324,en,design,816 859,NoMatch,,,,,,,
+Q59676043,es,palma,763,#CloseMatch,,,,,,,
+Q59676043,fr,palme,763,#CloseMatch,,,,,,,
+Q63958976,en,birds,751,NoMatch,,,,,,,
+Q64170794,en,carpet,28,NoMatch,,,,,,,
+Q65962595,en,cut velvet,457,#ExactMatch,,,,,,,
+Q65962595,es,terciopelo cortado,457,#ExactMatch,,,,,,,
+Q80696169,en,crown,755,NoMatch,,,,,,,
+Q90229951,fr,calice,790,NoMatch,,,,,,,
+Q90231664,fr,ciboire,782,NoMatch,,,,,,,
+Q90232450,fr,ciboire,782,NoMatch,,,,,,,
+Q90574046,fr,ciboire,782,NoMatch,,,,,,,
+Q90574594,fr,calice,790,NoMatch,,,,,,,
+Q90578552,fr,ciboire,782,NoMatch,,,,,,,
+Q90580895,fr,ciboire,782,NoMatch,,,,,,,
+Q90592349,fr,cadre,429,NoMatch,,,,,,,
+Q90805165,fr,ciboire,782,NoMatch,,,,,,,
+Q90807197,fr,calice,790,NoMatch,,,,,,,
+Q96140174,en,crown,755,NoMatch,,,,,,,
+Q523,en,star,762,NoMatch,,,,,,,
+Q523,it,stella,762,NoMatch,,,,,,,
+Q523,es,estrella,762,NoMatch,,,,,,,
+Q7559,en,dragon,774,#CloseMatch,,,,,,,
+Q7559,es,dragón,774,#CloseMatch,,,,,,,
+Q7559,fr,dragon,774,#CloseMatch,,,,,,,
+Q7559,it,drago,774,#CloseMatch,,,,,,,
+Q7695,fr,marche,396 648,NoMatch,,,,,,,
+Q11457,en,cotton,617,#ExactMatch,,,,,,,
+Q11457,fr,coton,617,#ExactMatch,,,,,,,
+Q11457,it,cotone,617,#ExactMatch,,,,,,,
+Q11457,es,algodón,617,#ExactMatch,,,,,,,
+Q11460,en,clothing,699,#ExactMatch,,,,,,,
+Q11460,fr,vêtement,699,#ExactMatch,,,,,,,
+Q11460,it,abbigliamento,699,#ExactMatch,,,,,,,
+Q11460,es,indumentaria,699,#ExactMatch,,,,,,,
+Q12200,fr,crêpe,157,NoMatch,,,,,,,
+Q13188,en,pomegranate,761,NoMatch,,,,,,,
+Q18281,en,embroidery,87,#ExactMatch,,,,,,,
+Q18281,es,bordado,87,#ExactMatch,,,,,,,
+Q18281,fr,broderie,87,#ExactMatch,,,,,,,
+Q19413,fr,pélican,823,NoMatch,,,,,,,
+Q23834,es,peine,359,NoMatch,,,,,,,
+Q23834,fr,peigne,359,NoMatch,,,,,,,
+Q23834,it,pettine,359,NoMatch,,,,,,,
+Q33971,es,hoja,750,NoMatch,,,,,,,
+Q33971,it,foglia,750,NoMatch,,,,,,,
+Q33971,fr,feuille,750,NoMatch,,,,,,,
+Q33971,en,leaf,750,NoMatch,,,,,,,
+Q39888,es,ligamento,318,NoMatch,,,,,,,
+Q42329,es,lana,644,#ExactMatch,,,,,,,
+Q42329,fr,laine,644,#ExactMatch,,,,,,,
+Q42329,it,lana,644,#ExactMatch,,,,,,,
+Q42329,en,wool,644,#ExactMatch,,,,,,,
+Q42865,es,orientalismo,687,NoMatch,,,,,,,
+Q165254,it,turchese,386,NoMatch,,,,,,,
+Q165254,fr,turquoise,386,NoMatch,,,,,,,
+Q179076,fr,bourse,735,NoMatch,,,,,,,
+Q186599,fr,arabesque,766,#ExactMatch,,,,,,,
+Q186599,it,arabesco,766,#ExactMatch,,,,,,,
+Q186599,en,arabesque,766,#ExactMatch,,,,,,,
+Q231250,fr,dentelle,180,#ExactMatch,,,,,,,
+Q231250,fr,dentelle,791,#RelatedMatch,,,,,,,
+Q231250,es,encaje,791,#RelatedMatch,,,,,,,
+Q231250,es,encaje,180,#ExactMatch,,,,,,,
+Q231250,en,lace,180 364 791,NoMatch,,,,,,,
+Q247154,fr,compte,166,NoMatch,,,,,,,
+Q250386,en,pile,438,NoMatch,,,,,,,
+Q263555,it,losanga,768,#CloseMatch,,,,,,,
+Q263555,fr,losange,768,#CloseMatch,,,,,,,
+Q263555,fr,losange,768,#CloseMatch,,,,,,,
+Q333631,en,cashmere,112,NoMatch,,,,,,,
+Q471447,fr,fleuret,227 266,NoMatch,,,,,,,
+Q473194,es,buey,825,NoMatch,,,,,,,
+Q473194,en,ox,825,NoMatch,,,,,,,
+Q473194,it,bue,825,NoMatch,,,,,,,
+Q499525,en,structure,410,NoMatch,,,,,,,
+Q499525,it,tessitura,410 526,NoMatch,,,,,,,
+Q519840,it,navetta,311,#ExactMatch,,,,,,,
+Q519840,en,shuttle,311,#ExactMatch,,,,,,,
+Q519840,fr,navette,311,#ExactMatch,,,,,,,
+Q588676,es,trama,384,#ExactMatch,,,,,,,
+Q588676,en,weft,384,#ExactMatch,,,,,,,
+Q588676,fr,fil de trame,278,#RelatedMatch,,,,,,,
+Q588676,it,trama,384,#ExactMatch,,,,,,,
+Q621044,en,velour,47,NoMatch,,,,,,,
+Q623823,en,arabesque,766,NoMatch,,,,,,,
+Q636309,en,fret,776,NoMatch,,,,,,,
+Q646051,en,tulle,385,NoMatch,,,,,,,
+Q646051,fr,tulle,385,NoMatch,,,,,,,
+Q646051,it,tulle,385,NoMatch,,,,,,,
+Q666971,it,rombo,768,NoMatch,,,,,,,
+Q696809,fr,palme,763,NoMatch,,,,,,,
+Q748773,en,ribbon,147 756,NoMatch,,,,,,,
+Q748773,es,cinta,147 757,NoMatch,,,,,,,
+Q751880,fr,japonisme,693,NoMatch,,,,,,,
+Q806880,fr,bannière,720,NoMatch,,,,,,,
+Q806880,en,banner,720,NoMatch,,,,,,,
+Q842358,fr,denier,484,NoMatch,,,,,,,
+Q849904,fr,brillantine,92,NoMatch,,,,,,,
+Q863679,fr,chinoiserie,676,#ExactMatch,,,,,,,
+Q864650,fr,sériciculture,375,#ExactMatch,,,,,,,
+Q864650,es,sericicultura,375,#ExactMatch,,,,,,,
+Q864650,en,sericulture,375,NoMatch,,,,,,,
+Q876065,en,double,420,NoMatch,,,,,,,
+Q909391,fr,taffetas,377,#ExactMatch,,,,,,,
+Q909391,fr,taffetas,236,NoMatch,,,,,,,
+Q909391,en,taffeta,377,#ExactMatch,,,,,,,
+Q909391,es,tafetán,377,#ExactMatch,,,,,,,
+Q909391,es,tafetán,236,#RelatedMatch,,,,,,,
+Q909391,it,taffetà,236,#RelatedMatch,,,,,,,
+Q909391,it,taffetà,377,#ExactMatch,,,,,,,
+Q910194,en,rayon,529,#ExactMatch,,,,,,,
+Q910194,fr,rayonne,529,NoMatch,,,,,,,
+Q920297,en,cord,623,NoMatch,,,,,,,
+Q920929,it,felpa,202,NoMatch,,,,,,,
+Q1042979,it,tessitura,410 526,NoMatch,,,,,,,
+Q1066140,es,310,178,NoMatch,,,,,,,
+Q1076520,es,268,276,NoMatch,,,,,,,
+Q1123578,en,upholstery,629,#RelatedMatch,,,,,,,
+Q1123578,es,tapicería,629,#RelatedMatch,,,,,,,
+Q1123578,it,tappezzeria,629,#RelatedMatch,,,,,,,
+Q1135221,en,frost,233,NoMatch,,,,,,,
+Q1141566,fr,popeline,543,#ExactMatch,,,,,,,
+Q1141566,en,poplin,543,#ExactMatch,,,,,,,
+Q1141751,it,corona,755,NoMatch,,,,,,,
+Q1149305,en,disposition,799,NoMatch,,,,,,,
+Q1149305,es,disposición,799,NoMatch,,,,,,,
+Q1149305,fr,disposition,799,NoMatch,,,,,,,
+Q1149305,it,disposizione,799,NoMatch,,,,,,,
+Q1155211,en,rose,785,NoMatch,,,,,,,
+Q1189842,en,crown,755,NoMatch,,,,,,,
+Q1192049,fr,fibre naturelle,213,#ExactMatch,,,,,,,
+Q1192049,es,fibra natural,213,#ExactMatch,,,,,,,
+Q1192049,en,natural fibre,213,#ExactMatch,,,,,,,
+Q1192049,it,fibra naturale,213,NoMatch,,,,,,,
+Q1192354,en,needle,616,NoMatch,,,,,,,
+Q1234523,es,naveta,311,NoMatch,,,,,,,
+Q1294983,fr,couronne,755,NoMatch,,,,,,,
+Q1297428,fr,coup,436,NoMatch,,,,,,,
+Q1333285,it,diritto,27,NoMatch,,,,,,,
+Q1365679,en,calender,832,#ExactMatch,,,,,,,
+Q1365679,es,calandria,832,#ExactMatch,,,,,,,
+Q1365679,it,calandra,832,#ExactMatch,,,,,,,
+Q1422342,it,vite,793,#CloseMatch,,,,,,,
+Q1480193,fr,manipule,707,#ExactMatch,,,,,,,
+Q1480193,es,manípulo,707,#ExactMatch,,,,,,,
+Q1480193,en,maniple,707,#ExactMatch,,,,,,,
+Q1537106,it,gonfalone,720,NoMatch,,,,,,,
+Q1572258,fr,médaillon,764,NoMatch,,,,,,,
+Q1647511,fr,navette,311,NoMatch,,,,,,,
+Q1737943,it,telaio,450,NoMatch,,,,,,,
+Q1737943,es,bastidor,429,NoMatch,,,,,,,
+Q1801748,en,lamé,302,#ExactMatch,,,,,,,
+Q1801748,fr,lamé,302,#ExactMatch,,,,,,,
+Q1801748,es,lama,302,#ExactMatch,,,,,,,
+Q1801748,it,lamé,302,NoMatch,,,,,,,
+Q1807128,en,leaves,750,NoMatch,,,,,,,
+Q1807128,fr,feuille,750,NoMatch,,,,,,,
+Q1849502,fr,voile huméral,734,NoMatch,,,,,,,
+Q1849502,en,humeral veil,833,#ExactMatch,,,,,,,
+Q1960395,fr,portée,503,NoMatch,,,,,,,
+Q2230201,en,shaft,324,NoMatch,,,,,,,
+Q2347874,fr,palme,763,NoMatch,,,,,,,
+Q2347874,en,palm,763,NoMatch,,,,,,,
+Q2607599,it,lettura,282,NoMatch,,,,,,,
+Q2734060,en,reed,359,NoMatch,,,,,,,
+Q2755151,es,faldón,715,NoMatch,,,,,,,
+Q2809148,fr,chagrin,374,NoMatch,,,,,,,
+Q2983186,en,sericin,376,NoMatch,,,,,,,
+Q2997700,fr,corps,414,NoMatch,,,,,,,
+Q3205956,en,pile,438,NoMatch,,,,,,,
+Q3242199,fr,coup,436,NoMatch,,,,,,,
+Q3247568,en,lamella,285,NoMatch,,,,,,,
+Q3354532,fr,châle,724,#ExactMatch,,,,,,,
+Q3354532,es,chal,724,#ExactMatch,,,,,,,
+Q3354532,en,shawl,723,NoMatch,,,,,,,
+Q3442356,en,rose,785,NoMatch,,,,,,,
+Q3481047,fr,rapport,444,NoMatch,,,,,,,
+Q3515473,fr,tapis,28,NoMatch,,,,,,,
+Q3746538,es,lino,488,NoMatch,,,,,,,
+Q3875186,en,construction,410,NoMatch,,,,,,,
+Q3941237,en,rose,785,NoMatch,,,,,,,
+Q3941237,it,rosa,785,NoMatch,,,,,,,
+P94,it,stemma,789,NoMatch,,,,,,,
+Q4783341,en,arabesque,766,NoMatch,,,,,,,
+Q4792460,it,ramo,759,NoMatch,,,,,,,
+Q5459827,en,float,60 871,NoMatch,,,,,,,
+Q5760422,es,cenefa,775,NoMatch,,,,,,,
+Q6410229,en,kimono,728,NoMatch,,,,,,,
+Q6410229,es,kimono,728,NoMatch,,,,,,,
+Q6501125,en,ground,223,NoMatch,,,,,,,
+Q6917678,en,motif,742,NoMatch,,,,,,,
+Q6917681,en,motif,742,#ExactMatch,,,,,,,
+Q7208203,fr,point de gaze,280,NoMatch,,,,,,,
+Q7426225,en,satinet,550,NoMatch,,,,,,,
+Q7979858,es,peso,495,NoMatch,,,,,,,
+Q12032703,fr,lancé,178,#ExactMatch,,,,,,,
+Q12032703,fr,lancé,310,#RelatedMatch,,,,,,,
+Q12044462,en,banner,720,NoMatch,,,,,,,
+Q12059482,it,trama,384,NoMatch,,,,,,,
+Q12137981,fr,voile,710,NoMatch,,,,,,,
+Q13629195,fr,titre,483,NoMatch,,,,,,,
+Q14271241,fr,chevron,189,#ExactMatch,,,,,,,
+Q14271241,it,spina di pesce,189,NoMatch,,,,,,,
+Q14916053,es,número,483,NoMatch,,,,,,,
+Q15069887,it,bandiera,719,NoMatch,,,,,,,
+Q16596560,it,riduzione,166,NoMatch,,,,,,,
+Q16670598,fr,polonaise,540,NoMatch,,,,,,,
+Q16670598,en,polonaise,540,NoMatch,,,,,,,
+Q16670598,es,polonesa,540,NoMatch,,,,,,,
+Q19267880,fr,grenade,761,NoMatch,,,,,,,
+Q19267880,es,granada,761,NoMatch,,,,,,,
+Q21406562,fr,corps,414,NoMatch,,,,,,,
+Q25592126,it,drago,774,NoMatch,,,,,,,
+Q25592126,en,dragon,774,NoMatch,,,,,,,
+Q25592126,fr,dragon,774,NoMatch,,,,,,,
+Q25592126,es,dragón,774,NoMatch,,,,,,,
+Q28777323,fr,panne,534,NoMatch,,,,,,,
+Q28864717,en,waistcoat,727,NoMatch,,,,,,,
+Q29261846,fr,chasuble,702,NoMatch,,,,,,,
+Q29728017,en,shot,119 436 465,NoMatch,,,,,,,
+Q30322382,en,pattern,860,#RelatedMatch,,,,,,,
+Q40337498,en,gobelin,490,#ExactMatch,,,,,,,
+Q43154049,fr,motif floral,743,#ExactMatch,,,,,,,
+Q45712449,en,upholstery,629,#ExactMatch,,,,,,,
+Q47460122,en,pile warp,474,#ExactMatch,,,,,,,
+Q47460122,es,urdimbre de pelo,474,#ExactMatch,,,,,,,
+Q47460122,fr,chaîne poil,389 474,NoMatch,,,,,,,
+Q54935824,fr,coup,436,NoMatch,,,,,,,
+Q55071249,en,rep,556,#CloseMatch,,,,,,,
+Q55352046,en,ear,836,#CloseMatch,,,,,,,
+Q55352046,es,espiga,836,NoMatch,,,,,,,
+Q55741628,it,cerro,217,NoMatch,,,,,,,
+Q56192108,en,heraldic motif,746,#ExactMatch,,,,,,,
+Q56192108,es,motivo heráldico,746,#ExactMatch,,,,,,,
+Q56192108,fr,motif héraldique,746,#ExactMatch,,,,,,,
+Q56192108,it,motivo araldico,746,#ExactMatch,,,,,,,
+Q57385915,en,pelican,823,NoMatch,,,,,,,
+Q60791758,en,lamella,285,NoMatch,,,,,,,
+Q60793753,en,float,60 871,NoMatch,,,,,,,
+Q61686575,fr,collerette,82,NoMatch,,,,,,,
+Q63792261,en,disposition,799,NoMatch,,,,,,,
+Q64143035,en,medallion,764,#ExactMatch,,,,,,,
+Q64143035,es,medallón,764,#ExactMatch,,,,,,,
+Q65972045,fr,endroit,27,NoMatch,,,,,,,
+Q68614425,en,motif,742,#ExactMatch,,,,,,,
+Q68614425,fr,motif,742,#ExactMatch,,,,,,,
+Q85550371,fr,cannetille,271,NoMatch,,,,,,,
+Q87396089,fr,vase,754,NoMatch,,,,,,,
+Q87396089,en,vase,754,NoMatch,,,,,,,
+Q87650480,fr,lame,429,NoMatch,,,,,,,
+Q87739600,en,angel,773,NoMatch,,,,,,,
+Q90244279,fr,voile huméral,734,NoMatch,,,,,,,
+Q90578446,fr,calice,790,NoMatch,,,,,,,
+Q90804058,fr,calice,790,NoMatch,,,,,,,
+Q12510,it,toro,825,NoMatch,,,,,,,
+Q25325,fr,frison,113,NoMatch,,,,,,,
+Q28472,es,pelo,360 438,NoMatch,,,,,,,
+Q28472,it,pelo,360 438,NoMatch,,,,,,,
+Q28472,fr,poil,360 438,NoMatch,,,,,,,
+Q32427,es,310,178,NoMatch,,,,,,,
+Q35059,en,width,66,#BroadMatch,,,,,,,
+Q55996,en,naturalism,664,NoMatch,,,,,,,
+Q55996,it,naturalismo,664,NoMatch,,,,,,,
+Q128822,it,nodo,757,NoMatch,,,,,,,
+Q131559,es,escudo,789,NoMatch,,,,,,,
+Q134560,fr,ceinture,139,NoMatch,,,,,,,
+Q134560,it,cintura,139 139 147,NoMatch,,,,,,,
+Q142690,es,aguja,616,NoMatch,,,,,,,
+Q143720,fr,couronne,755,NoMatch,,,,,,,
+Q143720,en,crown,755,NoMatch,,,,,,,
+Q167130,fr,cadre,429,NoMatch,,,,,,,
+Q167130,it,telaio,450,NoMatch,,,,,,,
+Q172560,en,throw,348,NoMatch,,,,,,,
+Q185113,es,cabo,485,NoMatch,,,,,,,
+Q185113,it,capo,485,NoMatch,,,,,,,
+Q185113,en,cape,843,NoMatch,,,,,,,
+Q185958,en,float,60 871,NoMatch,,,,,,,
+Q187657,fr,doublage,420,NoMatch,,,,,,,
+Q187657,es,doblaje,420,NoMatch,,,,,,,
+Q187776,fr,denier,484,NoMatch,,,,,,,
+Q189524,fr,flotte,426,NoMatch,,,,,,,
+Q189962,es,intervalo,493,NoMatch,,,,,,,
+Q192193,fr,portée,503,NoMatch,,,,,,,
+Q216353,it,titolo,166,NoMatch,,,,,,,
+Q216353,es,título,483,NoMatch,,,,,,,
+Q218626,fr,volute,811,NoMatch,,,,,,,
+Q221455,en,reed,359,NoMatch,,,,,,,
+Q254857,es,547,276,NoMatch,,,,,,,
+Q260899,en,shot,119 436 465,NoMatch,,,,,,,
+Q309383,en,shaft,324,NoMatch,,,,,,,
+Q322503,es,mezcla,635,NoMatch,,,,,,,
+Q332682,fr,corne d'abondance,820,#BroadMatch,,,,,,,
+Q332682,en,cornucopia,820,#BroadMatch,,,,,,,
+Q332682,it,cornucopia,820,#BroadMatch,,,,,,,
+Q335571,it,baldacchino,737 740,NoMatch,,,,,,,
+Q335661,es,custodia,782,#BroadMatch,,,,,,,
+Q337481,fr,manteau,716,#BroadMatch,,,,,,,
+Q337481,it,mantello,716,#BroadMatch,,,,,,,
+Q338814,fr,lion,767,#CloseMatch,,,,,,,
+Q338814,en,lion,767,#CloseMatch,,,,,,,
+Q338814,es,león,767,#CloseMatch,,,,,,,
+Q338814,it,leone,767,NoMatch,,,,,,,
+Q354341,es,colonia,149,NoMatch,,,,,,,
+Q354341,it,colonia,149,NoMatch,,,,,,,
+Q467717,it,racemo,811,NoMatch,,,,,,,
+Q496346,it,tessitura,410 526,NoMatch,,,,,,,
+Q515888,es,filamento,487,NoMatch,,,,,,,
+Q515888,fr,filament,487,NoMatch,,,,,,,
+Q595298,es,haz,27,NoMatch,,,,,,,
+Q621642,en,appliqué,39,#CloseMatch,,,,,,,
+Q621642,es,aplicación,39,#CloseMatch,,,,,,,
+Q691543,fr,pas,396,NoMatch,,,,,,,
+Q691543,it,passo,396,NoMatch,,,,,,,
+Q693690,it,toro,825,NoMatch,,,,,,,
+Q721663,en,face,27,NoMatch,,,,,,,
+Q731988,it,telaio,450,NoMatch,,,,,,,
+Q732034,fr,étole,704,#ExactMatch,,,,,,,
+Q732034,it,stola,704,#ExactMatch,,,,,,,
+Q732034,en,stole,704,#ExactMatch,,,,,,,
+Q737438,es,bermellón,134,#ExactMatch,,,,,,,
+Q747071,en,cocoon,132,#BroadMatch,,,,,,,
+Q762984,en,twine,383,NoMatch,,,,,,,
+Q836026,es,536,276,NoMatch,,,,,,,
+Q854429,es,portada,503,NoMatch,,,,,,,
+Q857397,es,445,276,NoMatch,,,,,,,
+Q864152,fr,olive,518,#ExactMatch,,,,,,,
+Q874142,fr,fibre animale,210,NoMatch,,,,,,,
+Q947731,en,tie,757,NoMatch,,,,,,,
+Q1004230,it,bolla,84,NoMatch,,,,,,,
+Q1034198,it,cappa,738,NoMatch,,,,,,,
+Q1034198,en,cape,843,#ExactMatch,,,,,,,
+Q1034198,es,capa,843,#ExactMatch,,,,,,,
+Q1034415,fr,portée,503,NoMatch,,,,,,,
+Q1121690,fr,canette,127,NoMatch,,,,,,,
+Q1122919,it,passamaneria,148,NoMatch,,,,,,,
+Q1122919,en,passementerie,537,#ExactMatch,,,,,,,
+Q1122919,es,pasamanería,537,#ExactMatch,,,,,,,
+Q1122919,fr,passementerie,537,#ExactMatch,,,,,,,
+Q1132110,en,corduroy,534,#BroadMatch,,,,,,,
+Q1132695,fr,calicot,117,#CloseMatch,,,,,,,
+Q1132695,en,calico,117,NoMatch,,,,,,,
+Q1164849,en,tie,757,NoMatch,,,,,,,
+Q1194630,en,double,420,NoMatch,,,,,,,
+Q1210061,en,doublet,718,NoMatch,,,,,,,
+Q1229071,fr,motif,742,#ExactMatch,,,,,,,
+Q1229071,en,motif,742,#ExactMatch,,,,,,,
+Q1229071,es,motivo,742,#ExactMatch,,,,,,,
+Q1229071,it,motivo,742,#ExactMatch,,,,,,,
+Q1326028,es,campo,444,NoMatch,,,,,,,
+Q1347198,en,surah,13,NoMatch,,,,,,,
+Q1348031,fr,chevron,189,NoMatch,,,,,,,
+Q1356191,en,marquisette,337,#RelatedMatch,,,,,,,
+Q1356191,fr,marquisette,337,#RelatedMatch,,,,,,,
+Q1374036,en,flag,719,NoMatch,,,,,,,
+Q1374036,fr,drapeau,719,NoMatch,,,,,,,
+Q1391023,it,passo,396,NoMatch,,,,,,,
+Q1414254,fr,pédale,648,NoMatch,,,,,,,
+Q1414254,it,pedale,648,NoMatch,,,,,,,
+Q1426327,fr,lin,488,#ExactMatch,,,,,,,
+Q1426327,it,lino,488,#ExactMatch,,,,,,,
+Q1519454,en,design,859,#BroadMatch,,,,,,,
+Q1520790,en,bobbin,263 127 831,NoMatch,,,,,,,
+Q1619206,es,teletón,254,NoMatch,,,,,,,
+Q1777478,en,fret,776,NoMatch,,,,,,,
+Q1798677,it,ninfea,835,NoMatch,,,,,,,
+Q1937516,en,veil,710,NoMatch,,,,,,,
+Q2105906,en,effect,175,NoMatch,,,,,,,
+Q2135068,en,vine,793,NoMatch,,,,,,,
+Q2200632,fr,calice,790,Q2200632,,,,,,,
+Q2217217,en,samite,293,#ExactMatch,,,,,,,
+Q2217217,fr,samit,293,#ExactMatch,,,,,,,
+Q2217217,es,samito,293,#ExactMatch,,,,,,,
+Q2302447,fr,fibre,209,NoMatch,,,,,,,
+Q2397733,en,pile,438,#ExactMatch,,,,,,,
+Q2397733,es,pelo,438,#ExactMatch,,,,,,,
+Q2621865,fr,portée,503,NoMatch,,,,,,,
+Q2630146,en,core,29,NoMatch,,,,,,,
+Q2923673,it,ramo,759,NoMatch,,,,,,,
+Q3001277,en,crown,755,NoMatch,,,,,,,
+Q3022468,es,denier,484,#BroadMatch,,,,,,,
+Q3022468,en,denier,484,#BroadMatch,,,,,,,
+Q3022468,it,denaro,484,#BroadMatch,,,,,,,
+Q3038686,fr,dragon,774,NoMatch,,,,,,,
+Q3115438,es,grana,134,NoMatch,,,,,,,
+Q3241798,fr,lion rampant,848,#CloseMatch,,,,,,,
+Q3268699,en,wild silk,372,#CloseMatch,,,,,,,
+Q3268699,fr,soie sauvage,372,NoMatch,,,,,,,
+Q3290657,fr,marguerite,786,NoMatch,,,,,,,
+Q3294816,en,marquisette,337,NoMatch,,,,,,,
+Q3321195,en,crown,755,NoMatch,,,,,,,
+Q3506474,fr,grotesque,809,NoMatch,,,,,,,
+Q3513433,en,board,622,NoMatch,,,,,,,
+Q3519259,en,count,483,NoMatch,,,,,,,
+Q3521824,fr,phénix,835,NoMatch,,,,,,,
+Q3654601,it,campo,477 519,NoMatch,,,,,,,
+Q3873351,it,naturalismo,664,NoMatch,,,,,,,
+Q3885482,it,orditoio,481,#BroadMatch,,,,,,,
+Q3898950,it,pellicano,823,#ExactMatch,,,,,,,
+Q3898950,en,pelican,823,#ExactMatch,,,,,,,
+Q3898950,fr,pélican,823,#ExactMatch,,,,,,,
+Q4259259,fr,toile,236 862,NoMatch,,,,,,,
+Q4504468,it,catena,387,NoMatch,,,,,,,
+Q4504468,fr,chaîne,387,NoMatch,,,,,,,
+Q4591805,it,pedale,648,NoMatch,,,,,,,
+Q4591805,fr,pédale,648,NoMatch,,,,,,,
+Q4684642,fr,ornement,18 861,NoMatch,,,,,,,
+Q4857590,it,veste battesimale,715,#ExactMatch,,,,,,,
+Q4968065,en,brilliantine,92,NoMatch,,,,,,,
+Q5459831,en,float,60 871,NoMatch,,,,,,,
+Q5564204,en,girdle,139,NoMatch,,,,,,,
+Q5610850,en,ground,223,NoMatch,,,,,,,
+Q5647631,fr,rouleau,363,NoMatch,,,,,,,
+Q6497446,en,veil,710,#ExactMatch,,,,,,,
+Q6497446,it,velo,710,#ExactMatch,,,,,,,
+Q6497446,fr,voile,710,#ExactMatch,,,,,,,
+Q6497446,es,velo,710,#ExactMatch,,,,,,,
+Q6537379,fr,marche,396 648,NoMatch,,,,,,,
+Q6555379,en,lion,767,NoMatch,,,,,,,
+Q6555379,es,león,767,NoMatch,,,,,,,
+Q6786427,en,matelassé,8,#CloseMatch,,,,,,,
+Q7123983,fr,peau de soie,539,NoMatch,,,,,,,
+Q7148361,en,pattern,860,NoMatch,,,,,,,
+Q7322255,en,ribbon,147 756,NoMatch,,,,,,,
+Q7322255,es,cinta,147 757,NoMatch,,,,,,,
+Q7322255,fr,ruban,147 756,NoMatch,,,,,,,
+Q7461093,en,shaft,324,NoMatch,,,,,,,
+Q7577179,en,spike,836,NoMatch,,,,,,,
+Q7672986,en,tabby,236,NoMatch,,,,,,,
+Q10296772,es,carmín,134,NoMatch,,,,,,,
+Q10354139,en,printing process,196,NoMatch,,,,,,,
+Q11307685,en,shuttle,311,NoMatch,,,,,,,
+Q11990109,en,motif,742,NoMatch,,,,,,,
+Q12797896,en,frame,783,NoMatch,,,,,,,
+Q12797896,fr,cadre,429,NoMatch,,,,,,,
+Q13138579,fr,métier aux cartons,446,NoMatch,,,,,,,
+Q14613593,fr,chaîne,387,NoMatch,,,,,,,
+P1114,es,número,483,NoMatch,,,,,,,
+Q15850852,en,thread,268,NoMatch,,,,,,,
+Q16511984,it,passo,396,NoMatch,,,,,,,
+Q16977936,en,rose,785,NoMatch,,,,,,,
+Q21003883,en,doublet,718,NoMatch,,,,,,,
+Q22341926,en,standard,720,NoMatch,,,,,,,
+Q23868769,fr,couvre-chef,712,NoMatch,,,,,,,
+Q28795982,it,puntina,364 546,NoMatch,,,,,,,
+Q28962042,fr,rose,785,NoMatch,,,,,,,
+Q29000384,fr,maille,427,NoMatch,,,,,,,
+Q29000384,it,maglia,427,NoMatch,,,,,,,
+Q29211856,fr,calice,790,NoMatch,,,,,,,
+Q29211912,fr,calice,790,NoMatch,,,,,,,
+Q29211922,fr,calice,790,NoMatch,,,,,,,
+Q29211979,fr,calice,790,NoMatch,,,,,,,
+Q29224084,fr,ange,773,NoMatch,,,,,,,
+Q29249234,fr,ange,773,NoMatch,,,,,,,
+Q29261053,fr,chrisme,792,NoMatch,,,,,,,
+Q29405157,it,campionario,709,NoMatch,,,,,,,
+Q29724827,en,pall,713,NoMatch,,,,,,,
+Q30089737,it,filanda,262,NoMatch,,,,,,,
+Q30345409,en,tulip,786,NoMatch,,,,,,,
+Q30345409,it,tulipano,786,NoMatch,,,,,,,
+Q30345409,fr,tulipe,786,NoMatch,,,,,,,
+Q45057822,es,motivo geométrico,745,#ExactMatch,,,,,,,
+Q45057822,fr,motif géométrique,745,#ExactMatch,,,,,,,
+Q47450777,it,dente,419,NoMatch,,,,,,,
+Q47460174,fr,velours par trame,461,#ExactMatch,,,,,,,
+Q47460174,it,velluto per trama,461,#ExactMatch,,,,,,,
+Q48289799,en,frame,783,NoMatch,,,,,,,
+Q48797082,en,sketch,861,NoMatch,,,,,,,
+Q49173693,fr,atlas,125,#CloseMatch,,,,,,,
+Q52063543,en,madder,251,#ExactMatch,,,,,,,
+Q52063543,fr,garance,251,NoMatch,,,,,,,
+P5095,fr,faille,201,NoMatch,,,,,,,
+P5095,it,faglia,201,NoMatch,,,,,,,
+Q52791078,en,brocading weft,471,#ExactMatch,,,,,,,
+Q52791078,fr,trame brochée,471,#ExactMatch,,,,,,,
+Q55614571,en,interruption,493,NoMatch,,,,,,,
+Q55740415,it,cerro,217,NoMatch,,,,,,,
+Q55741267,it,cerro,217,NoMatch,,,,,,,
+Q55741592,it,cerro,217,NoMatch,,,,,,,
+Q55741595,it,cerro,217,NoMatch,,,,,,,
+Q55741625,it,cerro,217,NoMatch,,,,,,,
+Q55742185,it,cerro,217,NoMatch,,,,,,,
+Q55742248,it,cerro,217,NoMatch,,,,,,,
+Q55743918,fr,ferronnerie,510,NoMatch,,,,,,,
+Q56334520,es,lazo,756,NoMatch,,,,,,,
+Q59679261,es,bandera,719,NoMatch,,,,,,,
+Q60173131,en,shaft,324,NoMatch,,,,,,,
+Q62059481,en,crossing,413,NoMatch,,,,,,,
+Q63854053,en,spun silk,12,#RelatedMatch,,,,,,,
+Q64225207,it,vite,793,NoMatch,,,,,,,
+Q65510139,en,vase,754,NoMatch,,,,,,,
+Q66779998,es,cochinilla,134,NoMatch,,,,,,,
+Q75883519,en,colonia,149,NoMatch,,,,,,,
+Q75883519,es,colonia,149,NoMatch,,,,,,,
+Q90231641,fr,ciboire,782,NoMatch,,,,,,,
+Q90231650,fr,ciboire,782,NoMatch,,,,,,,
+Q90574577,fr,ciboire,782,NoMatch,,,,,,,
+Q90577832,fr,étole,704,NoMatch,,,,,,,
+Q90579410,fr,ciboire,782,NoMatch,,,,,,,
+Q90809566,en,thistle,765,NoMatch,,,,,,,
+Q5113,es,ave,751,#BroadMatch,,,,,,,
+Q5113,it,uccello,751,#BroadMatch,,,,,,,
+Q5113,fr,oiseau,751,#BroadMatch,,,,,,,
+Q5113,en,bird,751,#BroadMatch,,,,,,,
+Q11034,en,printing,196,NoMatch,,,,,,,
+Q11181,es,estrella,762,NoMatch,,,,,,,
+Q14298,en,satin,237 366,NoMatch,,,,,,,
+Q14298,fr,satin,237 366,NoMatch,,,,,,,
+Q14298,es,raso,237 366,NoMatch,,,,,,,
+Q14298,it,raso,237 366,NoMatch,,,,,,,
+Q25288,es,peso,495,NoMatch,,,,,,,
+Q31004,es,547,276,NoMatch,,,,,,,
+Q33330,es,rombo,768,NoMatch,,,,,,,
+Q36241,es,pana,534,NoMatch,,,,,,,
+Q37159,es,batido,465,NoMatch,,,,,,,
+Q40397,es,tejido,649,NoMatch,,,,,,,
+Q40397,it,tessuto,649,NoMatch,,,,,,,
+Q40397,en,tissue,508,NoMatch,,,,,,,
+Q40609,en,aurora,53,NoMatch,,,,,,,
+Q47071,fr,brun,354,NoMatch,,,,,,,
+Q47089,fr,faille,201,NoMatch,,,,,,,
+Q47089,it,faglia,201,NoMatch,,,,,,,
+Q56000,en,naturalism,664,NoMatch,,,,,,,
+Q56000,it,naturalismo,664,NoMatch,,,,,,,
+Q59172,it,filatura,267,#ExactMatch,,,,,,,
+Q59172,en,spinning,267,#ExactMatch,,,,,,,
+Q93201,fr,tulipe,786,NoMatch,,,,,,,
+Q93352,fr,côte,405,NoMatch,,,,,,,
+Q93352,it,costa,405,NoMatch,,,,,,,
+Q104555,it,riga,797,NoMatch,,,,,,,
+Q133346,en,border,775 783,NoMatch,,,,,,,
+Q163446,es,alfombra,28,#BroadMatch,,,,,,,
+Q163446,fr,tapis,28,#BroadMatch,,,,,,,
+Q163446,it,tappeto,28,#BroadMatch,,,,,,,
+Q163446,en,carpet,28,#BroadMatch,,,,,,,
+Q170984,fr,couronne,755,#ExactMatch,,,,,,,
+Q170984,es,corona,755,#ExactMatch,,,,,,,
+Q170984,it,corona,755,#ExactMatch,,,,,,,
+Q170984,en,crown,755,#ExactMatch,,,,,,,
+Q180225,fr,corset,730,#ExactMatch,,,,,,,
+Q180225,es,corsé,730,#ExactMatch,,,,,,,
+Q180225,it,corsetto,730,#ExactMatch,,,,,,,
+Q180225,en,corset,730,#ExactMatch,,,,,,,
+Q183414,fr,carte perforée,842,#BroadMatch,,,,,,,
+Q183414,es,tarjeta perforada,622 842,noMatch,,,,,,,
+Q183414,it,scheda perforata,622,#RelatedMatch,,,,,,,
+Q183414,en,punched card,842,NoMatch,,,,,,,
+Q188725,es,ligadura,317,NoMatch,,,,,,,
+Q188725,it,legatura,317,NoMatch,,,,,,,
+Q189838,fr,bourgeon,780,NoMatch,,,,,,,
+Q194199,fr,dragon,774,NoMatch,,,,,,,
+Q194199,es,dragón,774,NoMatch,,,,,,,
+Q198373,fr,ciboire,782,NoMatch,,,,,,,
+Q210788,it,sfumato,338 476,NoMatch,,,,,,,
+Q230788,fr,bourse,735,NoMatch,,,,,,,
+Q240502,es,raqueta,441,NoMatch,,,,,,,
+Q307491,es,ave,751,NoMatch,,,,,,,
+Q320809,en,braid,230,NoMatch,,,,,,,
+Q331357,es,escudo,789,#CloseMatch,,,,,,,
+Q339805,en,ottoman,435,#CloseMatch,,,,,,,
+Q339805,fr,ottoman,435,#CloseMatch,,,,,,,
+Q339805,it,ottoman,435,NoMatch,,,,,,,
+Q372254,es,campo,444,NoMatch,,,,,,,
+Q385378,en,construction,410,NoMatch,,,,,,,
+Q389782,fr,carton,622,NoMatch,,,,,,,
+Q421719,en,reel,263,NoMatch,,,,,,,
+Q489636,en,batiste,67,NoMatch,,,,,,,
+Q498794,it,catena,387,NoMatch,,,,,,,
+Q517966,en,structure,410,NoMatch,,,,,,,
+Q533047,en,rose,785,NoMatch,,,,,,,
+Q538906,fr,chardon,765,NoMatch,,,,,,,
+Q538906,en,thistle,765,NoMatch,,,,,,,
+Q538906,es,cardo,765,NoMatch,,,,,,,
+Q548275,es,candelabro,794,NoMatch,,,,,,,
+Q548275,en,candelabra,794,NoMatch,,,,,,,
+Q548275,fr,candélabre,794,NoMatch,,,,,,,
+Q548275,it,candelabro,794,NoMatch,,,,,,,
+Q559045,it,stringa,264,NoMatch,,,,,,,
+Q572024,fr,antependium,714,#ExactMatch,,,,,,,
+Q662639,it,stella,762,#ExactMatch,,,,,,,
+Q662639,en,star,762,#ExactMatch,,,,,,,
+Q662639,es,estrella,762,NoMatch,,,,,,,
+Q721931,en,shed,396,NoMatch,,,,,,,
+Q738822,en,warp,387 392,NoMatch,,,,,,,
+Q738822,es,urdimbre,387 390,NoMatch,,,,,,,
+Q738822,fr,fil de chaîne,279,NoMatch,,,,,,,
+Q738822,it,ordito,387,NoMatch,,,,,,,
+Q750197,fr,grisaille,252,NoMatch,,,,,,,
+Q750197,en,grisaille,252,NoMatch,,,,,,,
+Q750197,es,grisalla,252,NoMatch,,,,,,,
+Q805079,fr,bande,836,NoMatch,,,,,,,
+Q852345,es,batido,465,NoMatch,,,,,,,
+Q876459,it,mantello,716 738,NoMatch,,,,,,,
+Q900183,fr,lame,429,NoMatch,,,,,,,
+Q914711,it,traliccio,152,NoMatch,,,,,,,
+Q929132,fr,feston,206,NoMatch,,,,,,,
+Q959831,fr,maille,427,NoMatch,,,,,,,
+Q1039416,fr,cadre,429,NoMatch,,,,,,,
+Q1039416,en,frame,783,NoMatch,,,,,,,
+Q1053956,en,bead,115,NoMatch,,,,,,,
+Q1058858,fr,chagrin,374,NoMatch,,,,,,,
+Q1114829,es,malla,427,NoMatch,,,,,,,
+Q1124951,fr,reps,556,NoMatch,,,,,,,
+Q1128004,it,passo,396,NoMatch,,,,,,,
+Q1136447,fr,carline,788,NoMatch,,,,,,,
+Q1136498,es,granadina,225,NoMatch,,,,,,,
+Q1136498,en,grenadine,225 249,NoMatch,,,,,,,
+Q1136498,it,granatina,225,NoMatch,,,,,,,
+Q1187930,en,bouquet,759,NoMatch,,,,,,,
+Q1251376,en,double,420,NoMatch,,,,,,,
+Q1271511,en,standard,720,NoMatch,,,,,,,
+Q1313396,it,titolo,166,NoMatch,,,,,,,
+Q1313396,fr,chapeau,721,NoMatch,,,,,,,
+Q1333350,es,portada,503,NoMatch,,,,,,,
+Q1353860,en,fringe,217,NoMatch,,,,,,,
+Q1415372,fr,chaîne,387,NoMatch,,,,,,,
+Q1415372,es,camino,477 519,NoMatch,,,,,,,
+Q1429223,it,laminato,302,NoMatch,,,,,,,
+Q1485097,it,pedale,648,NoMatch,,,,,,,
+Q1542411,en,pomegranate,761,#CloseMatch,,,,,,,
+Q1542411,fr,grenade,761,#CloseMatch,,,,,,,
+Q1542411,es,granada,761,#CloseMatch,,,,,,,
+Q1562096,fr,ferronnerie,510,NoMatch,,,,,,,
+Q1590639,es,armadura,318,NoMatch,,,,,,,
+Q1621080,fr,olive,518,NoMatch,,,,,,,
+Q1621080,it,oliva,518,NoMatch,,,,,,,
+Q1639165,en,hat,721,NoMatch,,,,,,,
+Q1660919,es,orla,783,NoMatch,,,,,,,
+Q1788454,es,cruce,413,NoMatch,,,,,,,
+Q1851710,en,structure,410,NoMatch,,,,,,,
+Q2067535,fr,dragon,774,NoMatch,,,,,,,
+Q2380327,en,waistcoat,727,#ExactMatch,,,,,,,
+Q2380327,es,chupa,727,#ExactMatch,,,,,,,
+Q2529255,en,float,60 871,NoMatch,,,,,,,
+Q2702291,en,double,420,NoMatch,,,,,,,
+Q2748498,en,batten,72,NoMatch,,,,,,,
+Q2862826,it,armatura,318,#CloseMatch,,,,,,,
+Q2862826,en,weave,318,#CloseMatch,,,,,,,
+Q2862826,fr,armure,318,#CloseMatch,,,,,,,
+Q2862826,es,ligamento,318,#CloseMatch,,,,,,,
+Q2871935,fr,aurore,52,#RelatedMatch,,,,,,,
+Q2871935,es,aurora,52,#RelatedMatch,,,,,,,
+Q2897292,en,drugget,174,#RelatedMatch,,,,,,,
+Q2897292,it,droghetto,174,#RelatedMatch,,,,,,,
+Q2912707,es,estandarte,720,NoMatch,,,,,,,
+Q2912707,fr,étendard,720,NoMatch,,,,,,,
+Q2912707,it,stendardo,720,NoMatch,,,,,,,
+Q2983013,fr,collerette,82,NoMatch,,,,,,,
+Q3045036,fr,lame,429,NoMatch,,,,,,,
+Q3093009,fr,dais,737 740,NoMatch,,,,,,,
+Q3248828,fr,vigne,793,NoMatch,,,,,,,
+Q3287337,fr,marabout,335,NoMatch,,,,,,,
+Q3294449,fr,marli,341,NoMatch,,,,,,,
+Q3356530,fr,ornement,18 861,NoMatch,,,,,,,
+Q3444710,fr,carton,622,NoMatch,,,,,,,
+Q3454686,fr,réduction,166,NoMatch,,,,,,,
+Q3500504,en,reed,359,#BroadMatch,,,,,,,
+Q3500504,it,pettine,359,#BroadMatch,,,,,,,
+Q3500504,fr,peigne,359,#BroadMatch,,,,,,,
+Q3514338,en,printing technique,198,NoMatch,,,,,,,
+Q3663882,en,dragon,774,NoMatch,,,,,,,
+Q3745573,it,fimbria,217,NoMatch,,,,,,,
+Q3914431,fr,saya,717,NoMatch,,,,,,,
+Q3968171,en,batten,72,NoMatch,,,,,,,
+Q3991930,it,titolo,166,NoMatch,,,,,,,
+Q4202277,es,aplicación,39,NoMatch,,,,,,,
+Q4242241,en,camlet,406,#RelatedMatch,,,,,,,
+Q4242241,es,camelote,406,NoMatch,,,,,,,
+Q4492625,en,frame,783,NoMatch,,,,,,,
+Q4558786,en,loop,757,NoMatch,,,,,,,
+Q4727574,fr,garance,251,NoMatch,,,,,,,
+Q4856913,en,banner,720,NoMatch,,,,,,,
+Q4931276,en,board,622,NoMatch,,,,,,,
+Q5004679,fr,chemin,477 519,NoMatch,,,,,,,
+Q5004679,es,camino,477 519,NoMatch,,,,,,,
+Q5170148,en,core,29,NoMatch,,,,,,,
+Q5170150,en,core,29,NoMatch,,,,,,,
+Q5299640,en,double,420,NoMatch,,,,,,,
+Q5305470,fr,dragon,774,NoMatch,,,,,,,
+Q5375783,en,end,279 485,NoMatch,,,,,,,
+Q5375784,en,end,279 485,NoMatch,,,,,,,
+Q5459835,en,float,60 871,NoMatch,,,,,,,
+P163,en,flag,719,NoMatch,,,,,,,
+P163,fr,drapeau,719,NoMatch,,,,,,,
+Q5477883,en,frame,783,NoMatch,,,,,,,
+Q5607438,en,grenadine,225 249,NoMatch,,,,,,,
+Q6501052,it,paramento liturgico,731,#BroadMatch,,,,,,,
+Q6501052,es,vestidura litúrgica,701,NoMatch,,,,,,,
+Q7193850,en,pile,438,NoMatch,,,,,,,
+Q7193857,en,pile weave,379,NoMatch,,,,,,,
+Q7858456,en,twist,382 530,NoMatch,,,,,,,
+Q8069319,en,zephyr,272,#RelatedMatch,,,,,,,
+Q10475001,es,seda,368,#RelatedMatch,,,,,,,
+Q10475001,fr,soie,368,#RelatedMatch,,,,,,,
+Q10475001,it,seta,368,#RelatedMatch,,,,,,,
+Q10475001,en,silk,368,#RelatedMatch,,,,,,,
+Q10817602,en,pineapple,753,NoMatch,,,,,,,
+Q10817602,fr,ananas,753,NoMatch,,,,,,,
+Q10817602,es,piña,753,NoMatch,,,,,,,
+Q10817602,it,ananas,753,NoMatch,,,,,,,
+Q11992695,en,flag,719,NoMatch,,,,,,,
+Q12016695,en,flush,60,NoMatch,,,,,,,
+Q12068953,en,star,762,NoMatch,,,,,,,
+Q13766456,en,lion,767,NoMatch,,,,,,,
+Q14290457,fr,damier,826,NoMatch,,,,,,,
+Q14915034,it,portata,503,NoMatch,,,,,,,
+Q16623784,en,roses,785,NoMatch,,,,,,,
+Q16623784,fr,rose,785,NoMatch,,,,,,,
+Q16665874,fr,métier à la tire,449,#CloseMatch,,,,,,,
+Q16665874,es,telar de tiro,449,#CloseMatch,,,,,,,
+Q16846061,fr,panne,534,NoMatch,,,,,,,
+Q17138781,en,twist,382 530,NoMatch,,,,,,,
+Q17310518,en,graph paper,856,NoMatch,,,,,,,
+Q17378201,es,cabo,485,NoMatch,,,,,,,
+Q18089021,en,pile,438,NoMatch,,,,,,,
+Q20019014,en,saya,717,NoMatch,,,,,,,
+P2048,it,altezza,66,NoMatch,,,,,,,
+Q24529780,es,punta,364,NoMatch,,,,,,,
+Q28975326,en,pelican,823,NoMatch,,,,,,,
+Q29045268,en,pekin,361,#CloseMatch,,,,,,,
+Q29045268,fr,pékin,361,#CloseMatch,,,,,,,
+Q29211909,fr,ciboire,782,NoMatch,,,,,,,
+Q29211910,fr,ciboire,782,NoMatch,,,,,,,
+Q29211915,fr,calice,790,NoMatch,,,,,,,
+Q29211918,fr,calice,790,NoMatch,,,,,,,
+Q29260793,fr,chrisme,792,NoMatch,,,,,,,
+Q29261459,fr,chrisme,792,NoMatch,,,,,,,
+Q29264426,fr,chrisme,792,NoMatch,,,,,,,
+Q29274558,fr,ange,773,NoMatch,,,,,,,
+Q29299711,fr,lion,767,NoMatch,,,,,,,
+Q43107351,es,teñido en pieza,454,NoMatch,,,,,,,
+Q47185760,en,border,775 783,NoMatch,,,,,,,
+Q50402369,en,crown,755,NoMatch,,,,,,,
+Q50402369,es,corona,755,NoMatch,,,,,,,
+Q53672929,en,ribbon,756,NoMatch,,,,,,,
+Q55353581,en,vase,754,NoMatch,,,,,,,
+Q55740961,it,cerro,217,NoMatch,,,,,,,
+Q55740966,it,cerro,217,NoMatch,,,,,,,
+Q56479259,it,filanda,262,NoMatch,,,,,,,
+Q59507148,en,border,775 783,NoMatch,,,,,,,
+Q60693354,fr,parement d'autel,714,NoMatch,,,,,,,
+Q61750010,fr,vase,754,NoMatch,,,,,,,
+Q64224974,en,phoenix,839,#ExactMatch,,,,,,,
+Q64224974,fr,phénix,835,NoMatch,,,,,,,
+Q64224974,it,fenice,839,#ExactMatch,,,,,,,
+Q64355657,en,frock,715,NoMatch,,,,,,,
+Q64431056,es,arcada,403,NoMatch,,,,,,,
+Q66034614,es,tirador de lazos,464,#ExactMatch,,,,,,,
+Q66034614,fr,tireur de lacs,464,#ExactMatch,,,,,,,
+Q66034614,it,tiratore di lacci,464,#ExactMatch,,,,,,,
+Q81525074,en,fabric,649,NoMatch,,,,,,,
+Q90229952,fr,calice,790,NoMatch,,,,,,,
+Q90804117,fr,calice,790,NoMatch,,,,,,,
+Q90805116,fr,ciboire,782,NoMatch,,,,,,,
+Q90809052,fr,calice,790,NoMatch,,,,,,,
+Q90809161,fr,calice,790,NoMatch,,,,,,,
+Q90924333,fr,velours gaufré,460,NoMatch,,,,,,,
+Q92311493,fr,rouleau,363,NoMatch,,,,,,,
+Q161,en,fibre,209,#CloseMatch,,,,,,,
+Q161,fr,fibre,209,#CloseMatch,,,,,,,
+Q161,it,fibra,209,#CloseMatch,,,,,,,
+Q161,es,fibra,209,#CloseMatch,,,,,,,
+Q553,it,dente,419,NoMatch,,,,,,,
+Q553,fr,dent,419,NoMatch,,,,,,,
+Q553,es,diente,419,NoMatch,,,,,,,
+Q20634,es,vid,793,NoMatch,,,,,,,
+Q33640,es,445,276,NoMatch,,,,,,,
+Q39515,en,heddle,428,#ExactMatch,,,,,,,
+Q39515,it,liccio,324,NoMatch,,,,,,,
+Q82604,es,diseño,816 859 ,NoMatch,,,,,,,
+Q82604,en,design,816 859,NoMatch,,,,,,,
+Q134609,fr,artichaut,821,NoMatch,,,,,,,
+Q134609,en,artichoke,821,NoMatch,,,,,,,
+Q157662,es,cabo,485,NoMatch,,,,,,,
+Q173106,it,nodo,757,NoMatch,,,,,,,
+Q185674,es,campo,444,NoMatch,,,,,,,
+Q185674,it,campo,477 519,NoMatch,,,,,,,
+Q189791,it,diagonale,367,NoMatch,,,,,,,
+Q191022,it,sciarpa,724,#RelatedMatch,,,,,,,
+Q191709,en,chandelier,794,NoMatch,,,,,,,
+Q191851,fr,vase,754,#RelatedMatch,,,,,,,
+Q191851,es,jarrón,754,#RelatedMatch,,,,,,,
+Q191851,it,vaso,754,#RelatedMatch,,,,,,,
+Q191851,en,vase,754,#RelatedMatch,,,,,,,
+Q200674,fr,croix latine,779,#RelatedMatch,,,,,,,
+Q200674,it,croce latina,779,#RelatedMatch,,,,,,,
+Q200674,es,cruz latina,779,#RelatedMatch,,,,,,,
+Q201097,es,cesta,787,noMatch,,,,,,,
+Q201097,fr,panier,787,noMatch,,,,,,,
+Q201097,en,basket,787,noMatch,,,,,,,
+Q201714,fr,tunique,729,#RelatedMatch,,,,,,,
+Q201714,es,túnica,729,#RelatedMatch,,,,,,,
+Q201714,it,tunica,729,#RelatedMatch,,,,,,,
+Q201714,en,tunic,729,#RelatedMatch,,,,,,,
+Q210723,fr,calice,790,noMatch,,,,,,,
+Q210723,es,cáliz,790,noMatch,,,,,,,
+Q210723,it,calice,790,noMatch,,,,,,,
+Q210723,en,chalice,790,noMatch,,,,,,,
+Q218248,fr,grotesque,809,#CloseMatch,,,,,,,
+Q218248,es,grotesco,809,#CloseMatch,,,,,,,
+Q237893,fr,montage,431,NoMatch,,,,,,,
+Q242009,it,intreccio,410 413,NoMatch,,,,,,,
+Q328092,it,cornice,783,noMatch,,,,,,,
+Q357186,fr,papier millimétré,856,NoMatch,,,,,,,
+Q368584,en,saya,717,NoMatch,,,,,,,
+Q370502,fr,application,39,NoMatch,,,,,,,
+Q377804,fr,armure,318,NoMatch,,,,,,,
+Q377804,es,armadura,318,NoMatch,,,,,,,
+Q377804,it,armatura,318,NoMatch,,,,,,,
+Q448030,es,batán,72,NoMatch,,,,,,,
+Q453762,en,spinning,267,NoMatch,,,,,,,
+Q483444,es,kimono,728,#CloseMatch,,,,,,,
+Q483444,fr,kimono,728,#CloseMatch,,,,,,,
+Q483444,en,kimono,728,#CloseMatch,,,,,,,
+Q512604,en,loop,757,NoMatch,,,,,,,
+Q516992,fr,cape,843,#CloseMatch,,,,,,,
+Q516992,es,manto,716,noMatch,,,,,,,
+Q516992,it,mantello,716,NoMatch,,,,,,,
+Q598671,en,doublet,718,NoMatch,,,,,,,
+Q622821,es,cuenta,166,NoMatch,,,,,,,
+Q658310,en,frock,715,NoMatch,,,,,,,
+Q679529,it,armatura,318,NoMatch,,,,,,,
+Q690160,en,edge,775,NoMatch,,,,,,,
+Q728243,en,crossing,413,NoMatch,,,,,,,
+Q739589,fr,ornement,18 861,NoMatch,,,,,,,
+Q780486,en,byssus,830,#ExactMatch,,,,,,,
+Q780486,fr,byssus,830,#ExactMatch,,,,,,,
+Q781953,en,pill,226,NoMatch,,,,,,,
+Q783521,fr,titre,483,NoMatch,,,,,,,
+Q783521,it,titolo,166,NoMatch,,,,,,,
+Q783521,es,título,483,NoMatch,,,,,,,
+Q838070,en,strip,797,NoMatch,,,,,,,
+Q885039,fr,blonde,73,NoMatch,,,,,,,
+Q890478,fr,feuille,750,NoMatch,,,,,,,
+Q908430,en,crown,755,#CloseMatch,,,,,,,
+Q908430,es,corona,755,#CloseMatch,,,,,,,
+Q908430,it,corona,755,#CloseMatch,,,,,,,
+Q908430,fr,couronne,755,#CloseMatch,,,,,,,
+Q912142,fr,damas,168,#CloseMatch,,,,,,,
+Q912142,en,damask,10 168,noMatch,,,,,,,
+Q912142,es,damasco,168,#CloseMatch,,,,,,,
+Q912142,it,damasco,168,#CloseMatch,,,,,,,
+Q917284,en,vine,793,NoMatch,,,,,,,
+Q926230,fr,effet,175,NoMatch,,,,,,,
+Q926230,en,effect,175,NoMatch,,,,,,,
+Q926230,es,efecto,175,NoMatch,,,,,,,
+Q926230,it,effetto,175,NoMatch,,,,,,,
+Q940913,fr,chenille,417,NoMatch,,,,,,,
+Q979962,fr,maille,427,NoMatch,,,,,,,
+Q990683,fr,broché,192,NoMatch,,,,,,,
+Q1051839,en,pashmina,724,NoMatch,,,,,,,
+Q1069298,es,470,178,NoMatch,,,,,,,
+Q1070358,en,ribbon,147 756,NoMatch,,,,,,,
+Q1188853,it,nodo,757,NoMatch,,,,,,,
+Q1201922,en,wreath,760,NoMatch,,,,,,,
+Q1366002,fr,chemin,477 519,NoMatch,,,,,,,
+Q1366187,it,portata,503,NoMatch,,,,,,,
+Q1376436,it,stringa,264,NoMatch,,,,,,,
+Q1391831,en,thread,268,NoMatch,,,,,,,
+Q1391831,fr,fil,268 696,NoMatch,,,,,,,
+Q1410477,fr,costume,699,NoMatch,,,,,,,
+Q1427141,fr,âme,29,NoMatch,,,,,,,
+Q1550781,it,corona,755,NoMatch,,,,,,,
+Q1567420,fr,chiffon,142,NoMatch,,,,,,,
+Q1742316,fr,natté,694,NoMatch,,,,,,,
+Q1752380,en,nuance,338 476,NoMatch,,,,,,,
+Q1782991,en,construction,410,NoMatch,,,,,,,
+Q1785388,it,mantello,716 738,NoMatch,,,,,,,
+Q1785388,es,manto,716 738,NoMatch,,,,,,,
+Q1785388,fr,manteau,716 738,NoMatch,,,,,,,
+Q2077710,en,face,27,NoMatch,,,,,,,
+Q2089634,en,phoenix,839,NoMatch,,,,,,,
+Q2089634,fr,phénix,835,NoMatch,,,,,,,
+Q2089634,it,fenice,839,#BroadMatch,,,,,,,
+Q2092297,en,eagle,771,NoMatch,,,,,,,
+Q2092297,es,águila,771,NoMatch,,,,,,,
+Q2092297,fr,aigle,771,NoMatch,,,,,,,
+Q2092297,it,aquila,771,NoMatch,,,,,,,
+Q2135859,en,lozenge twill,496,#ExactMatch,,,,,,,
+Q2135859,fr,losange,496 768,NoMatch,,,,,,,
+Q2135859,es,losange,496,#ExactMatch,,,,,,,
+Q2135859,it,diamantina,496,#ExactMatch,,,,,,,
+Q2147038,en,shaft,324,NoMatch,,,,,,,
+Q2183220,it,costa,405,NoMatch,,,,,,,
+Q2236563,fr,pas,396,NoMatch,,,,,,,
+Q2236563,it,passo,396,NoMatch,,,,,,,
+Q2283464,it,canestro,787,NoMatch,,,,,,,
+Q2283464,fr,panier,787,NoMatch,,,,,,,
+Q2283464,en,basket,787,NoMatch,,,,,,,
+Q2345087,en,fibroin,24,NoMatch,,,,,,,
+Q2345087,es,fibroína,24,NoMatch,,,,,,,
+Q2349299,en,tie,757,NoMatch,,,,,,,
+Q2438930,it,pelo,360 438,NoMatch,,,,,,,
+Q2726568,it,altezza,66,NoMatch,,,,,,,
+Q2827871,fr,aiguille,616,NoMatch,,,,,,,
+Q2933965,fr,calice,790,NoMatch,,,,,,,
+Q2933965,es,cáliz,790,NoMatch,,,,,,,
+Q2933965,it,calice,790,NoMatch,,,,,,,
+Q2995443,en,motif,742,NoMatch,,,,,,,
+Q3075310,fr,fond,223,NoMatch,,,,,,,
+Q3075310,it,fondo,221 223,NoMatch,,,,,,,
+Q3075310,es,fondo,221 223,NoMatch,,,,,,,
+Q3116435,fr,grenadine,225 249,NoMatch,,,,,,,
+Q3116435,es,granadina,225,#CloseMatch,,,,,,,
+Q3243230,fr,soie de mer,830,NoMatch,,,,,,,
+Q3306078,en,shot,119 436 465,NoMatch,,,,,,,
+Q3515476,fr,tapis,28,NoMatch,,,,,,,
+Q3515476,en,tapis,28,NoMatch,,,,,,,
+Q3663356,it,catena,387,NoMatch,,,,,,,
+Q3683460,it,colonia,149,NoMatch,,,,,,,
+Q3745851,en,flax,488,NoMatch,,,,,,,
+Q3747265,it,fondo,221 223,NoMatch,,,,,,,
+Q3816685,en,blonde lace,73,#closeMatch,,,,,,,
+Q3816685,fr,blonde,73,#closeMatch,,,,,,,
+Q3843248,it,maglia,427,NoMatch,,,,,,,
+Q3873422,it,navetta,311,NoMatch,,,,,,,
+Q3873422,en,shuttle,311,NoMatch,,,,,,,
+Q3873422,fr,navette,311,NoMatch,,,,,,,
+Q3935248,it,riduzione,166,NoMatch,,,,,,,
+Q3940795,it,rombo,768,NoMatch,,,,,,,
+Q4171386,it,anima,29,NoMatch,,,,,,,
+Q4171386,es,alma,29,NoMatch,,,,,,,
+Q4357882,en,double cloth,421,NoMatch,,,,,,,
+Q4357882,es,doble tela,421,NoMatch,,,,,,,
+Q5189298,en,crown,755,NoMatch,,,,,,,
+Q5189298,es,corona,755,NoMatch,,,,,,,
+Q5189298,it,corona,755,NoMatch,,,,,,,
+Q6070109,es,lirio,887,NoMatch,,,,,,,
+Q6481697,en,lamella,285,NoMatch,,,,,,,
+Q6997582,en,vine,793,NoMatch,,,,,,,
+Q7169371,fr,motif,742,NoMatch,,,,,,,
+Q7316656,es,arcada,403,NoMatch,,,,,,,
+Q7534724,en,sketch,861,NoMatch,,,,,,,
+Q7595945,es,campo,444,NoMatch,,,,,,,
+Q9053464,fr,costume,699,NoMatch,,,,,,,
+Q10623719,it,altezza,66,NoMatch,,,,,,,
+Q11173709,en,phoenix,839,NoMatch,,,,,,,
+Q12321255,fr,toile,236 862,NoMatch,,,,,,,
+Q12769393,en,end,279 485,NoMatch,,,,,,,
+Q14085739,fr,voile,710,NoMatch,,,,,,,
+Q16593391,it,quadro,429,NoMatch,,,,,,,
+Q16596565,it,riduzione,166,NoMatch,,,,,,,
+Q17504209,en,star,762,NoMatch,,,,,,,
+Q18206654,it,bava,478,NoMatch,,,,,,,
+Q20679890,en,flush,60,NoMatch,,,,,,,
+Q485027,fr,armure,318,NoMatch,,,,,,,
+Q485027,es,armadura,318,NoMatch,,,,,,,
+Q485027,it,armatura,318,NoMatch,,,,,,,
+Q25962599,en,stars,762,NoMatch,,,,,,,
+Q29120811,fr,calice,790,NoMatch,,,,,,,
+Q29125476,fr,ange,773,NoMatch,,,,,,,
+Q29128601,fr,ange,773,NoMatch,,,,,,,
+Q29211925,fr,calice,790,NoMatch,,,,,,,
+Q29242956,fr,lion,767,NoMatch,,,,,,,
+Q29260290,fr,chrisme,792,NoMatch,,,,,,,
+Q29261847,fr,chasuble,702,NoMatch,,,,,,,
+Q29310392,fr,ange,773,NoMatch,,,,,,,
+Q29514179,en,lace,180 364 791,NoMatch,,,,,,,
+Q29514179,es,cordón,623,noMatch,,,,,,,
+Q29527561,es,boceto,861,#CloseMatch,,,,,,,
+Q29561475,en,cross twill,600,#ExactMatch,,,,,,,
+Q29639251,en,printed fabric,197,NoMatch,,,,,,,
+Q31834953,fr,drapeau,719,NoMatch,,,,,,,
+Q35010210,fr,peigne,359,NoMatch,,,,,,,
+Q39709980,en,board,622,NoMatch,,,,,,,
+Q41553020,en,design,816,NoMatch,,,,,,,
+Q41553020,fr,conception,859,NoMatch,,,,,,,
+Q42170649,fr,chapeau,721,NoMatch,,,,,,,
+Q43153155,en,pomegranate,761,NoMatch,,,,,,,
+Q47089651,en,flax,488,NoMatch,,,,,,,
+Q47089651,fr,lin,488,NoMatch,,,,,,,
+Q50316288,fr,peigne,359,NoMatch,,,,,,,
+Q50316288,it,pettine,359,NoMatch,,,,,,,
+Q52793492,en,pattern weft,470,#CloseMatch,,,,,,,
+Q52793492,fr,trame lancée,470,#CloseMatch,,,,,,,
+Q54810368,en,ground weave,221,#CloseMatch,,,,,,,
+Q54810368,fr,armure de fond,221,#CloseMatch,,,,,,,
+Q54935958,en,binding warp,391,NoMatch,,,,,,,
+Q54935958,fr,chaîne de liage,391,NoMatch,,,,,,,
+Q55239425,fr,bande,836,NoMatch,,,,,,,
+Q55353901,en,loom,450,NoMatch,,,,,,,
+Q55366661,en,quill,263 127,NoMatch,,,,,,,
+Q55368177,en,needle,616,NoMatch,,,,,,,
+Q55368177,es,aguja,616,NoMatch,,,,,,,
+Q55368177,fr,aiguille,616,NoMatch,,,,,,,
+Q55732412,es,pasada,436,NoMatch,,,,,,,
+Q55741165,it,vite,793,NoMatch,,,,,,,
+Q55741502,it,vite,793,NoMatch,,,,,,,
+Q55741634,it,cerro,217,NoMatch,,,,,,,
+Q55742199,it,cerro,217,NoMatch,,,,,,,
+Q55742247,it,cerro,217,NoMatch,,,,,,,
+Q56877283,fr,ciboire,782,NoMatch,,,,,,,
+Q57003787,fr,tordre,530,NoMatch,,,,,,,
+Q60646305,en,pall,713,NoMatch,,,,,,,
+Q60879587,it,pelo,360 438,NoMatch,,,,,,,
+Q64037025,fr,lampas,305,#CloseMatch,,,,,,,
+Q64037025,it,lampasso,305,#CloseMatch,,,,,,,
+Q64140922,fr,rose,785,NoMatch,,,,,,,
+Q64149073,fr,samit,293,#ExactMatch,,,,,,,
+Q64618487,es,colgadura,739,#ExactMatch,,,,,,,
+Q64618487,fr,tenture,739,#ExactMatch,,,,,,,
+Q65965557,en,broken twill,600,#ExactMatch,,,,,,,
+Q65972441,en,repeat,444,#CloseMatch,,,,,,,
+Q65972441,fr,rapport,444,#CloseMatch,,,,,,,
+Q74463210,fr,velouté,47,NoMatch,,,,,,,
+Q90232455,fr,ciboire,782,NoMatch,,,,,,,
+Q90232785,fr,ciboire,782,NoMatch,,,,,,,
+Q90580452,fr,calice,790,NoMatch,,,,,,,
+Q90804065,fr,ciboire,782,NoMatch,,,,,,,
+Q90804088,fr,ciboire,782,NoMatch,,,,,,,
+Q90804361,fr,calice,790,NoMatch,,,,,,,
+Q90805141,fr,ciboire,782,NoMatch,,,,,,,
+Q90805148,fr,ciboire,782,NoMatch,,,,,,,
+Q90805173,fr,calice,790,NoMatch,,,,,,,
+Q90810393,fr,ciboire,782,NoMatch,,,,,,,
+Q90810400,fr,ciboire,782,NoMatch,,,,,,,
+Q91132546,en,voided velvet,459,#ExactMatch,,,,,,,
+Q91805998,en,pile-on-pile velvet,458,NoMatch,,,,,,,
+Q7748,it,diritto,27,NoMatch,,,,,,,
+Q11022,it,vite,793,NoMatch,,,,,,,
+Q37017,en,face,27,NoMatch,,,,,,,
+Q43417,es,fondo,221 223,NoMatch,,,,,,,
+Q49007,en,yarn,696,NoMatch,,,,,,,
+Q49007,es,hilo,268 696,NoMatch,,,,,,,
+Q55995,en,naturalism,664,NoMatch,,,,,,,
+Q147398,es,espiga,836,NoMatch,,,,,,,
+Q147398,it,spiga,836,NoMatch,,,,,,,
+Q147398,en,ear,836,NoMatch,,,,,,,
+Q151771,fr,chandelier,794,NoMatch,,,,,,,
+Q166142,fr,application,39,NoMatch,,,,,,,
+Q166142,it,applicazione,39,NoMatch,,,,,,,
+Q167270,es,marca,342,NoMatch,,,,,,,
+Q170494,fr,corps,414,NoMatch,,,,,,,
+Q170494,es,cuerpo,414,NoMatch,,,,,,,
+Q178413,es,galón,230,NoMatch,,,,,,,
+Q178413,it,gallone,230,NoMatch,,,,,,,
+Q181362,es,crepé,157,NoMatch,,,,,,,
+Q181362,fr,crêpe,157,NoMatch,,,,,,,
+Q181362,it,crêpe,157,NoMatch,,,,,,,
+Q183272,fr,frise,775,NoMatch,,,,,,,
+Q183272,it,fregio,775,NoMatch,,,,,,,
+Q185148,es,intervalo,493,NoMatch,,,,,,,
+Q189940,it,catena,387,NoMatch,,,,,,,
+Q201851,it,spina,367,NoMatch,,,,,,,
+Q203478,en,polonaise,540,NoMatch,,,,,,,
+Q211568,it,giglio,887 824,NoMatch,,,,,,,
+Q211568,en,fleur-de-lis,824,NoMatch,,,,,,,
+Q232191,it,maglia,427,NoMatch,,,,,,,
+Q236232,it,cintura,139 139 147,NoMatch,,,,,,,
+Q243519,fr,velours,379,#CloseMatch,,,,,,,
+Q243519,es,terciopelo,379,#CloseMatch,,,,,,,
+Q243519,it,velluto,379,#CloseMatch,,,,,,,
+Q243519,en,velvet,379,#CloseMatch,,,,,,,
+Q382874,fr,torsion,63 382,NoMatch,,,,,,,
+Q382874,es,torsión,382,NoMatch,,,,,,,
+Q384873,en,leash,427,NoMatch,,,,,,,
+Q397648,fr,agrément,18,NoMatch,,,,,,,
+Q445972,fr,pourpoint,718,#ExactMatch,,,,,,,
+Q445972,es,jubón,718,#ExactMatch,,,,,,,
+Q445972,en,doublet,718,#ExactMatch,,,,,,,
+Q452858,en,polonaise,540,NoMatch,,,,,,,
+Q475000,fr,bourse,735,NoMatch,,,,,,,
+Q504779,fr,kesa,735,NoMatch,,,,,,,
+Q513206,it,lustro,489,NoMatch,,,,,,,
+Q552299,fr,chaîne,387,NoMatch,,,,,,,
+Q552299,it,catena,387,NoMatch,,,,,,,
+Q655357,es,atlas,125,NoMatch,,,,,,,
+Q672590,en,grotesque,809,NoMatch,,,,,,,
+Q725457,fr,mousseline,355,#RelatedMatch,,,,,,,
+Q725457,en,muslin,355,#RelatedMatch,,,,,,,
+Q725457,es,muselina,355,#RelatedMatch,,,,,,,
+Q725457,it,mussola,355,NoMatch,,,,,,,
+Q745316,es,escudo,789,NoMatch,,,,,,,
+Q752296,fr,palme,763,NoMatch,,,,,,,
+Q806869,es,bandera,719,NoMatch,,,,,,,
+Q806869,en,banner,720,NoMatch,,,,,,,
+Q830328,it,corona,755,NoMatch,,,,,,,
+Q849829,en,cope,705,NoMatch,,,,,,,
+Q909576,fr,dragon,774,NoMatch,,,,,,,
+Q909576,en,dragon,774,NoMatch,,,,,,,
+Q930924,it,corpetto,730,NoMatch,,,,,,,
+Q958210,fr,gilet,727,NoMatch,,,,,,,
+Q958210,it,panciotto,727,NoMatch,,,,,,,
+Q958210,en,waistcoat,727,NoMatch,,,,,,,
+Q984959,fr,cannelé,1 2,NoMatch,,,,,,,
+Q984959,it,cannellato,1 2,NoMatch,,,,,,,
+Q1016957,fr,bourse,735,#ExactMatch,,,,,,,
+Q1016957,es,bolsa de corporales,735,#ExactMatch,,,,,,,
+Q1016957,en,burse,735,#ExactMatch,,,,,,,
+Q1057522,en,plush,17 202 439,NoMatch,,,,,,,
+Q1057522,it,peluche,439,NoMatch,,,,,,,
+Q1134503,it,corona,755,NoMatch,,,,,,,
+Q1134503,es,corona,755,NoMatch,,,,,,,
+Q1152241,fr,serge,367,#RelatedMatch,,,,,,,
+Q1152241,en,twill weave,238,#ExactMatch,,,,,,,
+Q1152241,en,twill,238 367,NoMatch,,,,,,,
+Q1152241,it,saia,238 367,NoMatch,,,,,,,
+Q1152241,es,asargado,43,#RelatedMatch,,,,,,,
+Q1153946,en,plain weave,44 236,NoMatch,,,,,,,
+Q1153946,fr,toile,236 862,NoMatch,,,,,,,
+Q1197709,fr,réduction,166,NoMatch,,,,,,,
+Q1261026,fr,imprimé,196 197,NoMatch,,,,,,,
+Q1286741,en,ottoman,435,NoMatch,,,,,,,
+Q1303310,es,atlas,125,NoMatch,,,,,,,
+Q1368310,en,leaf,750,NoMatch,,,,,,,
+Q1399356,it,catena,387,NoMatch,,,,,,,
+Q1399356,fr,chaîne,387,NoMatch,,,,,,,
+Q1402709,fr,médaillon,764,NoMatch,,,,,,,
+Q1402709,it,medaglione,764,NoMatch,,,,,,,
+Q1416517,es,cartón,521 622,NoMatch,,,,,,,
+Q1416517,fr,carton,622,NoMatch,,,,,,,
+Q1589116,en,canopy,737 740,NoMatch,,,,,,,
+Q1589116,fr,dais,737 740,NoMatch,,,,,,,
+Q1622547,en,core,29,NoMatch,,,,,,,
+Q1708003,en,dragon,774,NoMatch,,,,,,,
+Q1708003,es,dragón,774,NoMatch,,,,,,,
+Q1708003,fr,dragon,774,NoMatch,,,,,,,
+Q1758354,it,intreccio,410 413,NoMatch,,,,,,,
+Q1758354,es,trama,384,NoMatch,,,,,,,
+Q1865992,en,cord,623,#RelatedMatch,,,,,,,
+Q1865992,es,hebra,268,#ExactMatch,,,,,,,
+Q1969849,en,natté,694,#CloseMatch,,,,,,,
+Q1969849,fr,natté,694,#CloseMatch,,,,,,,
+Q1970335,fr,écru,164,#CloseMatch,,,,,,,
+Q1985541,en,damassé,10,#ExactMatch,,,,,,,
+Q1985541,fr,damassé,10,#ExactMatch,,,,,,,
+Q1985541,es,adamascado,10,#ExactMatch,,,,,,,
+Q2002752,fr,foulard,722,#RelatedMatch,,,,,,,
+Q2002752,es,velo,710,NoMatch,,,,,,,
+Q2048179,it,palma,763,NoMatch,,,,,,,
+Q2144381,es,ligadura,317,NoMatch,,,,,,,
+Q2231138,fr,schappe,55,#CloseMatch,,,,,,,
+Q2231138,en,schappe,90,NoMatch,,,,,,,
+Q2238160,es,marca,342,NoMatch,,,,,,,
+Q2298133,en,pall,713,NoMatch,,,,,,,
+Q2381072,en,frame,783,NoMatch,,,,,,,
+Q2397485,fr,chaîne,387,NoMatch,,,,,,,
+Q2397485,it,catena,387,NoMatch,,,,,,,
+Q2399307,fr,inscription,758,NoMatch,,,,,,,
+Q2479906,fr,portée,503,NoMatch,,,,,,,
+Q2745866,en,shaft,324,NoMatch,,,,,,,
+Q3241235,fr,lin,488,NoMatch,,,,,,,
+Q3241235,es,lino,488,NoMatch,,,,,,,
+Q3510770,en,metallic thread,497,NoMatch,,,,,,,
+Q3556204,fr,vert céladon,394,#ExactMatch,,,,,,,
+Q3764144,es,lirio,887,NoMatch,,,,,,,
+Q3836720,en,loop,757,NoMatch,,,,,,,
+Q3973051,fr,filature,262,NoMatch,,,,,,,
+Q3973051,it,filanda,262,NoMatch,,,,,,,
+Q4000449,it,tunica,729,NoMatch,,,,,,,
+Q4071059,en,lion,767,NoMatch,,,,,,,
+Q4876048,en,bead,115,NoMatch,,,,,,,
+Q5033434,en,canopy,737 740,NoMatch,,,,,,,
+Q5170145,en,core,29,NoMatch,,,,,,,
+Q5456610,en,flag,719,NoMatch,,,,,,,
+Q5477874,en,frame,783,NoMatch,,,,,,,
+Q5849904,en,standard,720,NoMatch,,,,,,,
+Q7148360,en,pattern,860,NoMatch,,,,,,,
+Q7148362,en,pattern,860,NoMatch,,,,,,,
+Q8083174,en,structure,410,NoMatch,,,,,,,
+Q8868615,en,loop,757,NoMatch,,,,,,,
+Q10318954,en,neoclassicism,674,NoMatch,,,,,,,
+Q10605441,en,daisy,886,NoMatch,,,,,,,
+Q10870555,fr,rapport,444,NoMatch,,,,,,,
+Q11547758,en,wool,644,#ExactMatch,,,,,,,
+Q11547758,es,lana,644,#ExactMatch,,,,,,,
+Q11547758,fr,laine,644,NoMatch,,,,,,,
+Q11812678,it,fondo,221 223,NoMatch,,,,,,,
+Q12298060,it,tessitura,410 526,NoMatch,,,,,,,
+Q12310114,en,angel,773,NoMatch,,,,,,,
+Q13217555,es,fondo,223,NoMatch,,,,,,,
+Q15982595,en,star,762,NoMatch,,,,,,,
+Q16143108,en,beater,72,NoMatch,,,,,,,
+Q16572889,it,liscio,321,NoMatch,,,,,,,
+Q16889336,en,zephyr,272,NoMatch,,,,,,,
+Q17231903,en,double,420,NoMatch,,,,,,,
+Q17577215,en,lamella,285,#CloseMatch,,,,,,,
+Q17577215,fr,lame,429,NoMatch,,,,,,,
+Q17577215,it,laminetta,285,#CloseMatch,,,,,,,
+Q18209559,it,disposizione,799,NoMatch,,,,,,,
+P2049,en,width,66,NoMatch,,,,,,,
+Q21076234,it,effetto,175,NoMatch,,,,,,,
+Q21076234,en,effect,175,NoMatch,,,,,,,
+Q23041430,fr,artichaut,821,NoMatch,,,,,,,
+Q23041430,es,alcachofa,821,NoMatch,,,,,,,
+Q23041430,it,carciofo,821,NoMatch,,,,,,,
+Q23826330,en,eagle,771,NoMatch,,,,,,,
+Q28960505,fr,lame métallique,285,NoMatch,,,,,,,
+Q29167534,fr,tapisserie,608,NoMatch,,,,,,,
+Q29211898,fr,calice,790,NoMatch,,,,,,,
+Q29211940,fr,calice,790,NoMatch,,,,,,,
+Q29405155,en,reed,359,NoMatch,,,,,,,
+Q29586582,en,gold thread,627,#CloseMatch,,,,,,,
+Q29586582,es,hilo de oro,627,#CloseMatch,,,,,,,
+Q29586691,en,frisé,233,NoMatch,,,,,,,
+Q29586691,fr,frisé,233,NoMatch,,,,,,,
+Q29732002,en,double,420,NoMatch,,,,,,,
+Q29951622,en,star,762,NoMatch,,,,,,,
+Q30095434,en,cord,623,NoMatch,,,,,,,
+Q34758434,en,end,279 485,NoMatch,,,,,,,
+Q42890140,en,reed,359,NoMatch,,,,,,,
+Q47507394,en,chalice veil,713,NoMatch,,,,,,,
+Q55078809,es,gasa,222 232,NoMatch,,,,,,,
+Q55351966,en,wreath,760,#CloseMatch,,,,,,,
+Q55351966,es,guirnalda,760,#CloseMatch,,,,,,,
+Q55351966,it,ghirlanda,760,#CloseMatch,,,,,,,
+Q55413080,en,pattern,860,NoMatch,,,,,,,
+Q55740992,it,cerro,217,NoMatch,,,,,,,
+Q55741477,it,cerro,217,NoMatch,,,,,,,
+Q55741636,it,cerro,217,NoMatch,,,,,,,
+Q55742849,it,cerro,217,NoMatch,,,,,,,
+Q55743153,it,vite,793,NoMatch,,,,,,,
+Q56145959,en,needle,616,NoMatch,,,,,,,
+Q57248625,es,marca,342,NoMatch,,,,,,,
+Q60442663,es,547,276,NoMatch,,,,,,,
+Q63442113,en,batik,65,#CloseMatch,,,,,,,
+Q63676459,es,escudo,789,NoMatch,,,,,,,
+Q63852445,fr,filoselle,216,#RelatedMatch,,,,,,,
+Q64034366,en,lotus,835,NoMatch,,,,,,,
+Q65082068,en,ground,223,NoMatch,,,,,,,
+P7045,it,telaio,450,NoMatch,,,,,,,
+Q66033606,en,undyed,164,#CloseMatch,,,,,,,
+Q66033606,es,crudo,164,#CloseMatch,,,,,,,
+Q66033606,fr,écru,164,#CloseMatch,,,,,,,
+Q66033606,it,crudo,164,#CloseMatch,,,,,,,
+Q66103780,es,cruce,413,NoMatch,,,,,,,
+Q66119168,fr,brocher,105,NoMatch,,,,,,,
+Q67377511,en,cocoon,132,#CloseMatch,,,,,,,
+Q67441540,en,flag,719,#CloseMatch,,,,,,,
+Q67441540,es,bandera,719,#CloseMatch,,,,,,,
+Q67441540,fr,drapeau,719,#CloseMatch,,,,,,,
+Q74488363,en,tabby,236,NoMatch,,,,,,,
+Q89800979,en,rose,785,NoMatch,,,,,,,
+Q90232443,fr,ciboire,782,NoMatch,,,,,,,
+Q90804128,fr,calice,790,NoMatch,,,,,,,
+Q90805906,fr,chandelier,794,NoMatch,,,,,,,
+Q90809127,fr,ciboire,782,NoMatch,,,,,,,
+Q91028826,en,pomegranate,761,NoMatch,,,,,,,
+Q92279207,en,strip,797,NoMatch,,,,,,,
+Q96211216,en,design,816 859,NoMatch,,,,,,,
+Q708,fr,plomb,495,NoMatch,,,,,,,
+Q708,it,piombo,495,NoMatch,,,,,,,
+Q708,es,plomo,495,NoMatch,,,,,,,
+Q1128,fr,radium,549,NoMatch,,,,,,,
+Q1128,en,radium,549,NoMatch,,,,,,,
+Q1493,fr,ananas,753,NoMatch,,,,,,,
+Q1493,en,pineapple,753,NoMatch,,,,,,,
+Q11563,es,número,483,NoMatch,,,,,,,
+Q14659,it,stemma,789,NoMatch,,,,,,,
+Q25999,fr,voile,710,NoMatch,,,,,,,
+Q27948,es,lista,797,NoMatch,,,,,,,
+Q30322,es,536,276,NoMatch,,,,,,,
+Q32114,es,470,178,NoMatch,,,,,,,
+Q80151,es,sombrero,721,#CloseMatch,,,,,,,
+Q80151,fr,chapeau,721,#CloseMatch,,,,,,,
+Q80151,it,cappello,721,#CloseMatch,,,,,,,
+Q80151,en,hat,721,#CloseMatch,,,,,,,
+Q93184,fr,dessin,816,#RelatedMatch,,,,,,,
+Q93184,it,disegno,816,#RelatedMatch,,,,,,,
+Q115488,fr,médaillon,764,#CloseMatch,,,,,,,
+Q115488,en,medallion,764,#CloseMatch,,,,,,,
+Q115488,it,medaglione,764,#CloseMatch,,,,,,,
+Q118120,en,reel,263,NoMatch,,,,,,,
+Q118587,es,alzacuellos,708,#CloseMatch,,,,,,,
+Q118587,fr,col romain,708,#CloseMatch,,,,,,,
+Q133156,it,colonia,149,NoMatch,,,,,,,
+Q151970,fr,chrisme,792,#CloseMatch,,,,,,,
+Q151970,es,crismón,792,#CloseMatch,,,,,,,
+Q152574,fr,manteau,716 738,NoMatch,,,,,,,
+Q160091,en,plain,321,NoMatch,,,,,,,
+Q169336,es,mezcla,635,NoMatch,,,,,,,
+Q173056,es,telar,450,#RelatedMatch,,,,,,,
+Q173056,it,telaio,450,#RelatedMatch,,,,,,,
+Q173056,en,loom,450,#RelatedMatch,,,,,,,
+Q186637,fr,arcade,403,NoMatch,,,,,,,
+Q186637,es,arcada,403,NoMatch,,,,,,,
+Q186637,it,arcata,403,NoMatch,,,,,,,
+Q196117,es,doblado,420,NoMatch,,,,,,,
+Q208826,it,altezza,66,NoMatch,,,,,,,
+Q213092,en,thread,268,NoMatch,,,,,,,
+Q235113,en,angel,773,NoMatch,,,,,,,
+Q235113,es,ángel,773,NoMatch,,,,,,,
+Q235113,fr,ange,773,NoMatch,,,,,,,
+Q235113,it,angelo,773,NoMatch,,,,,,,
+Q236090,es,470,178,NoMatch,,,,,,,
+Q244696,es,peso,495,NoMatch,,,,,,,
+Q269345,en,lamella,285,NoMatch,,,,,,,
+Q269345,fr,lame,429,NoMatch,,,,,,,
+Q303826,en,crimson,134 135,NoMatch,,,,,,,
+Q303826,es,carmesí,134 135,NoMatch,,,,,,,
+Q303826,fr,cramoisi,134 135,NoMatch,,,,,,,
+Q330946,fr,lame,429,NoMatch,,,,,,,
+Q330946,es,hoja,750,NoMatch,,,,,,,
+Q431289,es,marca,342,NoMatch,,,,,,,
+Q431289,it,marca,342,NoMatch,,,,,,,
+Q457931,en,fabric,649,NoMatch,,,,,,,
+Q508295,es,cuenta,166,NoMatch,,,,,,,
+Q508295,fr,compte,166,NoMatch,,,,,,,
+Q535611,en,neoclassicism,674,NoMatch,,,,,,,
+Q591274,fr,métamère,465,NoMatch,,,,,,,
+Q612908,fr,croix grecque,778,#RelatedMatch,,,,,,,
+Q618710,fr,gaze,222 232,NoMatch,,,,,,,
+Q618710,en,gauze,222 232 234,NoMatch,,,,,,,
+Q622964,en,double-headed eagle,772,#ExactMatch,,,,,,,
+Q635427,fr,batik,65,NoMatch,,,,,,,
+Q643584,es,punta,364,NoMatch,,,,,,,
+Q694969,fr,chaîne,387,NoMatch,,,,,,,
+Q756780,en,colonia,149,NoMatch,,,,,,,
+Q799000,en,badge,789,NoMatch,,,,,,,
+Q840507,es,lazo,313 756,NoMatch,,,,,,,
+Q845391,fr,armure,318,NoMatch,,,,,,,
+Q845391,it,armatura,318,NoMatch,,,,,,,
+Q860792,fr,cadre,429,NoMatch,,,,,,,
+Q860792,es,marco,429,NoMatch,,,,,,,
+Q860792,it,cornice,783,NoMatch,,,,,,,
+Q898879,fr,grecque,776,#RelatedMatch,,,,,,,
+Q898879,it,greca,776,#RelatedMatch,,,,,,,
+Q898879,es,greca,776,#RelatedMatch,,,,,,,
+Q925920,fr,trame,384,NoMatch,,,,,,,
+Q940147,it,corona,755,NoMatch,,,,,,,
+Q1088457,en,rinceau,811,#RelatedMatch,,,,,,,
+Q1088457,it,racemo,811,NoMatch,,,,,,,
+Q1089123,es,marco,429,NoMatch,,,,,,,
+Q1133563,es,cambiante,119,NoMatch,,,,,,,
+Q1172412,it,campo,477 519,NoMatch,,,,,,,
+Q1223884,fr,chaîne,387,NoMatch,,,,,,,
+Q1324102,es,contrapeso,495,NoMatch,,,,,,,
+Q1392130,fr,drapeau,719,NoMatch,,,,,,,
+Q1392130,en,flag,719,NoMatch,,,,,,,
+Q1401905,fr,titre,483,NoMatch,,,,,,,
+Q1401905,it,titolo,166,NoMatch,,,,,,,
+Q1416144,fr,drapeau,719,NoMatch,,,,,,,
+Q1420806,en,reel,263,NoMatch,,,,,,,
+Q1420806,es,carrete,831,NoMatch,,,,,,,
+Q1469779,en,rose,785,#CloseMatch,,,,,,,
+Q1469779,it,rosa,785,#CloseMatch,,,,,,,
+Q1469779,fr,rose,785,#CloseMatch,,,,,,,
+Q1476062,en,pall,713,#ExactMatch,,,,,,,
+Q1476582,fr,voile de calice,713,#ExactMatch,,,,,,,
+Q1476582,en,chalice veil,713,#ExactMatch,,,,,,,
+Q1520324,en,serge,43 238,NoMatch,,,,,,,
+Q1570567,en,half silk,340,NoMatch,,,,,,,
+Q1640811,en,fibre,209,NoMatch,,,,,,,
+Q1640811,it,fibra,209,NoMatch,,,,,,,
+Q1697305,en,motif,742,NoMatch,,,,,,,
+Q1697305,it,motivo,742,NoMatch,,,,,,,
+Q1704480,fr,ornement,18 861,NoMatch,,,,,,,
+Q1752512,fr,moire,347 662,NoMatch,,,,,,,
+Q1784238,en,basket,787,#CloseMatch,,,,,,,
+Q1784238,fr,panier,787,NoMatch,,,,,,,
+Q1788780,es,palio,726,NoMatch,,,,,,,
+Q1943467,en,selvage,357,#ExactMatch,,,,,,,
+Q1943467,es,orillo,357,#ExactMatch,,,,,,,
+Q1943467,fr,lisière,357,NoMatch,,,,,,,
+Q2001588,en,palm,763,NoMatch,,,,,,,
+Q2001588,es,palma,763,NoMatch,,,,,,,
+Q2010254,fr,tétramorphe,798,#RelatedMatch,,,,,,,
+Q2010254,en,tetramorph,798,#RelatedMatch,,,,,,,
+Q2046167,it,maglione,428,#CloseMatch,,,,,,,
+Q2083958,en,pattern,860,NoMatch,,,,,,,
+Q2083958,fr,motif,742,NoMatch,,,,,,,
+Q2138208,en,crown,755,NoMatch,,,,,,,
+Q2164217,en,ground,223,NoMatch,,,,,,,
+Q2164576,it,cornice,783,NoMatch,,,,,,,
+Q2269650,fr,lampas,305,#ExactMatch,,,,,,,
+Q2269650,es,lampás,305,#ExactMatch,,,,,,,
+Q2269650,en,lampas,305,#ExactMatch,,,,,,,
+Q2269650,it,lampasso,305,#ExactMatch,,,,,,,
+Q2426218,en,modernism,673,NoMatch,,,,,,,
+Q2490224,es,indumentaria religiosa,701,NoMatch,,,,,,,
+Q2541324,it,pizzo,180 791,NoMatch,,,,,,,
+Q2891667,fr,battant,72,NoMatch,,,,,,,
+Q2940174,en,edge,775,NoMatch,,,,,,,
+Q2981904,fr,bobine,263 831,NoMatch,,,,,,,
+Q2996915,fr,ponceau,365,NoMatch,,,,,,,
+Q3038691,fr,dragon,774,#RelatedMatch,,,,,,,
+Q3053322,es,disposición,799,#RelatedMatch,,,,,,,
+Q3053322,en,disposition,799,#RelatedMatch,,,,,,,
+Q3063290,fr,pallium,726,NoMatch,,,,,,,
+Q3063290,it,pallio,726,NoMatch,,,,,,,
+Q3064117,en,face,27,NoMatch,,,,,,,
+Q3064489,fr,faille,201,NoMatch,,,,,,,
+Q3297804,en,edge,775,NoMatch,,,,,,,
+Q3301501,en,filé,184,NoMatch,,,,,,,
+Q3304024,en,shoot,436,NoMatch,,,,,,,
+Q3503480,en,face,27,NoMatch,,,,,,,
+Q3564710,es,arabesco,766,NoMatch,,,,,,,
+Q3625549,fr,montage,431,NoMatch,,,,,,,
+Q3640877,it,blasone,789,NoMatch,,,,,,,
+Q3654600,it,campo,477 519,NoMatch,,,,,,,
+Q3846914,it,margherita,886,NoMatch,,,,,,,
+Q3846914,en,daisy,886,NoMatch,,,,,,,
+Q3846914,fr,marguerite,786,#CloseMatch,,,,,,,
+Q3846914,es,margarita,886,NoMatch,,,,,,,
+Q3935249,it,riduzione,166,NoMatch,,,,,,,
+P41,it,bandiera,719,NoMatch,,,,,,,
+Q4248527,fr,bouillon,129,NoMatch,,,,,,,
+Q4887700,en,bengaline,70,#ExactMatch,,,,,,,
+Q4887700,fr,bengaline,70,NoMatch,,,,,,,
+Q5078274,en,sketch,861,NoMatch,,,,,,,
+Q5078274,fr,esquisse,861,NoMatch,,,,,,,
+Q5078274,es,boceto,861,NoMatch,,,,,,,
+Q5164415,en,construction,410,NoMatch,,,,,,,
+Q5170147,en,core,29,NoMatch,,,,,,,
+Q5189865,it,crudo,164,NoMatch,,,,,,,
+Q5299641,en,double,420,NoMatch,,,,,,,
+Q5299642,en,double,420,NoMatch,,,,,,,
+Q5415826,en,evangelist,889,NoMatch,,,,,,,
+Q5861518,es,fibra artificial,35,#RelatedMatch,,,,,,,
+Q6150593,fr,dentelle à l'aiguille,181,#CloseMatch,,,,,,,
+Q6523033,fr,gaze anglaise,234,NoMatch,,,,,,,
+Q7798503,en,throw,348,NoMatch,,,,,,,
+Q8563541,en,flag,719,NoMatch,,,,,,,
+Q8563541,fr,drapeau,719,NoMatch,,,,,,,
+Q8737769,it,portata,503,NoMatch,,,,,,,
+Q12030216,en,cord,623,NoMatch,,,,,,,
+Q12060020,fr,serge,367,#ExactMatch,,,,,,,
+Q12060020,en,twill,238 367,NoMatch,,,,,,,
+Q12060020,it,batavia,62 641,NoMatch,,,,,,,
+Q15736718,es,haz,27,NoMatch,,,,,,,
+Q17325659,es,peso,495,NoMatch,,,,,,,
+Q19801288,fr,harnais,41,NoMatch,,,,,,,
+Q19801288,en,harness,41 414,NoMatch,,,,,,,
+Q20026824,fr,fibre végétale,214,#ExactMatch,,,,,,,
+Q20026824,es,fibra vegetal,214,#ExactMatch,,,,,,,
+Q20026824,it,fibra vegetale,214,NoMatch,,,,,,,
+P2225,it,portata,503,NoMatch,,,,,,,
+Q21551050,en,tiraz,380,NoMatch,,,,,,,
+Q21560004,it,calice,790,NoMatch,,,,,,,
+Q21560004,en,chalice,790,NoMatch,,,,,,,
+Q23692101,es,corona,755,NoMatch,,,,,,,
+Q24082844,it,bolla,84,NoMatch,,,,,,,
+Q26225677,fr,montage,431,NoMatch,,,,,,,
+Q28484848,en,face,27,NoMatch,,,,,,,
+Q28517923,es,águila,771,NoMatch,,,,,,,
+Q28839480,en,girdle,139,NoMatch,,,,,,,
+Q29163818,fr,ange,773,NoMatch,,,,,,,
+Q29211896,fr,ciboire,782,NoMatch,,,,,,,
+Q29211948,fr,calice,790,NoMatch,,,,,,,
+Q29211981,fr,calice,790,NoMatch,,,,,,,
+Q29211984,fr,calice,790,NoMatch,,,,,,,
+Q29230702,fr,dragon,774,NoMatch,,,,,,,
+Q29260724,fr,chrisme,792,NoMatch,,,,,,,
+Q29335541,en,floral pattern,743,#ExactMatch,,,,,,,
+Q29335541,es,motivos florales,743,#ExactMatch,,,,,,,
+Q29335541,fr,motif floral,743,#ExactMatch,,,,,,,
+Q29335541,it,motivo floreale,743,#ExactMatch,,,,,,,
+Q29711921,en,cocoon,132,NoMatch,,,,,,,
+Q29714599,en,veil,710,NoMatch,,,,,,,
+Q29714933,en,angel,773,NoMatch,,,,,,,
+Q29726000,en,ox,825,NoMatch,,,,,,,
+Q29732338,en,rug,28 28,NoMatch,,,,,,,
+Q29788165,it,grottesco,809,NoMatch,,,,,,,
+Q29788165,en,grotesque,809,NoMatch,,,,,,,
+Q33133547,en,sendal,138,NoMatch,,,,,,,
+Q33133547,fr,cendal,138,NoMatch,,,,,,,
+Q44740228,en,wall hanging,739,#ExactMatch,,,,,,,
+Q44740228,it,tappezzeria,629,NoMatch,,,,,,,
+Q47526964,en,leaf,750,NoMatch,,,,,,,
+Q50414774,es,armadura,318,NoMatch,,,,,,,
+Q50414774,it,armatura,318,NoMatch,,,,,,,
+Q52159630,fr,chevron,189,#ExactMatch,,,,,,,
+Q52159630,it,spina di pesce,189,#ExactMatch,,,,,,,
+Q52799055,es,efecto de trama,837,NoMatch,,,,,,,
+Q52799055,fr,lancé,178 310,NoMatch,,,,,,,
+Q55238861,es,cinta,147 757,NoMatch,,,,,,,
+Q55238861,fr,ruban,147 756,NoMatch,,,,,,,
+Q55343967,es,lanzadera,311,NoMatch,,,,,,,
+Q55343967,it,navetta,311,NoMatch,,,,,,,
+Q55740979,it,cerro,217,NoMatch,,,,,,,
+Q55740991,it,cerro,217,NoMatch,,,,,,,
+Q55741486,it,cerro,217,NoMatch,,,,,,,
+Q55741936,it,cerro,217,NoMatch,,,,,,,
+Q55742201,it,cerro,217,NoMatch,,,,,,,
+Q55742249,it,cerro,217,NoMatch,,,,,,,
+Q55742929,it,cerro,217,NoMatch,,,,,,,
+Q59260362,it,capo,485,NoMatch,,,,,,,
+Q59526980,fr,ange,773,NoMatch,,,,,,,
+Q63978866,fr,flotte,426,NoMatch,,,,,,,
+Q63987029,es,cutí,152,#CloseMatch,,,,,,,
+Q64313869,en,lion,767,#ExactMatch,,,,,,,
+Q64313869,es,león,767,#ExactMatch,,,,,,,
+Q64313869,fr,lion,767,#ExactMatch,,,,,,,
+Q64313869,it,leone,767,#ExactMatch,,,,,,,
+Q64692233,en,ground,223,#CloseMatch,,,,,,,
+Q64692233,es,fondo,223,#CloseMatch,,,,,,,
+Q64692233,it,fondo,223,#CloseMatch,,,,,,,
+Q66036822,en,plied yarn,501,#CloseMatch,,,,,,,
+Q66036822,es,hilo retorcido,501,NoMatch,,,,,,,
+Q67189827,fr,ciboire,782,NoMatch,,,,,,,
+Q90229198,fr,calice,790,NoMatch,,,,,,,
+Q90574048,fr,calice,790,NoMatch,,,,,,,
+Q90574052,fr,calice,790,NoMatch,,,,,,,
+Q90574621,fr,calice,790,NoMatch,,,,,,,
+Q90578241,fr,calice,790,NoMatch,,,,,,,
+Q90578491,fr,ciboire,782,NoMatch,,,,,,,
+Q90805137,fr,ciboire,782,NoMatch,,,,,,,
+Q90805169,fr,ciboire,782,NoMatch,,,,,,,
+Q91132898,en,uncut velvet,463,#ExactMatch,,,,,,,
+Q91132898,fr,velours frisé,463,NoMatch,,,,,,,
+Q91623875,en,blackberry,781,NoMatch,,,,,,,
