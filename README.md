@@ -22,7 +22,7 @@ Parameters (to be introduced with a `--`):
 
 Example:
 
-    npm run convert -- -v 2.9
+    npm run convert -- -v 2.92
 
 ### Skosify
 
